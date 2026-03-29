@@ -1,0 +1,163 @@
+{
+  "id": "2025-dec-int-c",
+  "fileName": "2025 Dec Int-C @EliteXSAT.pdf",
+  "year": 2025,
+  "month": "Dec",
+  "version": "Int-C",
+  "type": "International",
+  "sections": [
+    {
+      "id": "s1",
+      "number": 1,
+      "name": "Reading and Writing",
+      "modules": [
+        {
+          "id": "s1-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 1920,
+          "questions": [
+            {
+              "id": "s1-m1-q1",
+              "number": 1,
+              "prompt": "The following text is from Mark Twain's 1876 novel The\nMarx for Review\nAs used in the text, what does the word \"surveyed\" most nearly\nAdventures of Tom Sawyer. Tom, a child, has been told by his\nmean?\naunt to paint their house's fence.\nTom appeared on the sidewalk with a bucket of whitewash\nand a long-handled brush. He surveyed the fence, and all\ngladness left him and a deep melancholy settled down upon\nhis spirit. Thirty yards of boara fence nine feet high.\nA\nGuaranteed\nB)\nModified\nC\nExamined\nD\nOrganizea\nZygomorphic (bilaterally symmetric) flowers remain open and\nWhich choice completes the text with the most iogical and\nfunctional on average 1.1 days longer than actinomorphic\nprecise word or phrase?\n(radially symmetric) flowers do. Ruby E. Stephens and\ncolleagues claim that this extended period could be_\nthe relatively small pool of potential pollinators available to\nzygomorphic flowers and the greater chance at successful\nA\nattributed to\nB)\nconverted by\npollination that remaining open affords them.\naralogous to\n(D\nmagnifiea ov\nC\nThe influence of William Shakespeare's writings is clear in a\nWhich choice completes the text with the most logical and\nvast range of subsequent literary works and is similariy\nprecise word or phrase?\nin many works in other media, from fine art (such as Edward\nA\nAlcock's painting Portia and Shylock) to popular music (such\nas the band the Lumineers' song\n\"Ophelia\").\nexcessive\nB) unusual\nG\napparent\nD\nsubtle\nMastering 'ajami, a Syrian art of creating intricately painted\nwood panels, demands a skill set that\nWhich choice completes the text with the most logical and\nprecise word or phrase?\ninnate talent:\ncrafting the panels requires not just the ability to draw but\nalso an understanding of traditional techniques, materials, and\ndesign elements, necessitating expertise gained through\ndedicated guidance from experienced artisans.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "replicates"
+                },
+                {
+                  "letter": "B",
+                  "text": "character zes"
+                },
+                {
+                  "letter": "C",
+                  "text": "transcends"
+                },
+                {
+                  "letter": "D",
+                  "text": "restrains"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "medium",
+              "flagReason": "Parsed from Bluebook screenshot via OCR",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q2",
+              "number": 2,
+              "prompt": "restrains\nPhillip Hayes Dean's award-winning play The Sty of the Blind\nWhich choice best describes the function of the underlined\nsentence in the text as a whole?\nPig was produced in 1971 by the groundbreaking Negro\nEnsemble Company (NEC). NEC cofounder Douglas Turner\nA\nWard, who worked as an actor, director, and playwright, had\nIt provides anditional information about a person mentioned in the\ntext\nmet actor and producer Robert Hooks while they were\nperforming in a 1960 touring production of Lorraine\n(B\nHansberry's play A Raisin in the Sun. Together, they\nenvisioned a theater company that would nurture and\nshowcase the work of Black theater professionals.\nC\nhave given Black playwrights, including Dean, a forum for\ntheir compelling stories.\nn the text.\nIt emphasizes the ongoing significance of the theater company\ndiscussed in the text.\nSince\nNEC's founding in 1967, its workshops and performances\nI explains the circumstances tnat led to the formation of the\ntheater company discussed\nD\nIt illustrates the widespread infiuence of a play discussed earlier in\nthe text\nThe following text is from Rachel Heng's 2023 novel The\nTaken together, the three underlined portions most clearly serve\nGreat Reclamation. Ah Boon is fishing off the coast of\nwhich function in the text as a whole?\nSingapore.\nA\nWhen he pulled up the nets, they contained only one kind of\nThev illustrate the changeable nature of the fish.ng grounds where\nAn Boon is.\nfish-black pomfrets, tne flat diamonds of their bodies slick\nin the morning light. This uniformity did not surprise him;\nover the years,\nB)\nthat aren't usually tound in the region.\nhe'd learned that the waters here were\ntemperamental. They could be relied upon for a good catch,\nC\nbut from time to time threw up only prawns or squid, and\nother times colorful varieties of fish that weren't even\nsupposed to be found in this region. He'd grown to accept\nthe unpredictability, embracing it as a game to be played,\nlike the reading of tea leaves or the grooves of a palm.\nThey underscore Ah Boon s lack of surprise at seeing sea creatures\nD\nThev provide examples of wha: Ah Beon mos: frequently catches in\nthe area\nThey empnas'ze the wide variety of sea creatures that Ah Boon has\ncaught on this oarticular fishing trip.\nWhen a landscape with native megafaunal (large-bodied)\nWhich choice best states the function of the underlined portion in\nthe text as a whole?\nmammalian herbivores experiences a substantial decline in\nthose populations, it loses a functional component of plant",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "ecology. Introducing non-native proxy species has been It outiines the reasoning behind the claim about a benefit that is presented in the previol:s sentence. beneficial in some such cases, but the reasonable concern persists that ecosystems may be negatively affected by"
+                },
+                {
+                  "letter": "B",
+                  "text": "species that didn't coevolve with local vegetation. Scholarly. analysis of findings from 221 studies revealed no evidence"
+                },
+                {
+                  "letter": "C",
+                  "text": "that nativeness mediates the ecological effects of megafauna, however, determining instead that other traits, such as diet selectivity, are more germane. It presents an insight suggesting that a concem acknowedged as sensible eariier in the text is unsubstantiated."
+                },
+                {
+                  "letter": "D",
+                  "text": "It explains why data do net show the oxpoctod pattern described at"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "medium",
+              "flagReason": "Parsed from Bluebook screenshot via OCR",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q3",
+              "number": 3,
+              "prompt": "It explains why data do net show the oxpoctod pattern described at\nthe beginning of the text.\nIt identiftes an inconclusive finding that motivated a shift in the\nfocus of an analysis discussed in the text.\nGiven the immense scope of space, the search for\nMark fer Review\nBased on the text, what do Stern and Gerya most likely believe\nabout the development of complex life on exoplanets?\nextraterrestrial life is almost necessarily concentrated on the\nexoplanets deemed to have the most plausible chance of\n(A\nsuccess--typically, atmosphere-bearing terrestrial planets\n(B)\ntransition from single-lid to plate tectonics that accelerated\nit is probably more dependent on the presence of plate tectonics\nthan on orbital distance fron a host star or the presence of an\natmosphere.\nthe emergence and evolution of complex organisms,\nresearchers Robert J. Stern and Taras V. Gerya hold that\nspecies.\natmospheres\nif they transition early in their history.\nhabitable zone). Claiming that Earth experienced a long\nhelp further narrow the search for advanced extraterrestrial\nmore likely to occur if habitable zone planets with\ntransition from single-lid to plate tectonics late in their history than\norbiting within a certain range of their stars (termed the\nconsideration of tectonics, an often overlooked factor, could\nit is\nC\nit is more likely to occur on habitable zone planets with\natmespheres and olate tectonics than on otherwise similar planets\nthat lack plate tectonics.\n(D\nit is unlikely unless the transition from single-lid to plate tectonics\noccurs before the acquisition of a lasting atmosphere.\nQuality assessments of concrete typically focus almost\nInformation in the text best supports which statement about\nPtacek et al.'s findings?\nexclusively on compressive strength as a measure of\ndurability, overlooking other potentially relevant factors. Lisa\nA\nPtacek et al. therefore investigated the potential of gas\nThey suggest that gas permeability testing oresents a more reliable\nindication of concrete durability than compressive strength testing\ndoes.\npermeability (vulnerability to incursion by gases), which is\ncaused in part by excessive porosity, as a durability indicator.\nB\nTheir measurements and observations revealed that quality of\nTney bolster the claim that concrete's susceptibility to gamage\ndecreases as its gas permeability increases.\nconditions during the concrete curing phase negatively\ncorrelates with gas permeability and that high gas\n(c)\npermeability values are associated with increased\ncompressive strength.\ndeterioration as concrete surfaces age.\nTney call into question the idea that quality of curing conditions\ndirectly affects concrete gas permeability but is unrelated to\nD\nTrey indicate that evaluation of gas permeability is an appropriate\naddition to concrete quality assessment procedures.\nhe wondenu vvizara OT UZ IS a 1900 HoveT Dy L. Prапк\nBaum. In the novel, Dorothy, who is from Kansas, finds\nherself in an unfamiliar place called Oz. Kansas is presented\nas\nWhich quotation from The Wonderful Wizard of Oz most\neffectively illustrates the claim?\n(A)\nbeing less appealing than Oz, as is clear when _\nthe narrator states, \"Once more they could see fences built beside\nthe road; but these were painted green, and when they came to a\nsmall house, in which a farmer evidently lived, thar also was painted\ngreen.\"\nВ\na\ncharacter says to others, \"But it will take more than imagination\nto carry Dorothy back to Kansas, and I'm sure I don': know how it\ncan be done.\"\nC\nthe narrator states. \"When Doretny stood in the doorway and\nlooked around, she could see nothing but tne great gray prairie on\nevery side.\"\nD\na character says to Dorotiny, \"I cannot understand\nwhy you should\nwish to leave this beautiful country and go back to the dry, gray\nplace you call Kansas.\"\nAverage Hours Worked per Person per Year in 1950 and\nWhich choice most effectively uses data from the table to\ncomplete the student's conclusion?\n2017\nChange in\nPercent change in\nCountry 1950 2017\nhours\nhours\n2,129 1,417\n-712\n-33%\nAustralia 2,178 1,731\n-447\n-21%\nNorway\nColombia2,3231,998\n-325\n-14%\nMexico\n-177\n-7%\n2,4322,255\nCalculations may be inexact due to rounding.\nA\n(B)\nvarious nations due to both increased productivity and the\nadoption of policies that limit working hours. The student\nthough the decline in aumper of hours worked in Australia was less\nthan that in Norway and Mexico, it was greater than tnat in\nColombia.\nwhile the number of hours worked rose in Australia oetween 1950\nand 2017, it declined in Norway, Colombia, and Mexico\nsince 1950 in average hours worked per person per year in\nthe percent decrease in hours worked was greater in Australia than\nit was in Norway, Colombia, or Mexico.\nc\nA student in an economics course is examining the decline\nD\nthough the deeline in number of hours workes in Australia was not\nas great as\nMexico.\nthat in Norway, it was greater than that in Colombia and\nMinimum and Maximum Depths of Stony Coral Species in\nSpecies\nAcropora awi\nLocation\nIndo-\nPacific\nMaximum\ndepth (meters) depth (meters)\nIndophyllia\nIndo-\nmacassarensis\nPacific\nIsophyllia rigida\nCaribbean\nScolymia cubensis Caribbean\nWhich choice most effectively uses data from the table to\ncomplete the statement?\nCaribbean and Indo-Pacific Waters\nMinimum\nA marine biologist is researching four stony coral species in\nCaribbean and Indo-Pacific waters, focusing on sightings of\nthese species in the shallow zone (less than 30 meters below\nIndo-Pacific waters in the mesophotic zone\nB)\nCaribbean waters in the shallow zone\nCaribbean waters in the mesophotic zone.\nD\n(A)\nIndo-Pacihc waters in the shallow zone.\n加试题,不用看\nWhich finding, if true, would most directly support Núñez and\ncolleagues' claim?\nRafael Núñez and colleagues studied how members of the\nYupno, an Indigenous group in Papua New Guinea,\n(A)\nconceptualize time in both spoken language and gestures.\nYupno speakers typically use their lef: hand to make temporal\ngestures regardless of whetner the gestures are oast oriented or\nfuture oriented.\nThe researchers recorded Yupno speakers explaining certain\ntemporal words and phrases, such as kalip bishap, a past-\nB\noriented expression that translates to \"past times,\" and\nSome Yupno grammatical structures used when taiking about time\nare also used\nin Spanish.\ncoded each speaker's manual gestures. Previous research\nFuture-oriented gestures used by Yupno speakers do not, on\nhas found a tendency in many cultures to make temporal\naverage, point in the opposite linear cirection of past-oriented\ndistinctions along imagined linear axes: for instance, Spanish\nspeakers often refer to the left/right axis to describe events\nin time. Some researchers believe this tendency is universal,\nbut Núñez and colleagues claim this is not the case.\ngestures.\nD\nYupno speakers were observed making temporal gestures both\nindoors and outdoors, though with greater frequency when indoors.\nThe 1980 production of A Lesson from Aloes was the first\nWhich quotation from the costume designer for the modern\nproduction of Our Town would most effectively support the\nstudent's claim?\nBroadway show for which Susan Hilferty was credited as a\ncostume designer. Hilferty was among the Broadway\ncostume designers interviewed by Sara Jablon-Roberts and\nA\n\"In trying to create the period look of Our Town, I had to make\nEulanda A. Sanders for their study of historical accuracy in\nsome practical\ncompromises, such as substituting cooler modern\ncostume design. They argue that aesthetics often outweigh\nfabrics for historically accurate woolens so that the actors didn't\noverheat.\"”\nfidelity to the past among designers for shows with historical\n\"For Our Town, I decided not to include the extra fabric that would\nsettings. In a paper for a theater class, a student claims that\nB\nthe costume design for a modern production of the musical\ncostumes unappealingly bulky.\"\nOur Town (set\nin the early\nhave been typical of clothing in the period because it made the\n1900s) exemplifies this tendency.\n\"The clothing of the period of Our Town is aesthetically appealing\nbut largely unfamiliar to today's audiences, so minor deviations\nfrom historical accuracy\nlargely went unnoticed.\nStudies have shown that when we listen to high-tempo music\nWhich choice most logically completes the text?\n(songs with a high number of beats per minute, or bpm)\nduring endurance exercise, we perceive our effort as lower\n(A\nthan it actually is, which leads to an increased pace and a\nhigher heart rate. Researchers recently designed a follow-up\nB\nstudy in which participants jogged outdoors for 30 minutes\nwhile listening to Aerosmith's \"Livin' on the Edge\" (169 bpm)\nc\nactivity while listening to Ella Fitzgerald's \"From This Moment\nparticipannts\n_\nperceiving their effort as lower while jogging than they had the\nprevious day.\nvarying their jogging pace more than they had the previous day.\nexhibiting a higher average heart rate while jogging than they had\nthe previous day.\ncontinuously. The next day, participants performed the same\nD\nOn\" (93 bpm). As expected, listening to that song resulted in\njogging a shorter distance in the 30 minutes than they had the\nprevious day.\nCycads are palmiike piants with cones.\nplants were\nWhich choice completes the text so that it conforms to the\nconventions of Standard English?\nabundant throughout the Mesozoic Era (66 to 252 million\nyears ago).\nA\nThis\nB\nEach\nc\nThat\nD\nThese\nThe theory of plate tectonics explains' how large pieces of\nWhich choice completes the text so that it conforms to the\nconventions of Standard English?\nEarth's crust, called tectonic plates, move and interact.\nAccording to the theory, the movement of tectonic plates\nforms\nAmountains.\ncreates volcanoes, and causes earthquakes.\nB)\nmountains\nmountais,\nทงนกล.\nWhile conducting an interview for her book Latina Authors\nWhich choice completes the text so that it conforms to the\nconventions of Standard English?\nand Their Muses, editor Mayra Calvani asked Reyna Grande,\nauthor of the nove! The Distance Between Us, what\nGrande's response was The House on Mango Street by\nSandra Cisneros.\n(A)\nher faverite book was?\nB\nwas her favorite book?\n(c\nwas her\nD\nfavorite book!\nher favorite book was.\nMany folktales that originate in the Hindi language start with\na\nWhich choice completes the text so that it conforms to the\nphrase that roughly translates to \"in one era.\" Many tales\nconventions of Standard English?\nthat originate in English use \"once upon a time.\" Such\nphrases, known as story starters,\n(A) has varied\nfrom language to\nlanguage.\nB\nis varving\nC\nvaries\nD\nvary\nIn the book A Theory of Harmony (1985), Swiss musicologist\nWhich choice completes the text so that it conforms to the\nErnst Levy argued that every chord has an opposite that can\nconventions of Standard English?\nbe substituted for it. For example, a pianist could replace the\nbvii6 chord for the I17 chord while\nchord is a given\nchord's opposite can be determined using a music\nvisualization tool called the circle of ifths.\n(A\nimprovising, which\nB\nimprovising which\nimprovising and which\nD\nimprovising. Which\nOn a chilly spring morning in a Virginia park, as sunlight\nWhich choice completes the text with the 'most logical transition?\ncrested the treetops, Kathrin Swoboda raised her Nikon D500\ncamera\nand captured an image that would win the Grand\n(A\nTnerafore,\nB\nFor example.\nC\nFurthermore,\nD\nOf course,\nPrize in the 2019 Audubon Photography Awards: a red-winged\nblackbird, exhaling what appeared to be rings of smoke.\n_\nthe \"smoke\" was actually the blackbird's breath hitting\nthe cold morning air as the bird sang.\nVanadium is one of a variety of potentially useful trace\nWhich choice completes the text with the most logical transition?\nelements contained in the chemical--rich brine that remains\nafter seawater is purified through desalination. However,",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "To date."
+                },
+                {
+                  "letter": "B",
+                  "text": "In doing so,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Finaliy,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Similarly."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "medium",
+              "flagReason": "Parsed from Bluebook screenshot via OCR",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q4",
+              "number": 4,
+              "prompt": "Similarly.\nroutine extraction of vanadium and other such elements from\nbrine is not yet technologically or economically feasible.\n_\nmost trace elements have only been extracted from\nseawater on an\nexperimental basis.\nElite Π\ntopic, student has taken the following\nWhile researehing\na\na\nThe student wants to define the term \"synthesis reaction.\" Which\nchoice most effectively uses relevant information from the notes\nnotes:\nto accomplish this goal?\nA synthesis reaction is a type of chemical reaction.\nIn a synthesis reaction, two or more substances combine to\nA\nA synthesis reactien is a chemical reaction in wnich two or more\nB\nA new substance Is formed when a chemical reaction combines\nform a new substance.\nWhen sodium and chloride combine, they form a substance\ncalled sodium chloride.\nsubstances combine to form a new substance.\nsod.um and chloride.\nThis substance is more commonly known as table salt.\nc\nThe substance sodium chloride, also known as table salt, is fonred\nby a chemical reaction\nD) When sodium and chloride combine, they fom a substance\ncommonly known as table salt.\n加试题,不用看\nThe student wants to use a quotation to refute the claim that\nWhile researching a topic, a student has taken the following\nslow TV programs are boring. Which choice most effectively uses\nrelevant information from the notes to accomplish this goal?\nnotes:\nDocumentary TV programs in the slow TV genre consist of",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "With broadcasts of ordinary events, like artists at work, occurring in real time, slow TV just might be uninterrupted broadcasts of ordinary events in real time. the world's most boring television.\" MORA: Zeichner is a German slow TV program. The 45-minute-long program documented an artist making a"
+                },
+                {
+                  "letter": "B",
+                  "text": "pencil drawing during a train journey. artists at work in real time. It first aired in 2016. Slow TV has been called \"the world's most boring television.\" American journalist Nathan Heller praises it, writing that \"it affords a visceral kind of armchair tourism.\""
+                },
+                {
+                  "letter": "C",
+                  "text": "Far from boring, slow TV programs can provide a \"visceral kind of armchair tourism,\" as Heller puts it, whereby viewers can watch MORA. Zeichner can afford a \"visceral kind of armchair tourism, as Heller puts it."
+                },
+                {
+                  "letter": "D",
+                  "text": "While some have praised slow TV for affording \"a visceral kind of"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "medium",
+              "flagReason": "Parsed from Bluebook screenshot via OCR",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q5",
+              "number": 5,
+              "prompt": "While some have praised slow TV for affording \"a visceral kind of\narmchair tourism,\" others have called it \"the world's most boring\nWhile researching a topic, a student has taken the following\nThe student wants to emphasize a difference between Ephydra\nnotes:\nThe Great Salt Lake in Utah is one of the world's saltiest\ncinerea and Nodularia. Which choice most effectively uses\nrelevant information from the notes to accomplish this goal?\nbodies of water.\nA\nEphydra cinerea and Nodulsria both live in the Great Salt Lake's\nsouthern portion.\nThe northern portion of the lake has a higher concentration of\nsalt than the southern portion.\nB\nAquatic insects called Ephydra cinerea live in the southern\nThe northern portion of the Great Salt Lake has a higher\nconcentration of salt than does the southern portion.\nportion.\nEphydra cinerea are aquatic insects that live in the southem porcion\nBacteria called Nodularia live in the southern portion.\nof the Great Salt Lake.\nD\nEphydra cinerea and Nodularia are different types of organisms:\nEphydra cınerea are aquatic insects, whereas Nodularia are\nbacteria.\nWhile researching a topic, a student has taken the following\nThe student wants to emphasize a similarity between the\nastronauts Ross and Rubio. Which choice most effectively uses\nnotes:\nrelevant information from the notes to accomplish tnis goal?\nExtravehicular activities (EVAs) are activities performec\noutside a spacecraft by astronauts in outer space.\n(A)\nRoss has performed spacewaiks, but Rubio nas performed EVAS\nB\nRoss and Rubio have each performed multiple spacewalks.\nC\nRubio has spont less timo performing soacewaiks than Ross has.\nEVAs are also known as spacewalks.\nJerry Ross is a former US astronaut who has performed 9\nspacewalks.\nThe total time of Ross's spacewalks was 58 hours and 32\nminutes.\nspacewalks.\nThe total time of Rubio's spacewalks was 21 hours and 24\nminutes.\nD\nFrancisco Rubio is a US astronaut who has performed 3\nEVAs, aiso known as spacewalks, are activities done by astronauts\noutside a spacecraft\nWhile researching a topic, a student has taken the following\nMark fer Review\nThe student wants to provide an example of an epistolary novel.\nWhich choice most effectively uses relevant information from the\nnotes:\nnotes to accomplish this goal?\nLetters from a Peruvian Woman (1747) is an epistolary novel\nby French author Françoise de Graffigny.\nA\nAn epistolary novel is a novel written primarily as a series of\nfictional documents, such as letters, joumal entries, or newspaper\nEpistolary novels are novels written primarily as a series of\nclippings.\nfictional documents.\nThese documents can be letters, journal entries, newspaper\n(В\nIt was Françoise de Graffigny wno pubiished the novel Letters from\na Peruvian Woman in\nclippings, and more.\nLetters from a Peruvian Woman consists primarily of letters.\nThe letters are sent between a captured Incan princess and\nher fiance.\n(C\ni747.\nIn 1747, French author Françoise de Gratfigny published a novel of\nletters sent between a captured Incan princess and her fiance.\nD\nConsisting primarily of letters sent between a captured Incan\nprincess and her fiancé, Françoise ce Graffigny's Letters from a\nPeruvian Woman is an epistolary novel.\nHard\nAnalysis of preserved plants cataloged in the Consortium of\nWhich choice completes the text with the 'most logical and\nMidwest Herbaria indicates that rising temperatures correlate\nprecise word or phrase?\nwith earlier leaf production, but such specimens represent\nonly brief moments in plants' overall development.\nthis\nresearch with studies involving live plants would enable a\nfuller understanding of how these observed changes affect\nplant fitness.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Anticipating"
+                },
+                {
+                  "letter": "B",
+                  "text": "Foregrounding"
+                },
+                {
+                  "letter": "C",
+                  "text": "Complementing"
+                },
+                {
+                  "letter": "D",
+                  "text": "Categorizing"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "medium",
+              "flagReason": "Parsed from Bluebook screenshot via OCR",
+              "correctAnswer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 5,
+  "hasAnswerKey": true,
+  "parsedAt": "2026-03-28T23:30:00.000Z"
+}

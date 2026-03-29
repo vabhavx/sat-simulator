@@ -1,0 +1,2419 @@
+{
+  "id": "2025-dec-us-a",
+  "fileName": "2025 Dec US-A @EliteXSAT.pdf",
+  "year": 2025,
+  "month": "Dec",
+  "version": "US-A",
+  "type": "US",
+  "sections": [
+    {
+      "id": "s1",
+      "number": 1,
+      "name": "Reading and Writing",
+      "modules": [
+        {
+          "id": "s1-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 1920,
+          "questions": [
+            {
+              "id": "s1-m1-q1",
+              "number": 1,
+              "prompt": "Scholars of Mexican literature have focused their attention on writers of the fertile period\nfollowing the Mexican Revolution (which lasted from 1910-1920), such as Laura Esquivel.\nThese writers are often considered the leading figures of the Mexican literary canon, but\nnineteenth-century writers like Antonio Menendez de la Peña are just as_____ Mexican\nliterature. \nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "overlooked in"
+                },
+                {
+                  "letter": "B",
+                  "text": "polarizing in"
+                },
+                {
+                  "letter": "C",
+                  "text": "essential to"
+                },
+                {
+                  "letter": "D",
+                  "text": "knowledgeable about"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q2",
+              "number": 2,
+              "prompt": "Several scholars of children's literature recently ___ to discuss the work of Sharon Bell\nMathis, author of such lauded books as Ray Charles. Once together, they talked about her\nstyle, influences, and themes. \nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "stipulated"
+                },
+                {
+                  "letter": "B",
+                  "text": "сonvened"
+                },
+                {
+                  "letter": "C",
+                  "text": "cited"
+                },
+                {
+                  "letter": "D",
+                  "text": "ascribed"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q3",
+              "number": 3,
+              "prompt": "Whereas researchers long thought the Congo rainforest constrained the initial expansion\nof Bantu-speaking peoples (which today include the Kuria in Tanzania and the Shona in\nZimbabwe) across subequatorial Africa, recent studies indicate that early Bantu communities\nmanaged to____ the rainforest, a feat facilitated by drier conditions that opened up viable\ncorridors through the vegetation. \n\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "traverse"
+                },
+                {
+                  "letter": "B",
+                  "text": "decimate"
+                },
+                {
+                  "letter": "C",
+                  "text": "circumvent"
+                },
+                {
+                  "letter": "D",
+                  "text": "preserve"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q4",
+              "number": 4,
+              "prompt": "The extensive use of the costly pigment ultramarine in the paintings of Johannes\nVermeer-creator of masterpieces such as Woman with a Lute (ca. 1662-1663)-was\n\n\nlikely____ as much by the pigment's chemical durability as by its exclusiveness and vivid\nblue hue: relative to indigo and other blue pigments employed by Vermeer and his\ncontemporaries, ultramarine is less susceptibie to degradation.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "constrained"
+                },
+                {
+                  "letter": "B",
+                  "text": "motivated"
+                },
+                {
+                  "letter": "C",
+                  "text": "expedited"
+                },
+                {
+                  "letter": "D",
+                  "text": "preempted"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q5",
+              "number": 5,
+              "prompt": "It may seem that works of art are best experienced in person. However, in an online\ncollection from the Tokyo Fuji Art Museum Tokyo, Japan, people can zoom in on a\nhigh-quality image of the woodblock print Fine Breezy Day by Katsushika Hokusai. A student\nargues that viewers usually can't examine works of art in a museum as carefully as they can\nexamine works in online collections.\nWhich statement, if true, would most directly support the underlined argument?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Most museums have signs that provide basic information about the works of art on\ndisplay."
+                },
+                {
+                  "letter": "B",
+                  "text": "Many museums have started adding images of works from their collections to their\nwebsites."
+                },
+                {
+                  "letter": "C",
+                  "text": "Most museums don't allow visitors to get very close to the works of art on display."
+                },
+                {
+                  "letter": "D",
+                  "text": "Museums don't always put works by differentartists together in one room."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q6",
+              "number": 6,
+              "prompt": "Harold Newton's Yellow Day, a wetland landscape with palm trees and lush greenery set\nagainst the pastel yellows and pinks of the sky and water, is typical of paintings by the\nmid-twentieth-century landscape artists now known as the Florida Highwaymen. Even\nthough Florida was rapidly being developed at that time, tourists in particular held the idea\nthat its distinctive tropical and coastal environments represented a pristire natural world,\nuntouched by modernity. As with many Highwaymen paintings, the appeal of Yellow Day\nderived from its ability to capture this sentiment.\nWhich choice best states the main idea of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Although many paintings by the Florida Highwaymen have subjects in common, Yellow\nDay is now more highly regarded by critics than other Florida Highwaymen paintings are."
+                },
+                {
+                  "letter": "B",
+                  "text": "Although Yellow Day and other paintings by the Florida Highwaymen were originally\ncelebrated for their depictions of Florida's natural environments, art historians now question\nthese paintings' accuracy."
+                },
+                {
+                  "letter": "C",
+                  "text": "Tourists to Florida in the mid-twentieth century were more likely to admire the sentiments\nexpressed in Yellow Day and similar paintings than Florida residents were."
+                },
+                {
+                  "letter": "D",
+                  "text": "Yellow Day and other paintings by the Florida Highwaymen were notable for their ability to\nappeal to a popular conception about the state of Florida in the mid-twentieth century."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q7",
+              "number": 7,
+              "prompt": "Mushrooms, including Coprinellus micaceus and species from the genus Cantharellus, are\nknown to use the process of evapotranspiration to maintain internal temperatures below\nambient temperatures. This hypothermic behavior is enhanced by the many thin gills\n(lamellae) on the fungi's caps, with substantial surface area contributing to capacity for\nevaporation. Examining fungal thermoregulation mechanisms, Radames Cordéro et al.\ndetermined that molds and yeasts also engage in evaporative cooling to facilitate\nhypothermia and suggest that, lacking features analogous to lamellae, these unicellular fungi\naggregate into colonies to derive the benefit of greater surface area.\nWhich choice best states the main idea of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Although a certain thermoregulation process has been observed in colonies of unicellular\nfungi, it has yet to be observed at the individual organism level."
+                },
+                {
+                  "letter": "B",
+                  "text": "A recent analysis of specimens of Coprinellus micaceus and species from the genus\nCantharellus substantiated the findings of earlier studies of thermoregulation mechanisms in\nseveral types of fungi."
+                },
+                {
+                  "letter": "C",
+                  "text": "A study of a fungal thermoregulation mechanism determined that it is used more efficiently\nby molds and yeasts than by mushrooms and other multicellular fungi due to variances in\ncolony size."
+                },
+                {
+                  "letter": "D",
+                  "text": "Despite significant differences in their biological structures, mushrooms, molds, and\nyeasts have been observed to utilize the same thermoregulation process to achieve a\nparticular effect."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q8",
+              "number": 8,
+              "prompt": "Editor Jared Shurin's 2023 anthology The Big Book of Cyberpunk contains 108 stories, an\nenormous number. The anthology has a vast chronological scope, including both James\nTiptree Jr.'s \"The Girl Who Was Plugged In\" (1973) and Lavanya Lakshminarayan's \"Études\"\n(2020). In his introduction, Shurin defines cyberpunk as a subgenre of speculative fiction\nconcerning \"the influence of technology on the scale, the pace, or the pattern of human\naffairs\"; however, many critics have previously argued that cyberpunk is a literary movement\nthat is not just idea driven but that has distinctive aesthetic components as well.\nWhich choice best describes the function of the underlined portion in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It points out a characteristic that is shared by the work of Tiptree and Lakshminarayan."
+                },
+                {
+                  "letter": "B",
+                  "text": "It explains one of several points of disagreement that an editor of a cyberpunk anthology\nhas with a group of critics."
+                },
+                {
+                  "letter": "C",
+                  "text": "It explains why some critics think that a particular anthology of cyberpunk stories should\nnot be considered a definitive summary of its genre."
+                },
+                {
+                  "letter": "D",
+                  "text": "It suggests a way in which a particular editor's definition of cyberpunk may be considered\nincomplete."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q9",
+              "number": 9,
+              "prompt": "Baltimore, Maryland, has installed shoreline-hardening structures-mainly jetties—along\n71% of its shoreline to protect infrastructure from wave erosion and other hazards. To\nevaluate the responses of waterbirds at sites in the Chesapeake Bay on the US East Coast\nto shoreline hardening and other landscape alterations, Diann Prosser et al. surveyed\n\n\nwaterbird communities consisting of sixty-four species, including the tundra swan and the\ngreat blue heron. Utilizing the Index of Waterbird Community Integiity (IWCI), on which a low\nscore corresponds to low community integrity, the researchers concluded that shoreline\nhardening more negatively affects waterbirds than does land development for uses such as\nhousing or agriculture.\nWhich finding, if true, would most directly challenge the researchers' conclusion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Waterbird communities at Margothy, a site with a relatively low percentage of developed\nland and a relatively high percentage of hardened shoreline, had lower average IWCI scores\nthan did waterbird communities at Back River, a site with a higher percentage of developed\nland and a lower percentage of hardened shoreline."
+                },
+                {
+                  "letter": "B",
+                  "text": "Waterbird communities at Stony and Curtis, two sites with relatively high percentages of\ndeveloped land and hardened shoreline, had similar IWCI scores, whereas waterbird\ncommunities at Ware and Honga, two sites with relatively low percentages of developed land\nand hardened shoreline, had widely differing IWCI scores."
+                },
+                {
+                  "letter": "C",
+                  "text": "Waterbird communities at Mill, a site with a relatively low percentage of developed land\nand a relatively high percentage of hardened shoreline, had higher average IWCI scores\nthan did waterbird communities at Langford, a ste with a higher percentage of developed\nland and a lower percentage of hardened shoreline."
+                },
+                {
+                  "letter": "D",
+                  "text": "Waterbird communities at Old Road, a site with a relatively high percentage of developed\nland and hardened shoreline, had lower average IWCI scores than did waterbird\ncommunities at Onancock, a site with a relatively low percentage of developed land and\nhardened shoreline."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q10",
+              "number": 10,
+              "prompt": "Joseph A. Walker's award-winning play The River Niger was produced in 1972 by the\ngroundbreaking Negro Ensemble Company (NEC). NEC cofounder Robert Hooks, an actor,\nproducer, and activist, had met actor and playwright Douglas Turner Ward while they were\nperforming in a 1960 touring production of Lorraine Hansberry's play A Raisin in the Sun.\nTogether, they envisioned a theater company that would nurture and showcase the work of\nBlack theater professionals. Since NEC's founding in 1967, its workshops and performances\nhave given Black playwrights, including Walker, a forum for their compelling stories.\nWhich choice best describes the function of the underlined sentence in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It provides additional information about a person mentioned in the text."
+                },
+                {
+                  "letter": "B",
+                  "text": "It emphasizes the ongoing significance of the theater company discussed in the text."
+                },
+                {
+                  "letter": "C",
+                  "text": "It illustrates the widespread influence of a play discussed earlier in the text."
+                },
+                {
+                  "letter": "D",
+                  "text": "It explains the circumstances that led to the formation of the theater company discussed\nin the text."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q11",
+              "number": 11,
+              "prompt": "The Cygne is just one of approximately three million known historical shipwrecks spread\nthroughout the world's oceans, and their impact on sea life and underwater ecosystems is of\ngreat interest to researchers. Leila Hamdan and colleagues were particularly curious about\nthe effects of wooden shipwrecks on seafloor microbial communities. The researchers\nstudied two wooden shipwrecks in the Gulf of Mexico by placing pieces of pine and oak\nbetween zero and 200 meters away from each shipwreck to collect samples of three kinds of\n\n\nmicrobes: bacteria, archaea, and fungi. They found that across the three microbial\ncommunities, peak diversity and richness was observed on pine and oak samples placed\napproximately 125 meters from the shipwrecks.\nWhich choice best describes the overall structure of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It states the number of known shipwrecks, describes the historical significance of one of\nthose shipwrecks, and then comments on the various microbes found at the shipwreck site."
+                },
+                {
+                  "letter": "B",
+                  "text": "It notes a general scientific interest in shipwrecks' ecological effects, describes a specific\nstudy related to that interest, and then states one of the study's findings."
+                },
+                {
+                  "letter": "C",
+                  "text": "It introduces a study of microbial communities near shipwrecks that has received\nsignificant scholarly attention, summarizes the results of that study, and then describes a\nresearch team's reaction to the study."
+                },
+                {
+                  "letter": "D",
+                  "text": "It names a famous historical shipwreck, describes the type of wood used to build that\nship, and then explains how that wood type influences underwater microbial communities."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q12",
+              "number": 12,
+              "prompt": "The fecal-steroidal profile of pronghorn is clearly distinct from those of other ungulates.\nBy contrast, bison dung cannot be distinguished from elk dung based solely on their\nfecal-steroidal profiles, as both contain similar levels of beta-sitosterol and cholestanone,\namong other sterols. The relative levels of fecal zoostanols (steroids with animal origins),\nsuch as coprostanol and epi-coprostanol, in layers of lake bed sediments at Buffalo Ford\nLake in Yellowstone National Park show that bison, elk, or both have been the dominant\nungulate species in the lake's watershed for at least the last 2,000 years.\nWhich choice best describes the function of the underlined portion in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It offers context that helps account for the finding that the dominant ungulate species in\nthe Buffalo Ford Lake watershed have been largely unchanged for at least 2,000 years."
+                },
+                {
+                  "letter": "B",
+                  "text": "It presents an observation that supports an argument about why the dominant ungulate\nspecies in the Buffalo Ford Lake watershed shifted over the course of the last 2,000 years."
+                },
+                {
+                  "letter": "C",
+                  "text": "It describes an assumption about two types of ungulates' fecal-steroidal profiles that the\nresearch on Buffalo Ford I ake sediment calls into question."
+                },
+                {
+                  "letter": "D",
+                  "text": "It provides information that explains why the data from Buffalo Ford Lake allow for\nmultiple possibilities regarding the dominant ungulate species in the watershed."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q13",
+              "number": 13,
+              "prompt": "Installing a new high-speed rail (HSR) hub in an area has the potential to boost residential\ndevelopment nearby, though the amount and type of development vary considerably by\nlocation. This potential is greatest when HSR hubs are established in areas far away from\ncity centers, as these locations tend to have more available land for redevelopment into\nresidential areas.\nWhich statement is best supported by information from the text and table?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The area around Lille Europe has greater potential for residential development than the\narea around Regg'o Emilia AV Mediopadana does."
+                },
+                {
+                  "letter": "B",
+                  "text": "The area around Lille Europe has greater potential for residential development than the\narea around København H does."
+                },
+                {
+                  "letter": "C",
+                  "text": "The area around København H has greater potential for residential development than the\narea around Reggio Emilia AV Mediopadana does."
+                },
+                {
+                  "letter": "D",
+                  "text": "The area around København H has greater potential for residential develonment than the\narea around Stuttgart Hbf does."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q14",
+              "number": 14,
+              "prompt": "Providence, Rhode Island, has installed shoreline-hardenina structures-mainly\nbreakwalls-along 62% of its shoreline to protect infrastructure from sea-level rise and other\nhazards. To evaluate the responses of waterbirds at sites in the Chesapeake Bay on the US\nEast Coast to shoreline hardening and other landscape alterations, Diann Prosser et al.\nsurveyed waterbird communities consisting of sixty-four species, including the brown pelican\nand the red knot. Utilizing the Index of Waterbird Community Integrity (IWCI), on which a low\nscore corresponds to low community integrity, the researchers concluded that shoreline\nhardening more negatively affects waterbirds than does land development for uses such as\nhousing or agriculture.\nWhich finding, if true, would most directly challenge the researchers' conclusion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Waterbird communities at Margothy, a site with a relatively low percentage of developed\nland and a relatively high percentage of hardened shoreline, had lower average IWCI scores\nthan did waterbird communities at Back River, а site with a higher percentage of developed\nland and a lower percentage of hardened shoreline."
+                },
+                {
+                  "letter": "B",
+                  "text": "Waterbird communities at Stony and Cultis, two sites with relatively high percentages of\ndeveloped land and hardened shoreline, had similar IWCI scores, whereas waterbird\n\n\ncommunities at Ware and Honga, two sites with relatively low percentages of developed land\nand hardened shoreline, had widely differing IWCI scores."
+                },
+                {
+                  "letter": "C",
+                  "text": "Waterbird communities at Old Road, a site with a relatively high percentage of developed\nland and hardened shoreline, had lower average IWCI scores than did waterbird\ncommunities at Onancock, a site with a relatively low percentage of developed land and\nhardened shoreline."
+                },
+                {
+                  "letter": "D",
+                  "text": "Waterbird communities at Mill, a site with a relatively low percentage of developed land\nand a relatively high percentage of hardened shoreline, had higher average IWCI scores\nthan did waterbird communities at Langford, a site with a higher percentage of developed\nland and a lower percentage of hardened shoreline."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q15",
+              "number": 15,
+              "prompt": "Memoirs of Elleanor Eldridge is an 1838 historical account by Elleanor Eldridge and\nFrances Harriet Whipple Green. In the book, the authors suggest that many memoirs of\nrenowned people aren't particularly straightforward or candid, writing, _ ____\nWhich quotation from Memoirs of Elleanor Eldridge most effectively illustrates the claim?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "\"There is often a kind of [deceptive] light, playing around such [famous] names, calculated\nto dazzle and mislead, by their false lustre, until the eye can no longer receive the pure lignt\nof Truth, or the mind appreciate real excellence, or intrinsic worth.\""
+                },
+                {
+                  "letter": "B",
+                  "text": "\"It should not be considered essential to the interest and value of biography, that its\nsubject be of exalted rank, or illustrious name.\""
+                },
+                {
+                  "letter": "C",
+                  "text": "\"How careful ought we to be to speak nothing but the truth, even in regard to the most\ntrifling circumstances; and not only so, but to be well assured that what we suppose to be\ntrue, is truth, before we receive it as such.\""
+                },
+                {
+                  "letter": "D",
+                  "text": "\"Blessed are the slumbers of the innocent! They are kindlier than balm, and they refresh\nand gladden the spirit of childhood, like ministerings from a better world.\""
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q16",
+              "number": 16,
+              "prompt": "The synthesis of novel superheavy elements, such as nihonium (Nh), has led theorists to\nconsider the feasibility of synthesizing all possible chemical compounds. In 2022, Guillermo\nRestrepo calculated the historical rates at which newly discovered compounds have entered\nthe scientific literature, expanding the \"chemical space.\" Using a conservative estimate of\nthe number of viable compounds and assuming a doubling of the historical pace of\ndiscovery, Restrepo found that uraer these hypothetical conditions, all potential compounds\ncould be synthesized and documented by 2050.\nWhich choice best describes the function of the underlined portion in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It introduces information that helps explain why the synthesis of superheavy elements has\nrapidly expanded the chemical space."
+                },
+                {
+                  "letter": "B",
+                  "text": "It provides details about the qualification later in the sentence regarding the prospect of\ncataloging the full range of possible chemical compounds."
+                },
+                {
+                  "letter": "C",
+                  "text": "It emphas'zes the point implicitly made earlier in the text that human inefficiency is the\nprimal y constraint on the expansion of the chemical space."
+                },
+                {
+                  "letter": "D",
+                  "text": "It makes a comparison between the past and current rates at which new chemical\ncompounds have entered the scientific literature."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q17",
+              "number": 17,
+              "prompt": "While conducting an interview for her book Latina Authors and Their Muses, editor Mayra\nCalvani asked Margo Candela, author of the young adult novel The Brenda Diaries, what\n____ Candela's response was The Phantom Tollbooth by Norton Juster.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "was her favorite book!"
+                },
+                {
+                  "letter": "B",
+                  "text": "was her favorite book?"
+                },
+                {
+                  "letter": "C",
+                  "text": "her favorite book was."
+                },
+                {
+                  "letter": "D",
+                  "text": "her favorite book was?"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q18",
+              "number": 18,
+              "prompt": "Following the swing era of the 1930s, cool jazz emerged as yet another innovative style\nin jazz ____ larger ensembles than those of their predecessors, cool jazz composers like\nChico Hamilton emphasized smooth melodies in their works.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "music. Featuring"
+                },
+                {
+                  "letter": "B",
+                  "text": "music, featuring"
+                },
+                {
+                  "letter": "C",
+                  "text": "music, to feature"
+                },
+                {
+                  "letter": "D",
+                  "text": "music to feature"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q19",
+              "number": 19,
+              "prompt": "In Puerto Rico, it's not unusual for a city or town to be known by a nickname that\ncorresponds to one of its notable features, like landscape, ____ or chief exports. For\nexample, the Puerto Rican municipality of Corozal has also been called \"the Cradle of\nVolleyball,\" a nickname that alludes to what the area is well known for: being a longtime\nvolleyball powerhouse.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "climate famous residents,"
+                },
+                {
+                  "letter": "B",
+                  "text": "climate famous residents"
+                },
+                {
+                  "letter": "C",
+                  "text": "climate, famous residents,"
+                },
+                {
+                  "letter": "D",
+                  "text": "climate; famous residents;"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q20",
+              "number": 20,
+              "prompt": "Many places in the United States share a name with a foreign city or country. When\nfounding the city of Warsaw, Indiana, residents decided to name____ after the Polish city of\nWarsaw.\n\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "them"
+                },
+                {
+                  "letter": "B",
+                  "text": "it"
+                },
+                {
+                  "letter": "C",
+                  "text": "that"
+                },
+                {
+                  "letter": "D",
+                  "text": "us"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q21",
+              "number": 21,
+              "prompt": "New Mexico governor_____ the first woman to serve in that role in the state's history-took\noffice on January 1, 2011.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Susana Martinez:"
+                },
+                {
+                  "letter": "B",
+                  "text": "Susana Martinez"
+                },
+                {
+                  "letter": "C",
+                  "text": "Susana Martinez,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Susana Martinez–"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q22",
+              "number": 22,
+              "prompt": "Jean-Michel Basquiat was an American artist who produced more than two thousand\n____ His work Self-Portrait was completed in 1981 and sold at auction in 2016 for $4.7\nmillion.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "drawing's and painting's."
+                },
+                {
+                  "letter": "B",
+                  "text": "drawings and painting's."
+                },
+                {
+                  "letter": "C",
+                  "text": "drawings and paintings."
+                },
+                {
+                  "letter": "D",
+                  "text": "drawings' and paintings'."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q23",
+              "number": 23,
+              "prompt": "At the Ruskin School of Acting in Santa Monica, California, students can learn the\nworld-famous Meisner technique____ by acting teacher Sanford Meisner, this technique\ntrains actors to react naturally to the other performers in a scene.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Develops"
+                },
+                {
+                  "letter": "B",
+                  "text": "Developing"
+                },
+                {
+                  "letter": "C",
+                  "text": "Develop"
+                },
+                {
+                  "letter": "D",
+                  "text": "Developed"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q24",
+              "number": 24,
+              "prompt": "Generally, sleek vehicles are more aerodynamic than bulkier ones. The streamlined nose\nof the F-104 Starfighter jet, _____ helps it glide through wind with relative ease, while a boxy\npickup truck encounters more wind resistance, making it less aerodynamic.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "however,"
+                },
+                {
+                  "letter": "B",
+                  "text": "meanwhile,"
+                },
+                {
+                  "letter": "C",
+                  "text": "for instance,"
+                },
+                {
+                  "letter": "D",
+                  "text": "additionally,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q25",
+              "number": 25,
+              "prompt": "When ordering the branches of the Yukon River system by Hack's method, one begins\nwith the riverway's lowest point, the Yukon River. _ blank when using Strahler's method, one\nbegins at the top of the river system, with the Kanuti River and other tributaries fed by the\nriverway's source, Alaska's Llewellyn Glacier.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Indeed,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Specifically,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Alternatively,"
+                },
+                {
+                  "letter": "D",
+                  "text": "In other words,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q26",
+              "number": 26,
+              "prompt": "As volcanologists like Tamsin Mather are apt to make clear, not all volcanoes are the\nsame. Agua de Pau in the Azores Islands, for example, is a stratovolcano, a conical volcano\nbuilt up by many layers of hardened lava and tephra. Methana in Greece, _blank is a lava\ndome, a circular mound-shaped protrusion resulting from the slow extrusion of viscous lava\nfrom a volcano.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "in any case,"
+                },
+                {
+                  "letter": "B",
+                  "text": "in conclusion,"
+                },
+                {
+                  "letter": "C",
+                  "text": "in contrast,"
+                },
+                {
+                  "letter": "D",
+                  "text": "in fact,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q27",
+              "number": 27,
+              "prompt": "While researching a topic, a student has taken the following notes:\n● The cuneiform script is the earliest known set of symbols used for writing.\n● Sumerian was one of the first languages to be written using the cuneiform script.\n● Sumerian was a language in ancient Mesopotamia (present-day Iraq).\n● Clay tablets with Sımerian writing have been found there.\n● Some of these tablets are almost 5,000 years old.\nThe student wants to identify a language that was written using the cuneiform script. Which\nchoice most effectively uses relevant information from the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Examples of Mesopotamian writing that are nearly 5,000 years old have been found."
+                },
+                {
+                  "letter": "B",
+                  "text": "Clay tablets with cuneiform script have been found in present-day Iraq."
+                },
+                {
+                  "letter": "C",
+                  "text": "A language in ancient Mesopotamia used the cuneiform script for writing."
+                },
+                {
+                  "letter": "D",
+                  "text": "Sumerian, an ancient Mesopotamian language, was written using the cuneiform script."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            }
+          ]
+        },
+        {
+          "id": "s1-m2",
+          "number": 2,
+          "label": "Module 2",
+          "timeLimitSeconds": 1920,
+          "questions": [
+            {
+              "id": "s1-m2-q1",
+              "number": 1,
+              "prompt": "\"Bien Pretty\" is an English-language short story by Sandra Cisneros that often includes\nSpanish words and phrases. In Their Dogs Came with Them, Helena Maria Viramontes\nfrequently ____ Spanish text as well. But readers who are unfamiliar with Spanish can easily\nread both works since the meaning of the Spanish text can be inferred from the surrounding\nEnglish text.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "suspects"
+                },
+                {
+                  "letter": "B",
+                  "text": "relaxes"
+                },
+                {
+                  "letter": "C",
+                  "text": "loses"
+                },
+                {
+                  "letter": "D",
+                  "text": "uses"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q2",
+              "number": 2,
+              "prompt": "One reasonable way to evaluate the _____ of a scholar's research is to track how often\nother scholars refer to that research. For example, Princeton University economist Anne\nCase, who studies labor and health economics, is among the world's most frequently cited\nresearchers in her specialty, indicating that her work has had a significant effect on the field.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "expense"
+                },
+                {
+                  "letter": "B",
+                  "text": "unity"
+                },
+                {
+                  "letter": "C",
+                  "text": "complexity"
+                },
+                {
+                  "letter": "D",
+                  "text": "impact"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q3",
+              "number": 3,
+              "prompt": "Featuring contributions from Zulema Valdez, Robert W. Fairlie, and other scholars,\nAdvancing U.S. Latino Entrepreneurship (2020) is intended to____two kinds of readers.\nAccording to Jerry I. Porras and the book's other editors, it should be of interest to\nresearchers as well as current and aspiring entrepreneurs.\n\n\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "detract from"
+                },
+                {
+                  "letter": "B",
+                  "text": "evaluate"
+                },
+                {
+                  "letter": "C",
+                  "text": "appeal to"
+                },
+                {
+                  "letter": "D",
+                  "text": "bewilder"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q4",
+              "number": 4,
+              "prompt": "The Apollo Moon landings (1969-1972) brougit magnetic field sensors and soil sensors to\nthe Moon and produced large amounts of data, much of which was stored on technologies\nthat are now obsolete. A data-transfer project is working to _____ these data so that the\ninformation is available to researcher Noah Petro, who is investigating the geology of the\nMoon.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "amend"
+                },
+                {
+                  "letter": "B",
+                  "text": "salvage"
+                },
+                {
+                  "letter": "C",
+                  "text": "simplify"
+                },
+                {
+                  "letter": "D",
+                  "text": "improve"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q5",
+              "number": 5,
+              "prompt": "Smart watches and wireless speakers tend to rely on batteries that can't be easily taken\nout and swapped for new ones. Environmental policy researcher Jessika Richter warns that\nbecause these gadgets can't___ without working batteries, once the batteries stop working,\nthe devices are typically disposed of as trash.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "decide"
+                },
+                {
+                  "letter": "B",
+                  "text": "separate"
+                },
+                {
+                  "letter": "C",
+                  "text": "expand"
+                },
+                {
+                  "letter": "D",
+                  "text": "function"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q6",
+              "number": 6,
+              "prompt": "Mariana Lopes Barata and Pedro Simões Coelho collected data from 324 music-streaming\nservice users to identify factors that influence users to opt for paid (premium) versions of\nmusic streaming services, like Apple Music. They found that performance expectancy (how\nmuch the use of a service is perceived to benefit the consumer) is positively correlated with\nusers' intentions to adopt premium versions. They also found that users' intentions to\npurchase a premium service positively influence their intentions to recommend the premium\nservice to others, which suggests that ___\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "by encouraging existing users of premium services to recommend those services to\nnonusers, music streaming companies may be able to increase the extent to which their\nexisting users perceive the use of the premium version to be beneficial."
+                },
+                {
+                  "letter": "B",
+                  "text": "users' intentions to pay for premium streaming services are probably unaffected by factors\nother than performance expectancy."
+                },
+                {
+                  "letter": "C",
+                  "text": "if music streaming companies can increase the degree to which some potential users\nperceive the use of the premium version to be beneficial, they may be able to generate\ninterest in their premium services from other potential users that they have not reached\ndirectly."
+                },
+                {
+                  "letter": "D",
+                  "text": "participants who strongly agreed with the statement \"Overall, a paid music streaming\nservice is advantageous\" were more likely to express loyalty to Apple Music than to other\nstreaming services."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q7",
+              "number": 7,
+              "prompt": "The Man-Made World: Or, Our Androcentric Culture is a 1911 nonfiction work by Charlotte\nPerkins Gilman, In the text, the author emphasizes the importance of cultivating individuals\nrather than comparing them: ____\nWhich quotation from The Man-Made World: Or, Our Androcentric Culture most effectively\nillustrates the claim?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "\"We do not sadly measure the cabbage-stalk by the corn-stalk, and praise the corn for\ngetting ahead of the cabbage -nor incite the cabbage to [imitate] the corn. We nourish both,\nto its best growth-and are the richer.\""
+                },
+                {
+                  "letter": "B",
+                  "text": "\"We have but to learn the real elements in humanity; its true powers and natural\ncharacteristics.\""
+                },
+                {
+                  "letter": "C",
+                  "text": "\"What is [the family's] rational development in humanness; in mechanical, mental and\nsocial lines.\""
+                },
+                {
+                  "letter": "D",
+                  "text": "\"That every child on earth shall have right conditions to make the best growth possible to\nit; that every citizen, from birth to death, shall have a chance to learn all he or she can\n[absorb], to develop every power that is in them.\""
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q8",
+              "number": 8,
+              "prompt": "High-speed rail systems-in which trains can move at great speeds-are expanding in many\ncountries because high-speed rail can reduce the number of automobiles on the road and\nultimately conserve energy. In Austria, for instance, 254 kilometers of high-speed rail lines\nare in operation as of 2023, and 231 kilometers are under construction.\nBased on the text, why might Austria be expanding its high-speed rail system?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Residents of Austria demand that high-speed rail be expanded despite the cost of doing\nso."
+                },
+                {
+                  "letter": "B",
+                  "text": "High-speed rail systems in Austria are currently viewed more favorably than they have\nbeen in the past."
+                },
+                {
+                  "letter": "C",
+                  "text": "The current high-speed rail systems in Austria are getting older and need improvements."
+                },
+                {
+                  "letter": "D",
+                  "text": "High-speed rail systems are a more energy-efficient choice for residents of Austria than\nautomobile use is."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q9",
+              "number": 9,
+              "prompt": "What is a city? The answer depends on where you live! Many countries define an area as\na city based on how many people live there. However, not every country uses the same\nnumbers. Greenland defines a city as an area with a population of at least 200, while\nSwitzerland defines a city as having a minimum population of 10,000. Some countries even\ndefine cities using other factors, like if there is a local government.\nWhich choice best describes the overall structure of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It poses a question, then explains why the question has many answers."
+                },
+                {
+                  "letter": "B",
+                  "text": "It offers a recommendation, then provides reasons for that recommendation."
+                },
+                {
+                  "letter": "C",
+                  "text": "It describes two locations, then explains why only one of the locations is considered a city."
+                },
+                {
+                  "letter": "D",
+                  "text": "It lists the number of cities in one country, then compares that number to the number of\ncities in another country."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q10",
+              "number": 10,
+              "prompt": "Researchers who study olfaction-the sense of smell-define valence as a person's\nperception of how pleasant an odor is. Conventional wisdom holds that valence is culturally\nmediated. A team of scientists led by Artin Arshamian evaluated this view by testing how\npeople from ten different places-including the Mah Meri people from a small community in\nthe Malay Peninsula and the Seri people from a small community in Mexico-ranked ten\nodors from most pleasant to least pleasant. In general, respondents ranked scents similarly\nregardless of where they lived, overwhelmingly choosing the odorant linalool as more\npleasant than diethyl disulfide. These results show that _____\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "the conventional belief that odor pleasantness can be objectively measured is\nquestionable."
+                },
+                {
+                  "letter": "B",
+                  "text": "the standard view of culture's role in olfactory valence may be unsound."
+                },
+                {
+                  "letter": "C",
+                  "text": "the respondents agreed more often on unpleasant odors than they did on pleasant ones."
+                },
+                {
+                  "letter": "D",
+                  "text": "valence may affect cultural traditions more strongly than researchers had previously\npredicted."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q11",
+              "number": 11,
+              "prompt": "Text 1\nFrom the extinct Shasta ground sloth to the living Hoffmann's two-toed sloth, sloths are\namong the most appealing animals native to the Americas. But scientists still have a lot to\nlearn about them. Unlike their ancient ground-dwelling relations, today's sloths spend most\nof their time high up in trees. The sloths' inaccessibility has made it hard for scientists to\nstudy them.\nText 2\n\n\nBy using a hat-like monitor, biologist Bryson Voirin and colleagues can at last discover the\npreviously hidden activities of sloths. Such monitors can provide information to correct\nmisconceptions. It was long believed that sloths are very gentle. But, in fact, sloths have very\nsharp claws and will attack if threatened.\nBased on the texts, the author of Text 1 and the author of Text 2 would most likely agree with\nwhich statement about sloths?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Sloths typically live very long lives."
+                },
+                {
+                  "letter": "B",
+                  "text": "Sloths have been challenging to observe."
+                },
+                {
+                  "letter": "C",
+                  "text": "Sloths are usually unpleasant animals."
+                },
+                {
+                  "letter": "D",
+                  "text": "Sloths prefer certain types of trees over other types."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q12",
+              "number": 12,
+              "prompt": "An anthropologist is recording the metal contents of various historical deposits of valuables,\ncalled hoards, found in Ireland and No thern Ireland. She notes that the hoards differed in\ntheir contents; for example, _____\nWhich choice most effectively uses data from the table to complete the statement?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "the Balline Hoard and the Ardagh Hoard each ccntained bronze."
+                },
+                {
+                  "letter": "B",
+                  "text": "the Coggalbeg Hoard was the only hoard that contained just gold."
+                },
+                {
+                  "letter": "C",
+                  "text": "the Coggalbeg Hoard contained no gold or silver."
+                },
+                {
+                  "letter": "D",
+                  "text": "the Ardagh Hoard was the only hoard that contained silver."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q13",
+              "number": 13,
+              "prompt": "A student is collecting data about countries with volcanoes that have been active in the time\nsince 1800 and in the time since 1960. The student records that Eritrea has ____\nWhich choice most effectively uses data from the graph to complete the statement?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "no volcanoes that have been active since 1800."
+                },
+                {
+                  "letter": "B",
+                  "text": "more volcanoes that have been active since 1960 than Vanuatu has."
+                },
+                {
+                  "letter": "C",
+                  "text": "fewer volcanoes that have been active since 1960 than Vanuatu has."
+                },
+                {
+                  "letter": "D",
+                  "text": "the same number of volcanoes that have been active since 1800 as Vanuatu has."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q14",
+              "number": 14,
+              "prompt": "Many ranching terms come from Spanish. For example, the word \"mustang\" (a wild\nhorse) comes from the Spanish word mesteñas, and \"hackamore\" (a halter) ____ from\njáquima. This is because the first Anglo, African, and Native American cattle ranchers in the\nsouthwestern US learned the trade from Spanish-speaking Mexican vaqueros, or cowboys.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "had come"
+                },
+                {
+                  "letter": "B",
+                  "text": "сomes"
+                },
+                {
+                  "letter": "C",
+                  "text": "will come"
+                },
+                {
+                  "letter": "D",
+                  "text": "will be coming"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q15",
+              "number": 15,
+              "prompt": "Nicknamed \"The Borinqueneers,\" the US Army's 65th Infantry Regiment has a\nmembership that has included Colonel Juan Cordero Davila, Sergeant First Class Felix\nNieves, and thousands of other Puerto Rican servicepeople. In 2016, these soldiers were\nhonored for ____ historic service when President Barack Obama awarded the 65th Infantry\nRegiment with the Congressional Gold Medal.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "their"
+                },
+                {
+                  "letter": "B",
+                  "text": "there"
+                },
+                {
+                  "letter": "C",
+                  "text": "it's"
+                },
+                {
+                  "letter": "D",
+                  "text": "they're"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q16",
+              "number": 16,
+              "prompt": "One example of public art (art that's readily accessible to the general public) ____ the\nwork First Generation. This sculpture is installed in a public square in Boat Quay, Singapore.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "being"
+                },
+                {
+                  "letter": "B",
+                  "text": "were"
+                },
+                {
+                  "letter": "C",
+                  "text": "are"
+                },
+                {
+                  "letter": "D",
+                  "text": "is"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q17",
+              "number": 17,
+              "prompt": "In 1979, the suffragist Susan B. Anthony _____ the first woman featured on a US coin.\nHer image appeared on the $1 coin.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "became"
+                },
+                {
+                  "letter": "B",
+                  "text": "having become"
+                },
+                {
+                  "letter": "C",
+                  "text": "becoming"
+                },
+                {
+                  "letter": "D",
+                  "text": "to become"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q18",
+              "number": 18,
+              "prompt": "Sarah Vibbart of Massachusetts and Annie Godbe of Utah were leaders of the National\nWoman Suffrage Association in the late 1800s. Today, both of these women\n____remembered for their fierce advocacy of women's voting rights.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "was"
+                },
+                {
+                  "letter": "B",
+                  "text": "is"
+                },
+                {
+                  "letter": "C",
+                  "text": "being"
+                },
+                {
+                  "letter": "D",
+                  "text": "are"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q19",
+              "number": 19,
+              "prompt": "Formerly known as the Sou hwest Territory, Tennessee was granted statehood by a vote\nof the US Congress on June 1, 1796, making Tennessee the 16th US state. By comparison,\nas one of the nation's original thirteen colonies, Delaware became a state when it ratified the\nUS Constitution on December 7, 1787. _____ New York attained statehood by ratifying the\nConstitution, becoming the 11th US state on July 26, 1788.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Therefore,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Nevertheless,"
+                },
+                {
+                  "letter": "C",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Likewise,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q20",
+              "number": 20,
+              "prompt": "Thousands of years ago, the Olmec civilization's reign over parts of eastern Mexico\nended. ____ the Olmecs' massive stone statues of human heads remain. Two of these\nstatues, known as Monument 2 and Monument 53, weigh over 5 tons!\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Therefore,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Secondly,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Still,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Previously,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q21",
+              "number": 21,
+              "prompt": "Scientists studying forest restoration have discovered that trees depend on complex\npartnerships with microscopic organisms for survival. The researchers found that special\nfungi called endophytes live inside tree leaves and serve as a defense mechanism. ___\nthese endophytes help by fighting off diseases and boosting the tree's immune system.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Alternatively,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Nevertheless,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Specificallv."
+                },
+                {
+                  "letter": "D",
+                  "text": "In conclusion,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q22",
+              "number": 22,
+              "prompt": "While researching a topic, a student has taken the following notes:\n● A nonnative species is considered invasive if it causes environmental or economic\nharm in an ecosystem.\n● Curly pondweed is a species of aquatic plant native to parts of Eurasia.\n● It can also be found in the northern and western US.\n● There, it crowds out native plants and impedes aquatic recreation.\n● It is considered an invasive species in the US.\n● The student wants to provide an example of an invasive species.\nWhich choice most effectively uses relevant information from the notes to accomplish this\ngoal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "In the northern and western US, curly pondweed is an invasive aquatic plant that crowds\nout native plants and impedes aquatic recreation."
+                },
+                {
+                  "letter": "B",
+                  "text": "One way a nonnative species of plant could cause harm in an ecosystem is by crowding\nout native plants and impeding aquatic recreation."
+                },
+                {
+                  "letter": "C",
+                  "text": "A nonnative species that crowds out native plants and impedes aquatic recreation,\ncausing environmental or economic harm, is considered invasive."
+                },
+                {
+                  "letter": "D",
+                  "text": "Curly pondweed is an example of an invasive species that causes environmental or\neconomic harm in parts of Eurasia."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q23",
+              "number": 23,
+              "prompt": "While researching a topic, a student has taken the following notes:\n● Kale is a vegetable that contains ascorbic acid, an essential nutrient for humans.\n● Every 100 grams (g) of kale contains 120 milligrams (mg) of ascorbic acid.\n● Many animals can make ascorbic acid in their bodies, but humans cannot.\n● Humans must get ascorbic acid from foods, including fruits and vegetables.\n● Ascorbic acid is also known as vitamin C.\n\n\nThe student wants to specify how much vitamin C is in kale. Which choice most effectively\nuses relevant information from the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "There is 120 mg of vitamin C in every 100 g of kale."
+                },
+                {
+                  "letter": "B",
+                  "text": "Kale contains vitamin C, which humans must get from food."
+                },
+                {
+                  "letter": "C",
+                  "text": "Many animals can make ascorbic acid, which is also known as vitamin C, in their bodies,\nbut humans cannot."
+                },
+                {
+                  "letter": "D",
+                  "text": "Since humans cannot make vitamin C in their bodies, they must get this essential nutrient\nfrom foods like kale."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q24",
+              "number": 24,
+              "prompt": "While researching a topic, a student has taken the following notes:\n● The Purús River is in South America.\n● It is the fifth longest river in South America.\n● It crosses the countries Peru and Brazil.\n● It ranks No. 22 among the longest rivers in the world.\n● It is 3,211 kilometers long.\nThe student wants to specify how many kilometers long the Purús River is. Which choice\nmost effectively uses relevant information from the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The Purús River in South America is 3,211 kilometers long."
+                },
+                {
+                  "letter": "B",
+                  "text": "The Purús River crosses both Peru and Brazil in South America."
+                },
+                {
+                  "letter": "C",
+                  "text": "The fifth longest river in South America, the Purús River crosses both Peru and Brazil."
+                },
+                {
+                  "letter": "D",
+                  "text": "Among the longest rivers in the world, the Purús River ranks No. 22."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q25",
+              "number": 25,
+              "prompt": "While researching a topic, a student has taken the following notes:\n● The poem \"4 haiku (for Max Roach)\" is by African American writer Sonia Sanchez.\n● It was published in her 2010 poetry book entitled Morning Haiku.\n● The poem is written as a sequence of four haiku.\n● According to the book's publisher, Penguin Random House (PRH), the book\n\"celebrates the gifts of life and mourns the deaths of revered African American\nfigures.\"\n● According to Sanchez, she chose to write in the form of haiku because it helps\n\"maintain memory and dignity.\"\nThe student wants to describe the format of \"4 haiku (for Max Roach).\"Which choice most\neffectively uses relevant information from the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The poem \"4 haiku (for Max Roach)\" is written as a sequence of four haiku."
+                },
+                {
+                  "letter": "B",
+                  "text": "The poem \"4 haiku (for Max Roach)\" was published in the 2010 book Morning Haiku,\nwhich \"celebrates the gifts of life and mourns the deaths of revered African American\nfigures.\""
+                },
+                {
+                  "letter": "C",
+                  "text": "Sanchez chose the form used in the poem \"4 haiku (for Max Roach)\" because it helps\n\"maintain memory and dignity.\""
+                },
+                {
+                  "letter": "D",
+                  "text": "The poems in Morning Haiku (2010) are each written as a sequence of haiku."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q26",
+              "number": 26,
+              "prompt": "While researching a topic, a student has taken the following notes:\n● The Great Salt Lake in Utah is one of the world's saltiest bodies of water.\n● The northern portion of the lake has a higher concentration of salt than the southern\nportion.\n● Aquatic insects called Ephydra cinerea live in the southern portion.\n● Bacteria called Achromobacter live in the southern portion.\nThe student wants to emphasize a difference between Ephydra cinerea and Achromobacter.\nWhich choice most effectively uses relevant information from the notes to accomplish this\ngoal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Ephydra cinerea and Achromobacter are different types of organisms: Ephydra cinerea\nare aquatic insects, whereas Achromobacter are bacteria."
+                },
+                {
+                  "letter": "B",
+                  "text": "The northern portion of the Great Salt Lake has a higher concentration of salt than does\nthe southern portion."
+                },
+                {
+                  "letter": "C",
+                  "text": "Ephydra cinerea and Achromobacter both live in the Great Salt Lake's southern portion."
+                },
+                {
+                  "letter": "D",
+                  "text": "Ephydra cinerea are aquatic insects that live in the southern portion of the Great Salt\nLake."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q27",
+              "number": 27,
+              "prompt": "While researching a topic, a student has taken the following notes:\n● Louis Ballard was a classical composer and citizen of the Quapaw Tribe.\n● His works blend Western classical music with elements of various Native musical\ntraditions.\n● His 1970 composition Cacéga Ayuwípi incorporates a Pueblo water drum, a\ntraditional Native instrument.\n● Critic Peter Altman commended Ballard's ability to synthesize \"strong, idiomatically\nmodern expressions.\"\nThe student wants to present Altman's claim to an audience already familiar with Louis\nBallard. Which choice most effectively uses relevant information from the notes to\naccomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Ballard was commended for his musical compositions, many of which blend Western\nclassical music with elements of various Native musical traditions, by the critic Peter Altman."
+                },
+                {
+                  "letter": "B",
+                  "text": "Ballard's works demonstrate what Peter Altman refers to as an ability to synthesize\n\"strong, idiomatically modern expressions.\""
+                },
+                {
+                  "letter": "C",
+                  "text": "Peter Altman praised Ballard-a classical composer whose wrrks blend Western classical\nmusic with elements of Native musical traditions-for creating \"strong, idiomatically modern\nexpressions.\""
+                },
+                {
+                  "letter": "D",
+                  "text": "Ballard's 1970 Cacéga Ayuwípi blends Western classical music and elements of various\nNative musical traditions by incorporating a Pueblo water drum."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "number": 2,
+      "name": "Math",
+      "modules": [
+        {
+          "id": "s2-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 2100,
+          "questions": [
+            {
+              "id": "s2-m1-q1",
+              "number": 1,
+              "prompt": "For a party, 51 hamburger buns are needed. Hamburger buns are sold in packages of 12.\nWhat is the minimum number of packages that should be bought for the party?",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "5"
+            },
+            {
+              "id": "s2-m1-q2",
+              "number": 2,
+              "prompt": "An athlete swam a distance of 6,336 yards. How far did the athlete swim, in miles? (1 mile\n= 1,760 yards)",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "4,576"
+                },
+                {
+                  "letter": "B",
+                  "text": "8,096"
+                },
+                {
+                  "letter": "C",
+                  "text": "0.3"
+                },
+                {
+                  "letter": "D",
+                  "text": "3.6"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m1-q3",
+              "number": 3,
+              "prompt": "The measure of angle I' is 145 degrees. The measure of angle G isradians less than the\nmeasure of angle F. The measure of angle H is 10 degrees more than the measure of angle\nG. What is the measure of angle H, in radians?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "48π/36"
+                },
+                {
+                  "letter": "B",
+                  "text": "17π/36"
+                },
+                {
+                  "letter": "C",
+                  "text": "25π/18"
+                },
+                {
+                  "letter": "D",
+                  "text": "19π/18"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s2-m1-q4",
+              "number": 4,
+              "prompt": "3x²-30x+75= 0 What is the solution to the given equation?",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "5"
+            },
+            {
+              "id": "s2-m1-q5",
+              "number": 5,
+              "prompt": "Line j is shown in the xy-plane. Line k (not shown) is parallel to line j. What is the slope of\nline k?",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q6",
+              "number": 6,
+              "prompt": "(z+2) (z-3)=0\nWhat are all possible solutions to the given equation?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "2 and 3"
+                },
+                {
+                  "letter": "B",
+                  "text": "-2 and -3"
+                },
+                {
+                  "letter": "C",
+                  "text": "2 and -3"
+                },
+                {
+                  "letter": "D",
+                  "text": "-2 and 3"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m1-q7",
+              "number": 7,
+              "prompt": "The values in data sets X and Y are shown in the table.\n\nThe standard deviation of data set X is q, and the standard deviation of data set Y is s.\nWhich of the following statements about the standard deviation of the data sets is true.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "q<s"
+                },
+                {
+                  "letter": "B",
+                  "text": "The relationship between a and s cannot be determined."
+                },
+                {
+                  "letter": "C",
+                  "text": "q>s"
+                },
+                {
+                  "letter": "D",
+                  "text": "q=s"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m1-q8",
+              "number": 8,
+              "prompt": "Which expression is equivalent to (4a² - 9ab + 7b2) - (3a² + ab - 26²)?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "a² - 10ab +96²"
+                },
+                {
+                  "letter": "B",
+                  "text": "a⁴- 10a²b² +9b⁴"
+                },
+                {
+                  "letter": "C",
+                  "text": "a⁴-8a²b² +5b"
+                },
+                {
+                  "letter": "D",
+                  "text": "a²-8ab + 5b²"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m1-q9",
+              "number": 9,
+              "prompt": "3x² +x-6=0\nWhat is the greatest solution to the given equation?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "1/6 + √73/6"
+                },
+                {
+                  "letter": "B",
+                  "text": "1/6 − √73/6"
+                },
+                {
+                  "letter": "C",
+                  "text": "1/3 + √73/3"
+                },
+                {
+                  "letter": "D",
+                  "text": "1/3 − √73/3"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m1-q10",
+              "number": 10,
+              "prompt": "In triangle ABC, the measure of angle A is 30° and the measure of angle B is 90°. If the\nlength of side BC is 38 centimeters, what is the length, in centimeters, of side AB?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "38√3"
+                },
+                {
+                  "letter": "B",
+                  "text": "38√2"
+                },
+                {
+                  "letter": "C",
+                  "text": "38"
+                },
+                {
+                  "letter": "D",
+                  "text": "76"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m1-q11",
+              "number": 11,
+              "prompt": "The function f (x) = -x(x-401), where 0 ≤ x ≤ 401, gives the speed, in meters per second,\nof a particle x seconds after it started traveling. If the function ƒ is graphed in the xy-plane,\nwhere y= f (x), which statement is the best interpretation of the point (1400) on the graph?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The particle's speed was 400 meters per second 1 second after it started traveling."
+                },
+                {
+                  "letter": "B",
+                  "text": "The particle's initial speed was 400 meters per second when it started traveling."
+                },
+                {
+                  "letter": "C",
+                  "text": "The particle's speed was 1 meter per second 400 seconds after it started traveling."
+                },
+                {
+                  "letter": "D",
+                  "text": "The particle's speed increased by 400 meters per second each second after it started\ntraveling."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m1-q12",
+              "number": 12,
+              "prompt": "Which expression is equivalent to (9x³ +17x) - (4x²+7x)?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "9x³-4x²+24x"
+                },
+                {
+                  "letter": "B",
+                  "text": "9x³ + 4x² + 24x"
+                },
+                {
+                  "letter": "C",
+                  "text": "9x³ -4x + 10x"
+                },
+                {
+                  "letter": "D",
+                  "text": "9x³ +4x² + 10x"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s2-m1-q13",
+              "number": 13,
+              "prompt": "Triangle TUV is dilated by a scale factor of ½ to obtain triangle TUV (not shown), where T\ncorresponds to T' and U corresponds to U. What is the measure, in degrees, of angle V?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "68"
+                },
+                {
+                  "letter": "B",
+                  "text": "24"
+                },
+                {
+                  "letter": "C",
+                  "text": "34"
+                },
+                {
+                  "letter": "D",
+                  "text": "48"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s2-m1-q14",
+              "number": 14,
+              "prompt": "A triangle has a base length of 80 centimeters and a height of 30 centimeters. What is\nthe area, in square centimeters, of the triangle?",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "1200"
+            },
+            {
+              "id": "s2-m1-q15",
+              "number": 15,
+              "prompt": "y = 17 y-x = 0 Which of the following points (x,y) represents the solution to the given\nsystem of equations in the xy-plane?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "(0,17)"
+                },
+                {
+                  "letter": "B",
+                  "text": "(17,17)"
+                },
+                {
+                  "letter": "C",
+                  "text": "(0,0)"
+                },
+                {
+                  "letter": "D",
+                  "text": "(17,0)"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s2-m1-q16",
+              "number": 16,
+              "prompt": "What is the y-intercept of the graph of y = 4^(x+2) in the xy-plane?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "(0,4)"
+                },
+                {
+                  "letter": "B",
+                  "text": "(0,16)"
+                },
+                {
+                  "letter": "C",
+                  "text": "(0,0)"
+                },
+                {
+                  "letter": "D",
+                  "text": "(0,2)"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "medium",
+              "flagReason": "Question may reference a figure not captured in text",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s2-m1-q17",
+              "number": 17,
+              "prompt": "For a linear relationship between x and y, the table gives three values of x and their\ncorresponding values of y, where t is a constant. Which equation represents this\nrelationship?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "y=- 2x +t+28"
+                },
+                {
+                  "letter": "B",
+                  "text": "y = 2x +t+28"
+                },
+                {
+                  "letter": "C",
+                  "text": "y=28/17x+t+56"
+                },
+                {
+                  "letter": "D",
+                  "text": "y =-28/17x+t+56"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m1-q18",
+              "number": 18,
+              "prompt": "The function P(x) = 685(1.128) models the number of gray seal pups each year from\n1967 through 1997 on Sable Island, Nova Scotia, where x is the number of years after 1967.\nWhich of the following is the best interpretation of \"P(9) is approximately equal to 2,025\" in\nthis context?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The number of gray seal pups is estimated to be 9 greater in 1976 than in 1967."
+                },
+                {
+                  "letter": "B",
+                  "text": "The number of gray seal pups is estimated to be 9 times greater in 1976 than in 1967."
+                },
+                {
+                  "letter": "C",
+                  "text": "The number of gray seal pups is estimated to be approximately 2,025 in 1976."
+                },
+                {
+                  "letter": "D",
+                  "text": "The number of gray seal pups is estimated to increase by approximately 2,025 every 9\nyears between 1967 and 1976."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s2-m1-q19",
+              "number": 19,
+              "prompt": "On January 1, there were 231 views of a video posted on a social media site. Every 2\ndays after January 1, the number of views of the video had increased by 60% of the number\nof views 2 days earlier. The function f gives the predicted number of viewsx days after\nJanuary 1. Which equation defines f?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "f(x) = 231(0.60)^(x/2)"
+                },
+                {
+                  "letter": "B",
+                  "text": "f(x) = 231(1.60)^(x/2)"
+                },
+                {
+                  "letter": "C",
+                  "text": "f(x) = 231(0.60)^(2x)"
+                },
+                {
+                  "letter": "D",
+                  "text": "f(x) = 231(1.60)^(2x)"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s2-m1-q20",
+              "number": 20,
+              "prompt": "The function f is defined by f(x) = - 3x+ 40. What is the value of f(x) when x = -7?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "37"
+                },
+                {
+                  "letter": "B",
+                  "text": "61"
+                },
+                {
+                  "letter": "C",
+                  "text": "33"
+                },
+                {
+                  "letter": "D",
+                  "text": "30"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s2-m1-q21",
+              "number": 21,
+              "prompt": "Of the 300,000 people in a region, 174,000 people voted in an election. What percentage\nof people in that region voted in that election?",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "58"
+            },
+            {
+              "id": "s2-m1-q22",
+              "number": 22,
+              "prompt": "The function g is defined by g(x) = √(4x-8) (4x+8) +4. What is the value of g (2)?",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "4"
+            }
+          ]
+        },
+        {
+          "id": "s2-m2",
+          "number": 2,
+          "label": "Module 2",
+          "timeLimitSeconds": 2100,
+          "questions": [
+            {
+              "id": "s2-m2-q1",
+              "number": 1,
+              "prompt": "A piece of a metal alloy called delta metal has a total mass of 200.0 grams. The equation c\n+ z + 5.2 = 200.0 relates the mass of copper c, in grams, and the mass of zinc z, in grams, in\nthis piece of metal. If this piece of metal contains 110.0 grams of copper, how many grams of\nzinc does it contain?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "90.0"
+                },
+                {
+                  "letter": "B",
+                  "text": "194.8"
+                },
+                {
+                  "letter": "C",
+                  "text": "110.0"
+                },
+                {
+                  "letter": "D",
+                  "text": "84.8"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m2-q2",
+              "number": 2,
+              "prompt": "In the figure, line j is parallel to line k. What is the value of x?",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Question may reference a figure not captured in text"
+            },
+            {
+              "id": "s2-m2-q3",
+              "number": 3,
+              "prompt": "Line j is defined by 4x - 6y = 24. Line k is parallel to line j in the xy-plane. What is the slope\nof line?",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "0.667"
+            },
+            {
+              "id": "s2-m2-q4",
+              "number": 4,
+              "prompt": "Which expression is equivalent to 25x +45?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "5(5x+9)"
+                },
+                {
+                  "letter": "B",
+                  "text": "45 (25x+1)"
+                },
+                {
+                  "letter": "C",
+                  "text": "5(20x +40)"
+                },
+                {
+                  "letter": "D",
+                  "text": "25 (20x +1)"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m2-q5",
+              "number": 5,
+              "prompt": "The function f is defined by f(x) =1/3x What is the value of f(x) when x = 4?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "¼"
+                },
+                {
+                  "letter": "B",
+                  "text": "1/7"
+                },
+                {
+                  "letter": "C",
+                  "text": "⅓"
+                },
+                {
+                  "letter": "D",
+                  "text": "1/12"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m2-q6",
+              "number": 6,
+              "prompt": "4x-3x+120 = 240 What value of x is the solution to the given equation?",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "120"
+            },
+            {
+              "id": "s2-m2-q7",
+              "number": 7,
+              "prompt": "What is the area, in square centimeters, of the rectangle shown?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "540"
+                },
+                {
+                  "letter": "B",
+                  "text": "51"
+                },
+                {
+                  "letter": "C",
+                  "text": "69"
+                },
+                {
+                  "letter": "D",
+                  "text": "9"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m2-q8",
+              "number": 8,
+              "prompt": "y = 35x² y= 35x Which ordered pair (x,y) is a solution to the given system of equations?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "(35,35)"
+                },
+                {
+                  "letter": "B",
+                  "text": "(21,40)"
+                },
+                {
+                  "letter": "C",
+                  "text": "(1,35)"
+                },
+                {
+                  "letter": "D",
+                  "text": "(2,70)"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s2-m2-q9",
+              "number": 9,
+              "prompt": "Monarch butterflies can fly only with a body temperature of at least 55.0 degrees\nFahrenheit (°F). If a monarch butterfly's body temperature is 37.3°F, what is the minimum\nincrease needod in its body temperature, in °F, so that it can fly?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "17.7"
+                },
+                {
+                  "letter": "B",
+                  "text": "3.0"
+                },
+                {
+                  "letter": "C",
+                  "text": "10.3"
+                },
+                {
+                  "letter": "D",
+                  "text": "7.3"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m2-q10",
+              "number": 10,
+              "prompt": "The scatterplot shows the relationship between the weight, in pounds, of each of 9\npregnant beavers on April 30 and the number of offspring each beaver produced.\nHow many offspring did the\n50-pound beaver produce?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "7"
+                },
+                {
+                  "letter": "B",
+                  "text": "8"
+                },
+                {
+                  "letter": "C",
+                  "text": "6"
+                },
+                {
+                  "letter": "D",
+                  "text": "5"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q11",
+              "number": 11,
+              "prompt": "The price of an object increased from $ 17 to $ 68. What was the percent increase in the\nprice of the object?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "300%"
+                },
+                {
+                  "letter": "B",
+                  "text": "25%"
+                },
+                {
+                  "letter": "C",
+                  "text": "75%"
+                },
+                {
+                  "letter": "D",
+                  "text": "51%"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m2-q12",
+              "number": 12,
+              "prompt": "The figure shows the xy-plane with the quadrants labeled. The graph of a linear function h\n(not shown), where y = h(x), is a line completely contained in only quadrants I and II of the\nxy-plane. Which of the following could define the function h?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "h(x) = 47x +47"
+                },
+                {
+                  "letter": "B",
+                  "text": "h(x) = 47x"
+                },
+                {
+                  "letter": "C",
+                  "text": "h(x) = -47"
+                },
+                {
+                  "letter": "D",
+                  "text": "h(x) = 47"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m2-q13",
+              "number": 13,
+              "prompt": "How many millimeters are equivalent to 9,500 centimeters? (1 centimeter = 10\nmillimeters)",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "95000"
+            },
+            {
+              "id": "s2-m2-q14",
+              "number": 14,
+              "prompt": "A train is traveling at a constant speed along a straight portion of railway. The equation d\n= 70t gives the distance d, in feet from a railway marker, that the train will be t seconds after\n\n\npassing the marker. How many feet from the marker will the train be 2 seconds after passing\nthe marker?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "210"
+                },
+                {
+                  "letter": "B",
+                  "text": "70"
+                },
+                {
+                  "letter": "C",
+                  "text": "72"
+                },
+                {
+                  "letter": "D",
+                  "text": "140"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m2-q15",
+              "number": 15,
+              "prompt": "The figure shown is a trirectangular tetrahedron, a three-dimensional figure with four\ntriangular faces, three of which are right triangles. A chemistry professor uses trirectangular\ntetrahedrons to create large-scale mc dels of various carbon-based molecules. The base of\none of these tetrahedrons is an isosceles right triangle whose legs each have length 14\ninches (in). The height of this tetrahedron is 15 in. Which of the following is closest to the\nvolume of this tetrahedron, in pints? (Note: 1 pint = 0.5 quarts; use 1 quart = 57.75 in³. The\nvolume of a trirectangular tetrahedron is equal to 1/3Sh, where S is the area of its base and\nh is its height.)",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "14,148.75"
+                },
+                {
+                  "letter": "B",
+                  "text": "16.9"
+                },
+                {
+                  "letter": "C",
+                  "text": "490.00"
+                },
+                {
+                  "letter": "D",
+                  "text": "101.82"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s2-m2-q16",
+              "number": 16,
+              "prompt": "The length of a rectangle is 45 inches and the width is x inches. The perimeter is at most\n150 inches. Which inequality represents this situation?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "2x +45 ≤ 150"
+                },
+                {
+                  "letter": "B",
+                  "text": "2x + 45 ≥ 150"
+                },
+                {
+                  "letter": "C",
+                  "text": "2x+90 ≤ 150"
+                },
+                {
+                  "letter": "D",
+                  "text": "2x+90 ≥ 150"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s2-m2-q17",
+              "number": 17,
+              "prompt": "A teacher is creating an assignment worth 56 points. The assignment will consist of\nquestions worth 1 point and questions worth 2 points. Which equation represents this\nsituation, where x represents the number of 1-point questions and y represents the number\nof 2-point questions?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "3(x + y) = 56"
+                },
+                {
+                  "letter": "B",
+                  "text": "x+2y = 56"
+                },
+                {
+                  "letter": "C",
+                  "text": "2x + y = 56"
+                },
+                {
+                  "letter": "D",
+                  "text": "3xy = 56"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s2-m2-q18",
+              "number": 18,
+              "prompt": "An exponential function ƒ is defined by f(x) = k(4)^x, where k is a positive constant. If f(-1)\n= 3 and f (2) = 192, what is the value of k?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "2"
+                },
+                {
+                  "letter": "B",
+                  "text": "11"
+                },
+                {
+                  "letter": "C",
+                  "text": "4"
+                },
+                {
+                  "letter": "D",
+                  "text": "3"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m2-q19",
+              "number": 19,
+              "prompt": "Rectangle ABCD has an area of 370 square centimeters. The length of the rectangle is\n10 centimeters. What is the width, in centimeters, of the rectangle?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "37"
+                },
+                {
+                  "letter": "B",
+                  "text": "94"
+                },
+                {
+                  "letter": "C",
+                  "text": "185"
+                },
+                {
+                  "letter": "D",
+                  "text": "10"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m2-q20",
+              "number": 20,
+              "prompt": "In triangle ABC and triangle XYZ, the measures of angles A and X are each 20°, and the\nlengths of AB and XY are each 16 centimeters. Which of the following adaitional pieces of\ninformation is (are) sufficient to prove that triangle ABC is congruent to triangle XYZ?\nI. The measures of angles C and Z are each 25°.\nII. AB/AC=XY/XZ",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "I is sufficient, and II is sufficient."
+                },
+                {
+                  "letter": "B",
+                  "text": "Il is sufficient, but I is not."
+                },
+                {
+                  "letter": "C",
+                  "text": "Neither I nor II is sufficient."
+                },
+                {
+                  "letter": "D",
+                  "text": "I is sufficient, but Il is not."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m2-q21",
+              "number": 21,
+              "prompt": "C(x) = 950+5(x - 600) The function C gives the estimated total cost C(x), in dollars, to\nproduce x units of a certain product, where 600 ≤ x ≤ 2,000. According to the equation, what\nis the estimated total cost, in dollars, to produce 700 units of this product?",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "1450"
+            },
+            {
+              "id": "s2-m2-q22",
+              "number": 22,
+              "prompt": "A sample consisted of 750 people selected at random from all adult residents in a certain\ncity. Based on the sample, the estimated percentage of all adult residents who think taxes\nare too high was 62%, with an associated margin of error of 3.47%. Which of the following\nbest describes the range of plausible values for the percentage of all adult residents in the\ncity who think taxes are too high.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Any value greater than 65.47%"
+                },
+                {
+                  "letter": "B",
+                  "text": "Any value greater than 58.53% and less than 65.47%"
+                },
+                {
+                  "letter": "C",
+                  "text": "Any value less than 58.53% or greater than 65.47%"
+                },
+                {
+                  "letter": "D",
+                  "text": "Any value less than 58.53%"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 98,
+  "hasAnswerKey": true,
+  "parsedAt": "2026-03-28T17:36:18.065Z"
+}

@@ -1,0 +1,1832 @@
+{
+  "id": "2025-nov-int-c",
+  "fileName": "2025 Nov Int-C @EliteXSAT.pdf",
+  "year": 2025,
+  "month": "Nov",
+  "version": "Int-C",
+  "type": "International",
+  "sections": [
+    {
+      "id": "s1",
+      "number": 1,
+      "name": "Reading and Writing",
+      "modules": [
+        {
+          "id": "s1-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 1920,
+          "questions": [
+            {
+              "id": "s1-m1-q1",
+              "number": 1,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\nMicroplastics are a common pollutant in large masses of water like rivers. High\nconcentrations and ______ among particles—variations in size, shape, and material—make it\nonerous to comprehensively classify the microplastics in a water sample, so AlvarezZeferino et al. are exploring a device to help quickly and accurately identify certain\ncharacteristics.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "incompatibilities"
+                },
+                {
+                  "letter": "B",
+                  "text": "restraints"
+                },
+                {
+                  "letter": "C",
+                  "text": "disruptions"
+                },
+                {
+                  "letter": "D",
+                  "text": "inconsistencies"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q2",
+              "number": 2,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\nResearchers have long debated the origins of silver used in European coins from the 600s\nthrough the early 800s CE. Geochemical analysis by Kershaw et al. of 49 coins dating to\n660–820 CE provides concrete evidence that reconciles two competing theories: early coins\n\n\nwere made from Byzantine silver, and later coins used Frankish silver, findings that provide\nfirm details in a previously ______ area of study.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "esoteric"
+                },
+                {
+                  "letter": "B",
+                  "text": "speculative"
+                },
+                {
+                  "letter": "C",
+                  "text": "authoritative"
+                },
+                {
+                  "letter": "D",
+                  "text": "solitary"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q3",
+              "number": 3,
+              "prompt": "As used in the text, what does the word “mastery” most nearly mean?\nThe following text is adapted from Alice Dunbar Nelson’s 1899 short story “The Fisherman of\nPass Christian.” Pass Christian is a city in the US state of Mississippi.\nThe swift breezes on the beach at Pass Christian meet and conflict as though\neach strove for the mastery of the air. The land-breeze blows down through the\npines, resinous, fragrant, cold, bringing breath-like memories of dim, dark woods\nshaded by myriad pine-needles. The breeze from the Gulf is warm and soft and\nlanguorous, blowing up from the south with its suggestion of tropical warmth.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Domination"
+                },
+                {
+                  "letter": "B",
+                  "text": "Familiarity"
+                },
+                {
+                  "letter": "C",
+                  "text": "Skillfulness"
+                },
+                {
+                  "letter": "D",
+                  "text": "Comprehension"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q4",
+              "number": 4,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\nIn the search for new impact craters on Mars, the roles of seismic monitoring and orbital\nimaging as data sources are ______: when vibrations detected with seismic monitoring\nindicate roughly where an impact has occurred, researchers can use orbital images of that\nrelatively limited area of the rocky surface to precisely locate a new crater.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "exhaustive"
+                },
+                {
+                  "letter": "B",
+                  "text": "redundant"
+                },
+                {
+                  "letter": "C",
+                  "text": "interchangeable"
+                },
+                {
+                  "letter": "D",
+                  "text": "complementary"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q5",
+              "number": 5,
+              "prompt": "Which choice best states the main purpose of the text?\nUnderstanding juvenile sea turtles’ migratory patterns is crucial for conservation efforts.\nWhile adult sea turtles are well studied, little is known about juveniles during their oceanic\nstage, when they spend most of their time in the open ocean. To learn about this stage,\nresearchers tagged and released six juvenile green sea turtles (Chelonia mydas) into the\neastern Caribbean Sea. Their findings revealed that the majority of the turtles passively\ndrifted with ocean currents throughout the region. However, two individuals swam against\nthe currents, possibly in search of foraging grounds off the coast of South America.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "To summarize research on an understudied stage of sea turtle development"
+                },
+                {
+                  "letter": "B",
+                  "text": "To suggest reasons why some juvenile sea turtles swim against the ocean currents"
+                },
+                {
+                  "letter": "C",
+                  "text": "To compare the behavior of adult and juvenile sea turtles during migration"
+                },
+                {
+                  "letter": "D",
+                  "text": "To describe successful conservation efforts for sea turtles"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q6",
+              "number": 6,
+              "prompt": "Which choice best describes the function of the underlined portion in the text as a whole?\nIn a section of a 1976 essay discussing cinema of the United States, James Baldwin\nobserved that Lady Sings the Blues (1972), a biographical film about jazz singer Billie\nHoliday, can be said to reflect Holiday’s life and the experiences of Black Americans only “by\ncourtesy.” According to Baldwin, the failure of this film to authentically represent its subject\nmatter is indicative of a larger trend in films of the era: rather than leveraging the medium’s\npotential to confront difficult truths, filmmakers and studios often resorted to platitudes\nabout contemporary US society.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It expresses Baldwin’s initial reaction to a US film that the text suggests he would later\nreconsider."
+                },
+                {
+                  "letter": "B",
+                  "text": "It illustrates a view of Baldwin’s that the text explains departed substantially from the\nconsensus view held by US film critics."
+                },
+                {
+                  "letter": "C",
+                  "text": "It characterizes the nature of the disconnect Baldwin identified between reality and how it\nwas represented in US cinema."
+                },
+                {
+                  "letter": "D",
+                  "text": "It conveys Baldwin’s rejection of contemporary US cinema in favor of earlier films that are\nmore authentic representations of society."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q7",
+              "number": 7,
+              "prompt": "According to the text, what is someone who professionally evaluates books called?\nNotes from a Liar and Her Dog was Gennifer Choldenko’s debut novel. It was published in\n2001. A debut novel is the first book that an author has published. Debut novels are\nespecially interesting to literary critics (people whose job it is to evaluate books) and readers\nbecause these books offer a look at new voices in the literary world.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "An author"
+                },
+                {
+                  "letter": "B",
+                  "text": "A book publisher"
+                },
+                {
+                  "letter": "C",
+                  "text": "A bookseller"
+                },
+                {
+                  "letter": "D",
+                  "text": "A literary critic"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q8",
+              "number": 8,
+              "prompt": "Which statement about the Hispanic Society of America is best supported by the text?\nFounded in 1904, the Hispanic Society of America showcases the arts and cultures of\nSpanish-speaking and Portuguese-speaking regions around the world, including Latin\nAmerica. It is located in New York City and has more than 18,000 objects in its museum\ncollection. Since 2000, a number of other institutions devoted to Latino cultures have\nopened in the United States. A notable example is the National Hispanic Cultural Center in\n\n\nAlbuquerque. It focuses on the literature, art, and cultures of Latin America as well as of\nLatino communities in the United States.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It is no longer located in New York City."
+                },
+                {
+                  "letter": "B",
+                  "text": "It was founded after 2000."
+                },
+                {
+                  "letter": "C",
+                  "text": "It is visited by more people than any other Latino cultural institution in the US."
+                },
+                {
+                  "letter": "D",
+                  "text": "Its collection includes over 18,000 objects."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q9",
+              "number": 9,
+              "prompt": "Which choice best states the main idea of the text?\nThe following text is adapted from Daniel Defoe’s 1704 nonfiction book The Storm.\nIf I judge right, ’tis the duty of an historian to set everything in its own light, and to\nconvey matter of fact upon its legitimate authority, and no other: I mean thus, (for\nI would be as explicit as I can) that where a story is vouched to him with sufficient\nauthority, he ought to give the world the special testimonial of its proper voucher,\nor else he is not just to the story: and where it comes without such sufficient\nauthority, he ought to say so; otherwise he is not just to himself.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Historians rarely have access to all the information relevant to a particular event, so no\nsingle work of history should be taken as definitive."
+                },
+                {
+                  "letter": "B",
+                  "text": "The only figures that a historian should quote are those who are widely viewed as\ncredible."
+                },
+                {
+                  "letter": "C",
+                  "text": "Historians should clearly indicate the extent to which each of their sources is trustworthy."
+                },
+                {
+                  "letter": "D",
+                  "text": "Because historians cannot tell whose memories they should trust, they should avoid\nrelying on eyewitness accounts of events."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q10",
+              "number": 10,
+              "prompt": "Which quotation from a translation of The Underdogs most effectively illustrates the claim?\n\n\nThe Underdogs is a 1915 novel by Mariano Azuela, originally written in Spanish. In the novel,\nAzuela depicts the character Camilla as experiencing a change in how she perceives her\nimmediate surroundings: ______",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "“Camilla’s tongue clove to her mouth, heavy and damp as a rag; she could not utter a\nword.”"
+                },
+                {
+                  "letter": "B",
+                  "text": "“All nature was as she had found it before, evening upon evening; but in the stones and\nthe dry weeds, amid the fragrance of the air and the light whir of falling leaves, Camilla\nsensed a new strangeness, a vast desolation in everything about her.”"
+                },
+                {
+                  "letter": "C",
+                  "text": "“A dead leaf shook slowly loose from the crest of a tree swinging slowly on the wind, fell\nlike a small dead butterfly at her feet. [Camilla] bent down and took it in her fingers.”"
+                },
+                {
+                  "letter": "D",
+                  "text": "“[Camilla] closed her eyes fast to hold back the tears that welled up in them. Then, with\nthe back of her hand, she wiped her wet cheeks, and just as she had done three days ago,\nfled with all the swiftness of a young deer.”"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q11",
+              "number": 11,
+              "prompt": "Which choice best describes data from the table that support the student’s claim?\nMembers of the Girl Scouts of America, by Age\nCategory, 1992–1995 (in thousands)\nCategory\n1992 1993 1994 1995\nAmbassadors (older than 17) 863 826 802 784\nSeniors (14–17 years)\n50 43 45 52\nDaisies (5–6 years)\n207 191 190 195\nBrownies (6–8 years)\n1,319 1,225 1,181 1,142\nThe Girl Scouts of America is an organization famous for its annual sales of several varieties\nof cookies, including S’Mores. A student is writing an essay on the history of the\norganization. The student claims that from 1992 to 1995 the organization’s popularity\nregularly peaked among participants in a certain age range before declining among older\nparticipants as Girl Scout activities began to compete with other interests.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Only once between 1992 and 1995 did the number of Ambassadors in the Girl Scouts\nexceed the number of Brownies."
+                },
+                {
+                  "letter": "B",
+                  "text": "There were 1,319,000 Brownies in the Girl Scouts in 1992 but 1,142,000 in 1995."
+                },
+                {
+                  "letter": "C",
+                  "text": "Throughout the years from 1992 to 1995, the number of Daisies in the Girl Scouts\nexceeded the number of Ambassadors."
+                },
+                {
+                  "letter": "D",
+                  "text": "For each year from 1992 to 1995, there were fewer Seniors in the Girl Scouts than there\nwere Brownies."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q12",
+              "number": 12,
+              "prompt": "Which finding, if true, would most directly weaken the researcher’s claim?\nThe Umpila language of Australia has 21 vowel and consonant sounds. In contrast, the Taa\nlanguage of southern Africa has over 100. Why would languages differ in this way? One\nresearcher has claimed that when modern humans arose in Africa, they spoke a single\nlanguage, but as humans gradually spread throughout Africa and then around the globe, that\nlanguage developed into new languages. Those developed into still more languages as small\nbands of humans spread even farther, with each new language retaining fewer sounds from\nhumanity’s original language.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Languages that emerged in Central America tend to have fewer sounds than languages\nthat emerged in Western Europe do, and Central America is farther away from Africa than\nWestern Europe is."
+                },
+                {
+                  "letter": "B",
+                  "text": "Languages that emerged in Europe and Western Asia tend to have more sounds than\nlanguages that emerged in Africa do."
+                },
+                {
+                  "letter": "C",
+                  "text": "The number of sounds is fairly consistent across the various languages that emerged in\nthe last parts of Africa to be settled by humans."
+                },
+                {
+                  "letter": "D",
+                  "text": "A wider range of sounds is found across the languages of Africa as a whole than across\nthe languages of South America as a whole."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q13",
+              "number": 13,
+              "prompt": "Which choice most logically completes the text?\nAntonia Olivia Dolan and colleagues had musicians and nonmusicians with clinically average\nhearing listen to recordings of nature sounds and music in popular genres like pop and\n\n\nclassic rock and adjust the volume to optimize their listening enjoyment. The researchers\nfound that for a given recording that a musician and nonmusician identified as their favorite\namong those included in the study, optimal volume tended to be higher for the musician than\nfor the nonmusician. Thus, if a musician and nonmusician both identified Beyoncé’s “Crazy in\nLove” as their favorite recording and the musician preferred to listen to it at a volume of 84.8\ndecibels, the nonmusician would be expected to ______",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "find listening to “Crazy in Love” at 84.8 decibels less enjoyable than listening to it at a\nlower volume."
+                },
+                {
+                  "letter": "B",
+                  "text": "prefer listening to other music at 84.8 decibels over listening to “Crazy in Love” at that\nvolume."
+                },
+                {
+                  "letter": "C",
+                  "text": "enjoy listening to the nature sounds at 84.8 decibels more than listening to “Crazy in\nLove” at 84.8 decibels."
+                },
+                {
+                  "letter": "D",
+                  "text": "not find it enjoyable to listen to any recordings at a volume as low as 84.8 decibels."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q14",
+              "number": 14,
+              "prompt": "Which choice most logically completes the text?\nOuti Tervo and team studied the effect of human-caused noise on narwhals (Monodon\nmonoceros), arctic marine mammals that are sensitive to acoustic changes in their\nenvironment. Hypothesizing that elevated sound levels affect foraging among narwhals,\nTervo’s team compared narwhal diving behaviors in natural sound conditions with those\nbehaviors in two human-caused sound exposure conditions—ship sounds and ship sounds\ncoupled with sonic pulses. Both exposure conditions resulted in significant decreases in the\nnumber and target depth of deep dives (associated with foraging) relative to natural\nconditions. However, differences between diving behaviors in the two exposure types were\nnegligible, a finding that could be attributed to the fact that ______",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "sonic pulses can be heard at significantly greater ocean depths than ship sounds can."
+                },
+                {
+                  "letter": "B",
+                  "text": "the narwhals weren’t as sensitive to human-caused sounds as the researchers had\npredicted."
+                },
+                {
+                  "letter": "C",
+                  "text": "ship sounds contribute so much to the overall sound level that the addition of sonic\npulses has little effect on the narwhals’ auditory environment."
+                },
+                {
+                  "letter": "D",
+                  "text": "narwhals forage at shallower depths in the presence of ship sounds alone than in the\npresence of ship sounds coupled with sonic pulses."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q15",
+              "number": 15,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nThe atomic structure of an element ______ the element’s place on the periodic table.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "to determine"
+                },
+                {
+                  "letter": "B",
+                  "text": "determining"
+                },
+                {
+                  "letter": "C",
+                  "text": "determines"
+                },
+                {
+                  "letter": "D",
+                  "text": "having determined"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q16",
+              "number": 16,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nMuseo Casa Canales, a history museum in Jayuya, Puerto Rico, is one of more than eighty\nmuseums in the US territory. These museums present a wide range of information about\nPuerto Rico, showcasing everything from the territory’s history to ______ architecture to its\ncoffee.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "its"
+                },
+                {
+                  "letter": "B",
+                  "text": "they’re"
+                },
+                {
+                  "letter": "C",
+                  "text": "their"
+                },
+                {
+                  "letter": "D",
+                  "text": "it’s"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q17",
+              "number": 17,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nAs an archaeologist, Dr. Rubén G. ______ studies historical locations all across the US\nSouthwest and Mesoamerica, a region that includes ancient Maya sites like Ekʼ Balam in\nMexico.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Mendoza;"
+                },
+                {
+                  "letter": "B",
+                  "text": "Mendoza"
+                },
+                {
+                  "letter": "C",
+                  "text": "Mendoza,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Mendoza:"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q18",
+              "number": 18,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nOn January 11, 1996, the space shuttle Endeavour blasted off into space, commencing\nMission ______ eight days and twenty-two hours, the mission ended when the shuttle\nlanded at Kennedy Space Center in Florida.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "STS-72. Lasting"
+                },
+                {
+                  "letter": "B",
+                  "text": "STS-72, lasting"
+                },
+                {
+                  "letter": "C",
+                  "text": "STS-72 lasting"
+                },
+                {
+                  "letter": "D",
+                  "text": "STS-72, it lasted"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q19",
+              "number": 19,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nGrowing as large as three meters in diameter, the leaves of the giant Amazonian waterlily\nfeature a complex network of radiating veins that provide structural ______ in thickness from\nthe center to the edges, these veins allow the leaves to maintain their large size and\nbuoyancy with minimal material, optimizing light capture and photosynthesis.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "support, decreasing"
+                },
+                {
+                  "letter": "B",
+                  "text": "support decreasing"
+                },
+                {
+                  "letter": "C",
+                  "text": "support. Decreasing"
+                },
+                {
+                  "letter": "D",
+                  "text": "support, while decreasing"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q20",
+              "number": 20,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nRecordings of electrical activity in the brain, ______ increased activity in brain areas\nassociated with suppressing motor functions.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "electrograms show that while responding to hypothetical match scenarios, the most\nhighly skilled soccer players have"
+                },
+                {
+                  "letter": "B",
+                  "text": "responses to hypothetical match scenarios show that the most highly skilled soccer\nplayers have electrograms with"
+                },
+                {
+                  "letter": "C",
+                  "text": "the most highly skilled soccer players responding to hypothetical match scenarios have\nelectrograms that show"
+                },
+                {
+                  "letter": "D",
+                  "text": "hypothetical match scenario responses show that the most highly skilled soccer players\ncaptured in electrograms have"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q21",
+              "number": 21,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nIn a chemical equation, the value known as molar mass is useful for converting between the\nmass of the reactants and the mass of the product. The liquid ______ have molar masses of\n186.06 and 156.31 g/mol, respectively.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "compounds, hexafluorobenzene (C6F6) and undecane (C11H24)"
+                },
+                {
+                  "letter": "B",
+                  "text": "compounds, hexafluorobenzene (C6F6) and undecane (C11H24),"
+                },
+                {
+                  "letter": "C",
+                  "text": "compounds hexafluorobenzene (C6F6) and undecane (C11H24)"
+                },
+                {
+                  "letter": "D",
+                  "text": "compounds hexafluorobenzene (C6F6) and undecane (C11H24),"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q22",
+              "number": 22,
+              "prompt": "Which choice completes the text with the most logical transition?\nWhile some researchers have identified the planet Kepler-1552b as potentially habitable, it’s\nunlikely that humanity will be able to take advantage of its favorable conditions anytime soon\n—it’s 2,507 light years away. ______ humanity must first focus on making planets within our\nsolar system more habitable.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Likewise,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Instead,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Next,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q23",
+              "number": 23,
+              "prompt": "Which choice completes the text with the most logical transition?\nArtists’ palettes—the surfaces on which painters arrange and mix their paints—can provide\nvaluable insights into the painters’ creative processes. In her 2024 book The Artist’s Palette,\nAlexandra Loske analyzes the palettes of 50 different painters across 500 years. ______\nLoske reveals clues about the techniques and practices of such artists as Kerry James\nMarshall, Artemisia Gentileschi, and Vincent van Gogh.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "However,"
+                },
+                {
+                  "letter": "B",
+                  "text": "In comparison,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Lastly,"
+                },
+                {
+                  "letter": "D",
+                  "text": "In doing so,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q24",
+              "number": 24,
+              "prompt": "Which choice completes the text with the most logical transition?\nAs Iestyn Barr and his team of researchers discovered when establishing the glacial timeline\nof Antarctica, the Transantarctic Mountains—a 3,500-km mountain range spanning the\ncontinent—are home to glaciers of at least 60 million years in age. ______ the researchers\n\n\nconcluded, Antarctica had glaciers long before the formation of its continent-wide ice sheet\n34 million years ago.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "By contrast,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Thus,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Even so,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Nevertheless,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q25",
+              "number": 25,
+              "prompt": "Which choice completes the text with the most logical transition?\nBrain imaging research led by neuroscientist Dwaynica Greaves found that actors showed\nsuppressed responses in the left anterior prefrontal cortex (the portion of the brain\nassociated with self-awareness) when their names were called during performances; ______\nthe actors’ responses were normal in nonacting contexts. These findings suggest that when\nembodying characters, performers may temporarily set aside their personal identities.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "specifically,"
+                },
+                {
+                  "letter": "B",
+                  "text": "likewise,"
+                },
+                {
+                  "letter": "C",
+                  "text": "thus,"
+                },
+                {
+                  "letter": "D",
+                  "text": "conversely,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q26",
+              "number": 26,
+              "prompt": "The student wants to compare the length of time Fannie May Salter and Ida Lewis worked as\nlighthouse keepers. Which choice most effectively uses relevant information from the notes\nto accomplish this goal?\nWhile researching a topic, a student has taken the following notes:\nLighthouses send out crucial light signals to help ships and other watercraft navigate at\nnight.\nBefore automation, lighthouses were run by lighthouse keepers.\n\n\nFannie May Salter was the lighthouse keeper at Turkey Point Light in Maryland.\nShe held this position for twenty-two years (1925–1947).\nIda Lewis was the lighthouse keeper at Lime Rock Light in Rhode Island.\nShe held this position for fifty-four years (1857–1911).",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Fannie May Salter and Ida Lewis were both lighthouse keepers at a time when such a\nperson was needed to operate a lighthouse."
+                },
+                {
+                  "letter": "B",
+                  "text": "From 1925 to 1947, the nighttime waters of Maryland were more navigable thanks to\nlighthouse keepers Fannie May Salter and Ida Lewis."
+                },
+                {
+                  "letter": "C",
+                  "text": "Before automation, lighthouse keepers like Fannie May Salter, who served for twenty-two\nyears, and Ida Lewis were crucial to ensuring safe navigation for watercraft."
+                },
+                {
+                  "letter": "D",
+                  "text": "Fannie May Salter worked as a lighthouse keeper for twenty-two years, but Ida Lewis did\nso for even longer: fifty-four years."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q27",
+              "number": 27,
+              "prompt": "The student wants to indicate the location of the Isthmus of Ierapetra. Which choice most\neffectively uses relevant information from the notes to accomplish this goal?\nWhile researching a topic, a student has taken the following notes:\nAn isthmus is a strip of land that connects two larger pieces of land across an expanse\nof water.\nIt is also known as a land bridge.\nThe Isthmus of Ierapetra connects the Siteia municipality to the rest of the island of\nCrete.\nThe Isthmus of Ierapetra is located in the Mediterranean Sea.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "An isthmus, or land bridge, like the Isthmus of Ierapetra, connects two larger pieces of\nland."
+                },
+                {
+                  "letter": "B",
+                  "text": "An isthmus, also known as a land bridge, is a strip of land that connects two larger pieces\nof land across an expanse of water."
+                },
+                {
+                  "letter": "C",
+                  "text": "One example of an isthmus is the Isthmus of Ierapetra."
+                },
+                {
+                  "letter": "D",
+                  "text": "The Isthmus of Ierapetra is located in the Mediterranean Sea, where it connects the Siteia\nmunicipality to the rest of the island of Crete."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            }
+          ]
+        },
+        {
+          "id": "s1-m2",
+          "number": 2,
+          "label": "Module 2",
+          "timeLimitSeconds": 1920,
+          "questions": [
+            {
+              "id": "s1-m2-q1",
+              "number": 1,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\nExposed to harsh environmental conditions for centuries, lighthouses such as La Jument\nlighthouse off the coast of Brittany, France, exemplify the ______ between marine structures\nand ocean forces: the continuous impact of breaking waves necessitates periodic\nreinforcements to or redesigns of the structures that in turn may alter local wave patterns.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "interplay"
+                },
+                {
+                  "letter": "B",
+                  "text": "tension"
+                },
+                {
+                  "letter": "C",
+                  "text": "incongruity"
+                },
+                {
+                  "letter": "D",
+                  "text": "continuum"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q2",
+              "number": 2,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\n______ the mythological and heroic subject matter often found in works by Horace Vernet\nand other establishment figures, Honoré Daumier’s painting The Third-Class Carriage\ninstead focuses on something decidedly mundane: working-class travelers in a third-class\nrailway car.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Eschewing"
+                },
+                {
+                  "letter": "B",
+                  "text": "Expounding"
+                },
+                {
+                  "letter": "C",
+                  "text": "Caricaturing"
+                },
+                {
+                  "letter": "D",
+                  "text": "Appraising"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q3",
+              "number": 3,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\nThough copies of The Adventures of Indiana Jones in Wenceslas Square in Prague on\nJanuary 16, 1989—an underground computer game that was created anonymously in 1989\nas an act of political protest against the authoritarian regime of what was then\n\n\nCzechoslovakia—were originally distributed ______, the game is now readily available online\nfor anyone to play.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "dispassionately"
+                },
+                {
+                  "letter": "B",
+                  "text": "disingenuously"
+                },
+                {
+                  "letter": "C",
+                  "text": "surreptitiously"
+                },
+                {
+                  "letter": "D",
+                  "text": "succinctly"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q4",
+              "number": 4,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\nIn their study of caterpillars in fragmented forests (formerly contiguous forests that have\nbeen broken into isolated patches by roads or other interruptions), James Mickley et al.\nstress that although fragmentation inevitably ______ alterations to local ecological\nprocesses, the changes will likely have a greater impact on Catocala ilia, a specialist feeding\non a limited number of plant species, than on a species like Achatia distincta that feeds on\nseveral.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "engenders"
+                },
+                {
+                  "letter": "B",
+                  "text": "attenuates"
+                },
+                {
+                  "letter": "C",
+                  "text": "preempts"
+                },
+                {
+                  "letter": "D",
+                  "text": "subsumes"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q5",
+              "number": 5,
+              "prompt": "Which choice best describes the overall structure of the text?\nEstablishing protected areas (PAs), such as the Mamanuca Islands in Fiji, is a common\nconservation strategy, but because PAs restrict some kinds of economic activity, it’s widely\nthought that they hinder economic development. This perception is driven in part by the fact\nthat economic assessments often don’t capture the indirect effects of tourism linked to PAs.\nBut Hasita Bhammar et al. found that tourism associated with the Mamanuca Islands boosts\n\n\nlocal demand for goods and services in other economic sectors, resulting in, for instance,\nincreased income from retail in nearby areas.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It explains how PAs typically affect economic development in the regions where they are\nestablished, summarizes the findings of several economic studies that support this\nexplanation, and then concedes that a particular PA is an exception to the general trend."
+                },
+                {
+                  "letter": "B",
+                  "text": "It introduces a widely held belief about the effect PAs have on the economy, proposes a\nreason for that belief’s prevalence, and then details a study whose findings seemingly\nconflict with that belief."
+                },
+                {
+                  "letter": "C",
+                  "text": "It makes a generalization about the difficulty of using PAs to reconcile economic and\nconservation priorities, demonstrates why most PAs fall short of achieving that goal, and\nthen holds up a particular PA as an example of how that goal can be achieved."
+                },
+                {
+                  "letter": "D",
+                  "text": "It states a hypothesis that accounts for why PAs generally negatively impact local\neconomies, outlines how a research team’s findings support that hypothesis, and then\nsuggests how a novel methodology led a separate team of researchers to a different\nconclusion."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q6",
+              "number": 6,
+              "prompt": "Which choice best describes the function of the underlined portion in the text as a whole?\nTypically, synthetic leather is petroleum based, but materials scientists searching for an\necologically sustainable alternative have used various bacteria that secrete linear chains of\nglucose, forming a dense mesh of cellulose called a pellicle, which is leatherlike except in\ncolor. The standard process for dyeing leather generates substantial wastewater and other\nundesirable byproducts, so adopting such a regimen would run counter to the ecological\npromise of the pellicle approach. To address this, Kenneth T. Walker and colleagues worked\nto modify Komagataeibacter rhaeticus bacteria to produce a pellicle with embedded\npigmentation cells, thereby allowing the pellicle to “dye” itself from the inside.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "To illustrate how the researchers adapted the pellicle approach to overcome a potential\nimpediment to their main goal as presented in the text"
+                },
+                {
+                  "letter": "B",
+                  "text": "To concede that the researchers’ main goal as described in the text will be challenging to\nachieve due to the standard coloring approach being impractical for use on a pellicle"
+                },
+                {
+                  "letter": "C",
+                  "text": "To indicate the characteristic of conventional synthetic leathers that makes those leathers\npoorly suited to achieve the researchers’ main goal as presented in the text"
+                },
+                {
+                  "letter": "D",
+                  "text": "To describe a consideration that led the researchers to employ an alternative approach to\ncoloring a pellicle that allowed them to achieve their main goal as presented in the text"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q7",
+              "number": 7,
+              "prompt": "Which choice best describes the relationship between the two texts?\nText 1\nMooseberry (Viburnum edule) plants are native to Alaska, where harsh conditions have\nhistorically impeded potential invasive species. As the boreal climate has warmed in recent\ndecades, however, common knotgrass (Polygonum aviculare) plants have established\nthemselves in Alaska. Previous research conducted in non-boreal ecosystems has\ndocumented warming-induced increases in summer temperatures benefiting invasive\nspecies more than native species.\nText 2\nAt a site near Fairbanks, Alaska, Christa Mulder and Katie Spellman tracked V. edule and P.\naviculare, along with other native and invasive species, over several years. They observed\nthat although average summer temperatures were substantially higher in some years of the\nstudy than in others, neither V. edule nor P. aviculare showed any significant variation in\nsummer growth patterns from year to year.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Text 2 explains a study that suggests an alternative explanation for the trend observed in\nthe research discussed in Text 1."
+                },
+                {
+                  "letter": "B",
+                  "text": "Text 2 describes a methodology that helps researchers avoid a problem encountered in\nthe studies discussed in Text 1."
+                },
+                {
+                  "letter": "C",
+                  "text": "Text 2 presents a finding that casts doubt on the generalizability of the research\ndiscussed in Text 1."
+                },
+                {
+                  "letter": "D",
+                  "text": "Text 2 discusses an observation that challenges the validity of the findings described in\nText 1."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q8",
+              "number": 8,
+              "prompt": "Information in the text best supports which statement about Azara’s night monkeys?\nOptimal foraging theory (OFT) holds that animals’ foraging behaviors reflect cost-benefit\ntrade-offs that vary by species and with dynamic ecological circumstances. One such\ncircumstance is lunar intensity, which W.J. Cresswell and Stephen Harris found to be\nnegatively associated with foraging by European badgers but Eduardo Fernández-Duque\nand colleagues found to be positively associated with foraging by Azara’s night monkeys.\nThis discrepancy is explicable in terms of OFT: the monkeys’ greater reliance on vision\nmeans that higher lunar intensity benefits them more than it benefits the badgers.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "If the monkeys’ foraging behavior under increased lunar intensity actually reflects a costbenefit trade-off, their behavior should be more similar to that of European badgers than it\nis."
+                },
+                {
+                  "letter": "B",
+                  "text": "If the advantages that the monkeys gain from increased lunar intensity explain the change\nin their foraging behavior, those advantages are likely shared by some other species that are\nnot heavily reliant on vision."
+                },
+                {
+                  "letter": "C",
+                  "text": "If increased lunar intensity imposed the same costs on the monkeys that it imposes on\nEuropean badgers, there would be no association between lunar intensity and the monkeys’\nforaging."
+                },
+                {
+                  "letter": "D",
+                  "text": "If increased lunar intensity creates any disadvantages for the monkeys, those\ndisadvantages are more than compensated for by the advantages that the monkeys gain."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q9",
+              "number": 9,
+              "prompt": "Which choice best describes data in the table that support the city planner’s conclusion?\nRanking of Environmental and Sociocultural Benefits of Urban Agriculture (scale\nof 1 to 25; 1 = highest)\nProject\nGeneral\nSocial or ecological service\nleaders Stakeholders public\nimprovement of social cohesion\n17\n10\n9\nprevention of soil erosion\n13\n11\n23\nconservation of genetic variability\n5\n18\n16\nimprovement of urban aesthetics\n8\n4\n6\nand art inspiration\n\n\nProject\nGeneral\nSocial or ecological service\nleaders Stakeholders public\nenhancement of pollination\n1\n7\n12\nEsther Sanyé-Mengual, Kathrin Specht, and their team surveyed three groups of people in\nBologna, Italy—leaders of urban agriculture projects, stakeholders in urban agriculture (e.g.,\nfood researchers and urban farming associations), and the general public—to compare their\nviews about the extent to which urban agriculture contributes to 25 social or ecological\nservices that the team identified. The researchers used these ratings to rank the services for\neach group, with a ranking of 1 indicating that a group perceives that urban agriculture\nbenefits that service the most. Using only the rankings shown in the table, a city planner in\nBologna who is promoting a new urban agriculture project concludes that advertisements\naimed at project leaders should emphasize the project’s benefit to the enhancement of\npollination.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The conservation of genetic variability was ranked lower for project leaders than it was for\nthe general public."
+                },
+                {
+                  "letter": "B",
+                  "text": "The enhancement of pollination was ranked higher for project leaders than it was for\nstakeholders."
+                },
+                {
+                  "letter": "C",
+                  "text": "The enhancement of pollination was ranked higher for project leaders than were the other\nfour services."
+                },
+                {
+                  "letter": "D",
+                  "text": "The improvement of social cohesion was ranked higher for project leaders than was the\nenhancement of pollination."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q10",
+              "number": 10,
+              "prompt": "Which choice best presents a conclusion about the habits of New Year’s resolution makers\nthat is best supported by information in the text and the table?\nPercentages of New Year's Resolution Makers Who Make Certain\nKinds of Resolutions\nType of resolution Age 18-29 Age 30-49 Age 50-64 Age 65+\nHealth and exercise\n79\n80\n79\n76\nFinances\n68\n63\n56\n47\nPersonal relationships 63\n53\n58\n52\n\n\nType of resolution Age 18-29 Age 30-49 Age 50-64 Age 65+\nHobbies\n65\n53\n51\n45\nA Pew Research Center survey conducted in January 2024 found that three out of ten US\nadults make at least one New Year’s resolution (a promise for the year ahead), while half of\nthose who make a resolution make more than one. The survey asked participants what kinds\nof resolutions they made and separated them into several categories. The table presents\npercentages of people who make particular kinds of New Year’s resolutions among those\nwho choose to make them, indexed by age bracket.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The majority of US adults who make resolutions related to health and exercise also make\nresolutions in multiple additional categories."
+                },
+                {
+                  "letter": "B",
+                  "text": "Among all US adults, people become less likely to make New Year’s resolutions as they\nage, regardless of the type of resolution."
+                },
+                {
+                  "letter": "C",
+                  "text": "Resolution makers between the ages of 18 and 29 are more likely to make resolutions\nabout health and exercise than resolution makers between the ages of 30 and 49 are."
+                },
+                {
+                  "letter": "D",
+                  "text": "Resolution makers between the ages of 50 and 64 are more likely to make resolutions\nrelated to personal relationships and less likely to make resolutions related to finances than\nresolution makers between the ages of 30 and 49 are."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q11",
+              "number": 11,
+              "prompt": "Which quotation from Richard II most effectively illustrates the claim?\nRichard II is a play from the 1590s by William Shakespeare. Although King Richard has been\nvanquished by his cousin Henry Bolingbroke, he intimates that he is not entirely ready to\nshow subservience to his cousin, saying, ______",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "“Am I both priest and clerk? Well then, amen. / God save the King! although I be not he; /\nAnd yet, amen, if heaven do think him me.”"
+                },
+                {
+                  "letter": "B",
+                  "text": "“I have no name, no title,— / No, not that name was given me at the font,— / But ’tis\nusurp’d:— Alack the heavy day, / That I have worn so many winters out, / And know not now\nwhat name to call myself!”"
+                },
+                {
+                  "letter": "C",
+                  "text": "“Still my griefs are mine. / You may my glories and my state depose, / But not my griefs;\nstill am I king of those.”"
+                },
+                {
+                  "letter": "D",
+                  "text": "“Alack, why am I sent for to a king, / Before I have shook off the regal thoughts /\nWherewith I reign’d? I hardly yet have learn’d / To insinuate, flatter, bow, and bend my knee.”"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q12",
+              "number": 12,
+              "prompt": "Which quotation from a literary scholar would most directly support the claim in the\nunderlined portion of the text?\nScholars cite Men of Maize, the 1949 novel by Guatemalan author Miguel Ángel Asturias, as\na foundational text of magical realism, the Latin American style of fiction in which\nantirealistic plot devices—often borrowed from the spiritual and narrative traditions of\nIndigenous and colonial societies in the Americas—are deployed in an otherwise realistic\nmode of representation typical of the modern novel. This style has exerted a decisive\ninfluence on authors in the United States, including Susan Power, whose 1994 novel The\nGrass Dancer resembles classic magical realist novels in its juxtaposition of literary realism\nwith long-established cultural traditions—namely, those of the Dakota people of the northern\nplains.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "“The cultural traditions of the Dakota people of the northern plains, which figure so\nprominently in the magical realist tradition of Latin America, permit realistic as well as\nantirealistic scenarios—much as The Grass Dancer does.”"
+                },
+                {
+                  "letter": "B",
+                  "text": "“Although much of The Grass Dancer conforms to the conventions of realistic fiction,\nSusan Power also incorporates elements drawn from Dakota cultural traditions that\ntranscend and expose the limitations of realism.”"
+                },
+                {
+                  "letter": "C",
+                  "text": "“Even though The Grass Dancer alternates between realistic and antirealistic modes of\nrepresentation, the influence of Dakota cultural traditions remains constant throughout the\nnovel.”"
+                },
+                {
+                  "letter": "D",
+                  "text": "“Much of the interest of The Grass Dancer derives from the productive tension between\nits competing influences—namely, Dakota cultural traditions and the magical realism of Latin\nAmerica.”"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q13",
+              "number": 13,
+              "prompt": "Which choice most logically completes the text?\n\n\nWhile mammals collectively exhibit the highest ratio of brain size to body size among\nvertebrates, a team led by paleontologist Ornella Bertrand demonstrates that for ten million\nyears following the extinction of dinosaurs, that ratio in fact shrank for mammals as they\nevolved to fill newly vacated ecological niches and their bodies increased in size more\nrapidly than their brains. Competition for resources tends to favor intelligence and thus\nlarge, complex brains, but during this period, the abundance of resources relative to\nmammalian population numbers likely moderated competition and facilitated an increase in\nbody size. Bertrand and her team reason that as population numbers swelled, competition\nintensified, creating conditions that ______",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "favored an evolutionary increase in brain size relative to body size among mammals."
+                },
+                {
+                  "letter": "B",
+                  "text": "restricted resources so drastically that mammals struggled to secure enough food to\nmaintain large brain sizes."
+                },
+                {
+                  "letter": "C",
+                  "text": "encouraged mammals with large brain sizes to adapt to a range of ecological niches."
+                },
+                {
+                  "letter": "D",
+                  "text": "heightened the advantage that large body size conferred on mammals in certain\necological niches."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q14",
+              "number": 14,
+              "prompt": "Which choice most logically completes the text?\nDuckweed is a small freshwater plant that is often exposed to zinc pollution. Sofia Vámos\nand colleagues collected samples of four duckweed ecotypes (genetically and\ngeographically distinct populations within a species), along with water from each ecotype’s\nhabitat. Hypothesizing that each ecotype is adapted to its local conditions in ways that\nbolster its growth and resistance to pollutants, the researchers grew each ecotype in all four\nwater samples and with three levels of zinc (none, low, high). (The researchers did not\nreplicate local differences in light or temperature.) They found that the ecotypes grew\nequally well in all four water samples and that adding zinc consistently enhanced growth,\nregardless of concentration, suggesting that ______",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "there may not be significant differences in the water that each ecotype inhabits, but there\nare significant differences in each ecotype’s resistance to zinc pollution."
+                },
+                {
+                  "letter": "B",
+                  "text": "if each ecotype is indeed locally adapted as the researchers hypothesized, those\nadaptations are to other environmental conditions than the water each ecotype inhabits."
+                },
+                {
+                  "letter": "C",
+                  "text": "while the ecotypes are genetically and geographically distinct, those differences do not\nrepresent adaptations to local environmental conditions."
+                },
+                {
+                  "letter": "D",
+                  "text": "although the researchers’ hypothesis does not appear to be supported, this may be\nbecause the levels of zinc exposure the plants in the experiment received did not match their\nexposure in their natural environments."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q15",
+              "number": 15,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nEnacted in 1991, Latvia’s 4,917-word constitution, in contrast to Chile’s, which was enacted\nin 1980 and contains a far greater number (25,821) of words, ______ as the 4th shortest in\nthe world. Such data are studied by constitutional scholars like Dominic J. Nardi, who can\nuse them to draw broader conclusions.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "ranks"
+                },
+                {
+                  "letter": "B",
+                  "text": "have ranked"
+                },
+                {
+                  "letter": "C",
+                  "text": "rank"
+                },
+                {
+                  "letter": "D",
+                  "text": "are ranking"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q16",
+              "number": 16,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nAstronomers Annie and Edward Maunder meticulously studied historical records of dark\nareas on the sun’s surface known as sunspots. Their work in the late 1800s led to the\nidentification of a period from 1645 to 1715—now known as the Maunder ______ sunspots\nwere notably scarce, a phenomenon that solar physicists continue to investigate.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Minimum—when"
+                },
+                {
+                  "letter": "B",
+                  "text": "Minimum when"
+                },
+                {
+                  "letter": "C",
+                  "text": "Minimum: when"
+                },
+                {
+                  "letter": "D",
+                  "text": "Minimum, when"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q17",
+              "number": 17,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nTo British musician Jacob Collier, substituting the II chord for the bvii chord—its opposite in\npitch and tone—adds expression to improvisation without creating dissonance. This\nconceptualization of harmonic opposites did not originate with ______ in 1985, the idea was\nfirst articulated in Swiss musicologist Ernst Levy’s posthumously published book A Theory of\nHarmony.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Collier, though"
+                },
+                {
+                  "letter": "B",
+                  "text": "Collier, though;"
+                },
+                {
+                  "letter": "C",
+                  "text": "Collier, though,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Collier; though,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q18",
+              "number": 18,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nThe statement “all tarantulas are venomous” is scientific because it could be proved false by\na single observation to the contrary, according to Karl Popper. Popper’s theory ______ that\nscientific hypotheses must be refutable, termed the criterion of falsifiability, rejects the\nconfirmationist position that uses verifiability as the standard for scientific hypotheses.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "dictated"
+                },
+                {
+                  "letter": "B",
+                  "text": "was dictating"
+                },
+                {
+                  "letter": "C",
+                  "text": "dictating"
+                },
+                {
+                  "letter": "D",
+                  "text": "dictates"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q19",
+              "number": 19,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\n\n\nNovelist and playwright Mary Russell Mitford joined with 55 other prominent British writers in\n1837 to petition the US Congress for greater copyright protections. This cadre of renowned\n______ that American publishers’ appropriation of their work caused, in the words of the\npetition, “deep and extensive injuries...on their reputation and property,” helped sow the\nseeds for the International Copyright Act of 1891.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "authors asserted"
+                },
+                {
+                  "letter": "B",
+                  "text": "authors, asserting"
+                },
+                {
+                  "letter": "C",
+                  "text": "authors, had asserted"
+                },
+                {
+                  "letter": "D",
+                  "text": "authors were asserting"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q20",
+              "number": 20,
+              "prompt": "Which choice completes the text with the most logical transition?\nAs anthropologist Cristina Grasseni explains, many artisanal cheeses in Italy, such as\nProvolone Valpadana from Trentino-Alto Adige and Ragusano from Sicily, are highly valued\nfor their regional authenticity; ______ they are prized for being made using local ingredients\nand methods typical of their respective geographic regions.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "that is,"
+                },
+                {
+                  "letter": "B",
+                  "text": "still,"
+                },
+                {
+                  "letter": "C",
+                  "text": "rather,"
+                },
+                {
+                  "letter": "D",
+                  "text": "then,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q21",
+              "number": 21,
+              "prompt": "Which choice completes the text with the most logical transition?\nThe early Australian railroad system of the 1800s was famously uncoordinated. Trains on the\nbroad gauge Victorian Goldfields Railway line in Victoria couldn’t travel on the Hotham Valley\nRailway in Western Australia, which used narrow gauge tracks, without performing time-\n\n\nconsuming conversions. ______ historians refer to this complicated system as the “mixed\ngauge muddle.”",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Rather,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Hence,"
+                },
+                {
+                  "letter": "C",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Likewise,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q22",
+              "number": 22,
+              "prompt": "Which choice completes the text with the most logical transition?\nWhen ordering the branches of the Yukon River system, cartographers tend to begin with\nthe riverway’s lowest point, the Yukon River. ______ hydrologists begin at the top of the river\nsystem, with the Iditarod River and other tributaries fed by the riverway’s source, Alaska’s\nLlewellyn Glacier.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "In a similar way,"
+                },
+                {
+                  "letter": "B",
+                  "text": "By contrast,"
+                },
+                {
+                  "letter": "C",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "D",
+                  "text": "In other words,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q23",
+              "number": 23,
+              "prompt": "Which choice completes the text with the most logical transition?\nCharles Demuth’s 1931 painting Chimney and Water Tower is a classic Precisionist work. The\nPrecisionists strove for cold, machine-like perfection, with crisp lines, geometric shapes, and\nsmooth, brushstroke-free surfaces. ______ Precisionist works often feature skyscrapers,\nbridges, and factories, highlighting these angular structures’ engineered symmetry.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "However,"
+                },
+                {
+                  "letter": "B",
+                  "text": "That said,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Accordingly,"
+                },
+                {
+                  "letter": "D",
+                  "text": "In the end,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q24",
+              "number": 24,
+              "prompt": "Which choice completes the text with the most logical transition?\nAs volcanologists like Tamsin Mather are apt to make clear, not all volcanoes are the same.\nIschia in Italy, for example, is a complex volcano, a mixed landform consisting of related\nvolcanic centers and their associated lava flows and pyroclastic rock. Mount Vsevidof in\nAlaska, ______ is a stratovolcano, a conical volcano built up by many layers of hardened lava\nand tephra.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "in any case,"
+                },
+                {
+                  "letter": "B",
+                  "text": "in contrast,"
+                },
+                {
+                  "letter": "C",
+                  "text": "in fact,"
+                },
+                {
+                  "letter": "D",
+                  "text": "in conclusion,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q25",
+              "number": 25,
+              "prompt": "The student wants to provide a historical overview of the Shackleton expedition. Which\nchoice most effectively uses relevant information from the notes to accomplish this goal?\nWhile researching a topic, a student has taken the following notes:\n1914: British explorer Ernest Shackleton and a small crew embarked on an expedition\nto Antarctica.\n1915: Shackleton’s ship Endurance became stuck in ice before eventually breaking\napart and sinking.\n1916: After more harrowing sea-ice adventures, the entire crew was rescued.\n1959: Historian Alfred Lansing wrote a book called Endurance: Shackleton’s Incredible\nVoyage.\n2001: Filmmaker George Butler released a documentary called The Endurance:\nShackleton’s Legendary Antarctic Expedition.\n\n\n2022: The wreckage of Endurance was discovered at the bottom of Antarctica’s\nWeddell Sea.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Alfred Lansing wrote about the history of Shackleton’s 1914–16 expedition in the book\nEndurance: Shackleton’s Incredible Voyage (1959); years later, in 2001, George Butler\nreleased a documentary about the expedition."
+                },
+                {
+                  "letter": "B",
+                  "text": "In 1914, the Shackleton expedition sailed to Antarctica, where, in 1916, they rescued the\ncrew of a ship that had sunk, Endurance (the wreckage of which was discovered in 2022)."
+                },
+                {
+                  "letter": "C",
+                  "text": "Leaving in 1914 for Antarctica, Shackleton and his crew underwent many harrowing seaice adventures, including losing their ship in 1915, before being rescued in 1916."
+                },
+                {
+                  "letter": "D",
+                  "text": "Shackleton’s expedition has inspired a 1959 book, a 2001 film, and a 2022 discovery."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q26",
+              "number": 26,
+              "prompt": "The student wants to support Browner’s claim about Louis Ballard’s compositions. Which\nchoice most effectively uses relevant information from the notes to accomplish this goal?\nWhile researching a topic, a student has taken the following notes:\nLouis Ballard was a classical composer and citizen of the Quapaw Tribe.\nBallard’s composition Desert Trilogy was nominated for the Pulitzer Prize in music in\n1971.\nHis composition Cacéga Ayuwípi incorporates Hopi notched sticks, a traditional Native\ninstrument.\nEthnomusicologist Tara Browner claims that Ballard’s compositions rely on elements\noriginating within Native musical traditions.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Classical composer Louis Ballard, who wrote Cacéga Ayuwípi, was nominated for the\nPulitzer Prize in music in 1971."
+                },
+                {
+                  "letter": "B",
+                  "text": "Browner claims that Louis Ballard’s compositions, one of which was nominated for the\nPulitzer Prize, rely on elements originating within Native musical traditions."
+                },
+                {
+                  "letter": "C",
+                  "text": "According to Browner, composer Louis Ballard, who wrote Desert Trilogy, relies on\nelements with origins in Native musical traditions."
+                },
+                {
+                  "letter": "D",
+                  "text": "Browner posits that Louis Ballard’s compositions rely on elements originating within\nNative musical traditions; Cacéga Ayuwípi affirms this assertion, incorporating Hopi notched\nsticks."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q27",
+              "number": 27,
+              "prompt": "The student wants to make and support a claim regarding the applicability of the farm-size\ntransition hypothesis to Thailand. Which choice most effectively uses relevant information\nfrom the notes to accomplish this goal?\nWhile researching a topic, a student has taken the following notes:\nThe farm-size transition hypothesis predicts that economic pressures associated with\nmodernization result in smaller farms amalgamating into larger-scale commercial\nfarms.\nMasters et al. (2013): The average farm size in Asia “already has or will soon begin to\nrise.”\nPromkhambut et al. (2023) argue that small rice farms in Thailand have adopted\nmodern farming methods without a significant scaling-up of farm size.\nPromkhambut et al.: “The persistence of [small] rice farms [in Thailand] does not\nrepresent a ‘failure’ to modernize...or a ‘truncated’ transition—it is a response to\nmodernization.”",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Although the farm-size transition hypothesis may be applicable to some countries in Asia,\nit is inconsistent with the development of rice farming in Thailand."
+                },
+                {
+                  "letter": "B",
+                  "text": "Taken together, the studies by Masters et al. and Promkhambut et al. suggest that rice\nfarms in Thailand have responded to the economic pressures associated with modernization\nby expanding in size."
+                },
+                {
+                  "letter": "C",
+                  "text": "Masters et al. report that the average farm size “already has or will soon begin to rise” in\nAsia, a finding that is consistent with the farm-size transition hypothesis."
+                },
+                {
+                  "letter": "D",
+                  "text": "The predicted shift to large-scale commercial farming may not hold true for rice farms in\nThailand, where, according to Promkhambut et al., rice farms have remained small as they’ve\nmodernized."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "number": 2,
+      "name": "Math",
+      "modules": [
+        {
+          "id": "s2-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 2100,
+          "questions": [
+            {
+              "id": "s2-m1-q1",
+              "number": 1,
+              "prompt": "The function is defined by",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "g\n\n. What is the value of\n\ng(x) = 4x + 2\n\ng(x)\n\nwhen\n\n?\n\nx = 2\n\n0\n\n2\n\n4\n\n10"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m1-q2",
+              "number": 2,
+              "prompt": "An event planner is planning an ice-skating event. It costs the event planner a onetime fee of\nto rent the skating rink and\nper attendee. The event planner has a budget of\n. What is the greatest number of attendees possible without exceeding the budget?\n$35\n\n$15.25\n\n$225",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "12"
+            },
+            {
+              "id": "s2-m1-q3",
+              "number": 3,
+              "prompt": "Which expression is equivalent to",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "42x\n\n3\n\n+ 7x\n\n?\n\n7x(6 + 7x)\n\n7x(6x\n\n2\n\n+ 1)\n\n2\n\n7x (6 + 7x)\n\n2\n\n7x (6x + 1)"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s2-m1-q4",
+              "number": 4,
+              "prompt": "For a certain rectangle, the ratio of the width to the length is to . If the width of the\nrectangle is centimeters, what is the length, in centimeters, of the rectangle?\n1\n\n67\n\n2",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "134"
+            },
+            {
+              "id": "s2-m1-q5",
+              "number": 5,
+              "prompt": "The scatterplot shows the relationship between the square footage of clothing stores and\ntheir annual sales, in millions of dollars. According to the trend shown by the data, which of\nthe following is the best prediction for the annual sales, in millions of dollars, of a clothing\nstore that is thousand square feet?\nA.\nB.\nC.\nD.\n12\n\n4\n\n4.1\n\n5.4\n\n7.5\n\n10.2\n\n6.\nx\n\ny = 2,600(a)\n\nThe given equation, where is a positive constant, gives the predicted number of bacteria,\n, in a growth medium hours after the number of bacteria was initially measured. According\nto the equation, what was the predicted number of bacteria initially measured in the growth\nmedium?\na\n\nx\n\ny\n\n\n7.\nIf\nA.\nB.\nC.\nD.\n\n, what is the value of\n\n6x − 8 = 4\n\n?\n\n6x + 8\n\n−4\n\n2\n\n10\n\n20\n\n8.\nA number is\ngreater than a positive number . A number is\nnumber . The number is how many times the number ?\nA.\nB.\nC.\nD.\nf\n\nf\n\n120%\n\ng\n\nh\n\nh\n\n90%\n\nless than the\n\ng\n\n0.12\n\n0.22\n\n1.08\n\n1.98\n\n9.\nA certain university's research farm is\nacres, of which acres contain rice. What\npercentage of the acres of this research farm contain rice?\nA.\nB.\nC.\nD.\n1,000\n\n0.71%\n\n7.1%\n\n71%\n\n710%\n\n71\n\n\n10.\n\nIn the right triangle shown, , , and are positive constants. For an acute angle ,\n. What is the measure of angle , in degrees?\na b\n\nsin D =\n\nc\n\nb\n\nD\n\nD\n\nc\n\n11.\n\nIn the figure shown, lines 𝓁 and are parallel and line intersects both lines. If\nwhich of the following must be true?\nA.\nB.\nk\n\ny < 46\n\ny > 46\n\nt\n\n,\n\nx > 134\n\n\nC.\nD.\n\nx + y < 180\n\nx + y > 180\n\n12.\nLine in the xy-plane has a slope of and passes through the point\nequation defines line ?\nA.\nB.\nC.\nD.\n1\n\nt\n\n8\n\n. Which\n\n(32, −7)\n\nt\n\ny = −11x +\n\ny =\n\ny =\n\nx\n8\n\nx\n8\n\n1\n8\n\n− 11\n\n− 7\n\ny = 32x − 7\n\n13.\n\nThe graph of the function , where\n, gives the total cost , in dollars, for a certain\nvideo game system and games. What is the best interpretation of the slope of the graph in\nthis context?\nA.\nf\n\nx\n\ny = f (x)\n\ny\n\n\nEach game costs .\nB.\nThe video game system costs\nC.\nEach game costs .\nD.\nThe video game system costs\n$16\n\n.\n\n$16\n\n$50\n\n.\n\n$50\n\n14.\nWhat is the radius of the circle in the xy-plane defined by\n\n(x + 2)\n\n2\n\n+ (y + 6)\n\n2\n\n?\n\n= 361\n\n15.\n2\n\nx\n\n2\n\n+ y\n\n= 1,088\n\ny − 4x = 0\n\nA solution to the given system of equations is\nA.\nB.\nC.\nD.\n\n, where\n\n(x, y)\n\n−256\n\n−32\n\n−8\n\n−4\n\n16.\n2\n\nf (x) = 10(x\n\nWhat is the minimum value of the given function?\n\n+ 47)\n\n. What is the value of ?\n\nx < 0\n\ny\n\n\nA.\nB.\nC.\nD.\n\n0.1\n\n4.7\n\n10\n\n470\n\n17.\nThe function is defined by\n, and the function is defined by\nwhere is a positive constant. What is the value of ?\nA.\nB.\nC.\nD.\nj\n\nj(x) =\n\np\n\n10x+5\n\nk\n\n3p\n\nk(x) =\n\nj(x)⋅p\nx+1\n\nk(9)\n\n19\n6\n\n10\n3\n\n95\n13\n\n85\n3\n\n18.\nIn the xy-plane, which of the following does NOT contain any points that are part of the\nsolution set to\n?\nA.\nThe x-axis\nB.\nThe region where\nand\nC.\nThe region where\nand\nD.\nThe region where\nand\n7x − 6y > 42\n\nx > 0\n\ny > 0\n\nx < 0\n\ny < 0\n\nx < 0\n\ny > 0\n\n,\n\n\n19.\n3x + 2y = 10\n\n18x + 12y = 60\n\nHow many solutions does the given system of equations have?\nA.\nExactly one\nB.\nExactly two\nC.\nInfinitely many\nD.\nZero\n20.\n|4x−48|+4\n8\n\n= 6\n\nWhat is the sum of the solutions to the given equation?\nA.\nB.\nC.\nD.\n1\n\n23\n\n24\n\n48\n\n21.\n\n\nA beekeeper’s initial observation of the population of a certain bee colony was\nbees.\nThe beekeeper set a goal to increase the population to\nbees. The beekeeper uses a\nmodel that predicts the population of this bee colony begins at\nand increases by\nbees per week in the first two weeks after the initial observation, and then increases by\nbees per week until the beekeeper’s goal is reached. According to this model, at the end of\nweek after the initial observation, where\n, which of the following functions gives the\npredicted number of bees still needed to reach the beekeeper’s goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "1,600\n\n2,975\n\n1,600\n\n110\n\n165\n\nw\n\nw > 2\n\np(w) = −110 + 165w\n\np(w) = 1,485 − 165w\n\np(w) = 2,865 + 165w\n\np(w) = 2,975 − 165w\n\n22.\nThe quadratic equation\nsolution. What is the value of ?\n\n2\n\n(2x − 64)\n\n, where is a constant, has exactly one real\n\n= a\n\na\n\na"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            }
+          ],
+          "difficulty": "unknown"
+        },
+        {
+          "id": "s2-m2",
+          "number": 2,
+          "label": "Module 2",
+          "timeLimitSeconds": 2100,
+          "questions": [
+            {
+              "id": "s2-m2-q1",
+              "number": 1,
+              "prompt": "Bella has read pages of a -page book. On average, she reads page every minute.\nAt this rate, how much time, in minutes, will she spend reading the remaining pages of the\nbook?\n140",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "40"
+            },
+            {
+              "id": "s2-m2-q2",
+              "number": 2,
+              "prompt": "180\n\n1\n\n\nIn the triangle shown,",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": ". What is the value of ?\n\nP Q = QR\n\nx\n\n156\n\n66\n\n48\n\n24"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m2-q3",
+              "number": 3,
+              "prompt": "What value of is the solution to the equation",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "p\n\n?\n\np − 22 = 1\n\n1\n\n22\n\n21\n\n22\n\n23"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m2-q4",
+              "number": 4,
+              "prompt": "x + y = 105\n\nx + y + y = 185\n\nThe solution to the given system of equations is\n\n(x, y)\n\n. What is the value of ?\ny",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "80"
+            },
+            {
+              "id": "s2-m2-q5",
+              "number": 5,
+              "prompt": "Data set A: , , , , , , , , , ,\nData set B: , , , , , , , , , ,\nData set A and data set B each have values. Which of the following statements best\ncompares the median of data set A and the median of data set B?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The median of data set A is greater than the median of data set B."
+                },
+                {
+                  "letter": "B",
+                  "text": "The median of data set A is less than the median of data set B."
+                },
+                {
+                  "letter": "C",
+                  "text": "The medians of data sets A and B are equal."
+                },
+                {
+                  "letter": "D",
+                  "text": "There is not enough information to compare the medians.\n8 8 8 11 11 14 17 17 20 20 20\n\n8 11 11 14 14 14 14 14 17 17 20\n\n11"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s2-m2-q6",
+              "number": 6,
+              "prompt": "The relationship between the variables and is defined by an exponential equation. When\n, the value of is , and for every increase in the value of by , the corresponding\nvalue of increases by of its previous value. Which equation represents this\nrelationship?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "x\n\nx = 0\n\ny\n\ny\n\ny\n\n70\n\nx\n\n1\n\n30%\n\nx\n\ny = 70(1.30)\n\nx\n\ny = 70(1.03)\n\nx\n\ny = 30(1.70)\n\ny = 30(1.07)\n\nx"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m2-q7",
+              "number": 7,
+              "prompt": "A linear function is defined by\n, where and are constants. If\nand\n, what is the value of ?\ng\n\ng(−2) = −7",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "4"
+            },
+            {
+              "id": "s2-m2-q8",
+              "number": 8,
+              "prompt": "g(x) = ax + b\n\ng(1) = 5\n\na\n\na\n\nb\n\n\nA sample was selected at random from a population. Based on the sample, it is estimated\nthat the mean value of a variable for this population is , with an associated margin of\nerror of . Based on the estimate and associated margin of error, which of the following best\ndescribes the range of plausible values for the population mean?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Any value between and"
+                },
+                {
+                  "letter": "B",
+                  "text": "Any value between and"
+                },
+                {
+                  "letter": "C",
+                  "text": "Any value less than"
+                },
+                {
+                  "letter": "D",
+                  "text": "Any value greater than\n146\n\n1\n\n144\n\n146\n\n145\n\n147\n\n145\n\n147"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s2-m2-q9",
+              "number": 9,
+              "prompt": "A line in the xy-plane has a slope of and passes through the point\nrepresents this line?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "0\n\n. Which equation\n\n(9, 7)\n\ny = 7\n\ny = 9\n\ny = 7x\n\ny = 9x"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m2-q10",
+              "number": 10,
+              "prompt": "The sides of a rectangle are such that the length is centimeters more than times the\nwidth, in centimeters. If the width of the rectangle is centimeters, what is the area, in\nsquare centimeters, of the rectangle?\n4\n\n9\n\n6",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "348"
+            },
+            {
+              "id": "s2-m2-q11",
+              "number": 11,
+              "prompt": "In the xy-plane, the graph of\nintersects the graph of\nat two points.\nWhat is the sum of the x-coordinates of the two points of intersection?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "y = 5x\n\ny = x\n\n2\n\n− 24\n\n−24\n\n−3\n\n5\n\n8"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s2-m2-q12",
+              "number": 12,
+              "prompt": "Triangle",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "XY Z\n\ntan X\n\ntan Y\n\ncos X\n\ncos Y"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "low",
+              "flagReason": "Question text too short - may contain images or figures",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m2-q13",
+              "number": 13,
+              "prompt": "shown is a right triangle. Which of the following has the same value as\n\nsin X\n\n?\n\n\nx\n\ny\n\n0\n\nr\n\n3\n\nr − 21\n\n6\n\nr − 42\n\nFor a linear relationship between and , the table gives three values of and their\ncorresponding values of in terms of a constant . What is the slope of the line in the xyplane that represents this relationship?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "x\n\ny\n\ny\n\nx\n\nr\n\n−21\n\n−7\n\n7\n\n21"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            }
+          ],
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 72,
+  "hasAnswerKey": true,
+  "parsedAt": "2026-03-28T16:37:17.110Z"
+}

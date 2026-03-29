@@ -1,0 +1,2955 @@
+{
+  "id": "cb-practice-test-7",
+  "fileName": "sat-practice-test-7-digital.pdf",
+  "year": 2024,
+  "month": "CB",
+  "version": "Practice Test 7",
+  "type": "US",
+  "sections": [
+    {
+      "id": "s1",
+      "number": 1,
+      "name": "Reading and Writing",
+      "modules": [
+        {
+          "id": "s1-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 2340,
+          "questions": [
+            {
+              "id": "s1-m1-q1",
+              "number": 1,
+              "prompt": "On the basis of extensive calculations and models,\nastronomers in the 1990s predicted that the collision\nof two neutron stars or a neutron star and a black\nhole could release a massive burst of gamma rays in\nan event called a kilonova. This _______ was\nconfirmed with observations in 2017.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "theory"
+                },
+                {
+                  "letter": "B",
+                  "text": "evidence"
+                },
+                {
+                  "letter": "C",
+                  "text": "constant"
+                },
+                {
+                  "letter": "D",
+                  "text": "experiment"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q2",
+              "number": 2,
+              "prompt": "The following text is from John Muir’s 1913\nautobiography The Story of My Boyhood and Youth.\nMuir describes being on a boat.\nThe water was so clear that it was almost\ninvisible, and when we floated slowly out over\nthe plants and fishes, we seemed to be\nmiraculously sustained in the air while exploring\na veritable fairyland.\nAs used in the text, what does the word “clear” most\nnearly mean?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Simple"
+                },
+                {
+                  "letter": "B",
+                  "text": "Understandable"
+                },
+                {
+                  "letter": "C",
+                  "text": "Obvious"
+                },
+                {
+                  "letter": "D",
+                  "text": "Transparent"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q3",
+              "number": 3,
+              "prompt": "At the turn of the twentieth century, Black residents\nof Richmond, Virginia, had few formal options for\nbanking and other financial services. To _______\nthis situation, Maggie Lena Walker chartered the\nSt. Luke Penny Savings Bank in 1903. The bank went\non to provide home loans and savings opportunities\nto thousands of Black families over the following\ndecades.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "prolong"
+                },
+                {
+                  "letter": "B",
+                  "text": "rectify"
+                },
+                {
+                  "letter": "C",
+                  "text": "retain"
+                },
+                {
+                  "letter": "D",
+                  "text": "highlight"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q4",
+              "number": 4,
+              "prompt": "The results of randomized clinical trials testing the\nefficacy of common medical interventions sometimes\nfail to _______ conclusions that practitioners reach\nbased on their real-world observations of patients.\nWhile there are several possible reasons for this, one\nis that practitioners may overlook confounding\nvariables that account for the results they attribute to\nthe interventions in question.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "circumvent"
+                },
+                {
+                  "letter": "B",
+                  "text": "corroborate"
+                },
+                {
+                  "letter": "C",
+                  "text": "disseminate"
+                },
+                {
+                  "letter": "D",
+                  "text": "implement"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q5",
+              "number": 5,
+              "prompt": "Diadromous fish migrate between freshwater and\nmarine biomes during their life cycle. The\nmigration’s obligate nature is why diadromous fish\ncan be _______ those that are merely euryhaline\n(able to tolerate high salinity): the euryhaline\nblackchin tilapia can survive high salinity, but its life\ncycle does not involve relocation to a different\nbiome, as does that of the diadromous wild salmon.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "demarcated from"
+                },
+                {
+                  "letter": "B",
+                  "text": "reconstituted as"
+                },
+                {
+                  "letter": "C",
+                  "text": "conflated with"
+                },
+                {
+                  "letter": "D",
+                  "text": "derived from"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q6",
+              "number": 6,
+              "prompt": "The following text is from Joan Didion’s memoir The\nYear of Magical Thinking. In the text, the author\ndiscusses her home life.\n[I]n California we heated our houses by building\nfires. We built fires even on summer evenings,\nbecause the fog came in. Fires said we were\nhome, we had drawn the circle, we were safe\nthrough the night.\n©2005 by Joan Didion\nWhich choice best describes the function of the\nunderlined portion in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It illustrates that a fire provides comfort beyond physical warmth."
+                },
+                {
+                  "letter": "B",
+                  "text": "It summarizes the information that came before it in the text."
+                },
+                {
+                  "letter": "C",
+                  "text": "It explains that the house remains cold even in summer."
+                },
+                {
+                  "letter": "D",
+                  "text": "It suggests that the author feels comfortable in her home with or without a fire."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q7",
+              "number": 7,
+              "prompt": "The majority of plastics today wind up in landfills or\nare, at best, recycled into materials that have a very\nlimited range of applications. To address this\nproblem, chemist Guoliang Liu and colleagues\ndesigned a reactor that melts polyethylene and\npolypropylene—two widely used plastics—into a\nwax. The wax can then be transformed into a\nsurfactant (a chemical compound usable as a\ndetergent). With this promising new method, plastic\nwaste could be turned into a range of useful cleaning\nproducts.\nWhich choice best states the function of the\nunderlined portion of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It clarifies the meaning of a scientific term."
+                },
+                {
+                  "letter": "B",
+                  "text": "It describes an environmental concern."
+                },
+                {
+                  "letter": "C",
+                  "text": "It explains the significance of a scientific discovery."
+                },
+                {
+                  "letter": "D",
+                  "text": "It identifies a result that confused the team."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q8",
+              "number": 8,
+              "prompt": "The following text is from H.D.’s 1916 poem\n“Mid-Day.” In the poem, the speaker is on a path in\nan outdoor setting.\nA slight wind shakes the seed-pods—\nmy thoughts are spent\nas the black seeds.\nMy thoughts tear me,\nI dread their fever.\nI am scattered in its whirl.\nI am scattered like\nthe hot shrivelled seeds.\nWhich choice best describes the function of the\nunderlined portion in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It illustrates a change in the natural environment that the speaker implies is responsible for the growing misgivings described in the text."
+                },
+                {
+                  "letter": "B",
+                  "text": "It establishes an example of consistency in the natural landscape that the speaker then contrasts with the unpredictability of human emotions."
+                },
+                {
+                  "letter": "C",
+                  "text": "It presents an observation of an occurrence in the natural world that the speaker then expands on to convey a sense of a turbulent interior state."
+                },
+                {
+                  "letter": "D",
+                  "text": "It evokes the ordinariness of an event in nature to suggest that the critical self-evaluation the speaker engages in is a common pursuit."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q9",
+              "number": 9,
+              "prompt": "In 2023 literary scholar Jeremy Douglass cautioned\ntechnology investors and enthusiasts who predict\nconventional books’ ultimate displacement by newer\nforms of media. Douglass observed that the concept\nof an “interactive” text is much older than\ntechnologists assume, extending back to the first time\nreaders scratched notes into a text’s margins. In\naddition, newer media, such as video games, haven’t\nreplaced older forms of entertainment, such as comic\nbooks, but rather exist alongside them. Douglass\nbelieves that rather than supplanting books,\ntechnology is simply making new forms of\nexpression possible.\nWhich choice best describes the function of the\nunderlined portion in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It challenges the stance of the investors and enthusiasts who are mentioned earlier in the text."
+                },
+                {
+                  "letter": "B",
+                  "text": "It explains the basis for the claim made by the technologists mentioned in the text."
+                },
+                {
+                  "letter": "C",
+                  "text": "It suggests that academics are better suited than investors to see the potential uses of contemporary interactive texts."
+                },
+                {
+                  "letter": "D",
+                  "text": "It provides a historical anecdote about the technological challenges involved in reading the earliest interactive texts."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q10",
+              "number": 10,
+              "prompt": "In 2018, scientists discovered an immense\naggregation of Muusoctopus robustus (pearl\noctopuses) along a hydrothermal vent 3,200 meters\nbeneath the ocean’s surface. Water temperatures at\nthis site—named the Octopus Garden—climb as high\nas 11°C , much warmer than the ambient 1.6°C typical\nat this depth. Based on observations made over three\nyears, scientists concluded that temperatures at the\nsite likely confer reproductive benefits and that the\nsite is used exclusively for reproduction—6,000\nM. robustus adults, hatchlings, and eggs were\nobserved at the garden, but no juveniles were\npresent.\nWhich statement about M. robustus and the Octopus\nGarden is best supported by the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "M. robustus leave the Octopus Garden upon reaching an intermediary stage of development."
+                },
+                {
+                  "letter": "B",
+                  "text": "The M. robustus population at the Octopus Garden remains stable despite variations in water temperature."
+                },
+                {
+                  "letter": "C",
+                  "text": "M. robustus nests in the Octopus Garden contain on average fewer but larger eggs than nests at similar ocean depths."
+                },
+                {
+                  "letter": "D",
+                  "text": "The Octopus Garden provides an ideal feeding ground for M. robustus hatchlings."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q11",
+              "number": 11,
+              "prompt": "The following text is from Thomas Mann’s\n1924 novel The Magic Mountain, translated by\nJohn E. Woods in 1995.\nThe story of Hans Castorp that we intend to tell\nhere—not for his sake (for the reader will come\nto know him as a perfectly ordinary, if engaging\nyoung man), but for the sake of the story itself,\nwhich seems to us to be very much worth telling\n(although in Hans Castorp’s favor it should be\nnoted that it is his story, and that not every story\nhappens to everybody)—is a story that took\nplace long ago, and is, so to speak, covered with\nthe patina of history and must necessarily be told\nwith verbs whose tense is that of the deepest past.\n©1995 by Alfred A. Knopf, Inc.\nWhat does the text most strongly suggest about the\nstory of Hans Castorp?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Though it is true that stories of even the most uninteresting people are themselves interesting because all people are unique, the reason this story is interesting is nonetheless difficult to understand because of the passage of time."
+                },
+                {
+                  "letter": "B",
+                  "text": "Even though it is a story of a person of no particular importance, its age and the manner in which it therefore must be told are both indicators that the story itself is important."
+                },
+                {
+                  "letter": "C",
+                  "text": "Like all stories about the lives of inconsequential people, this story must necessarily be related in a particular way if the reason the story is consequential is to be made evident to the audience."
+                },
+                {
+                  "letter": "D",
+                  "text": "It is a remarkable story that happened to an unremarkable person, though one could plausibly argue that because the story is valuable, some of its value accrues to the person at its center."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q12",
+              "number": 12,
+              "prompt": "Percentage of Participants\nWho Mentioned Factors\nResearcher Judith Hilton and her team interviewed\n55 people about which factors would make them\nswitch from using single-use plastic containers to\nreusable containers. The graph shows three of the\nfactors mentioned in the interviews and the\npercentage of participants who mentioned them.\nAccording to the graph, about what percentage of\nparticipants mentioned costs in the interviews?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "10%"
+                },
+                {
+                  "letter": "B",
+                  "text": "95%"
+                },
+                {
+                  "letter": "C",
+                  "text": "25%"
+                },
+                {
+                  "letter": "D",
+                  "text": "50%"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q13",
+              "number": 13,
+              "prompt": "A student in a political science course is writing a\npaper on Aristotle’s The Politics, in which Aristotle\noffers his opinion on political instability and gives\nadvice on how constitutions can be preserved.\nAristotle observes that different forms of government\ncan fall in different ways—for example, oligarchies\nmight grant power to military leaders during\nwartime who refuse to relinquish that power during\npeacetime—but some methods of preserving order\napply across all forms of government. The student\nclaims that in particular Aristotle asserts that in a\nhealthy state obedience to law must be as close to\nabsolute as possible and that even minor infractions\nshould not be ignored.\nWhich quotation from a philosopher’s analysis of\nThe Politics would best support the student’s claim?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "“When constructing his argument regarding the characteristics of a well-functioning government, Aristotle asserts that ‘Transgression creeps in unperceived and at last ruins the state,’ illustrating this idea with a comparison to frequent small expenditures slowly and almost imperceptibly chipping away at a fortune until it is ultimately depleted.”"
+                },
+                {
+                  "letter": "B",
+                  "text": "“When Aristotle writes on the necessity of avoiding corruption in government, he proposes that ‘every state should be so administered and so regulated by law that its magistrates cannot possibly make money.’ In particular, he thinks oligarchies are particularly susceptible to corruption through bribery.”"
+                },
+                {
+                  "letter": "C",
+                  "text": "“When Aristotle considers the health of constitutions, he states that ‘Constitutions are preserved when their destroyers are at a distance, and sometimes also because they are near, for the fear of them makes the government keep in hand the constitution.’ He holds that rulers who wish to see constitutions preserved must that would result from a constitutional collapse.”"
+                },
+                {
+                  "letter": "D",
+                  "text": "“When contrasting different forms of government, Aristotle holds that ‘oligarchies may last, not from any inherent stability in such forms of government, but because the rulers are on good terms both with the unenfranchised and with the governing classes.’ That is, oligarchic leaders who wish to hold on to power will introduce members of disenfranchised classes into government in a participatory role.”"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q14",
+              "number": 14,
+              "prompt": "Almost all works of fiction contain references to the\nprogression of time, including the time of day when\nevents in a story take place. In a 2020 study, Allen\nKim, Charuta Pethe, and Steven Skiena claim that an\nobservable pattern in such references reflects a shift\nin human behavior prompted by the spread of\nelectric lighting in the late nineteenth century. The\nresearchers drew this conclusion from an analysis of\nmore than 50,000 novels spanning many centuries\nand cultures, using software to recognize and tally\nboth specific time references—that is, clock phrases,\nsuch as 7 a.m. or 2:30 p.m.—and implied ones, such\nas mentions of meals typically associated with a\nparticular time of day.\nWhich finding from the study, if true, would most\ndirectly support the researchers’ conclusion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Novels published after the year 1800 include the clock phrase 10 a.m. less often than novels published before the year 1800 do."
+                },
+                {
+                  "letter": "B",
+                  "text": "Novels published after 1880 contain significantly more references to activities occurring after 10 p.m. than do novels from earlier periods."
+                },
+                {
+                  "letter": "C",
+                  "text": "Among novels published in the nineteenth century, implied time references become steadily more common than clock phrases as publication dates approach 1900."
+                },
+                {
+                  "letter": "D",
+                  "text": "The time references of noon (12 p.m.) and midnight (12 a.m.) are used with roughly the same frequency in the novels."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q15",
+              "number": 15,
+              "prompt": "□\nurban population growth\nGDP per capita growth\nPercentage of ULE Attributed to\nPopulation Growth and GDP per Capita\nGrowth in Two World Regions\nIn a study of urban physical expansion, Richa Mahtta\net al. conducted a meta-analysis of more than\n300 cities worldwide to determine whether urban\nland expansion (ULE) was more strongly influenced\nby urban population growth or by growth in gross\ndomestic product (GDP) per capita, a measure of\neconomic activity. Because efficient national\ngovernment is necessary to provide urban services\nand infrastructure that attract economic investment,\nMahtta et al. propose that absent other factors, the\nimportance of GDP per capita growth to ULE would\nlikely increase relative to the importance of\npopulation growth as governments become more\nefficient. If true, this suggests the possibility\nthat _______\nWhich choice most effectively uses data from the\ngraph to complete the statement?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "national governments of countries in Region 1 experienced declines in efficiency in the period from 2000 to 2014, relative to the period from 1970 to 2000."
+                },
+                {
+                  "letter": "B",
+                  "text": "countries in Region 1 experienced a slower rate of economic growth in the period from 2000 to 2014 than countries in Region 2 did, despite increasing national government efficiency in Region 1."
+                },
+                {
+                  "letter": "C",
+                  "text": "national governments of most countries in Region 2 became more efficient in the period from 2000 to 2014 than they had been in the period from 1970 to 2000, but those of several countries in this region did not."
+                },
+                {
+                  "letter": "D",
+                  "text": "national governments of countries in Region 1 and in Region 2 generally became more efficient in the period from 2000 to 2014 than they had been in the period from 1970 to 2000, but at different rates."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q16",
+              "number": 16,
+              "prompt": "China's Imports by Type, 2000-2006\nA student is researching the Chinese government’s\n1992 shift to a market economy that emphasizes\ntrade liberalization. One means of trade liberalization\ninvolves expanding from ordinary imports into an\nemphasis on processing imports, which have\ntwo types: processing with assembly (in which a firm\nobtains raw materials from a foreign trading partner\nwithout payment and sells the final goods to that\npartner, charging for assembly) and processing with\ninputs (in which a firm expends capital to buy raw\nmaterials from a trading partner, processes them into\nfinal goods, and sells those goods to whichever\ntrading partner it chooses). The student asserts that\nwhile initial efforts at trade liberalization were\nshaped by Chinese firms’ limited capital, this\nsituation resolved during the 2000s.\nWhich choice best describes data from the graph that\nsupport the student’s assertion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Processing imports with inputs were greater than both ordinary imports and processing imports with assembly in 2006."
+                },
+                {
+                  "letter": "B",
+                  "text": "From 2000 to 2006, processing imports with inputs rose much more sharply than processing imports with assembly did."
+                },
+                {
+                  "letter": "C",
+                  "text": "From 2000 to 2006, neither processing imports with inputs nor processing imports with assembly were greater than ordinary imports."
+                },
+                {
+                  "letter": "D",
+                  "text": "Processing imports with assembly were greater in 2006 than processing imports with inputs in 2000."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q17",
+              "number": 17,
+              "prompt": "Narwhals are shy whales that live in the remote\nArctic Ocean. Some of them have a long tusk, like a\nunicorn horn, with sensitive nerves. Narwhals are\nknown for this tusk, but many actually don’t have\none and its purpose is unknown. One group of\nscientists came up with a possible purpose in 2014.\nThe scientists suggested that the tusk may help\nnarwhals determine when water around them is\nlikely to start freezing and become dangerous for\nthem. Marine biologist Kristin Laidre disagrees with\nthat idea, though. She reasons that if the narwhal’s\ntusk serves such an important purpose, then it’s most\nlikely that _______\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "some narwhals would seek a new habitat."
+                },
+                {
+                  "letter": "B",
+                  "text": "fewer marine animals would also have tusks."
+                },
+                {
+                  "letter": "C",
+                  "text": "more narwhals would have a tusk."
+                },
+                {
+                  "letter": "D",
+                  "text": "narwhals would become less shy over time."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q18",
+              "number": 18,
+              "prompt": "To address the susceptibility of materials used in\ncomponents of high-performance machinery, such as\naircraft engines, to creep (deformation that is\ninduced by persistent mechanical stress and that\noften occurs at elevated temperatures), materials\nresearchers have developed silicon carbide (SiC)\nfibers for producing aerospace composites. Testing\nthe thermomechanical properties of several\ncommercially available SiC fibers, Ramakrishna T.\nBhatt et al. found that in comparison with\ntwo polymer-derived SiC fibers, a nitrogen-treated\nSiC fiber exhibited a lower minimum creep rate, a\nmeasure of the rate at which a stress-exposed\nmaterial deforms at a constant temperature and\nuniaxial load. The finding suggests that _______\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "unlike the two polymer-derived SiC fibers, the nitrogen-treated SiC fiber can substantially inhibit creep, provided that temperatures and loads are consistent."
+                },
+                {
+                  "letter": "B",
+                  "text": "the two polymer-derived SiC fibers likely hold similar potential for reducing the creep resistance of materials exposed to stress and elevated temperatures, thus prolonging the life span of aerospace machinery."
+                },
+                {
+                  "letter": "C",
+                  "text": "composites based on the two polymer-derived SiC fibers have chemical properties that may improve the mechanical and thermal stability of aerospace equipment to a greater extent than do composites based on the nitrogen-treated SiC fiber."
+                },
+                {
+                  "letter": "D",
+                  "text": "aerospace composites containing the nitrogen-treated SiC fiber may have the ability to withstand mechanical stress for a longer period of time than can aerospace composites containing either of the two polymer-derived SiC fibers."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q19",
+              "number": 19,
+              "prompt": "Which choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "describes"
+                },
+                {
+                  "letter": "B",
+                  "text": "describe"
+                },
+                {
+                  "letter": "C",
+                  "text": "have described"
+                },
+                {
+                  "letter": "D",
+                  "text": "are describing"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q20",
+              "number": 20,
+              "prompt": "Eighteen letters written by Louisa May Alcott, author\nof the popular novel Little Women (1868), can be\nfound at the New York Historical Society. _______\nletters demonstrate Alcott’s keen business sense in\nher interactions with publishers.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "One"
+                },
+                {
+                  "letter": "B",
+                  "text": "That"
+                },
+                {
+                  "letter": "C",
+                  "text": "This"
+                },
+                {
+                  "letter": "D",
+                  "text": "These"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q21",
+              "number": 21,
+              "prompt": "The Dust Bowl was a period of severe drought that\nplagued the Great Plains of the US during the 1930s.\nDuring this time, dust storms _______ over\n100 million acres of land. They even reached as far\neast as New York City.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "are affecting"
+                },
+                {
+                  "letter": "B",
+                  "text": "will have affected"
+                },
+                {
+                  "letter": "C",
+                  "text": "will affect"
+                },
+                {
+                  "letter": "D",
+                  "text": "affected"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q22",
+              "number": 22,
+              "prompt": "One of the earliest known maps is a Babylonian clay\ntablet thought to be almost 4,500 years old. The map\n_______ the area of a plot of land, shows a river\nvalley, and includes the cardinal directions.\nMany mechanical calculators were powered by a\nnotched cylinder mechanism called the Leibniz\nwheel. Leibniz wheel calculators were popular in the\nfirst half of the twentieth _______ these ingenious\ndevices were eventually replaced by electronic\ncalculators.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "century"
+                },
+                {
+                  "letter": "B",
+                  "text": "century,"
+                },
+                {
+                  "letter": "C",
+                  "text": "century, but"
+                },
+                {
+                  "letter": "D",
+                  "text": "century that"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q23",
+              "number": 23,
+              "prompt": "Featuring jagged peaks of black ink surrounded by\nhazy swirls of blue and green paint, Zhang Daqian’s\n1983 painting Panorama of Mount Lu is inspired by\nthe tradition of qinglü shanshui, a type of Chinese\nlandscape painting _______ by the use of blue and\ngreen hues to depict ethereal, otherworldly\nlandscapes.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "has been characterized"
+                },
+                {
+                  "letter": "B",
+                  "text": "will be characterized"
+                },
+                {
+                  "letter": "C",
+                  "text": "characterized"
+                },
+                {
+                  "letter": "D",
+                  "text": "is characterized"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q24",
+              "number": 24,
+              "prompt": "Increasing the heat on an uncovered boiling pot of\nwater does not increase the temperature of the water.\nWhat increases is the rate at which the water turns to\n_______ a pressure cooker pot, though, an airtight\nseal traps the vapor in the pot, creating pressure that\nallows the temperature of the water to increase past\nits boiling point.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "vapor. With"
+                },
+                {
+                  "letter": "B",
+                  "text": "vapor with"
+                },
+                {
+                  "letter": "C",
+                  "text": "vapor, with"
+                },
+                {
+                  "letter": "D",
+                  "text": "vapor and with"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q25",
+              "number": 25,
+              "prompt": "Wanting to celebrate the 100th anniversary of the\nAlaska Purchase, _______ up with a motto that best\ncaptured the state’s unique character. The\ncommission selected “North to the Future,”\nsubmitted by Juneau journalist Richard Peter, as its\nwinning entry.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "a contest sponsored by the Alaska Centennial Commission would award $300 to an individual who came"
+                },
+                {
+                  "letter": "B",
+                  "text": "an award of $300 would go to an individual in a contest sponsored by the Alaska Centennial Commission for coming"
+                },
+                {
+                  "letter": "C",
+                  "text": "$300 would be awarded to an individual by the Alaska Centennial Commission in a contest for coming"
+                },
+                {
+                  "letter": "D",
+                  "text": "the Alaska Centennial Commission sponsored a contest that would award $300 to an individual who came"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q26",
+              "number": 26,
+              "prompt": "Recently unearthed Neronian tools in France\ndating to 54,000 years ago and attributed to Homo\nsapiens may provide evidence that interactions\nbetween Neanderthals and modern humans occurred\n10,000 years earlier than was previously _______\nfinding that, if true, would overturn current theories\nabout H. sapiens migration during the Upper\nPaleolithic.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "supposed; a"
+                },
+                {
+                  "letter": "B",
+                  "text": "supposed. A"
+                },
+                {
+                  "letter": "C",
+                  "text": "supposed a"
+                },
+                {
+                  "letter": "D",
+                  "text": "supposed, a"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q27",
+              "number": 27,
+              "prompt": "Guard cells are specialized cells that are part of a\nplant’s pores. These cells help regulate the amount of\ncarbon dioxide a plant takes in. _______ they help\nregulate a plant’s water loss.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Additionally,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Previously,"
+                },
+                {
+                  "letter": "C",
+                  "text": "In conclusion,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Instead,"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q28",
+              "number": 28,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• Angana Chaudhuri is a scientist.\n• Chaudhuri studies sedimentary rocks.\n• A scientist who studies sedimentary rocks is called\na sedimentologist.\n• Shale, chalk, and sandstone are examples of\nsedimentary rocks.\nThe student wants to identify what type of scientist\nChaudhuri is. Which choice most effectively uses\nrelevant information from the notes to accomplish\nthis goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Chalk is a type of sedimentary rock."
+                },
+                {
+                  "letter": "B",
+                  "text": "Some scientists study shale, chalk, and sandstone."
+                },
+                {
+                  "letter": "C",
+                  "text": "There are scientists who study sedimentary rocks."
+                },
+                {
+                  "letter": "D",
+                  "text": "Chaudhuri is a sedimentologist."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q29",
+              "number": 29,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• “Raymond’s Run” is a short story.\n• It was written by African American author\nToni Cade Bambara.\n• It was first published in her book Gorilla, My Love\nin 1972.\n• It is told from a first person perspective.\n• It takes place in Harlem.\nThe student wants to indicate where the short story\ntakes place. Which choice most effectively uses\nrelevant information from the notes to accomplish\nthis goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "“Raymond’s Run” takes place in Harlem."
+                },
+                {
+                  "letter": "B",
+                  "text": "“Raymond’s Run” was published in Gorilla, My Love."
+                },
+                {
+                  "letter": "C",
+                  "text": "“Raymond’s Run” is told from a first person perspective."
+                },
+                {
+                  "letter": "D",
+                  "text": "“Raymond’s Run” was written by Toni Cade Bambara."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q30",
+              "number": 30,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• The Royal Alcázar of Seville is a historic royal\npalace in Andalucía, Spain.\n• The palace is famous for its intricate tilework.\n• The palace features majolica and arista tiles.\n• In the majolica style, designs are painted directly\non the ceramic tiles.\n• In the arista style, designs are stamped into the\nceramic tiles.\nThe student wants to contrast the two styles of tiles.\nWhich choice most effectively uses relevant\ninformation from the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Tiles in the majolica and arista styles can be found in the Royal Alcázar of Seville in Andalucía, Spain."
+                },
+                {
+                  "letter": "B",
+                  "text": "Featuring tiles in the majolica and arista styles, the Royal Alcázar of Seville in Spain is famous for its intricate tilework."
+                },
+                {
+                  "letter": "C",
+                  "text": "In the arista style, designs are stamped into the ceramic tiles, whereas in the majolica style, the designs are painted directly on them."
+                },
+                {
+                  "letter": "D",
+                  "text": "Among the famous tilework of the Royal Alcázar of Seville are majolica style tiles, made by painting designs directly on the ceramic tiles."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q31",
+              "number": 31,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• Musicians around the world have used protest\nsongs to raise awareness about human rights\nviolations.\n• US folk singer Aunt Molly Jackson released the\nprotest song “Poor Miner’s Farewell” in 1932.\n• It exposed the unlivable wages and dangerous\nworking conditions coal miners faced in Kentucky\nduring the 1920s and 1930s.\n• South African singer-songwriter Hugh Masekela\nreleased the protest song “Bring Him Back Home”\nin 1987.\n• It called on the South African government to free\nNelson Mandela, an anti-apartheid leader who’d\nbeen unjustly imprisoned.\nThe student wants to contrast the song “Poor Miner’s\nFarewell” with the song “Bring Him Back Home.”\nWhich choice most effectively uses relevant\ninformation from the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The songs “Poor Miner’s Farewell” and “Bring Him Back Home” both raised awareness about human rights violations."
+                },
+                {
+                  "letter": "B",
+                  "text": "While both are protest songs, “Poor Miner’s Farewell” is about coal miners in Kentucky, whereas “Bring Him Back Home” is about the anti-apartheid leader Nelson Mandela."
+                },
+                {
+                  "letter": "C",
+                  "text": "Hugh Masekela’s song “Bring Him Back Home,” released in 1987, called on the South African government to free Nelson Mandela."
+                },
+                {
+                  "letter": "D",
+                  "text": "Released in 1932 by Aunt Molly Jackson, the song “Poor Miner’s Farewell” was a protest against the unlivable wages and dangerous working conditions faced by Kentucky coal miners."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q32",
+              "number": 32,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• Political scientist Graham Allison is known for his\nThucydides trap theory.\n• Allison’s theory states that whenever “a rising\npower is threatening to displace a ruling power,”\nconflict is likely.\n• The theory is based on Thucydides’s explanation\nof the conflict between Athens and Sparta.\n• Thucydides wrote that “the rise of Athens and the\nfear this instilled in Sparta” made conflict\n“inevitable.”\n• History professor Edmund Stewart recently\nchallenged the historical basis of the theory.\n• Stewart claimed that Athens was not a rising\npower and that the rivals experienced a “clash of\ncultures” instead.\nThe student wants to use a quotation to challenge\nThucydides’s explanation of the conflict between\nAthens and Sparta. Which choice most effectively\nuses relevant information from the notes to\naccomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "According to Allison’s Thucydides trap theory, whenever “a rising power is threatening to displace a ruling power,” conflict is likely."
+                },
+                {
+                  "letter": "B",
+                  "text": "Thucydides wrote that conflict between the two powers was “inevitable,” although Stewart later challenged the historical basis of this claim."
+                },
+                {
+                  "letter": "C",
+                  "text": "According to Stewart, a “clash of cultures” between Athens and Sparta caused the conflict, not Athens’s rise."
+                },
+                {
+                  "letter": "D",
+                  "text": "Thucydides explained that conflict was caused by “the rise of Athens and the fear this instilled in Sparta,” but Allison disagreed, seeing the conflict as an example of the Thucydides trap."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q33",
+              "number": 33,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• Researchers in a 2021 study wanted to determine\nthe rate at which 17 languages conveyed both\ninformation and syllables.\n• They calculated the bits of information conveyed\nper second (the IR, or information rate).\n• The IR was found to be approximately consistent\nacross the 17 languages (an average of 39 bits per\nsecond).\n• They calculated the number of syllables spoken\nper second (the SR, or syllable rate).\n• Spanish had the second-fastest SR (7.7 syllables\nper second).\n• Vietnamese had the sixteenth-fastest SR\n(5.3 syllables per second).\nThe student wants to present an overview of the\nstudy’s findings. Which choice most effectively uses\nrelevant information from the notes to accomplish\nthis goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The 2021 study determined the information rate (IR) of 17 languages in bits of information conveyed per second."
+                },
+                {
+                  "letter": "B",
+                  "text": "Researchers found that information was conveyed more quickly in Spanish, at 7.7 syllables per second, than in Vietnamese, at 5.3 syllables per second."
+                },
+                {
+                  "letter": "C",
+                  "text": "Vietnamese had the sixteenth-fastest syllable rate, lower than that of Spanish, which had the second-fastest; however, Spanish had the lower information rate of the two."
+                },
+                {
+                  "letter": "D",
+                  "text": "Though some of the languages differed in number of syllables spoken per second, all 17 conveyed information at roughly the same rate."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            }
+          ]
+        },
+        {
+          "id": "s1-m2",
+          "number": 2,
+          "label": "Module 2",
+          "timeLimitSeconds": 2340,
+          "questions": [
+            {
+              "id": "s1-m2-q1",
+              "number": 1,
+              "prompt": "Taking photographs in the mid-1800s was\ncomplicated and expensive, but this changed with the\n1854 invention of the carte de visite, a small photo\nthat cost little to make. Carte de visite photos helped\nto _______ photography: they made it easy and\nenjoyable for everyday people to have their pictures\ntaken, and people at the time loved exchanging these\nsmall photos with friends and family.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "weaken"
+                },
+                {
+                  "letter": "B",
+                  "text": "praise"
+                },
+                {
+                  "letter": "C",
+                  "text": "popularize"
+                },
+                {
+                  "letter": "D",
+                  "text": "isolate"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q2",
+              "number": 2,
+              "prompt": "Painter Alma W. Thomas was fascinated by the\ncolors and shapes found in nature. The flowers and\ntrees in the garden at her home in Washington, DC,\n_______ her work. For example, Thomas’s use of\nbroken brushstrokes was inspired by the way that\nlight would shine through the leaves of a tree in front\nof her house.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "restricted"
+                },
+                {
+                  "letter": "B",
+                  "text": "announced"
+                },
+                {
+                  "letter": "C",
+                  "text": "distracted"
+                },
+                {
+                  "letter": "D",
+                  "text": "influenced"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q3",
+              "number": 3,
+              "prompt": "Which choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "amusing"
+                },
+                {
+                  "letter": "B",
+                  "text": "costly"
+                },
+                {
+                  "letter": "C",
+                  "text": "successful"
+                },
+                {
+                  "letter": "D",
+                  "text": "disastrous"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q4",
+              "number": 4,
+              "prompt": "The recently observed gamma ray burst\nGRB 230307A lasted for 200 seconds, _______ for a\nburst generated by the merger of neutron stars.\nBursts caused by neutron mergers typically last fewer\nthan 2 seconds.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "a coincidence"
+                },
+                {
+                  "letter": "B",
+                  "text": "a reprieve"
+                },
+                {
+                  "letter": "C",
+                  "text": "an incident"
+                },
+                {
+                  "letter": "D",
+                  "text": "an oddity"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q5",
+              "number": 5,
+              "prompt": "-3 - - - In the 1990s, conservationists began planting more\nthan 500,000 native trees in the habitat of the Azores\nbullfinch to boost the bird’s numbers. This approach\nwas apparently _______: the Azores bullfinch’s\npopulation size increased from as few as 100 birds at\nthe end of the 1980s to around 1,300 in 2023.\n-5 - - - In 1776, the United States sent Benjamin Franklin to\nFrance to try to win the country’s support in the\nUnited States’ fight for independence from\nGreat Britain. Franklin was very popular in France.\nThis _______ surely helped him to convince France\nto assist the United States.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "thoughtfulness"
+                },
+                {
+                  "letter": "B",
+                  "text": "esteem"
+                },
+                {
+                  "letter": "C",
+                  "text": "controversy"
+                },
+                {
+                  "letter": "D",
+                  "text": "sincerity"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q6",
+              "number": 6,
+              "prompt": "In the 1950s, scientists didn’t know much about the\nocean floor. Many scientists at the time believed that\nthe ocean floor was mostly flat. But geologist\nMarie Tharp and her research partner,\nBruce Heezen, proved that this idea was wrong.\nUsing sonar data collected from the Atlantic Ocean,\nTharp and Heezen showed that the floor was filled\nwith canyons, mountains, and valleys.\nWhich choice best describes the function of the\nunderlined sentence in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It identifies a scientific belief that Tharp and Heezen showed to be wrong."
+                },
+                {
+                  "letter": "B",
+                  "text": "It describes the design of Tharp and Heezen’s experiment."
+                },
+                {
+                  "letter": "C",
+                  "text": "It emphasizes a disagreement between Tharp and Heezen."
+                },
+                {
+                  "letter": "D",
+                  "text": "It presents data to support a claim that Tharp and Heezen made."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q7",
+              "number": 7,
+              "prompt": "In the early days of television in the 1940s, many\npeople thought that US television programs would\nrely on the financial support of ad agencies and\ncommercial sponsors, much like radio did. But\nadvertisers hesitated to jump into a new space,\nparticularly at a time when the manufacturing of new\ntelevision sets was stalled due to the US’s\ninvolvement in World War II. Broadcasters, like the\nNational Broadcasting Company (NBC), needed to\npersuade advertisers to support their programming\ndespite not knowing whether there would be a robust\ntelevision audience to begin with.\nWhich choice best describes the function of the\nunderlined phrase in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It compares the beginnings of radio programming with the beginnings of television programming in the United States."
+                },
+                {
+                  "letter": "B",
+                  "text": "It identifies a specific reason behind some advertisers’ hesitance to support television."
+                },
+                {
+                  "letter": "C",
+                  "text": "It describes how broadcasters attempted to convince advertisers to support television."
+                },
+                {
+                  "letter": "D",
+                  "text": "It explains why a type of television programming was popular at the time."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q8",
+              "number": 8,
+              "prompt": "The Bayeux Tapestry, from eleventh-century France,\ndepicts 75 scenes over 250 feet of fabric. It was likely\nproduced by workers embroidering in sections and\nthen joining the resulting panels together. It’s\nplausible that the workshop that produced the\ntapestry had never produced one so large, and some\nresearchers claim that a close examination of the\njoins—the places where the panels are stitched\ntogether—suggests that the workers developed and\nrefined their joining process over the course of\nproduction. For example, the first join the workers\ncompleted exhibits a clear misalignment of the\nborders of the two panels, whereas the later joins are\nvirtually invisible.\nWhich choice best describes the function of the\nunderlined sentence in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It identifies the people and events depicted in the Bayeux Tapestry."
+                },
+                {
+                  "letter": "B",
+                  "text": "It supports an argument about the workers who produced the Bayeux Tapestry."
+                },
+                {
+                  "letter": "C",
+                  "text": "It compares the Bayeux Tapestry with other tapestries from eleventh-century France."
+                },
+                {
+                  "letter": "D",
+                  "text": "It describes how researchers determined where the Bayeux Tapestry was produced."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q9",
+              "number": 9,
+              "prompt": "Text 1\nLittle is known about how plate tectonics—wherein\nslabs of Earth’s crust move over, under, away from,\nand against one another—began. Some researchers\ncontend that tectonic movements began around\n3 billion years ago, often noting that computer\nmodels of Earth’s mantle temperature at the time\nindicate that the mantle would have been sufficiently\nmolten to enable the plates to move.\nText 2\nUltimately, any plausible claim about the inception\nof tectonic movement must rest on empirical\nevidence from the geological record. Researcher\nWriju Chowdhury and his team analyzed the\ngeochemistry of zircon crystals to gain insight into\nthe chemical composition of the magma from which\nthe crystals formed and, based on the data,\ncompellingly argue that plate tectonics may have\nbeen occurring as early as 4.2 billion years ago.\nBased on the texts, how would the author of Text 2\nmost likely respond to what “some researchers\ncontend” as described in Text 1?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "By suggesting that the temperature of Earth’s mantle 3 billion years ago was likely insufficient to allow for the level of tectonic movement predicted by computer models"
+                },
+                {
+                  "letter": "B",
+                  "text": "By distinguishing between computer models of Earth’s mantle temperature that reliably predict the onset of plate tectonics and those that do not"
+                },
+                {
+                  "letter": "C",
+                  "text": "By indicating that computer models of Earth’s mantle temperature are still being improved such that new models tend to be much more reliable than their predecessors"
+                },
+                {
+                  "letter": "D",
+                  "text": "By asserting that a more definitive form of evidence than the computer models suggests a different timeline for the onset of plate tectonics on Earth"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q10",
+              "number": 10,
+              "prompt": "Hevea brasiliensis, a tree in the Amazon rainforest, is\nthe world’s main source of natural rubber. The tree\nproduces a milky substance called latex that is used\nto make rubber. The bark of Hevea brasiliensis is\nhelpful for the process of making rubber because it\nhas a unique structure that makes it easy to collect\nlatex. A network of tubes in the tree’s inner bark\nhelps the latex to flow out easily when people make\nsmall cuts into the bark.\nWhat feature of Hevea brasiliensis does the text say is\nhelpful for the process of making rubber?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Its latex produces rubber of an especially high quality."
+                },
+                {
+                  "letter": "B",
+                  "text": "Its bark has a unique structure that makes it easy to collect latex."
+                },
+                {
+                  "letter": "C",
+                  "text": "It is able to grow in a wide variety of climates around the world."
+                },
+                {
+                  "letter": "D",
+                  "text": "It is one of only two trees in the Amazon that produce latex."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q11",
+              "number": 11,
+              "prompt": "Conservationists worldwide are working to protect\necosystems from habitat destruction and biodiversity\nloss, and in many cases, initiatives that rely on\nnatural features or processes can help address such\nchallenges. In response to a rapidly dwindling\npopulation of blueback salmon, the Quinault Indian\nNation (a tribe in Washington State) partnered with\nthe conservation organization Wild Salmon Center\nto restore naturally occurring logjams in the\nQuinault River. The logjams create shady pools\nwhere the blueback salmon can rest and spawn, thus\npromoting blueback population recovery.\nWhich choice best states the main idea of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "A partnership between the Quinault Indian Nation and Wild Salmon Center shows the importance of collaborative approaches to preserving biodiversity."
+                },
+                {
+                  "letter": "B",
+                  "text": "Nature-based approaches can be effective ways to achieve conservation goals."
+                },
+                {
+                  "letter": "C",
+                  "text": "As indicated by a recent project, logjams help the blueback salmon thrive and reproduce."
+                },
+                {
+                  "letter": "D",
+                  "text": "Scientists now realize that nature-based conservation methods offer better long-term solutions to environmental issues than methods that are not nature-based do."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q12",
+              "number": 12,
+              "prompt": "Percentage of Bus Shelters with Shade in a\nCounty by Areas’ Highest Average Summer\nSurface Temperature\nHighest average surface Percentage of bus stops\ntemperature (Fahrenheit) with shaded shelter\n90.2°\n15%\n97.7°\n22%\n102.7°\n24%\n111.2°\n28%\n125.6°\n29%\nA student is researching a bus system in a large\ncounty where surface temperatures vary by area and\nare hot in the summer. The student claims that all\nareas of the county should have more bus stops with\nshaded shelter, noting that the highest percentage of\nbus stops with shaded shelter for any area is\nonly _______\nWhich choice most effectively uses data from the\ntable to complete the student’s claim?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "50%."
+                },
+                {
+                  "letter": "B",
+                  "text": "15%."
+                },
+                {
+                  "letter": "C",
+                  "text": "90%."
+                },
+                {
+                  "letter": "D",
+                  "text": "29%."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q13",
+              "number": 13,
+              "prompt": "Total Areas and 2022 Populations of Smallest\nArabian Peninsula Countries\nTotal area\nCountry (square miles) Population\nKuwait\n6,880\n4,268,873\nBahrain\n304\n1,472,233\nQatar\n4,471\n2,695,122\nIn terms of area and population, the three smallest\nArabian Peninsula countries are Bahrain, Qatar, and\nKuwait.\nAccording to the table, what is the total area of\nBahrain?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "4,268,873 square miles"
+                },
+                {
+                  "letter": "B",
+                  "text": "4,471 square miles"
+                },
+                {
+                  "letter": "C",
+                  "text": "304 square miles"
+                },
+                {
+                  "letter": "D",
+                  "text": "6,880 square miles"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q14",
+              "number": 14,
+              "prompt": "Janet Echelman is a sculptor and fiber artist. She has\ninstalled giant sculptures all over the world.\nEchelman uses bright and flowing materials, which\nmimic the wind. However, while her sculptures\nappear as delicate as a breeze, they are actually very\ndurable.\nWhich quotation from an article about Echelman’s\nsculptures, if true, would most effectively illustrate\nthe underlined claim?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "“Echelman uses a special program that makes a 3D model of the sculpture.”"
+                },
+                {
+                  "letter": "B",
+                  "text": "“The first part of planning a new sculpture is done using paper and pencil, and then a digital program is used to finalize the design.”"
+                },
+                {
+                  "letter": "C",
+                  "text": "“The materials that Echelman uses to build her sculptures are both flexible and strong.”"
+                },
+                {
+                  "letter": "D",
+                  "text": "“Each sculpture is designed to reflect local landmarks from the area in which it is eventually installed.”"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q15",
+              "number": 15,
+              "prompt": "Early Earth is thought to have been characterized by\na stagnant lid tectonic regime, in which the upper\nlithosphere (the outer rocky layer) was essentially\nimmobile and there was no interaction between the\nlithosphere and the underlying mantle. Researchers\ninvestigated the timing of the transition from a\nstagnant lid regime to a tectonic plate regime, in\nwhich the lithosphere is fractured into dynamic\nplates that in turn allow lithospheric and mantle\nmaterial to mix. Examining chemical data from\nlithospheric and mantle-derived rocks ranging from\n285 million to 3.8 billion years old, the researchers\ndated the transition to 3.2 billion years ago.\nWhich finding, if true, would most directly support\nthe researchers’ conclusion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Among rocks known to be older than 3.2 billion years, significantly more are mantle derived than lithospheric, but the opposite is true for the rocks younger than 3.2 billion years."
+                },
+                {
+                  "letter": "B",
+                  "text": "Mantle-derived rocks older than 3.2 billion years show significantly more compositional diversity than lithospheric rocks older than 3.2 billion years do."
+                },
+                {
+                  "letter": "C",
+                  "text": "There is a positive correlation between the age of lithospheric rocks and their chemical similarity to mantle-derived rocks, and that correlation increases significantly in strength at around 3.2 billion years old."
+                },
+                {
+                  "letter": "D",
+                  "text": "Mantle-derived rocks younger than 3.2 billion years contain some material that is not found in older mantle-derived rocks but is found in older and contemporaneous lithospheric rocks."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q16",
+              "number": 16,
+              "prompt": "The Uto-Aztecan language family is divided into a\nnorthern branch, which includes the Shoshone\nlanguage of present-day Idaho and Utah, and a\nsouthern one, whose best-known representative is\nNahuatl, the language of the Aztec Empire in\nMexico. Lexical similarities across the family,\nincluding of botanical terms, confirm descent from a\nsingle language spoken millennia ago, and the\nfamily’s geographical distribution suggests an origin\nin what is now the US Southwest. However,\nvocabulary pertaining to maize isn’t shared between\nnorthern and southern branches, despite the crop’s\nuniversal cultivation among Uto-Aztecan tribes.\nGiven archaeological evidence that maize originated\nin Mexico and diffused northward into what became\nthe US Southwest, some linguists reason\nthat _______\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "northern Uto-Aztecan tribes likely obtained the crop directly from a southern Uto-Aztecan tribe rather than from a non-Uto-Aztecan tribe."
+                },
+                {
+                  "letter": "B",
+                  "text": "variation in maize-related vocabulary within each branch of the Uto-Aztecan family likely reflects regionally specific methods for cultivating the crop."
+                },
+                {
+                  "letter": "C",
+                  "text": "southern Uto-Aztecan tribes likely acquired maize at roughly the same time as northern Uto-Aztecan tribes did, though from different sources."
+                },
+                {
+                  "letter": "D",
+                  "text": "the family’s division into northern and southern branches likely preceded the acquisition of the crop by the Uto-Aztecan tribes."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q17",
+              "number": 17,
+              "prompt": "Data collected by the Mars rover Curiosity at the\nGale Crater’s Murray Formation are suggestive of\nhydrological deposition of sediment in the distant\npast. To characterize the nature of the depositional\nenvironment, Frances Rivera-Hernández et al.\nanalyzed the grain size of Murray Formation\nsediment, finding that although there are intervals of\ncoarse grains, most of the sediment consists of fine\ngrains that show signs of cracking due to episodic\ndesiccation. Rivera-Hernández et al. concluded that\nthe coarse grains are sandstone, which tends to be\ndeposited by flowing water, whereas the fine grains\nare mudstone, which is slowly deposited by settling\nout of suspension in low-flow water, leading the\nresearchers to posit that _______\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "although the area of the Murray Formation experienced a prolonged period of dryness that prevented a lake from forming, water flowing from a distant source was present."
+                },
+                {
+                  "letter": "B",
+                  "text": "a lake existed at the Murray Formation for a prolonged period, though the lake occasionally experienced drying and there were periods in which one or more streams were present."
+                },
+                {
+                  "letter": "C",
+                  "text": "one or more streams existed at the Murray Formation for an extended period until being replaced by a lake that persisted for only a brief period before permanently drying."
+                },
+                {
+                  "letter": "D",
+                  "text": "a stream-fed lake was present at the Murray Formation for an extended period, and although the streams experienced occasional drying, the lake did not."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q18",
+              "number": 18,
+              "prompt": "An analysis by Alain Elayi and colleagues of coins\nminted in Sidon in the fifth and fourth centuries BCE\nreveals a change in their composition over time:\nwhile a coin from circa 450 BCE contains about\n98% silver and 1% copper, a coin from 367 BCE (the\nend of Ba’alšillem II’s reign) contains 74.2% silver\nand 24.7% copper, giving it a relatively yellowish\nappearance that traders would have noticed. Because\ncoins with a silver content below 80% were widely\nconsidered unsuitable for trade, Elayi et al. speculate\nthat a crisis in confidence in the currency occurred in\nSidon around 367 BCE, which was likely relieved—\ndespite Sidon’s persistent oppressive financial\nobligations—as a result of Ba’alšillem II’s successor\nAbd’aštart I’s decision to _______\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "proclaim that the percentage of silver in coins suitable for trade would be raised to a threshold higher than 80% ."
+                },
+                {
+                  "letter": "B",
+                  "text": "keep the amount of silver in Sidonian coins consistent with that in coins minted in 367 BCE but decrease their weight."
+                },
+                {
+                  "letter": "C",
+                  "text": "begin minting heavier coins with a proportion of silver to copper similar to that in coins minted in 367 BCE."
+                },
+                {
+                  "letter": "D",
+                  "text": "fund the mining of some copper deposits that were not available to Ba’alšillem II."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q19",
+              "number": 19,
+              "prompt": "- 19 - - - Nowadays, tug-of-war is usually seen as an informal\ngame one might play at a picnic or in gym class.\nSurprisingly, the Olympic committee once decided\n_______ tug-of-war as an official Olympic event!\nNations competed in the event at the Olympic\nGames from 1900 to 1920.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "included"
+                },
+                {
+                  "letter": "B",
+                  "text": "including"
+                },
+                {
+                  "letter": "C",
+                  "text": "include"
+                },
+                {
+                  "letter": "D",
+                  "text": "to include"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q20",
+              "number": 20,
+              "prompt": "The Globe Theatre in London is a reconstruction of\nthe famed venue where many of Shakespeare’s plays\nwere first performed. In 1613, a prop cannon\n_______ during a performance and ignited the\nGlobe’s thatched roof. No one was hurt, but in\ntwo hours the original Globe was gone.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "malfunctions"
+                },
+                {
+                  "letter": "B",
+                  "text": "will malfunction"
+                },
+                {
+                  "letter": "C",
+                  "text": "has malfunctioned"
+                },
+                {
+                  "letter": "D",
+                  "text": "malfunctioned"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q21",
+              "number": 21,
+              "prompt": "Nigerian American artist Toyin Ojih Odutola uses\nblack-ink pens to create highly detailed drawings of\nhuman figures. Her portrait of novelist\nZadie _______ is displayed in the National Portrait\nGallery in London.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Smith:"
+                },
+                {
+                  "letter": "B",
+                  "text": "Smith—"
+                },
+                {
+                  "letter": "C",
+                  "text": "Smith"
+                },
+                {
+                  "letter": "D",
+                  "text": "Smith,"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q22",
+              "number": 22,
+              "prompt": "When a given industry—water and electricity are\ntwo well-known examples—carries high\ninfrastructural start-up costs and other barriers that\ndiscourage competition, _______ of just one or\ntwo suppliers per municipality. Such industries are\nknown as natural monopolies.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "these often consist"
+                },
+                {
+                  "letter": "B",
+                  "text": "they often consist"
+                },
+                {
+                  "letter": "C",
+                  "text": "it often consists"
+                },
+                {
+                  "letter": "D",
+                  "text": "this often consists"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q23",
+              "number": 23,
+              "prompt": "As the fourteenth US librarian of Congress,\nCarla Hayden has many responsibilities. These\ninclude overseeing the Library of Congress’s\ncollections, which boast more than 162 million\n_______ the US Copyright Office, which registers\ncopyright claims and advises Congress on copyright\nlaw; and appointing the US poet laureate.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "items managing"
+                },
+                {
+                  "letter": "B",
+                  "text": "items, managing"
+                },
+                {
+                  "letter": "C",
+                  "text": "items; managing"
+                },
+                {
+                  "letter": "D",
+                  "text": "items. Managing"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q24",
+              "number": 24,
+              "prompt": "Digital artist Jung (Lulu) Chen primarily uses a suite\nof software tools to create illustrations for children’s\nbooks. To manifest the warm and welcoming\natmospheres that are a signature of her _______ she\noccasionally relies on more traditional art\ntechniques, such as painting with watercolors.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "work, though,"
+                },
+                {
+                  "letter": "B",
+                  "text": "work, though"
+                },
+                {
+                  "letter": "C",
+                  "text": "work; though,"
+                },
+                {
+                  "letter": "D",
+                  "text": "work, though;"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q25",
+              "number": 25,
+              "prompt": "Chondrites are stony meteorites that are\nundifferentiated—that is, their contents have not\nmelted and separated into distinct layers. They are\nhardly _______ many chondrites experience aqueous\nalteration as a result of exposure to fluids, as well as\nfracturing, veining, and localized melting due to\ncollisions with other objects.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "pristine, though"
+                },
+                {
+                  "letter": "B",
+                  "text": "pristine, though;"
+                },
+                {
+                  "letter": "C",
+                  "text": "pristine; though"
+                },
+                {
+                  "letter": "D",
+                  "text": "pristine, though,"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q26",
+              "number": 26,
+              "prompt": "That the geographic center of North America lay in\nthe state of North Dakota was conceded by all\n_______ establishing its precise coordinates proved\nmore divisive.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "involved:"
+                },
+                {
+                  "letter": "B",
+                  "text": "involved,"
+                },
+                {
+                  "letter": "C",
+                  "text": "involved"
+                },
+                {
+                  "letter": "D",
+                  "text": "involved;"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q27",
+              "number": 27,
+              "prompt": "Famous for its four-degree tilt, the leaning\nGarisenda Tower is a popular attraction in Bologna’s\ncity center. However, measurements taken in 2023\nshowed that the tower was rotating in a concerning\nway. _______ city officials closed the area around the\ntower so experts could explore solutions to stabilize\nthe historical twelfth-century structure.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Similarly,"
+                },
+                {
+                  "letter": "B",
+                  "text": "As a result,"
+                },
+                {
+                  "letter": "C",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "D",
+                  "text": "In comparison,"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q28",
+              "number": 28,
+              "prompt": "In 2021, a model developed by astrophysicist\nCatherine Zucker and her research team revealed\nthat the same supernovas responsible for the creation\nand ongoing expansion of the Local Bubble—a\n14-million-year-old cavity in the Milky Way—are\nlikely responsible for the formation of new stars.\n_______ this model detailed how the bubble’s\nexpansion trapped interstellar clouds of gas and dust\nthat became stars upon their eventual collapse.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Hence,"
+                },
+                {
+                  "letter": "B",
+                  "text": "However,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Admittedly,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Specifically,"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q29",
+              "number": 29,
+              "prompt": "Following the American Revolutionary War,\nNorth American foodways underwent a radical\ntransformation, fueled in large part by spiking\nconsumer demand for certain grains. The cultivation,\ntrade, and transportation of maize and wheat,\n_______ reconfigured the continent’s existing\nregional foodways into a globally oriented food\nsystem.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "in particular,"
+                },
+                {
+                  "letter": "B",
+                  "text": "alternatively,"
+                },
+                {
+                  "letter": "C",
+                  "text": "by comparison,"
+                },
+                {
+                  "letter": "D",
+                  "text": "second of all,"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q30",
+              "number": 30,
+              "prompt": "When, in 2017, Cambridge University students\nLucy Moss and Toby Marlow decided they wanted to\ndevelop a musical together, one of their goals was for\ntheir female actor friends to have good parts to play.\n_______ they created the show Six, a retelling of the\nhistory of King Henry VIII’s wives in which each of\nthe six queens has a starring role.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "In other words,"
+                },
+                {
+                  "letter": "B",
+                  "text": "In summary,"
+                },
+                {
+                  "letter": "C",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "D",
+                  "text": "To that end,"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q31",
+              "number": 31,
+              "prompt": "Mountain climbing routes that incorporate metal\nrungs and cables are known as via ferratas, from the\nItalian phrase for “iron path.” As climbing these\nroutes has shifted from a mode of travel to a sporting\nactivity, modern via ferratas are rarely designed to\nsimply reach a summit. _______ new routes favor\nrecreation over utility, aiming to provide a\nchallenging climb or showcase dramatic scenery.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Additionally,"
+                },
+                {
+                  "letter": "B",
+                  "text": "On the other hand,"
+                },
+                {
+                  "letter": "C",
+                  "text": "More often,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Nonetheless,"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q32",
+              "number": 32,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• Samuel Delany is a US writer known for his\nscience fiction.\n• Delany’s science fiction novel Babel-17 was\npublished in 1966.\n• The novel won a Nebula Award in 1967.\n• The Nebula Awards are given each year to the best\nworks of science fiction published in the US.\nThe student wants to indicate the title of a novel that\nwon a Nebula Award. Which choice most effectively\nuses relevant information from the notes to\naccomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Babel-17, by Samuel Delany, won a Nebula Award in 1967."
+                },
+                {
+                  "letter": "B",
+                  "text": "Samuel Delany published a science fiction novel in 1966."
+                },
+                {
+                  "letter": "C",
+                  "text": "Samuel Delany is an award-winning US writer known for his science fiction."
+                },
+                {
+                  "letter": "D",
+                  "text": "One of Samuel Delany’s novels was among the best works of science fiction published in the US."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q33",
+              "number": 33,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• Chiura Obata was a Japanese American artist who\nlived in California.\n• Yosemite Falls is a notable painting by Obata.\n• It uses a Japanese method of black ink painting\ncalled sumi-e.\n• This painting was completed in 1930.\nThe student wants to indicate the year Yosemite Falls\nwas completed. Which choice most effectively uses\nrelevant information from the notes to accomplish\nthis goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "While living in California, Obata created black ink paintings."
+                },
+                {
+                  "letter": "B",
+                  "text": "Obata, a Japanese American artist, created a notable painting."
+                },
+                {
+                  "letter": "C",
+                  "text": "Yosemite Falls was completed in 1930."
+                },
+                {
+                  "letter": "D",
+                  "text": "Obata used a Japanese painting method called sumi-e."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "number": 2,
+      "name": "Math",
+      "modules": [
+        {
+          "id": "s2-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 2580,
+          "questions": [
+            {
+              "id": "s2-m1-q1",
+              "number": 1,
+              "prompt": "The scatterplot shows the temperature, in degrees\nFahrenheit (°F), and the distance above sea level, in\nfeet, measured at 6 locations on Mount Jefferson. A\nline of best fit is also shown.\ny\n80\n70\n60\nTemperature\n(OF)\n-'\n-- -- --',\nc-.\n,__\n2,000 4,000 6,000 8,000\nDistance above sea level (feet)\nX\nAt a distance of 4,000 feet above sea level, what is the\ntemperature, in °F, predicted by the line of best fit?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "47"
+                },
+                {
+                  "letter": "B",
+                  "text": "35"
+                },
+                {
+                  "letter": "C",
+                  "text": "25"
+                },
+                {
+                  "letter": "D",
+                  "text": "0"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q2",
+              "number": 2,
+              "prompt": "Rectangle P has an area of 72 square inches. If a\nrectangle with an area of 20 square inches is removed\nfrom rectangle P, what is the area, in square inches,\nof the resulting figure?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "92"
+                },
+                {
+                  "letter": "B",
+                  "text": "84"
+                },
+                {
+                  "letter": "C",
+                  "text": "80"
+                },
+                {
+                  "letter": "D",
+                  "text": "52"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q3",
+              "number": 3,
+              "prompt": "Ip I + 61 = 65\nWhich value is a solution to the given equation?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": "4"
+                },
+                {
+                  "letter": "C",
+                  "text": "126"
+                },
+                {
+                  "letter": "D",
+                  "text": "130"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q4",
+              "number": 4,
+              "prompt": "Lorenzo purchased a box of cereal and some\nstrawberries at the grocery store. Lorenzo paid $2 for\nthe box of cereal and $1.90 per pound for the\nstrawberries. If Lorenzo paid a total of $9.60 for the\nbox of cereal and the strawberries, which of the\nfollowing equations can be used to find p, the\nnumber of pounds of strawberries Lorenzo\npurchased? (Assume there is no sales tax.)",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "1.90p + 2 = 9.60"
+                },
+                {
+                  "letter": "B",
+                  "text": "1.90p − 2 = 9.60"
+                },
+                {
+                  "letter": "C",
+                  "text": "1.90 + 2p = 9.60"
+                },
+                {
+                  "letter": "D",
+                  "text": "1.90 − 2p = 9.60"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q5",
+              "number": 5,
+              "prompt": "The bar graph summarizes the charge, in\nkilowatt-hours (kWh), a battery received each day\nfor 15 days.\n!'o\n§\nz\n5 4 3 -\n1 0\nI I\nI I I I\nCharge (kWh)\nFor how many of these 15 days did the battery\nreceive a charge of 0 kWh?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "0"
+                },
+                {
+                  "letter": "B",
+                  "text": "1"
+                },
+                {
+                  "letter": "C",
+                  "text": "4"
+                },
+                {
+                  "letter": "D",
+                  "text": "6"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q6",
+              "number": 6,
+              "prompt": "[Free response question 6]",
+              "options": [],
+              "correctAnswer": "9",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m1-q7",
+              "number": 7,
+              "prompt": "[Free response question 7]",
+              "options": [],
+              "correctAnswer": "14",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m1-q8",
+              "number": 8,
+              "prompt": "6 --------A line in the xy-plane has a slope of 9 and passes\nthrough the point (0, −5). The equation y = px + r\ndefines the line, where p and r are constants. What\nis the value of p ?\n-7 - - - - - - - - What is an x-coordinate of an x-intercept of the\ngraph of y = 3(x − 14)(x + 5)(x + 4) in the xy-plane?\ny\n35 0\n30 0\n25 0\nValue (dollars) 20 0\n15 0\n100\n'\ni-..\nI',,\n,-...\n4 8 12 16 20 24\nNumber of months\nafter purchase\nX\nThe graph shown gives the estimated value, in\ndollars, of a tablet as a function of the number of\nmonths since it was purchased. What is the best\ninterpretation of the y-intercept of the graph in this\ncontext?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The estimated value of the tablet was $225 when it was purchased."
+                },
+                {
+                  "letter": "B",
+                  "text": "The estimated value of the tablet 24 months after it was purchased was $225."
+                },
+                {
+                  "letter": "C",
+                  "text": "The estimated value of the tablet had decreased by $225 in the 24 months after it was purchased."
+                },
+                {
+                  "letter": "D",
+                  "text": "The estimated value of the tablet decreased by approximately 2.25% each year after it was purchased."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q9",
+              "number": 9,
+              "prompt": "Triangles EFG and JKL are congruent, where E, F,\nand G correspond to J, K, and L, respectively. The\nmeasure of angle E is 45° and the measure of\nangle F is 20° . What is the measure of angle J ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "20°"
+                },
+                {
+                  "letter": "B",
+                  "text": "45°"
+                },
+                {
+                  "letter": "C",
+                  "text": "135°"
+                },
+                {
+                  "letter": "D",
+                  "text": "160°"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q10",
+              "number": 10,
+              "prompt": "The function f is defined by f (x ) =\n(x + 6). What\nis the value of f (4) ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "20"
+                },
+                {
+                  "letter": "B",
+                  "text": "12"
+                },
+                {
+                  "letter": "C",
+                  "text": "10"
+                },
+                {
+                  "letter": "D",
+                  "text": "5"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q11",
+              "number": 11,
+              "prompt": "i\\\nV\n''\n/\nV\ny\n'\n/\n/V\n\"\n,i\n/ ll6\nV/ 5\nXV 4\n-8 -7 -6 -5 -4 -3 -2 -1 u\n1 2 3\nX\nThe graph of a system of an absolute value function\nand a linear function is shown. What is the solution\n(x , y ) to this system of two equations?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "(0, 8) 7 9 "
+                },
+                {
+                  "letter": "B",
+                  "text": " ,   2 2   7 9"
+                },
+                {
+                  "letter": "C",
+                  "text": "− ,   2 2 "
+                },
+                {
+                  "letter": "D",
+                  "text": "(−3, 4)"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q12",
+              "number": 12,
+              "prompt": "One of the two equations in a system of linear\nequations is given. The system has infinitely many\nsolutions. Which equation could be the second\nequation in this system?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "y = 2(6x) + 3"
+                },
+                {
+                  "letter": "B",
+                  "text": "y = 2(6x + 3)"
+                },
+                {
+                  "letter": "C",
+                  "text": "2( y) = 2(6x ) + 3"
+                },
+                {
+                  "letter": "D",
+                  "text": "2( y) = 2(6x + 3)"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q13",
+              "number": 13,
+              "prompt": "[Free response question 13]",
+              "options": [],
+              "correctAnswer": "294",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m1-q14",
+              "number": 14,
+              "prompt": "y = 9x + 12\nx + 7y = 20\nThe solution to the given system of equations is\n(x , y ). What is the value of y ?\n- 12 - - - - - - y = 6x + 3\n- 15 - - - - - - A circle in the xy-plane has the equation\n(x − 13)2 + ( y − k)2 = 64. Which of the following\ngives the center of the circle and its radius?",
+              "options": [],
+              "correctAnswer": "3",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m1-q15",
+              "number": 15,
+              "prompt": "13 - - - - - - If\np + 18 = 54, what is the value of 7p ?\ny = 9x + 12\nx + 7y = 20\nThe solution to the given system of equations is\n(x , y ). What is the value of y ?\n- 12 - - - - - - y = 6x + 3\n- 15 - - - - - - A circle in the xy-plane has the equation\n(x − 13)2 + ( y − k)2 = 64. Which of the following\ngives the center of the circle and its radius?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The center is at (13, k) and the radius is 8."
+                },
+                {
+                  "letter": "B",
+                  "text": "The center is at (k, 13) and the radius is 8."
+                },
+                {
+                  "letter": "C",
+                  "text": "The center is at (k, 13) and the radius is 64."
+                },
+                {
+                  "letter": "D",
+                  "text": "The center is at (13, k) and the radius is 64."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q16",
+              "number": 16,
+              "prompt": "16 - - - - - - The function f is defined by f (x ) = 1x − 4x I. What\nvalue of a satisfies f (5) − f (a) = −15 ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "−20"
+                },
+                {
+                  "letter": "B",
+                  "text": "5"
+                },
+                {
+                  "letter": "C",
+                  "text": "10"
+                },
+                {
+                  "letter": "D",
+                  "text": "45"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q17",
+              "number": 17,
+              "prompt": "17 - - - - - - For the exponential function f, the value of f (0) is c,\nwhere c is a constant. Of the following equations that\ndefine the function f, which equation shows the value\nof c as the coefficient or the base?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "f (x ) = 22(1.5)x+1"
+                },
+                {
+                  "letter": "B",
+                  "text": "f (x ) = 33(1.5)x"
+                },
+                {
+                  "letter": "C",
+                  "text": "f (x ) = 49.5(1.5)x−1"
+                },
+                {
+                  "letter": "D",
+                  "text": "f (x ) = 74.25(1.5)x−2"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q18",
+              "number": 18,
+              "prompt": "t\nThe function f (t ) = 40,000(2) 790 gives the number\nof bacteria in a population t minutes after an initial\nobservation. How much time, in minutes, does it\ntake for the number of bacteria in the population to\ndouble?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "2"
+                },
+                {
+                  "letter": "B",
+                  "text": "790"
+                },
+                {
+                  "letter": "C",
+                  "text": "1,580"
+                },
+                {
+                  "letter": "D",
+                  "text": "40,000"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q19",
+              "number": 19,
+              "prompt": "12 2\n− =−\nn\nt\nw\nThe given equation relates the variables n, t, and w,\nwhere n > 0 , t > 0, and w > t . Which expression is\nequivalent to n ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "12tw"
+                },
+                {
+                  "letter": "B",
+                  "text": "6(t − w )"
+                },
+                {
+                  "letter": "C",
+                  "text": "w−t 6tw"
+                },
+                {
+                  "letter": "D",
+                  "text": ""
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q20",
+              "number": 20,
+              "prompt": "During a study, the temperature, in degrees\nCelsius (°C), of the air in a chamber was recorded to\nthe nearest integer at certain times. The scatterplot\nshows the recorded temperature y, in °C , of the air in\nthe chamber x minutes after the start of the study.\ny\nTemperature 16\ncoc)\nl42\n3 4\nTime (minutes)\nX\nWhat was the average rate of change, in °C per\nminute, of the recorded temperature of the air in the\nchamber from x = 5 to x = 7 ?",
+              "options": [],
+              "correctAnswer": "5",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m1-q21",
+              "number": 21,
+              "prompt": "In August, a car dealer completed 15 more than\n3 times the number of sales the car dealer completed\nin September. In August and September, the car\ndealer completed 363 sales. How many sales did the\ncar dealer complete in September?\nPoints Q and R lie on a circle with center P. The\nradius of this circle is 9 inches. Triangle PQR has a\nperimeter of 31 inches. What is the length, in inches,\nof QR ?",
+              "options": [],
+              "correctAnswer": "87",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m1-q22",
+              "number": 22,
+              "prompt": "6tw\nw−t\nDuring a study, the temperature, in degrees\nCelsius (°C), of the air in a chamber was recorded to\nthe nearest integer at certain times. The scatterplot\nshows the recorded temperature y, in °C , of the air in\nthe chamber x minutes after the start of the study.\ny\nTemperature 16\ncoc)\nl42\n3 4\nTime (minutes)\nX\nWhat was the average rate of change, in °C per\nminute, of the recorded temperature of the air in the\nchamber from x = 5 to x = 7 ?\nIn August, a car dealer completed 15 more than\n3 times the number of sales the car dealer completed\nin September. In August and September, the car\ndealer completed 363 sales. How many sales did the\ncar dealer complete in September?\nPoints Q and R lie on a circle with center P. The\nradius of this circle is 9 inches. Triangle PQR has a\nperimeter of 31 inches. What is the length, in inches,\nof QR ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "13 2"
+                },
+                {
+                  "letter": "B",
+                  "text": "13"
+                },
+                {
+                  "letter": "C",
+                  "text": "9 2"
+                },
+                {
+                  "letter": "D",
+                  "text": "9"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q23",
+              "number": 23,
+              "prompt": "In a set of four consecutive odd integers, where the\nintegers are ordered from least to greatest, the first\ninteger is represented by x. The product of 12 and\nthe fourth odd integer is at most 26 less than the sum\nof the first and third odd integers. Which inequality\nrepresents this situation?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "12(x + 6) ≤ x + (x + 4) − 26"
+                },
+                {
+                  "letter": "B",
+                  "text": "12(x + 6) ≥ 26 − (x + (x + 4))"
+                },
+                {
+                  "letter": "C",
+                  "text": "12(x + 4) ≤ x + (x + 3) − 26"
+                },
+                {
+                  "letter": "D",
+                  "text": "12(x + 4) ≥ 26 − (x + (x + 3))"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q24",
+              "number": 24,
+              "prompt": "x\n−2s\n−s\ns\ny\nThe table shows three values of x and their\ncorresponding values of y, where s is a constant.\nThere is a linear relationship between x and y.\nWhich of the following equations represents this\nrelationship?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "sx + 3y = 18s"
+                },
+                {
+                  "letter": "B",
+                  "text": "3x + sy = 18s"
+                },
+                {
+                  "letter": "C",
+                  "text": "3x + sy = 18"
+                },
+                {
+                  "letter": "D",
+                  "text": "sx + 3y = 18"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q25",
+              "number": 25,
+              "prompt": "Which of the following expressions is equivalent\nto (sin 24°)(cos 66°) + (cos 24°)(sin 66°) ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "2(cos 66°)(sin 24°)"
+                },
+                {
+                  "letter": "B",
+                  "text": "2(cos 66°) + 2(cos 24°)"
+                },
+                {
+                  "letter": "C",
+                  "text": "(cos 66°)2 + (cos 24°)2"
+                },
+                {
+                  "letter": "D",
+                  "text": "(cos 66°)2 + (sin 24°)2"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q26",
+              "number": 26,
+              "prompt": "The cost of renting a carpet cleaner is $52 for the first\nday and $26 for each additional day. Which of the\nfollowing functions gives the cost C(d ), in dollars, of\nrenting the carpet cleaner for d days, where d is a\npositive integer?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "C(d ) = 26d + 26"
+                },
+                {
+                  "letter": "B",
+                  "text": "C(d ) = 26d + 52"
+                },
+                {
+                  "letter": "C",
+                  "text": "C(d ) = 52d − 26"
+                },
+                {
+                  "letter": "D",
+                  "text": "C(d ) = 52d + 78"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q27",
+              "number": 27,
+              "prompt": "f (x) = (x − 2)(x + 15)\nThe function f is defined by the given equation. For\nwhat value of x does f (x ) reach its minimum?",
+              "options": [],
+              "correctAnswer": "-13",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            }
+          ]
+        },
+        {
+          "id": "s2-m2",
+          "number": 2,
+          "label": "Module 2",
+          "timeLimitSeconds": 2580,
+          "questions": [
+            {
+              "id": "s2-m2-q1",
+              "number": 1,
+              "prompt": "A total of 165 people contributed to a charity event as\neither a donor or a volunteer. 130 people contributed\nas a donor. How many people contributed as a\nvolunteer?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "35"
+                },
+                {
+                  "letter": "B",
+                  "text": "130"
+                },
+                {
+                  "letter": "C",
+                  "text": "165"
+                },
+                {
+                  "letter": "D",
+                  "text": "330"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q2",
+              "number": 2,
+              "prompt": "There are 250 trees in a park. Of these trees, 6% are\nbirch trees. How many birch trees are in the park?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "6"
+                },
+                {
+                  "letter": "B",
+                  "text": "15"
+                },
+                {
+                  "letter": "C",
+                  "text": "75"
+                },
+                {
+                  "letter": "D",
+                  "text": "244"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q3",
+              "number": 3,
+              "prompt": "y\n\\\n\\\n\\\nI\nI\nI\n\\\n\\\n\\\n'\nI\nI\nI\n\\\nI\n\\3\n., /\n\"(\nI\nJ\nf\nX\nThe graph of the quadratic function y = f (x) is\nshown. What is the vertex of the graph?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "(0, −2)"
+                },
+                {
+                  "letter": "B",
+                  "text": "(0, −3)"
+                },
+                {
+                  "letter": "C",
+                  "text": "(0, 2)"
+                },
+                {
+                  "letter": "D",
+                  "text": "(0, 3)"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q4",
+              "number": 4,
+              "prompt": "The number of raccoons in a 131-square-mile area is\nestimated to be 2,358. What is the estimated\npopulation density, in raccoons per square mile, of\nthis area?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "18"
+                },
+                {
+                  "letter": "B",
+                  "text": "131"
+                },
+                {
+                  "letter": "C",
+                  "text": "149"
+                },
+                {
+                  "letter": "D",
+                  "text": "2,376"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q5",
+              "number": 5,
+              "prompt": "A data set of three numbers is shown. If a number\nfrom this data set is selected at random, what is the\nprobability of selecting a positive number?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "0"
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "1"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q6",
+              "number": 6,
+              "prompt": "f (x ) = 45x + 600\nThe function f gives the monthly fee f (x ), in dollars,\na facility charges to keep x crates in storage. What is\nthe monthly fee, in dollars, the facility charges to\nkeep 50 crates in storage?",
+              "options": [],
+              "correctAnswer": "2850",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m2-q7",
+              "number": 7,
+              "prompt": "1\n2 11\nThe function f is defined by f (x ) = 5 − x +\n.\n\n 4\n1\nWhat is the value of f   ?\n 4 \n−11, −9, 26",
+              "options": [],
+              "correctAnswer": "11",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m2-q8",
+              "number": 8,
+              "prompt": "f (x ) = 45x + 600\nThe function f gives the monthly fee f (x ), in dollars,\na facility charges to keep x crates in storage. What is\nthe monthly fee, in dollars, the facility charges to\nkeep 50 crates in storage?\n1\n2 11\nThe function f is defined by f (x ) = 5 − x +\n.\n\n 4\n1\nWhat is the value of f   ?\n 4 \n−11, −9, 26\nIf 8x = 6, what is the value of 72x ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "3"
+                },
+                {
+                  "letter": "B",
+                  "text": "15"
+                },
+                {
+                  "letter": "C",
+                  "text": "54"
+                },
+                {
+                  "letter": "D",
+                  "text": "57"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q9",
+              "number": 9,
+              "prompt": "Which expression is equivalent to 23x 3 + 2x 2 + 9x ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "23x(x 2 + 2x + 9)"
+                },
+                {
+                  "letter": "B",
+                  "text": "9x(23x 3 + 2x 2 + 1)"
+                },
+                {
+                  "letter": "C",
+                  "text": "x(23x 2 + 2x + 9)"
+                },
+                {
+                  "letter": "D",
+                  "text": "34(x 3 + x 2 + x)"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q10",
+              "number": 10,
+              "prompt": "Which expression is equivalent to\n(9x 3 + 5x + 7) + (6x 3 + 5x 2 − 5) ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "15x 6 + 5x 2 − 5x − 35"
+                },
+                {
+                  "letter": "B",
+                  "text": "15x 3 + 10x 2 + 2"
+                },
+                {
+                  "letter": "C",
+                  "text": "15x 6 + 5x 2 + 5x + 2"
+                },
+                {
+                  "letter": "D",
+                  "text": "15x 3 + 5x 2 + 5x + 2"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q11",
+              "number": 11,
+              "prompt": "At a state fair, attendees can win tokens that are\nworth a different number of points depending on the\nshape. One attendee won S square tokens and\nC circle tokens worth a total of 1,120 points. The\nequation 80S + 90C = 1,120 represents this\nsituation. How many more points is a circle token\nworth than a square token?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "950"
+                },
+                {
+                  "letter": "B",
+                  "text": "90"
+                },
+                {
+                  "letter": "C",
+                  "text": "80"
+                },
+                {
+                  "letter": "D",
+                  "text": "10"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q12",
+              "number": 12,
+              "prompt": "In the given scatterplot, a line of best fit for the data\nis shown.\ny\n/\n- /_-\nu\n/\n,/\n/\n/\n/\n- ,/\n/\n-/\n/\n=\n/\nX\nWhich of the following is closest to the slope of the\nline of best fit shown?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "0"
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": "1"
+                },
+                {
+                  "letter": "D",
+                  "text": "2"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q13",
+              "number": 13,
+              "prompt": "A circle has a radius of 2.1 inches. The area of the\ncircle is bπ square inches, where b is a constant.\nWhat is the value of b ?\nIn triangle XYZ , angle Y is a right angle, point P lies\non XZ , and point Q lies on YZ such that PQ is\nparallel to XY . If the measure of angle XZY is 63° ,\nwhat is the measure, in degrees, of angle XPQ ?\n-15 - An investment account was opened with an initial\nvalue of $890 . The value of the account doubled\nevery 10 years. Which equation represents the value\nof the account M(t), in dollars, t years after the\naccount was opened?\n1",
+              "options": [],
+              "correctAnswer": "4.41",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m2-q14",
+              "number": 14,
+              "prompt": "[Free response question 14]",
+              "options": [],
+              "correctAnswer": "153",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m2-q15",
+              "number": 15,
+              "prompt": "A circle has a radius of 2.1 inches. The area of the\ncircle is bπ square inches, where b is a constant.\nWhat is the value of b ?\nIn triangle XYZ , angle Y is a right angle, point P lies\non XZ , and point Q lies on YZ such that PQ is\nparallel to XY . If the measure of angle XZY is 63° ,\nwhat is the measure, in degrees, of angle XPQ ?\n-15 - An investment account was opened with an initial\nvalue of $890 . The value of the account doubled\nevery 10 years. Which equation represents the value\nof the account M(t), in dollars, t years after the\naccount was opened?\n1",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "M(t ) = 890   2  t 1"
+                },
+                {
+                  "letter": "B",
+                  "text": "M(t ) = 890   10 "
+                },
+                {
+                  "letter": "C",
+                  "text": "M(t ) = 890(2) t t"
+                },
+                {
+                  "letter": "D",
+                  "text": "M(t ) = 890(10)"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q16",
+              "number": 16,
+              "prompt": "t\n-16 -y < xx < 22\nFor which of the following tables are all the values of\nx and their corresponding values of y solutions to the\ngiven system of inequalities?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "x y"
+                },
+                {
+                  "letter": "B",
+                  "text": "x y"
+                },
+                {
+                  "letter": "C",
+                  "text": "x y"
+                },
+                {
+                  "letter": "D",
+                  "text": ""
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q17",
+              "number": 17,
+              "prompt": "x\ny\nh15q7\nWhich expression is equivalent to 5 21 ,\nhq\nwhere h > 0 and q > 0 ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": "h10 q14 h3 q3"
+                },
+                {
+                  "letter": "C",
+                  "text": "h10q14"
+                },
+                {
+                  "letter": "D",
+                  "text": "h3q3"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q18",
+              "number": 18,
+              "prompt": "3y = 4x + 17\n−3y = 9x − 23\nThe solution to the given system of equations is\n(x, y). What is the value of 39x ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "−18"
+                },
+                {
+                  "letter": "B",
+                  "text": "−6"
+                },
+                {
+                  "letter": "C",
+                  "text": "6"
+                },
+                {
+                  "letter": "D",
+                  "text": "18"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q19",
+              "number": 19,
+              "prompt": "h(t) = −16t 2 + b\nThe function h estimates an object’s height, in feet,\nabove the ground t seconds after the object is\ndropped, where b is a constant. The function\nestimates that the object is 3,364 feet above the\nground when it is dropped at t = 0. Approximately\nhow many seconds after being dropped does the\nfunction estimate the object will hit the ground?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "7.25"
+                },
+                {
+                  "letter": "B",
+                  "text": "14.50"
+                },
+                {
+                  "letter": "C",
+                  "text": "105.13"
+                },
+                {
+                  "letter": "D",
+                  "text": "210.25"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q20",
+              "number": 20,
+              "prompt": "2x − 8x − 7 = 0\nOne solution to the given equation can be written as\n8− k\n, where k is a constant. What is the value\nof k ?",
+              "options": [],
+              "correctAnswer": "120",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m2-q21",
+              "number": 21,
+              "prompt": "A line intersects two parallel lines, forming\nfour acute angles and four obtuse angles. The\nmeasure of one of the acute angles is (9x − 560) °.\nThe sum of the measures of one of the acute angles\nand three of the obtuse angles is (−18x + w) ° . What\nis the value of w ?\nx\nf(x)\n–4\n– 19\n– 18\nFor the linear function f, the table shows three values\nof x and their corresponding values of f (x ). If\nh(x) = f (x ) − 13, which equation defines h ?",
+              "options": [],
+              "correctAnswer": "1660",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m2-q22",
+              "number": 22,
+              "prompt": "2x − 8x − 7 = 0\nOne solution to the given equation can be written as\n8− k\n, where k is a constant. What is the value\nof k ?\nA line intersects two parallel lines, forming\nfour acute angles and four obtuse angles. The\nmeasure of one of the acute angles is (9x − 560) °.\nThe sum of the measures of one of the acute angles\nand three of the obtuse angles is (−18x + w) ° . What\nis the value of w ?\nx\nf(x)\n–4\n– 19\n– 18\nFor the linear function f, the table shows three values\nof x and their corresponding values of f (x ). If\nh(x) = f (x ) − 13, which equation defines h ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "h(x) = 5x − 4"
+                },
+                {
+                  "letter": "B",
+                  "text": "h(x) = 5x + 7"
+                },
+                {
+                  "letter": "C",
+                  "text": "h(x) = 5x + 9"
+                },
+                {
+                  "letter": "D",
+                  "text": "h(x) = 5x + 20"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q23",
+              "number": 23,
+              "prompt": "-23 - - - - - - - The linear function g is defined by g (x) = b − 15x ,\nc\nwhere b is a constant. If g (c + 7) = , where c is a\nconstant, which of the following expressions\nrepresents the value of b ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "15c"
+                },
+                {
+                  "letter": "B",
+                  "text": "19c +7"
+                },
+                {
+                  "letter": "C",
+                  "text": "61c + 105"
+                },
+                {
+                  "letter": "D",
+                  "text": "15c + 105"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q24",
+              "number": 24,
+              "prompt": "-24 - - - - - - - In triangle XYZ , angle Z is a right angle and the\nlength of YZ is 24 units. If tan X =\n, what is the\nperimeter, in units, of triangle XYZ ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "188"
+                },
+                {
+                  "letter": "B",
+                  "text": "168"
+                },
+                {
+                  "letter": "C",
+                  "text": "84"
+                },
+                {
+                  "letter": "D",
+                  "text": "71"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q25",
+              "number": 25,
+              "prompt": "-25 - - - 2- - - 2\nx + 14x + y = 6y + 109\nIn the xy-plane, the graph of the given equation is a\ncircle. What is the length of the circle’s radius?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": ""
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q26",
+              "number": 26,
+              "prompt": "341\nThe speed of a vehicle is increasing at a rate of\n7.3 meters per second squared. What is this rate, in\nmiles per minute squared, rounded to the nearest\ntenth? (Use 1 mile = 1,609 meters.)",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "0.3"
+                },
+                {
+                  "letter": "B",
+                  "text": "16.3"
+                },
+                {
+                  "letter": "C",
+                  "text": "195.8"
+                },
+                {
+                  "letter": "D",
+                  "text": "220.4"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q27",
+              "number": 27,
+              "prompt": "y = −2.5\ny = x 2 + 8x + k\nIn the given system of equations, k is a positive\ninteger constant. The system has no real solutions.\nWhat is the least possible value of k ?",
+              "options": [],
+              "correctAnswer": "14",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 120,
+  "hasAnswerKey": true,
+  "parsedAt": "2026-03-28T16:37:17.357Z"
+}

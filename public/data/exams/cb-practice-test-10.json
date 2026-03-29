@@ -1,0 +1,2940 @@
+{
+  "id": "cb-practice-test-10",
+  "fileName": "sat-practice-test-10-digital.pdf",
+  "year": 2024,
+  "month": "CB",
+  "version": "Practice Test 10",
+  "type": "US",
+  "sections": [
+    {
+      "id": "s1",
+      "number": 1,
+      "name": "Reading and Writing",
+      "modules": [
+        {
+          "id": "s1-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 2340,
+          "questions": [
+            {
+              "id": "s1-m1-q1",
+              "number": 1,
+              "prompt": "The general store was essential to daily life in the\nrural United States during the 1800s because it\nprovided the supplies that the people living in nearby\ncommunities needed. Also, the store was a _______\nof information. People socializing at the general store\nwould share news and help spread it throughout\ntheir communities.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "source"
+                },
+                {
+                  "letter": "B",
+                  "text": "rival"
+                },
+                {
+                  "letter": "C",
+                  "text": "condition"
+                },
+                {
+                  "letter": "D",
+                  "text": "waste"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q2",
+              "number": 2,
+              "prompt": "For painter Jacob Lawrence, being _______ was an\nimportant part of the artistic process. Because he\npaid close attention to all the details of his Harlem\nneighborhood, Lawrence’s artwork captured nuances\nin the beauty and vitality of the Black experience\nduring the Harlem Renaissance and the\nGreat Migration.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "skeptical"
+                },
+                {
+                  "letter": "B",
+                  "text": "observant"
+                },
+                {
+                  "letter": "C",
+                  "text": "critical"
+                },
+                {
+                  "letter": "D",
+                  "text": "confident"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q3",
+              "number": 3,
+              "prompt": "Former astronaut Ellen Ochoa says that although she\ndoesn’t have a definite idea of when it might happen,\nshe _______ that humans will someday need to be\nable to live in other environments than those found\non Earth. This conjecture informs her interest in\nfuture research missions to the moon.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "demands"
+                },
+                {
+                  "letter": "B",
+                  "text": "speculates"
+                },
+                {
+                  "letter": "C",
+                  "text": "doubts"
+                },
+                {
+                  "letter": "D",
+                  "text": "establishes"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q4",
+              "number": 4,
+              "prompt": "The parasitic dodder plant increases its reproductive\nsuccess by flowering at the same time as the host\nplant it has latched onto. In 2020, Jianqiang Wu and\nhis colleagues determined that the tiny dodder\nachieves this _______ with its host by absorbing and\nutilizing a protein the host produces when it is about\nto flower.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "synchronization"
+                },
+                {
+                  "letter": "B",
+                  "text": "hibernation"
+                },
+                {
+                  "letter": "C",
+                  "text": "prediction"
+                },
+                {
+                  "letter": "D",
+                  "text": "moderation"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q5",
+              "number": 5,
+              "prompt": "Barring major archaeological discoveries, we are\nunlikely to ever have _______ account of ancient\nEgypt under the female pharaoh Hatshepsut, as\nmuch of the evidence of her reign was deliberately\ndestroyed by her successors.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "an imaginative"
+                },
+                {
+                  "letter": "B",
+                  "text": "a superficial"
+                },
+                {
+                  "letter": "C",
+                  "text": "an exhaustive"
+                },
+                {
+                  "letter": "D",
+                  "text": "a questionable"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q6",
+              "number": 6,
+              "prompt": "Jazz tap is a dance form that was first developed in\nAfrican American communities. Jazz tap was heavily\ninfluenced by jazz music, which became widely\npopular in the United States in the 1920s. Tap\ndancers were inspired by jazz music’s quick rhythms\nand by the way jazz musicians would make up\nmelodies as they played. As jazz music continued to\ndevelop in the 1930s and 1940s, jazz tap evolved with\nit. Because of jazz music’s influence, jazz tap quickly\ndeveloped into a dance form that was very different\nfrom earlier kinds of tap dance.\nWhich choice best states the main purpose of\nthe text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It explains why audiences prefer some kinds of music over others."
+                },
+                {
+                  "letter": "B",
+                  "text": "It discusses the development of a dance form."
+                },
+                {
+                  "letter": "C",
+                  "text": "It describes how to play a musical instrument."
+                },
+                {
+                  "letter": "D",
+                  "text": "It emphasizes the popularity of a famous dancer."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q7",
+              "number": 7,
+              "prompt": "Which choice best describes the overall structure of\nthe text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It illustrates how most navigational tools utilize the NCP, recounts how researchers discovered that certain animals are able to navigate without using the NCP, and then proposes that this discovery could be used to avoid problems in navigation associated with reliance on the NCP."
+                },
+                {
+                  "letter": "B",
+                  "text": "It presents a celestial-based method of navigation, enumerates the comparative benefits of an alternative method used by certain animals that is based on an unrelated natural occurrence, and then indicates how researchers assessed the relative accuracy of the two methods."
+                },
+                {
+                  "letter": "C",
+                  "text": "It explains how the NCP is typically located, emphasizes a key difference between how humans and certain animals use the NCP for navigation, and then suggests an alternative way of using the NCP to improve existing navigational instruments."
+                },
+                {
+                  "letter": "D",
+                  "text": "It notes an obstacle to observing an astronomical phenomenon, mentions a navigational ability of certain animals that inspired a solution to that obstacle, and then explains how researchers used an optical device to mimic that ability."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q8",
+              "number": 8,
+              "prompt": "The north celestial pole (NCP)—the fixed point\naround which stars in the Northern Hemisphere\n(including the Sun) appear to rotate—is discernible\nonly at night. Inspired by the navigational strategies\nof some insects and birds, researchers devised a\nmethod for locating the NCP in daytime using\nskylight polarization, which occurs as atmospheric\nparticles scatter sunlight. A polarimetric camera\ncaptures images of polarization patterns, which\nrotate as the Sun’s position in the sky changes;\ntemporal variances across images can then be used to\ndetermine an observer’s latitude and bearing relative\nto the NCP.\nThe following text is adapted from Zora Neale\nHurston’s 1921 short story “John Redding Goes to\nSea.” John is a child who lives in a town in the woods.\nPerhaps ten-year-old John was puzzling to the\nfolk there in the Florida woods for he was an\nimaginative child and fond of day-dreams. The\nSt. John River flowed a scarce three hundred feet\nfrom his back door. On its banks at this point\ngrow numerous palms, luxuriant magnolias\nand bay trees. On the bosom of the stream\nfloat millions of delicately colored hyacinths.\n[John Redding] loved to wander down to the\nwater’s edge, and, casting in dry twigs, watch\nthem sail away down stream to Jacksonville, the\nsea, the wide world and [he] wanted to follow\nthem.\nWhich choice best describes the function of the\nunderlined sentence in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It provides an extended description of a location that John likes to visit."
+                },
+                {
+                  "letter": "B",
+                  "text": "It reveals that some residents of John’s town are confused by his behavior."
+                },
+                {
+                  "letter": "C",
+                  "text": "It illustrates the uniqueness of John’s imagination compared to the imaginations of other children."
+                },
+                {
+                  "letter": "D",
+                  "text": "It suggests that John longs to experience a larger life outside the Florida woods."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q9",
+              "number": 9,
+              "prompt": "Astronomers are confident that the star Betelgeuse\nwill eventually consume all the helium in its core and\nexplode in a supernova. They are much less\nconfident, however, about when this will happen,\nsince that depends on internal characteristics of\nBetelgeuse that are largely unknown. Astrophysicist\nSarafina El-Badry Nance and colleagues recently\ninvestigated whether acoustic waves in the star could\nbe used to determine internal stellar states but\nconcluded that this method could not sufficiently\nreveal Betelgeuse’s internal characteristics to allow its\nevolutionary state to be firmly fixed.\nWhich choice best describes the function of the\nsecond sentence in the overall structure of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It describes a serious limitation of the method used by Nance and colleagues."
+                },
+                {
+                  "letter": "B",
+                  "text": "It presents the central finding reported by Nance and colleagues."
+                },
+                {
+                  "letter": "C",
+                  "text": "It identifies the problem that Nance and colleagues attempted to solve but did not."
+                },
+                {
+                  "letter": "D",
+                  "text": "It explains how the work of Nance and colleagues was received by others in the field."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q10",
+              "number": 10,
+              "prompt": "Text 1\nAstronomer Mark Holland and colleagues examined\nfour white dwarfs—small, dense remnants of past\nstars—in order to determine the composition of\nexoplanets that used to orbit those stars. Studying\nwavelengths of light in the white dwarf atmospheres,\nthe team reported that traces of elements such as\nlithium and sodium support the presence of\nexoplanets with continental crusts similar to Earth’s.\nText 2\nPast studies of white dwarf atmospheres have\nconcluded that certain exoplanets had continental\ncrusts. Geologist Keith Putirka and astronomer\nSiyi Xu argue that those studies unduly emphasize\natmospheric traces of lithium and other individual\nelements as signifiers of the types of rock found on\nEarth. The studies don’t adequately account for\ndifferent minerals made up of various ratios of those\nelements, and the possibility of rock types not found\non Earth that contain those minerals.\nBased on the texts, how would Putirka and Xu\n(Text 2) most likely characterize the conclusion\npresented in Text 1?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "As unexpected, because it was widely believed at the time that white dwarf exoplanets lack"
+                },
+                {
+                  "letter": "B",
+                  "text": "As premature, because researchers have only just begun trying to determine what kinds of crusts white dwarf exoplanets had"
+                },
+                {
+                  "letter": "C",
+                  "text": "As questionable, because it rests on an incomplete consideration of potential sources of the elements detected in white dwarf atmospheres"
+                },
+                {
+                  "letter": "D",
+                  "text": "As puzzling, because it’s unusual to successfully detect lithium and sodium when analyzing wavelengths of light in white dwarf atmospheres"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q11",
+              "number": 11,
+              "prompt": "The following text is from David Barclay Moore’s\n2022 novel Holler of the Fireflies. The narrator has\njust arrived at summer camp, which is far away from\nhis home.\nThis place was different than I thought it would\nbe. I’d never been somewhere like this before. I\ndid feel scared, but also excited.\n©2022 by David Barclay Moore\nAccording to the text, how does the narrator feel\nabout being at summer camp?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "He feels overjoyed."
+                },
+                {
+                  "letter": "B",
+                  "text": "He feels peaceful."
+                },
+                {
+                  "letter": "C",
+                  "text": "He feels both scared and excited."
+                },
+                {
+                  "letter": "D",
+                  "text": "He feels both angry and jealous."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q12",
+              "number": 12,
+              "prompt": "The following text is adapted from Oscar Wilde’s\n1891 novel The Picture of Dorian Gray. Dorian Gray\nis taking his first look at a portrait that Hallward has\npainted of him.\nDorian passed listlessly in front of his picture\nand turned towards it. When he saw it he drew\nback, and his cheeks flushed for a moment with\npleasure. A look of joy came into his eyes, as if he\nhad recognized himself for the first time. He\nstood there motionless and in wonder, dimly\nconscious that Hallward was speaking to him,\nbut not catching the meaning of his words. The\nsense of his own beauty came on him like a\nrevelation. He had never felt it before.\nAccording to the text, what is true about Dorian?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "He wants to know Hallward’s opinion of the portrait."
+                },
+                {
+                  "letter": "B",
+                  "text": "He is delighted by what he sees in the portrait."
+                },
+                {
+                  "letter": "C",
+                  "text": "He prefers portraits to other types of paintings."
+                },
+                {
+                  "letter": "D",
+                  "text": "He is uncertain of Hallward’s talent as an artist."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q13",
+              "number": 13,
+              "prompt": "Choctaw/Cherokee artist Jeffrey Gibson turns\npunching bags used by boxers into art by decorating\nthem with beadwork and elements of Native\ndressmaking. These elements include leather fringe\nand jingles, the metal cones that cover the dresses\nworn in the jingle dance, a women’s dance of the\nOjibwe people. Thus, Gibson combines an object\ncommonly associated with masculinity (a punching\nbag) with art forms traditionally practiced by women\nin most Native communities (beadwork and\ndressmaking). In this way, he rejects the division of\nmale and female gender roles.\nWhich choice best describes Gibson’s approach to\nart, as presented in the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "He draws from traditional Native art forms to create his original works."
+                },
+                {
+                  "letter": "B",
+                  "text": "He has been influenced by Native and non-Native artists equally."
+                },
+                {
+                  "letter": "C",
+                  "text": "He finds inspiration from boxing in designing the dresses he makes."
+                },
+                {
+                  "letter": "D",
+                  "text": "He rejects expectations about color and pattern when incorporating beadwork."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q14",
+              "number": 14,
+              "prompt": "O Pioneers! is a 1913 novel by Willa Cather. In the\nnovel, Cather portrays Alexandra Bergson as having\na deep emotional connection to her natural\nsurroundings: _______\nWhich quotation from O Pioneers! most effectively\nillustrates the claim?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "“She had never known before how much the country meant to her. The chirping of the insects down in the long grass had been like the sweetest music. She had felt as if her heart were hiding down there, somewhere, with the quail and the plover and all the little wild things that crooned or buzzed in the sun. Under the long shaggy ridges, she felt the future stirring.”"
+                },
+                {
+                  "letter": "B",
+                  "text": "“Alexandra talked to the men about their crops and to the women about their poultry. She spent a whole day with one young farmer who had been away at school, and who was experimenting with a new kind of clover hay. She learned a great deal.”"
+                },
+                {
+                  "letter": "C",
+                  "text": "“Alexandra drove off alone. The rattle of her wagon was lost in the howling of the wind, but her lantern, held firmly between her feet, made a moving point of light along the highway, going deeper and deeper into the dark country.”"
+                },
+                {
+                  "letter": "D",
+                  "text": "“It was Alexandra who read the papers and followed the markets, and who learned by the mistakes of their neighbors. It was Alexandra who could always tell about what it had cost to fatten each steer, and who could guess the weight of a hog before it went on the scales closer than John Bergson [her father] himself.”"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q15",
+              "number": 15,
+              "prompt": "The novelist Toni Morrison was the first Black\nwoman to work as an editor at the publishing\ncompany Random House, from 1967 to 1983. A\nscholar asserts that one of Morrison’s likely aims\nduring her time as an editor was to strengthen the\npresence of Black writers on the list of Random\nHouse’s published authors.\nWhich finding, if true, would most strongly support\nthe scholar’s claim?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The percentage of authors published by Random House who were Black rose in the early 1970s and stabilized throughout the decade."
+                },
+                {
+                  "letter": "B",
+                  "text": "Black authors who were interviewed in the 1980s and 1990s were highly likely to cite Toni Morrison’s novels as a principal influence on their work."
+                },
+                {
+                  "letter": "C",
+                  "text": "The novels written by Toni Morrison that were published after 1983 sold significantly more copies and received wider critical acclaim than the novels she wrote that were published before 1983."
+                },
+                {
+                  "letter": "D",
+                  "text": "Works that were edited by Toni Morrison during her time at Random House displayed stylistic characteristics that distinguished them from works that were not edited by Morrison."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q16",
+              "number": 16,
+              "prompt": "Archaeologist Petra Vaiglova, anthropologist\nXinyi Liu, and their colleagues investigated the\ndomestication of farm animals in China during the\nBronze Age (approximately 2000 to 1000 BCE). By\nanalyzing the chemical composition of the bones of\nsheep, goats, and cattle from this era, the team\ndetermined that wild plants made up the bulk of\nsheep’s and goats’ diets, while the cattle’s diet\nconsisted largely of millet, a crop cultivated by\nhumans. The team concluded that cattle were likely\nraised closer to human settlements, whereas sheep\nand goats were allowed to roam farther away.\nWhich finding, if true, would most strongly support\nthe team’s conclusion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Analysis of the animal bones showed that the cattle’s diet also consisted of wheat, which humans widely cultivated in China during the Bronze Age."
+                },
+                {
+                  "letter": "B",
+                  "text": "Further investigation of sheep and goat bones revealed that their diets consisted of small portions of millet as well."
+                },
+                {
+                  "letter": "C",
+                  "text": "Cattle’s diets generally require larger amounts of food and a greater variety of nutrients than do sheep’s and goats’ diets."
+                },
+                {
+                  "letter": "D",
+                  "text": "The diets of sheep, goats, and cattle were found to vary based on what the farmers in each Bronze Age settlement could grow."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q17",
+              "number": 17,
+              "prompt": "Average Survival of Fruit Flies\nfollowing Infection\nQ)\n.....\nCl$\n'\"'\n>\n.E\n;:I\nen\n110\n100\n90\n80\n70\n60\n•..,.., J\n---:i ~\n\\\n\")\"\\\n.. .,\n')\n\\~\n.·.,._,\n._,\n•\\\n•• r\"I\n0-:::-. ....\nDays after infection\n............. type A flies\ntype AB flies\n···O·· type B flies\n- -tJ- -\nIn a study of the evolution of DptA and\nDptB—Diptericin genes encoding antimicrobial\npeptides that combat pathogens and foster beneficial\nmicrobes in fruit flies (Drosophila)—researchers\nassessed Drosophila melanogaster resistance to\npathogenic infections by Providencia rettgeri and\nAcetobacter sicerae, bacteria common in the flies’\nenvironments. Subjects included flies identified by\nmutations silencing DptA, DptB, or both DptA and\nDptB (termed types A, B, and AB, respectively). In\nconjunction with the observation that resistance to\nP. rettgeri correlates with DptA activity but is not\nsignificantly affected by DptB activity, data in the\ngraph of survival rates post–A. sicerae infection\nsuggest that _______\nWhich completion of the text is best supported by\ndata in the graph?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "DptA confers defense against A. sicerae regardless of the presence of DptB."
+                },
+                {
+                  "letter": "B",
+                  "text": "DptB protects against only one bacteria species, whereas DptA protects against multiple species."
+                },
+                {
+                  "letter": "C",
+                  "text": "DptB may have developed as a specific defense against A. sicerae."
+                },
+                {
+                  "letter": "D",
+                  "text": "defense against A. sicerae is strongest when both DptA and DptB are present."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q18",
+              "number": 18,
+              "prompt": "Euphorbia esula (leafy spurge) is a Eurasian plant\nthat has become invasive in North America, where it\ndisplaces native vegetation and sickens cattle. E. esula\ncan be controlled with chemical herbicides, but that\napproach can also kill harmless plants nearby. Recent\nresearch on introducing engineered DNA into plant\nspecies to inhibit their reproduction may offer a path\ntoward exclusively targeting E. esula,\nconsequently _______\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "making individual E. esula plants more susceptible to existing chemical herbicides."
+                },
+                {
+                  "letter": "B",
+                  "text": "enhancing the ecological benefits of E. esula in North America."
+                },
+                {
+                  "letter": "C",
+                  "text": "enabling cattle to consume E. esula without becoming sick."
+                },
+                {
+                  "letter": "D",
+                  "text": "reducing invasive E. esula numbers without harming other organisms."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q19",
+              "number": 19,
+              "prompt": "A team of biologists led by Jae-Hoon Jung, Antonio\nD. Barbosa, and Stephanie Hutin investigated the\nmechanism that allows Arabidopsis thaliana (thale\ncress) plants to accelerate flowering at high\ntemperatures. They replaced the protein ELF3 in the\nplants with a similar protein found in another species\n(stiff brome) that, unlike A. thaliana, displays no\nacceleration in flowering with increased temperature.\nA comparison of unmodified A. thaliana plants with\nthe altered plants showed no difference in flowering\nat 22° Celsius, but at 27° Celsius, the unmodified\nplants exhibited accelerated flowering while the\naltered ones did not, which suggests that _______\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "temperature-sensitive accelerated flowering is unique to A. thaliana."
+                },
+                {
+                  "letter": "B",
+                  "text": "A. thaliana increases ELF3 production as temperatures rise."
+                },
+                {
+                  "letter": "C",
+                  "text": "ELF3 enables A. thaliana to respond to increased temperatures."
+                },
+                {
+                  "letter": "D",
+                  "text": "temperatures of at least 22° Celsius are required for A. thaliana to flower."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q20",
+              "number": 20,
+              "prompt": "The Alvarez theory, developed in 1980 by physicist\nLuis Walter Alvarez and his geologist son Walter\nAlvarez, maintained that the secondary effects of an\nasteroid impact caused many dinosaurs and other\nanimals to die _______ it left unexplored the\nquestion of whether unrelated volcanic activity might\nhave also contributed to the mass extinctions.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "out but"
+                },
+                {
+                  "letter": "B",
+                  "text": "out, but"
+                },
+                {
+                  "letter": "C",
+                  "text": "out"
+                },
+                {
+                  "letter": "D",
+                  "text": "out,"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q21",
+              "number": 21,
+              "prompt": "Typically, underlines, scribbles, and notes left in the\nmargins by a former owner lower a book’s\n_______ when the former owner is a famous poet\nlike Walt Whitman, such markings, known as\nmarginalia, can be a gold mine to literary scholars.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "value, but"
+                },
+                {
+                  "letter": "B",
+                  "text": "value"
+                },
+                {
+                  "letter": "C",
+                  "text": "value,"
+                },
+                {
+                  "letter": "D",
+                  "text": "value but"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q22",
+              "number": 22,
+              "prompt": "In winter, the diets of Japanese macaques, also\nknown as snow monkeys, are influenced more\nby food availability than by food preference.\nAlthough the monkeys prefer to eat vegetation and\nland-dwelling invertebrates, those food sources may\nbecome unavailable because of extensive snow and\nice cover, _______ the monkeys to hunt for marine\nanimals in any streams that have not frozen over.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "forces"
+                },
+                {
+                  "letter": "B",
+                  "text": "to force"
+                },
+                {
+                  "letter": "C",
+                  "text": "forcing"
+                },
+                {
+                  "letter": "D",
+                  "text": "forced"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q23",
+              "number": 23,
+              "prompt": "While many video game creators strive to make their\ngraphics ever more ______ others look to the past,\ndeveloping titles with visuals inspired by the “8-bit”\ngames of the 1980s and 1990s. (The term “8-bit”\nrefers to a console whose processor could only\nhandle eight bits of data at once.)\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "lifelike but"
+                },
+                {
+                  "letter": "B",
+                  "text": "lifelike"
+                },
+                {
+                  "letter": "C",
+                  "text": "lifelike,"
+                },
+                {
+                  "letter": "D",
+                  "text": "lifelike, but"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q24",
+              "number": 24,
+              "prompt": "Food and the sensation of taste are central to\nMonique Truong’s novels. In The Book of Salt, for\nexample, the exiled character of Bình connects to his\nnative Saigon through the food he prepares, while in\nBitter in the Mouth, the character of Linda ______ a\nform of synesthesia whereby the words she hears\nevoke tastes.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "experienced"
+                },
+                {
+                  "letter": "B",
+                  "text": "had experienced"
+                },
+                {
+                  "letter": "C",
+                  "text": "experiences"
+                },
+                {
+                  "letter": "D",
+                  "text": "will be experiencing"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q25",
+              "number": 25,
+              "prompt": "Along with carbon dioxide concentration and\ntemperature, light intensity affects the chemical\nreaction rate of _______ as light intensity increases,\nso does the rate at which the reactants (water and\ncarbon dioxide) are converted into their products\n(glucose and oxygen).\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "photosynthesis and"
+                },
+                {
+                  "letter": "B",
+                  "text": "photosynthesis,"
+                },
+                {
+                  "letter": "C",
+                  "text": "photosynthesis:"
+                },
+                {
+                  "letter": "D",
+                  "text": "photosynthesis"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q26",
+              "number": 26,
+              "prompt": "In Marisol’s 1968 sculpture Mi Mama y Yo, gone are\nthe types of pop culture references that made the\nParisian-born Venezuelan American artist a star at\nthe height of the pop art movement. In _______\nplace is a far more personal subject: a sculptural\ndepiction of the artist as a young girl with her\nmother.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "its"
+                },
+                {
+                  "letter": "B",
+                  "text": "they’re"
+                },
+                {
+                  "letter": "C",
+                  "text": "their"
+                },
+                {
+                  "letter": "D",
+                  "text": "it’s"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q27",
+              "number": 27,
+              "prompt": "-27 - - The ghazal, a poetic form originating in\nseventh‑century Arabic poetry, has an intricate\nstructure. The twentieth‑century Kashmiri American\npoet Agha Shahid Ali explains that each one of a\nghazal’s couplets, while adhering to the patterns of\nrhyme (qafia) and refrain (radif) established in the\npoem’s opening lines (matla), _______ thematically\nand logically autonomous, resulting in a poem with\n“a stringently formal disunity.”\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "is"
+                },
+                {
+                  "letter": "B",
+                  "text": "were"
+                },
+                {
+                  "letter": "C",
+                  "text": "have been"
+                },
+                {
+                  "letter": "D",
+                  "text": "are"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q28",
+              "number": 28,
+              "prompt": "Organisms have evolved a number of surprising\nadaptations to ensure their survival in adverse\nconditions. Tadpole shrimp (Triops longicaudatus)\nembryos, ______ can pause development for over\nten years during extended periods of drought.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "in contrast,"
+                },
+                {
+                  "letter": "B",
+                  "text": "for example,"
+                },
+                {
+                  "letter": "C",
+                  "text": "meanwhile,"
+                },
+                {
+                  "letter": "D",
+                  "text": "consequently,"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q29",
+              "number": 29,
+              "prompt": "When Chinese director Chloé Zhao accepted the\nOscar in 2021 for her film Nomadland, she made\nAcademy Award history. _______ only one other\nwoman, Kathryn Bigelow of the United States, had\nbeen named best director at the Oscars, making Zhao\nthe second woman and the first Asian woman to win\nthe award.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "As a result,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Previously,"
+                },
+                {
+                  "letter": "C",
+                  "text": "However,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Likewise,"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q30",
+              "number": 30,
+              "prompt": "If the formation of Earth’s mantle had been purely a\nproduct of core differentiation—whereby heavier\nelements sink toward the core and lighter elements\nrise—the upper mantle would be depleted of heavy\nsiderophile elements. Siderophiles are much more\nabundant in the mantle than predicted in that model,\nhowever. _______ extraterrestrial material\ncontaining siderophiles, likely from asteroid or\ncomet impacts, almost certainly accreted to Earth\nfollowing core differentiation.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "That said,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Hence,"
+                },
+                {
+                  "letter": "C",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Likewise,"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q31",
+              "number": 31,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• In 2013, archaeologists studied cat bone fragments\nthey had found in the ruins of Quanhucun, a\nChinese farming village.\n• The fragments were estimated to be\n5,300 years old.\n• A chemical analysis of the fragments revealed that\nthe cats had consumed large amounts of grain.\n• The grain consumption is evidence that the\nQuanhucun cats may have been domesticated.\nThe student wants to present the Quanhucun study\nand its conclusions. Which choice most effectively\nuses relevant information from the notes to\naccomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "As part of a 2013 study of cat domestication, a chemical analysis was conducted on cat bone fragments found in Quanhucun, China."
+                },
+                {
+                  "letter": "B",
+                  "text": "A 2013 analysis of cat bone fragments found in Quanhucun, China, suggests that cats there may have been domesticated 5,300 years ago."
+                },
+                {
+                  "letter": "C",
+                  "text": "In 2013, archaeologists studied what cats in Quanhucun, China, had eaten more than 5,000 years ago."
+                },
+                {
+                  "letter": "D",
+                  "text": "Cat bone fragments estimated to be 5,300 years old were found in Quanhucun, China, in 2013."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q32",
+              "number": 32,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• Gaspar Enriquez is an artist.\n• He specializes in portraits of Mexican Americans.\n• A portrait is an artistic representation of a person.\n• Enriquez completed a painting of the sculptor\nLuis Jimenez in 2003.\n• He completed a drawing of the writer\nRudolfo Anaya in 2016.\nThe student wants to emphasize a difference between\nthe two portraits. Which choice most effectively uses\nrelevant information from the notes to accomplish\nthis goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The portraits, or artistic representations, of Luis Jimenez and Rudolfo Anaya were both completed by Enriquez in the early 2000s."
+                },
+                {
+                  "letter": "B",
+                  "text": "Enriquez has completed portraits of numerous Mexican Americans, including sculptor Luis Jimenez and writer Rudolfo Anaya."
+                },
+                {
+                  "letter": "C",
+                  "text": "While both are by Enriquez, the 2003 portrait of Luis Jimenez is a painting, and the 2016 portrait of Rudolfo Anaya is a drawing."
+                },
+                {
+                  "letter": "D",
+                  "text": "Luis Jimenez was a Mexican American sculptor, and Rudolfo Anaya was a Mexican American writer."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m1-q33",
+              "number": 33,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• The Gullah are a group of African Americans who\nhave lived in parts of the southeastern United\nStates since the 18th century.\n• Gullah culture is influenced by West African and\nCentral African traditions.\n• Louise Miller Cohen is a Gullah historian,\nstoryteller, and preservationist.\n• She founded the Gullah Museum of Hilton Head\nIsland, South Carolina, in 2003.\n• Vermelle Rodrigues is a Gullah historian, artist,\nand preservationist.\n• She founded the Gullah Museum of Georgetown,\nSouth Carolina, in 2003.\nThe student wants to emphasize the duration and\npurpose of Cohen’s and Rodrigues’s work. Which\nchoice most effectively uses relevant information\nfrom the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "At the Gullah Museums in Hilton Head Island and Georgetown, South Carolina, visitors can learn more about the Gullah people who have lived in the region for centuries."
+                },
+                {
+                  "letter": "B",
+                  "text": "Louise Miller Cohen and Vermelle Rodrigues have worked to preserve the culture of the Gullah people, who have lived in the United States since the 18th century."
+                },
+                {
+                  "letter": "C",
+                  "text": "Since 2003, Louise Miller Cohen and Vermelle Rodrigues have worked to preserve Gullah culture through their museums."
+                },
+                {
+                  "letter": "D",
+                  "text": "Influenced by the traditions of West and Central Africa, Gullah culture developed in parts of the southeastern United States in the 18th century."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            }
+          ]
+        },
+        {
+          "id": "s1-m2",
+          "number": 2,
+          "label": "Module 2",
+          "timeLimitSeconds": 2340,
+          "questions": [
+            {
+              "id": "s1-m2-q1",
+              "number": 1,
+              "prompt": "In the early 1800s, the Cherokee scholar Sequoyah\ncreated the first script, or writing system, for an\nIndigenous language in the United States. Because it\nrepresented the sounds of spoken Cherokee so\naccurately, his script was easy to learn and thus\nquickly achieved _______ use: by 1830, over\n90 percent of the Cherokee people could read and\nwrite it.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "widespread"
+                },
+                {
+                  "letter": "B",
+                  "text": "careful"
+                },
+                {
+                  "letter": "C",
+                  "text": "unintended"
+                },
+                {
+                  "letter": "D",
+                  "text": "infrequent"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q2",
+              "number": 2,
+              "prompt": "Researchers have struggled to pinpoint specific\ncauses for hiccups, which happen when a\nperson’s diaphragm contracts _______. However,\nneuroscientist Kimberley Whitehead has found that\nthese uncontrollable contractions may play an\nimportant role in helping infants regulate their\nbreathing.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "involuntarily"
+                },
+                {
+                  "letter": "B",
+                  "text": "beneficially"
+                },
+                {
+                  "letter": "C",
+                  "text": "strenuously"
+                },
+                {
+                  "letter": "D",
+                  "text": "smoothly"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q3",
+              "number": 3,
+              "prompt": "The province of Xoconochco was situated on the\nPacific coast, hundreds of kilometers southeast of\nTenochtitlan, the capital of the Aztec Empire.\nBecause Xoconochco’s location within the empire\nwas so _______, cacao and other trade goods\nproduced there could reach the capital only after a\nlong overland journey.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "unobtrusive"
+                },
+                {
+                  "letter": "B",
+                  "text": "concealed"
+                },
+                {
+                  "letter": "C",
+                  "text": "approximate"
+                },
+                {
+                  "letter": "D",
+                  "text": "peripheral"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q4",
+              "number": 4,
+              "prompt": "Proposals to raise the age at which retirees begin\nreceiving government transfers of funds are generally\ndiscussed in terms of the effects on transfer\nrecipients, but Andria Smythe has argued that\ndelaying such transfers could _______ wealth\ncreation among working adults by lengthening the\nperiod in which they are providing financial support\nto their nonworking parents.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "stymie"
+                },
+                {
+                  "letter": "B",
+                  "text": "compound"
+                },
+                {
+                  "letter": "C",
+                  "text": "disparage"
+                },
+                {
+                  "letter": "D",
+                  "text": "outstrip"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q5",
+              "number": 5,
+              "prompt": "Political blogs with conspicuous ideological\nalignments became an integral component of US\nmedia in the early 2000s. While some commentators\nlauded this development, asserting that such blogs\nhad a welcome transparency missing from traditional\nnews, less _______ observers countered that such\nblogs tended to ideological extremes that exacerbated\npolitical polarization to problematic levels.\nWhich choice completes the text with the most\nlogical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "sanguine"
+                },
+                {
+                  "letter": "B",
+                  "text": "recalcitrant"
+                },
+                {
+                  "letter": "C",
+                  "text": "misanthropic"
+                },
+                {
+                  "letter": "D",
+                  "text": "earnest"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q6",
+              "number": 6,
+              "prompt": "The following text is adapted from Pam Muñoz\nRyan’s 2020 novel Mañanaland. In the village where\nMax lives, there is an old fortress called La Reina.\nChildren in the village say that the fortress is\nhaunted.\nFor as long as he could remember, Max had\nbegged Papá [his father] to take him to see\nLa Reina and the ruins up close. He’d be a hero\namong his friends if he was the first boy to cross\nthe haunted gates! Just because Papá didn’t\nbelieve in ghosts didn’t mean they weren’t there.\nMaybe this summer Papá would finally take him.\nHe was almost twelve.\n©2020 by Pam Muñoz Ryan\nWhich choice best describes the overall purpose of\nthe text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "To portray how proud Max’s father is of Max"
+                },
+                {
+                  "letter": "B",
+                  "text": "To explain why Max doesn’t want to grow up yet"
+                },
+                {
+                  "letter": "C",
+                  "text": "To criticize Max for disliking summer"
+                },
+                {
+                  "letter": "D",
+                  "text": "To show how much Max wants to visit La Reina"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q7",
+              "number": 7,
+              "prompt": "The following text is adapted from George Bernard\nShaw’s 1912 play Pygmalion. Henry Higgins has just\narrived at the house of his mother (Mrs. Higgins).\nShe is expecting her friends to visit soon.\nMRS. HIGGINS: I’m serious, Henry. You offend\nall my friends: they stop coming whenever they\nmeet you.\nHIGGINS: Nonsense! I know I have no small\ntalk; but people don’t mind.\nMRS. HIGGINS: Oh! don’t they? Small talk\nindeed! What about your large talk? Really, dear,\nyou mustn’t stay.\nWhich choice best states the main purpose of the\ntext?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "To describe what Henry’s mother does when she goes out with her friends"
+                },
+                {
+                  "letter": "B",
+                  "text": "To show that Henry’s mother wants him to leave"
+                },
+                {
+                  "letter": "C",
+                  "text": "To present a detailed account of what Henry’s home looks like"
+                },
+                {
+                  "letter": "D",
+                  "text": "To explain why Henry often visits his mother"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q8",
+              "number": 8,
+              "prompt": "The following text is from Charlotte Forten Grimké’s\n1888 poem “At Newport.”\nOh, deep delight to watch the gladsome waves\nExultant leap upon the rugged rocks;\nEver repulsed, yet ever rushing on—\nFilled with a life that will not know defeat;\nTo see the glorious hues of sky and sea.\nThe distant snowy sails, glide spirit like,\nInto an unknown world, to feel the sweet\nEnchantment of the sea thrill all the soul,\nClearing the clouded brain, making the heart\nLeap joyous as it own bright, singing waves!\nWhich choice best describes the function of the\nunderlined portion in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It portrays the surroundings as an imposing and intimidating scene."
+                },
+                {
+                  "letter": "B",
+                  "text": "It characterizes the sea’s waves as a relentless and enduring force."
+                },
+                {
+                  "letter": "C",
+                  "text": "It conveys the speaker’s ambivalence about the natural world."
+                },
+                {
+                  "letter": "D",
+                  "text": "It draws a contrast between the sea’s waves and the speaker’s thoughts."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q9",
+              "number": 9,
+              "prompt": "Believing that living in an impractical space can\nheighten awareness and even improve health,\nconceptual artists Madeline Gins and Shusaku\nArakawa designed an apartment building in Japan to\nbe more fanciful than functional. A kitchen counter\nis chest-high on one side and knee-high on the other;\na ceiling has a door to nowhere. The effect is\ndisorienting but invigorating: after four years there,\nfilmmaker Nobu Yamaoka reported significant\nhealth benefits.\nWhich choice best states the main idea of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Although inhabiting a home surrounded by fanciful features such as those designed by Gins and Arakawa can be rejuvenating, it is unsustainable."
+                },
+                {
+                  "letter": "B",
+                  "text": "Designing disorienting spaces like those in the Gins and Arakawa building is the most effective way to create a physically stimulating environment."
+                },
+                {
+                  "letter": "C",
+                  "text": "As a filmmaker, Yamaoka has long supported the designs of conceptual artists such as Gins and Arakawa."
+                },
+                {
+                  "letter": "D",
+                  "text": "Although impractical, the design of the apartment building by Gins and Arakawa may improve the well-being of the building’s residents."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q10",
+              "number": 10,
+              "prompt": "The following text is adapted from Lewis Carroll’s\n1889 satirical novel Sylvie and Bruno. A crowd has\ngathered outside a room belonging to the Warden,\nan official who reports to the Lord Chancellor.\nOne man, who was more excited than the rest,\nflung his hat high into the air, and shouted (as\nwell as I could make out) “Who roar for the\nSub-Warden?” Everybody roared, but whether it\nwas for the Sub-Warden, or not, did not clearly\nappear: some were shouting “Bread!” and some\n“Taxes!”, but no one seemed to know what it was\nthey really wanted.\nAll this I saw from the open window of the\nWarden’s breakfast-saloon, looking across the\nshoulder of the Lord Chancellor.\n“What can it all mean?” he kept repeating to\nhimself. “I never heard such shouting\nbefore—and at this time of the morning, too!\nAnd with such unanimity!”\nBased on the text, how does the Lord Chancellor\nrespond to the crowd?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "He asks about the meaning of the crowd’s shouting, even though he claims to know what the crowd wants."
+                },
+                {
+                  "letter": "B",
+                  "text": "He indicates a desire to speak to the crowd, even though the crowd has asked to speak to the Sub-Warden."
+                },
+                {
+                  "letter": "C",
+                  "text": "He expresses sympathy for the crowd’s demands, even though the crowd’s shouting annoys him."
+                },
+                {
+                  "letter": "D",
+                  "text": "He describes the crowd as being united, even though the crowd clearly appears otherwise."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q11",
+              "number": 11,
+              "prompt": "- 11 - Top Four Species of Wild Land\nMammals by Global Biomass\n3.0 - , - - - - - - - - - - - - -\nVJ\nQ\nj\n2.5 - + - - - - - - - - - - - ,\n1:;:l\"v,\nE § 2.0 + - - - - - - - - - - - ,\nVJ\n..,\nS\nbQJ •\n·S •\n..0 <.+-.\n,;l\n0.5\nG\nI □ species\nGlobal biomass is the total mass of living material,\nsuch as animals and plants, on Earth. A team of\nscientists estimated the global biomass, by species,\nof various wild land mammals. The team found\nthat the species with the highest global biomass is\nthe _______\nWhich choice most effectively uses data from the\ngraph to complete the sentence?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "wild boar."
+                },
+                {
+                  "letter": "B",
+                  "text": "eastern gray kangaroo."
+                },
+                {
+                  "letter": "C",
+                  "text": "African bush elephant."
+                },
+                {
+                  "letter": "D",
+                  "text": "white-tailed deer."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q12",
+              "number": 12,
+              "prompt": "- 12 - - - Number and Origin of Clamshell Tools Found at Different\nLevels Below the Surface in Neanderthal Cave\nDepth of tools found below Clamshells that Neanderthals Clamshells that Neanderthals\nsurface in cave (meters)\ncollected from the beach\nharvested from the seafloor\n3–4\n99\n6–7\n4–5\n2–3\n5–6\nStudying tools unearthed at a cave site on the western coast of Italy,\narchaeologist Paola Villa and colleagues have determined that\nprehistoric Neanderthal groups fashioned them from shells of clams\nthat they harvested from the seafloor while wading or diving or that\nwashed up on the beach. Clamshells become thin and eroded as they\nwash up on the beach, while those on the seafloor are smooth and\nsturdy, so the research team suspects that Neanderthals prized the tools\nmade with seafloor shells. However, the team also concluded that those\ntools were likely more challenging to obtain, noting that ______\nWhich choice most effectively uses data from the table to support the\nresearch team’s conclusion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "at each depth below the surface in the cave, the difference in the numbers of tools of each type suggests that shells were easier to collect from the beach than to harvest from the seafloor."
+                },
+                {
+                  "letter": "B",
+                  "text": "the highest number of tools were at a depth of 3–4 meters below the surface, which suggests that the Neanderthal population at the site was highest during the related period of time."
+                },
+                {
+                  "letter": "C",
+                  "text": "at each depth below the surface in the cave, the difference in the numbers of tools of each type suggests that Neanderthals preferred to use clamshells from the beach because of their durability."
+                },
+                {
+                  "letter": "D",
+                  "text": "the higher number of tools at depths of 5–6 meters below the surface in the cave than at depths of 4–5 meters below the surface suggests that the size of clam populations changed over time."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q13",
+              "number": 13,
+              "prompt": "Power Conversion Efficiency of\nLowest and Highest Performing\nSpin-coated and Spray-coated\nElectron Transport Layers\n18~------------16--i---------,\no~-~-\nThickness\nI□ spray coating ■ spin coating\nPerovskite solar cells convert light into electricity\nmore efficiently than earlier kinds of solar cells, and\nmanufacturing advances have recently made them\ncommercially attractive. One limitation of the cells,\nhowever, has to do with their electron transport layer\n(ETL), through which absorbed electrons must pass.\nOften the ETL is applied through a process called\nspin coating, but such ETLs are fairly inefficient\nat converting input power to output power.\nAndré Taylor and colleagues tested a novel spray\ncoating method for applying the ETL. The team\nproduced ETLs of various thicknesses and concluded\nthat spray coating holds promise for improving the\npower conversion efficiency of ETLs in perovskite\nsolar cells.\nWhich choice best describes data from the graph that\nsupport Taylor and colleagues’ conclusion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Both the ETL applied through spin coating and the ETL applied through spray coating showed a power conversion efficiency greater than 10% at their lowest performing thickness."
+                },
+                {
+                  "letter": "B",
+                  "text": "The lowest performing ETL applied through spray coating had a higher power conversion efficiency than the highest performing ETL applied through spin coating."
+                },
+                {
+                  "letter": "C",
+                  "text": "The highest performing ETL applied through spray coating showed a power conversion efficiency of approximately 13%, while the highest performing ETL applied through spin coating showed a power conversion efficiency of approximately 11%."
+                },
+                {
+                  "letter": "D",
+                  "text": "There was a substantial difference in power conversion efficiency between the lowest and highest performing ETLs applied through spray coating."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q14",
+              "number": 14,
+              "prompt": "- 14 - - - Employment by Sector in France and the United States, 1800–2012\n(% of total employment)\nYear\n1800\n1900\n1950\n2012\nAgriculture Manufacturing Services Agriculture Manufacturing Services\nin France\nin France\nin France\nin US\nin US\nin US\n64\n68\n53\n76\n80\nRows in table may not add up to 100 due to rounding.\nOver the past two hundred years, the percentage of the population\nemployed in the agricultural sector has declined in both France and the\nUnited States, while employment in the service sector (which includes\njobs in retail, consulting, real estate, etc.) has risen. However, this\ntransition happened at very different rates in the two countries. This\ncan be seen most clearly by comparing the employment by sector in\nboth countries in _______\nWhich choice most effectively uses data from the table to complete the\nstatement?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "1900 with the employment by sector in 1950."
+                },
+                {
+                  "letter": "B",
+                  "text": "1800 with the employment by sector in 2012."
+                },
+                {
+                  "letter": "C",
+                  "text": "1900 with the employment by sector in 2012."
+                },
+                {
+                  "letter": "D",
+                  "text": "1800 with the employment by sector in 1900."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q15",
+              "number": 15,
+              "prompt": "The linguistic niche hypothesis (LNH) posits that the\nexotericity of languages (how prevalent non-native\nspeakers are) and grammatical complexity are\ninversely related, which the LNH ascribes to attrition\nof complex grammatical rules as more non-native\nspeakers adopt the language but fail to acquire those\nrules. Focusing on two characteristics that are\npositive indices of grammatical complexity, fusion\n(when new phonemes arise from the merger of\npreviously distinct ones) and informativity\n(languages’ capacity for meaningful variation),\nOlena Shcherbakova and colleagues conducted a\nquantitative analysis for more than 1,300 languages\nand claim the outcome is inconsistent with the LNH.\nWhich finding, if true, would most directly support\nShcherbakova and colleagues’ claim?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Shcherbakova and colleagues’ analysis showed a slightly negative correlation between grammatical complexity and fusion and between grammatical complexity and informativity."
+                },
+                {
+                  "letter": "B",
+                  "text": "Shcherbakova and colleagues’ analysis showed a slightly negative correlation between grammatical complexity and exotericity."
+                },
+                {
+                  "letter": "C",
+                  "text": "Shcherbakova and colleagues’ analysis showed a slightly positive correlation between grammatical complexity and fusion."
+                },
+                {
+                  "letter": "D",
+                  "text": "Shcherbakova and colleagues’ analysis showed a slightly positive correlation between fusion and exotericity and between informativity and exotericity."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q16",
+              "number": 16,
+              "prompt": "Archaeologist Christiana Kohler and her team\nexcavated the Egyptian tomb of Queen Merneith, the\nwife of a First Dynasty pharaoh. Some scholars claim\nthat she also ruled Egypt on her own and was actually\nthe first female pharaoh. The team found a tablet in\nMerneith’s tomb with writing suggesting that she was\nin charge of the country’s treasury and other central\noffices. Whether Merneith was a pharaoh or not,\nthis discovery supports the idea that Merneith\nlikely _______\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "had an important role in Egypt’s government."
+                },
+                {
+                  "letter": "B",
+                  "text": "lived after rather than before the First Dynasty of Egypt."
+                },
+                {
+                  "letter": "C",
+                  "text": "traveled beyond Egypt’s borders often."
+                },
+                {
+                  "letter": "D",
+                  "text": "created a new form of writing in Egypt."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q17",
+              "number": 17,
+              "prompt": "In a study of the cognitive abilities of white-faced\ncapuchin monkeys (Cebus imitator), researchers\nneglected to control for the physical difficulty of the\ntasks they used to evaluate the monkeys. The\ncognitive abilities of monkeys given problems\nrequiring little dexterity, such as sliding a panel to\nretrieve food, were judged by the same criteria as\nwere those of monkeys given physically demanding\nproblems, such as unscrewing a bottle and inserting a\nstraw. The results of the study, therefore, ______\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "could suggest that there are differences in cognitive ability among the monkeys even though such differences may not actually exist."
+                },
+                {
+                  "letter": "B",
+                  "text": "are useful for identifying tasks that the monkeys lack the cognitive capacity to perform but not for identifying tasks that the monkeys can perform."
+                },
+                {
+                  "letter": "C",
+                  "text": "should not be taken as indicative of the cognitive abilities of any monkey species other than C. imitator."
+                },
+                {
+                  "letter": "D",
+                  "text": "reveal more about the monkeys’ cognitive abilities when solving artificial problems than when solving problems encountered in the wild."
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q18",
+              "number": 18,
+              "prompt": "Which choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "they"
+                },
+                {
+                  "letter": "B",
+                  "text": "one"
+                },
+                {
+                  "letter": "C",
+                  "text": "you"
+                },
+                {
+                  "letter": "D",
+                  "text": "it"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q19",
+              "number": 19,
+              "prompt": "19 ~ - - - - - Lucía Michel of the University of Chile observed that\nalkaline soils contain an insoluble form of iron that\nblueberry plants cannot absorb, thus inhibiting\nblueberry growth. If these plants were grown in\nalkaline soil alongside grasses that aid in iron\nsolubilization, _______ Michel was determined to\nfind out.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "could the blueberries thrive."
+                },
+                {
+                  "letter": "B",
+                  "text": "the blueberries could thrive."
+                },
+                {
+                  "letter": "C",
+                  "text": "the blueberries could thrive?"
+                },
+                {
+                  "letter": "D",
+                  "text": "could the blueberries thrive?"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q20",
+              "number": 20,
+              "prompt": "- 18 - - - - - - Public-awareness campaigns about the need to\nreduce single-use plastics can be successful, says\nresearcher Kim Borg of Monash University in\nAustralia, when these campaigns give consumers a\nchoice: for example, Japan achieved a 40 percent\nreduction in plastic-bag use after cashiers were\ninstructed to ask customers whether _______\nwanted a bag.\n- 20 - - - - - - Atoms in a synchrotron, a type of circular particle\naccelerator, travel faster and faster until they ______\na desired energy level, at which point they are\ndiverted to collide with a target, smashing the atoms.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "will reach"
+                },
+                {
+                  "letter": "B",
+                  "text": "reach"
+                },
+                {
+                  "letter": "C",
+                  "text": "had reached"
+                },
+                {
+                  "letter": "D",
+                  "text": "are reaching"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q21",
+              "number": 21,
+              "prompt": "21 - - - - - - In his 1963 exhibition Exposition of Music—\nElectronic Television, Korean American artist\nNam June Paik showed how television images could\nbe manipulated to express an artist’s perspective.\nToday, Paik _______ considered the first video artist.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "will be"
+                },
+                {
+                  "letter": "B",
+                  "text": "had been"
+                },
+                {
+                  "letter": "C",
+                  "text": "was"
+                },
+                {
+                  "letter": "D",
+                  "text": "is"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q22",
+              "number": 22,
+              "prompt": "-22 - - - - - - Former First Lady of the United States\nEleanor Roosevelt and Indian activist and educator\nHansa Mehta were instrumental in drafting the\nUnited Nations’ Universal Declaration of Human\nRights, a document that ______ the basic freedoms\nto which all people are entitled.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "have outlined"
+                },
+                {
+                  "letter": "B",
+                  "text": "were outlining"
+                },
+                {
+                  "letter": "C",
+                  "text": "outlines"
+                },
+                {
+                  "letter": "D",
+                  "text": "outline"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q23",
+              "number": 23,
+              "prompt": "In February 1919, following the end of the First\nWorld War, women from ten countries around\nthe world convened the Inter-Allied Women’s\nConference in Paris. The conference’s goals were\n_______ ensure women’s participation in the\nproceedings of the Paris Peace Conference, to secure\nthe right of women to serve in the League of Nations,\nand to advocate for human rights.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "threefold: to"
+                },
+                {
+                  "letter": "B",
+                  "text": "threefold. To"
+                },
+                {
+                  "letter": "C",
+                  "text": "threefold to"
+                },
+                {
+                  "letter": "D",
+                  "text": "threefold; to"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q24",
+              "number": 24,
+              "prompt": "Mathematician Grigori Perelman, sometimes in\nconjunction with mathematicians Richard S.\nHamilton and Shing-Tung Yau, _______ credited\nwith proving the Poincaré conjecture. Having built\non Hamilton’s previous work to solve the proof,\nPerelman has insisted that Hamilton receive credit.\nYau later found and closed gaps in Perelman’s proof,\npersuading some mathematicians that he deserves\ncredit as well.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "are"
+                },
+                {
+                  "letter": "B",
+                  "text": "have been"
+                },
+                {
+                  "letter": "C",
+                  "text": "are being"
+                },
+                {
+                  "letter": "D",
+                  "text": "is"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q25",
+              "number": 25,
+              "prompt": "-25 - - Researchers studying magnetosensation have\ndetermined why some soil-dwelling roundworms in\nthe Southern Hemisphere move in the opposite\ndirection of Earth’s magnetic field when searching\nfor _______ in the Northern Hemisphere, the\nmagnetic field points down, into the ground, but in\nthe Southern Hemisphere, it points up, toward the\nsurface and away from worms’ food sources.\nWhich choice completes the text so that it conforms\nto the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "food:"
+                },
+                {
+                  "letter": "B",
+                  "text": "food,"
+                },
+                {
+                  "letter": "C",
+                  "text": "food while"
+                },
+                {
+                  "letter": "D",
+                  "text": "food"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q26",
+              "number": 26,
+              "prompt": "Most conifers (trees belonging to the phylum\nConiferophyta) are evergreen. That is, they keep their\ngreen leaves or needles year-round. However, not all\nconifer species are evergreen. Larch trees,\n_______ lose their needles every fall.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "for instance,"
+                },
+                {
+                  "letter": "B",
+                  "text": "nevertheless,"
+                },
+                {
+                  "letter": "C",
+                  "text": "meanwhile,"
+                },
+                {
+                  "letter": "D",
+                  "text": "in addition,"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q27",
+              "number": 27,
+              "prompt": "Neuroscientist Karen Konkoly wanted to determine\nwhether individuals can understand and respond to\nquestions during REM sleep. She first taught\nvolunteers eye movements they would use to respond\nto basic math problems while asleep (a single\nleft-right eye movement indicated the number one).\n_______ she attached electrodes to the volunteers’\nfaces to record their eye movements during sleep.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Specifically,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Next,"
+                },
+                {
+                  "letter": "C",
+                  "text": "For instance,"
+                },
+                {
+                  "letter": "D",
+                  "text": "In sum,"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q28",
+              "number": 28,
+              "prompt": "In his 1925 book The Morphology of Landscape, US\ngeographer Carl Sauer challenged prevailing views\nabout how natural landscapes influence human\ncultures. _______ Sauer argued that instead of being\nshaped entirely by their natural surroundings,\ncultures play an active role in their own development\nby virtue of their interactions with the environment.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Similarly,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Finally,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Therefore,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Specifically,"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q29",
+              "number": 29,
+              "prompt": "In her 2012 analysis of tree rings from Japan’s Yaku\nIsland, cosmic ray physicist Fusa Miyake noted an\nanomalous carbon-14 spike dating to 774–775 CE,\nindicating that a massive burst of radiation reached\nEarth during that time. _______ this unprecedented\nradiocarbon surge was dubbed a “Miyake event” in\nhonor of its discoverer.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Fittingly,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Similarly,"
+                },
+                {
+                  "letter": "C",
+                  "text": "However,"
+                },
+                {
+                  "letter": "D",
+                  "text": "In other words,"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q30",
+              "number": 30,
+              "prompt": "Researchers Helena Mihaljević-Brandt, Lucía\nSantamaría, and Marco Tullney report that while\nmathematicians may have traditionally worked\nalone, evidence points to a shift in the opposite\ndirection. _______ mathematicians are choosing to\ncollaborate with their peers—a trend illustrated by a\nrise in the number of mathematics publications\ncredited to multiple authors.\nWhich choice completes the text with the most\nlogical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Similarly,"
+                },
+                {
+                  "letter": "B",
+                  "text": "For this reason,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Furthermore,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Increasingly,"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q31",
+              "number": 31,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• Shaun Tan is an Australian author.\n• In 2008, he published Tales from Outer Suburbia,\na book of fifteen short stories.\n• The stories describe surreal events occurring in\notherwise ordinary suburban neighborhoods.\n• In 2018, he published Tales from the Inner City, a\nbook of twenty-five short stories.\n• The stories describe surreal events occurring in\notherwise ordinary urban settings.\nThe student wants to emphasize a similarity between\nthe two books by Shaun Tan. Which choice most\neffectively uses relevant information from the notes\nto accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Shaun Tan’s book Tales from Outer Suburbia, which describes surreal events occurring in otherwise ordinary places, contains fewer short stories than Tales from the Inner City does."
+                },
+                {
+                  "letter": "B",
+                  "text": "Tales from Outer Suburbia was published in 2008, and Tales from the Inner City was published in 2018."
+                },
+                {
+                  "letter": "C",
+                  "text": "Unlike Tales from the Inner City, Shaun Tan’s book Tales from Outer Suburbia is set in suburban neighborhoods."
+                },
+                {
+                  "letter": "D",
+                  "text": "Shaun Tan’s books Tales from Outer Suburbia and Tales from the Inner City both describe surreal events occurring in otherwise ordinary places."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q32",
+              "number": 32,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• Started in 1925, the Scripps National Spelling Bee\nis a US-based spelling competition.\n• The words used in the competition have diverse\nlinguistic origins.\n• In 2008, Sameer Mishra won by correctly spelling\nthe word “guerdon.”\n• “Guerdon” derives from the Anglo-French word\n“guerdun.”\n• In 2009, Kavya Shivashankar won by correctly\nspelling the word “Laodicean.”\n• “Laodicean” derives from the ancient Greek word\n“Laodíkeia.”\nThe student wants to emphasize a difference in the\norigins of the two words. Which choice most\neffectively uses relevant information from the notes\nto accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "“Guerdon,” the final word of the 2008 Scripps National Spelling Bee, is of Anglo-French origin, while the following year’s final word, “Laodicean,” derives from ancient Greek."
+                },
+                {
+                  "letter": "B",
+                  "text": "In 2008, Sameer Mishra won the Scripps National Spelling Bee by correctly spelling the word “guerdon”; however, the following year, Kavya Shivashankar won based on spelling the word “Laodicean.”"
+                },
+                {
+                  "letter": "C",
+                  "text": "Kavya Shivashankar won the 2009 Scripps National Spelling Bee by correctly spelling “Laodicean,” which derives from the ancient Greek word “Laodíkeia.”"
+                },
+                {
+                  "letter": "D",
+                  "text": "The Scripps National Spelling Bee uses words from diverse linguistic origins, such as “guerdon” and “Laodicean.”"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s1-m2-q33",
+              "number": 33,
+              "prompt": "While researching a topic, a student has taken the\nfollowing notes:\n• In 1851, German American artist Emanuel Leutze\npainted Washington Crossing the Delaware.\n• His huge painting (149 × 255 inches) depicts the\nfirst US president crossing a river with soldiers in\nthe Revolutionary War.\n• In 2019, Cree artist Kent Monkman painted\nmistikôsiwak (Wooden Boat People): Resurgence of\nthe People.\n• Monkman’s huge painting (132 × 264 inches) was\ninspired by Leutze’s.\n• It portrays Indigenous people in a boat rescuing\nrefugees.\nThe student wants to emphasize a similarity between\nthe two paintings. Which choice most effectively uses\nrelevant information from the notes to accomplish\nthis goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Monkman, a Cree artist, finished his painting in 2019; Leutze, a German American artist, completed his in 1851."
+                },
+                {
+                  "letter": "B",
+                  "text": "Although Monkman’s painting was inspired by Leutze’s, the people and actions the two paintings portray are very different."
+                },
+                {
+                  "letter": "C",
+                  "text": "Leutze’s and Monkman’s paintings are both huge, measuring 149 × 255 inches and 132 × 264 inches, respectively."
+                },
+                {
+                  "letter": "D",
+                  "text": "Leutze’s painting depicts Revolutionary War soldiers, while Monkman’s depicts Indigenous people and refugees."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "number": 2,
+      "name": "Math",
+      "modules": [
+        {
+          "id": "s2-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 2580,
+          "questions": [
+            {
+              "id": "s2-m1-q1",
+              "number": 1,
+              "prompt": "The line graph shows the percent of cars for sale at a\nused car lot on a given day by model year.\n15%\n''\n\"''\"\n.....\nr:::\nQ)\n5%\n'\nI\n\\.\n''\nI\nI\nI:!\nQ)\n11..\nModel year\nFor what model year is the percent of cars for sale the\nsmallest?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "2012"
+                },
+                {
+                  "letter": "B",
+                  "text": "2013"
+                },
+                {
+                  "letter": "C",
+                  "text": "2014"
+                },
+                {
+                  "letter": "D",
+                  "text": "2015"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q2",
+              "number": 2,
+              "prompt": "-2 ---y\n.. 6\n'~\n...\ni\\\nr,.....\nI\"\n6-5-4-3 ~ ,.._1·1u\n'\n1'\n13 r-..\n!6\n\\\n3 4 5 6\nX\n\\\n' .....'~\\\nThe graph of a system of linear equations is shown.\nWhat is the solution (x, y) to the system?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "(4, −5)"
+                },
+                {
+                  "letter": "B",
+                  "text": "(0, 3)"
+                },
+                {
+                  "letter": "C",
+                  "text": "(0, −2)"
+                },
+                {
+                  "letter": "D",
+                  "text": "(−2, 3)"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q3",
+              "number": 3,
+              "prompt": "The total cost, in dollars, to rent a surfboard consists\nof a $25 service fee and a $10 per hour rental fee. A\nperson rents a surfboard for t hours and intends to\nspend a maximum of $75 to rent the surfboard.\nWhich inequality represents this situation?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "10t ≤ 75"
+                },
+                {
+                  "letter": "B",
+                  "text": "10 + 25t ≤ 75"
+                },
+                {
+                  "letter": "C",
+                  "text": "25t ≤ 75"
+                },
+                {
+                  "letter": "D",
+                  "text": "25 + 10t ≤ 75"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q4",
+              "number": 4,
+              "prompt": "-4 ----y\nI\n4\\\nI,\nI\nj\n\\\nI\n6 -4 -2 IU , 2\nf\nX\n\\.)\nk\nThe graph shown will be translated up 4 units. Which of the following\nwill be the resulting graph?\ny\nA)\nI\ny\nB)\nI\n'\nI\ni\n\\.)\n6 -4 -2 IU\n6 -4 -2 L1\nI\nI\nI\n\\\nF\n$\ny\nC)\ni\ni\nI\nI\n\\\n•\nI\n\\\n6 -4 -2 µ\n\\\nX\n6 -4 -2\nu\n)2\nI\nI\nI\nI\nk\nk\nX\n•\nI\n\\. )\n.\\\nI\n\\\nI\ny\nD)\n,I\nI\nF\n$\n,\nI\n\\\nX\nI\nI\nI\n\\\nj\n\\\nI\nX\n\\. j\nThe equation gives the speed s, in miles per hour, of\na certain car t seconds after it began to accelerate.\nWhat is the speed, in miles per hour, of the car\n5 seconds after it began to accelerate?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "40"
+                },
+                {
+                  "letter": "B",
+                  "text": "43"
+                },
+                {
+                  "letter": "C",
+                  "text": "45"
+                },
+                {
+                  "letter": "D",
+                  "text": "55"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q5",
+              "number": 5,
+              "prompt": "The function f is defined by f (x ) = x 2 + x + 71.\nWhat is the value of f (2) ?\nAn event planner is planning a party. It costs the\nevent planner a onetime fee of $35 to rent the venue\nand $10.25 per attendee. The event planner has a\nbudget of $300 . What is the greatest number of\nattendees possible without exceeding the budget?\ns = 40 + 3t\nThe table gives the distribution of votes for a new\nschool mascot and grade level for 80 students.\nGrade level\nMascot Sixth Seventh Eighth Total\nBadger\nLion\nLonghorn\nTiger\nTotal\n80\nIf one of these students is selected at random, what is\nthe probability of selecting a student whose vote for\nnew mascot was for a lion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": ""
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q6",
+              "number": 6,
+              "prompt": "[Free response question 6]",
+              "options": [],
+              "correctAnswer": "77",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m1-q7",
+              "number": 7,
+              "prompt": "[Free response question 7]",
+              "options": [],
+              "correctAnswer": "25",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m1-q8",
+              "number": 8,
+              "prompt": "Triangles ABC and DEF are congruent, where A\ncorresponds to D, and B and E are right angles. The\nmeasure of angle A is 18° . What is the measure of\nangle F ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "18°"
+                },
+                {
+                  "letter": "B",
+                  "text": "72°"
+                },
+                {
+                  "letter": "C",
+                  "text": "90°"
+                },
+                {
+                  "letter": "D",
+                  "text": "162°"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q9",
+              "number": 9,
+              "prompt": "",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "40"
+                },
+                {
+                  "letter": "B",
+                  "text": "48"
+                },
+                {
+                  "letter": "C",
+                  "text": "56"
+                },
+                {
+                  "letter": "D",
+                  "text": "60"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "low",
+              "flagReason": "Question text too short - may contain images or figures"
+            },
+            {
+              "id": "s2-m1-q10",
+              "number": 10,
+              "prompt": "11 - - - - - - Which expression is equivalent to (m4q 4z −1)(mq5 z 3),\nwhere m, q, and z are positive?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "m4q 20z −3"
+                },
+                {
+                  "letter": "B",
+                  "text": "m5q9z 2"
+                },
+                {
+                  "letter": "C",
+                  "text": "m6q8z −1"
+                },
+                {
+                  "letter": "D",
+                  "text": "m20q12z −2"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q11",
+              "number": 11,
+              "prompt": "12 - - - - - - An airplane descends from an altitude of 9,500 feet to\n5,000 feet at a constant rate of 400 feet per minute.\nWhat type of function best models the relationship\nbetween the descending airplane’s altitude and time?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Decreasing exponential"
+                },
+                {
+                  "letter": "B",
+                  "text": "Decreasing linear"
+                },
+                {
+                  "letter": "C",
+                  "text": "Increasing exponential"
+                },
+                {
+                  "letter": "D",
+                  "text": "Increasing linear"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q12",
+              "number": 12,
+              "prompt": "- 10 - - - - - - If 4x + 2 = 12 , what is the value of 16x + 8 ?\n- 13 - - - - - - 3x + 6 = 4y\n3x + 4 = 2y\nThe solution to the given system of equations is\n(x, y). What is the value of y ?\n- 14 - - - - - - The function f is defined by\nf (x ) = (x − 6)(x − 2)(x + 6). In the xy-plane, the\ngraph of y = g (x ) is the result of translating the\ngraph of y = f (x ) up 4 units. What is the value\nof g(0) ?\n- 15 - - - - - - The function f (w ) = 6w 2 gives the area of a\nrectangle, in square feet (ft 2), if its width is w ft and\nits length is 6 times its width. Which of the following\nis the best interpretation of f (14) = 1,176 ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "If the width of the rectangle is 14 ft, then the area of the rectangle is 1,176 ft 2 ."
+                },
+                {
+                  "letter": "B",
+                  "text": "If the width of the rectangle is 14 ft, then the length of the rectangle is 1,176 ft."
+                },
+                {
+                  "letter": "C",
+                  "text": "If the width of the rectangle is 1,176 ft, then the length of the rectangle is 14 ft."
+                },
+                {
+                  "letter": "D",
+                  "text": "If the width of the rectangle is 1,176 ft, then the area of the rectangle is 14 ft 2 ."
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q13",
+              "number": 13,
+              "prompt": "[Free response question 13]",
+              "options": [],
+              "correctAnswer": "1",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m1-q14",
+              "number": 14,
+              "prompt": "[Free response question 14]",
+              "options": [],
+              "correctAnswer": "76",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m1-q15",
+              "number": 15,
+              "prompt": "every day. There are 44,000 bacteria in the liquid\nmedium at the start of an observation. Which of the\nfollowing represents the number of bacteria, y, in the\nliquid medium t days after the start of the\nobservation?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "y = (44,000)t"
+                },
+                {
+                  "letter": "B",
+                  "text": "y = 2(44,000)t  1 t"
+                },
+                {
+                  "letter": "C",
+                  "text": "y = 44,000   2 "
+                },
+                {
+                  "letter": "D",
+                  "text": "y = 44,000(2)t"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q16",
+              "number": 16,
+              "prompt": "x\nh(x)\n1.23\n1.54\n1.94\nThe table shows the exponential relationship\nbetween the number of years, x, since Hana started\ntraining in pole vault, and the estimated height h(x),\nin meters, of her best pole vault for that year. Which\nof the following functions best represents this\nrelationship, where x ≤ 4 ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "h(x) = 1.12(0.23)x x"
+                },
+                {
+                  "letter": "B",
+                  "text": "h(x) = 1.12(1.23)"
+                },
+                {
+                  "letter": "C",
+                  "text": "h(x) = 1.23(0.12)x"
+                },
+                {
+                  "letter": "D",
+                  "text": "h(x) = 1.23(1.12)x"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q17",
+              "number": 17,
+              "prompt": "-16 The number of bacteria in a liquid medium doubles\n-18 - The function h is defined by h(x) = 4x + 28. The\ngraph of y = h(x ) in the xy-plane has an x-intercept\nat (a, 0) and a y-intercept at (0, b), where a and b\nare constants. What is the value of a + b ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "21"
+                },
+                {
+                  "letter": "B",
+                  "text": "28"
+                },
+                {
+                  "letter": "C",
+                  "text": "32"
+                },
+                {
+                  "letter": "D",
+                  "text": "35"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q18",
+              "number": 18,
+              "prompt": "y < 5x + 6\nFor which of the following tables are all the values of\nx and their corresponding values of y solutions to the\ngiven inequality?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "x y"
+                },
+                {
+                  "letter": "B",
+                  "text": "x y"
+                },
+                {
+                  "letter": "C",
+                  "text": "x y"
+                },
+                {
+                  "letter": "D",
+                  "text": ""
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q19",
+              "number": 19,
+              "prompt": "x\ny\nThe solution to the given system of equations is\n(x , y ). What is the value of x − y ?\n- 21 - - - - - - A right triangle has legs with lengths of\n24 centimeters and 21 centimeters. If the length of\nthis triangle’s hypotenuse, in centimeters, can be\nwritten in the form 3 d , where d is an integer, what\nis the value of d ?\n-22 - - - - - - The floor of a ballroom has an area of 600 square\nmeters. An architect creates a scale model of the floor\nof the ballroom, where the length of each side of the\nmodel is\ntimes the length of the corresponding\nside of the actual floor of the ballroom. What is the\narea, in square meters, of the scale model?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "6"
+                },
+                {
+                  "letter": "B",
+                  "text": "10"
+                },
+                {
+                  "letter": "C",
+                  "text": "60"
+                },
+                {
+                  "letter": "D",
+                  "text": "150"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q20",
+              "number": 20,
+              "prompt": "[Free response question 20]",
+              "options": [],
+              "correctAnswer": "35",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m1-q21",
+              "number": 21,
+              "prompt": "[Free response question 21]",
+              "options": [],
+              "correctAnswer": "113",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m1-q22",
+              "number": 22,
+              "prompt": "- 20 - - - - - - y = 4x + 1\n4y = 15x − 8\n- 23 - - - - - - Which of the following equations represents a circle\nin the xy-plane that intersects the y-axis at exactly\none point?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "(x − 8)2 + (y − 8)2 = 16"
+                },
+                {
+                  "letter": "B",
+                  "text": "(x − 8)2 + (y − 4)2 = 16"
+                },
+                {
+                  "letter": "C",
+                  "text": "(x − 4)2 + (y − 9)2 = 16"
+                },
+                {
+                  "letter": "D",
+                  "text": "x 2 + (y − 9)2 = 16"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q23",
+              "number": 23,
+              "prompt": "-24 - - - - - - In triangles ABC and DEF , angles B and E each\nhave measure 27° and angles C and F each have\nmeasure 41° . Which additional piece of information\nis sufficient to determine whether triangle ABC is\ncongruent to triangle DEF ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The measure of angle A"
+                },
+                {
+                  "letter": "B",
+                  "text": "The length of side AB"
+                },
+                {
+                  "letter": "C",
+                  "text": "The lengths of sides BC and EF"
+                },
+                {
+                  "letter": "D",
+                  "text": "No additional information is necessary."
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q24",
+              "number": 24,
+              "prompt": "25 - - - - - - The result of increasing the quantity x by 1,800% is\n684. What is the value of x ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "12,996"
+                },
+                {
+                  "letter": "B",
+                  "text": "12,312"
+                },
+                {
+                  "letter": "C",
+                  "text": "38"
+                },
+                {
+                  "letter": "D",
+                  "text": "36"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q25",
+              "number": 25,
+              "prompt": "A window repair specialist charges $220 for the first\ntwo hours of repair plus an hourly fee for each\nadditional hour. The total cost for 5 hours of repair is\n$400 . Which function f gives the total cost, in\ndollars, for x hours of repair, where x ≥ 2 ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "f (x ) = 60x + 100"
+                },
+                {
+                  "letter": "B",
+                  "text": "f (x ) = 60x + 220"
+                },
+                {
+                  "letter": "C",
+                  "text": "f (x ) = 80x"
+                },
+                {
+                  "letter": "D",
+                  "text": "f (x ) = 80x + 220"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m1-q26",
+              "number": 26,
+              "prompt": "",
+              "options": [],
+              "correctAnswer": "A",
+              "isFreeResponse": true,
+              "confidenceFlag": "low",
+              "flagReason": "Question text too short - may contain images or figures"
+            },
+            {
+              "id": "s2-m1-q27",
+              "number": 27,
+              "prompt": "x(x + 1) − 56 = 4x(x − 7)\nWhat is the sum of the solutions to the given\nequation?",
+              "options": [],
+              "correctAnswer": "29",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            }
+          ]
+        },
+        {
+          "id": "s2-m2",
+          "number": 2,
+          "label": "Module 2",
+          "timeLimitSeconds": 2580,
+          "questions": [
+            {
+              "id": "s2-m2-q1",
+              "number": 1,
+              "prompt": "An object’s speed is 64 yards per second. What is the\nobject’s speed, in feet per second? (1 yard = 3 feet)",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "61"
+                },
+                {
+                  "letter": "B",
+                  "text": "67"
+                },
+                {
+                  "letter": "C",
+                  "text": "94"
+                },
+                {
+                  "letter": "D",
+                  "text": "192"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q2",
+              "number": 2,
+              "prompt": "The scatterplot shows the relationship between\ntwo variables, x and y. A line of best fit is also\nshown.\ny\nI\n/\nV\n.,,,; ('\n./,\n./,\n,/'\nu\nX\nWhich of the following equations best represents the\nline of best fit shown?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "y = x + 3.4"
+                },
+                {
+                  "letter": "B",
+                  "text": "y = x − 3.4"
+                },
+                {
+                  "letter": "C",
+                  "text": "y = −x + 3.4"
+                },
+                {
+                  "letter": "D",
+                  "text": "y = −x − 3.4"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q3",
+              "number": 3,
+              "prompt": "-3 ---y\n,\nI\n1p\nI\nI\n,'\nI\nI\nI\n,\nJ\nI\nI\n8_.=6-.=4-.=2\nIU\n2 ,J\n4 I'\n, 4_ _ 6_ _8_\nX\nI\nI\nI,\n\"'\nThe graph shows the linear relationship between x\nand y. Which table gives three values of x and their\ncorresponding values of y for this relationship?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": ""
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q4",
+              "number": 4,
+              "prompt": "x\ny\n–7\n–9\nx\ny\n–3\n–1\nx\ny\n–5\n–7\n–9\nx\ny\n–5\n–3\n–1",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "13"
+                },
+                {
+                  "letter": "B",
+                  "text": "17"
+                },
+                {
+                  "letter": "C",
+                  "text": "22"
+                },
+                {
+                  "letter": "D",
+                  "text": "26"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q5",
+              "number": 5,
+              "prompt": "7m = 2(n + p)\nThe given equation relates the positive numbers m,\nn, and p. Which equation correctly gives m in terms\nof n and p ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "m = 2(n + p)"
+                },
+                {
+                  "letter": "B",
+                  "text": "m = 2(n + p)"
+                },
+                {
+                  "letter": "C",
+                  "text": "m = 2(n + p) − 7"
+                },
+                {
+                  "letter": "D",
+                  "text": "m = 2 − n − p − 7"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q6",
+              "number": 6,
+              "prompt": "73, 74, 75, 77, 79, 82, 84, 85, 91\nWhat is the median of the data shown?\nWhat is the perimeter, in inches, of a rectangle with a\nlength of 4 inches and a width of 9 inches?",
+              "options": [],
+              "correctAnswer": "79",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m2-q7",
+              "number": 7,
+              "prompt": "The function f is defined by f (x ) = 4x . For what\nvalue of x does f (x ) = 8 ?",
+              "options": [],
+              "correctAnswer": "2",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m2-q8",
+              "number": 8,
+              "prompt": "73, 74, 75, 77, 79, 82, 84, 85, 91\nWhat is the median of the data shown?\nWhat is the perimeter, in inches, of a rectangle with a\nlength of 4 inches and a width of 9 inches?\nThe function f is defined by f (x ) = 4x . For what\nvalue of x does f (x ) = 8 ?\nOf 300,000 paper clips, 234,000 are size large. What\npercentage of the paper clips are size large?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "22%"
+                },
+                {
+                  "letter": "B",
+                  "text": "33%"
+                },
+                {
+                  "letter": "C",
+                  "text": "66%"
+                },
+                {
+                  "letter": "D",
+                  "text": "78%"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q9",
+              "number": 9,
+              "prompt": "f (x) = 8x + 4\nThe function f gives the estimated height, in feet,\nof a willow tree x years after its height was first\nmeasured. Which statement is the best interpretation\nof 4 in this context?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The tree will be measured each year for 4 years."
+                },
+                {
+                  "letter": "B",
+                  "text": "The tree is estimated to grow to a maximum height of 4 feet."
+                },
+                {
+                  "letter": "C",
+                  "text": "The estimated height of the tree increased by 4 feet each year."
+                },
+                {
+                  "letter": "D",
+                  "text": "The estimated height of the tree was 4 feet when it was first measured."
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q10",
+              "number": 10,
+              "prompt": "y = x2 − 5\nThe graphs of the given equations in the xy-plane\nintersect at the point (x , y ). What is a possible value\nof x ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "−"
+                },
+                {
+                  "letter": "B",
+                  "text": "−9"
+                },
+                {
+                  "letter": "C",
+                  "text": "5"
+                },
+                {
+                  "letter": "D",
+                  "text": "76"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q11",
+              "number": 11,
+              "prompt": "Each side of equilateral triangle S is multiplied by a\nscale factor of k to create equilateral triangle T. The\nlength of each side of triangle T is greater than the\nlength of each side of triangle S. Which of the\nfollowing could be the value of k ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": "1"
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "0"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q12",
+              "number": 12,
+              "prompt": "y = 76\n66x = 66x\nHow many solutions does the given equation have?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Exactly one"
+                },
+                {
+                  "letter": "B",
+                  "text": "Exactly two"
+                },
+                {
+                  "letter": "C",
+                  "text": "Infinitely many"
+                },
+                {
+                  "letter": "D",
+                  "text": "Zero"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q13",
+              "number": 13,
+              "prompt": "Vivian bought party hats and cupcakes for $71. Each\npackage of party hats cost $3, and each cupcake cost\n$1. If Vivian bought 10 packages of party hats, how\nmany cupcakes did she buy?",
+              "options": [],
+              "correctAnswer": "41",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m2-q14",
+              "number": 14,
+              "prompt": "The exponential function g is defined by\ng (x ) = 19 · a x , where a is a positive constant. If\ng(3) = 2,375, what is the value of g(4) ?\nIn right triangle RST , the sum of the measures of\nangle R and angle S is 90 degrees. The value of\nsin(R) is",
+              "options": [],
+              "correctAnswer": "11875",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m2-q15",
+              "number": 15,
+              "prompt": "Vivian bought party hats and cupcakes for $71. Each\npackage of party hats cost $3, and each cupcake cost\n$1. If Vivian bought 10 packages of party hats, how\nmany cupcakes did she buy?\nThe exponential function g is defined by\ng (x ) = 19 · a x , where a is a positive constant. If\ng(3) = 2,375, what is the value of g(4) ?\nIn right triangle RST , the sum of the measures of\nangle R and angle S is 90 degrees. The value of\nsin(R) is",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": "4 15"
+                },
+                {
+                  "letter": "D",
+                  "text": ""
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q16",
+              "number": 16,
+              "prompt": ". What is the value of cos(S) ?\n-16 y\ni::Q\ng 30\n\\.\n0..\ns\nuo\n\\\n\\\n\\\n\\\nI\\\n'~\nu 10 20 30 40 50 6 ) 70 80 90 100 X\nCompany A\nThe graph shows the relationship between the\nnumber of shares of stock from Company A, x, and\nthe number of shares of stock from Company B, y,\nthat Simone can purchase. Which equation could\nrepresent this relationship?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "y = 8x + 12"
+                },
+                {
+                  "letter": "B",
+                  "text": "8x + 12y = 480"
+                },
+                {
+                  "letter": "C",
+                  "text": "y = 12x + 8"
+                },
+                {
+                  "letter": "D",
+                  "text": "12x + 8y = 480"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q17",
+              "number": 17,
+              "prompt": "Which expression is equivalent to\n8x(x − 7) − 3(x − 7)\n, where x > 7 ?\n2x − 14",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "x−7 8x − 3"
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": "8x 2 − 3x − 14 2x − 14"
+                },
+                {
+                  "letter": "D",
+                  "text": ""
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q18",
+              "number": 18,
+              "prompt": "8x 2 − 3x − 77\n2x − 14\nx\nThe function f is defined by f (x ) = (−8)(2) + 22 .\nWhat is the y-intercept of the graph of y = f (x) in\nthe xy-plane?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "(0, 14)"
+                },
+                {
+                  "letter": "B",
+                  "text": "(0, 2)"
+                },
+                {
+                  "letter": "C",
+                  "text": "(0, 22)"
+                },
+                {
+                  "letter": "D",
+                  "text": "(0, −8)"
+                }
+              ],
+              "correctAnswer": "A",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q19",
+              "number": 19,
+              "prompt": "Keenan made 32 cups of vegetable broth. Keenan\nthen filled x small jars and y large jars with all the\nvegetable broth he made. The equation 3x + 5y = 32\nrepresents this situation. Which is the best\ninterpretation of 5y in this context?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The number of large jars Keenan filled"
+                },
+                {
+                  "letter": "B",
+                  "text": "The number of small jars Keenan filled"
+                },
+                {
+                  "letter": "C",
+                  "text": "The total number of cups of vegetable broth in the large jars"
+                },
+                {
+                  "letter": "D",
+                  "text": "The total number of cups of vegetable broth in the small jars"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q20",
+              "number": 20,
+              "prompt": "A circle in the xy -plane has a diameter with\nendpoints (2, 4) and (2, 14). An equation of this\ncircle is (x − 2)2 + (y − 9)2 = r 2 , where r is a positive\nconstant. What is the value of r ?",
+              "options": [],
+              "correctAnswer": "5",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m2-q21",
+              "number": 21,
+              "prompt": "Line ℓ is defined by 3y + 12x = 5. Line n is\nperpendicular to line ℓ in the xy-plane. What is the\nslope of line n ?\nWhat is the sum of the solutions to the given\nequation?",
+              "options": [],
+              "correctAnswer": "14",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            },
+            {
+              "id": "s2-m2-q22",
+              "number": 22,
+              "prompt": "A circle in the xy -plane has a diameter with\nendpoints (2, 4) and (2, 14). An equation of this\ncircle is (x − 2)2 + (y − 9)2 = r 2 , where r is a positive\nconstant. What is the value of r ?\nLine ℓ is defined by 3y + 12x = 5. Line n is\nperpendicular to line ℓ in the xy-plane. What is the\nslope of line n ?\nWhat is the sum of the solutions to the given\nequation?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "−"
+                },
+                {
+                  "letter": "B",
+                  "text": "−12"
+                },
+                {
+                  "letter": "C",
+                  "text": "0"
+                },
+                {
+                  "letter": "D",
+                  "text": ""
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q23",
+              "number": 23,
+              "prompt": "For the exponential function f, the value of f (1) is k,\nwhere k is a constant. Which of the following\nequivalent forms of the function f shows the value of\nk as the coefficient or the base?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "f (x ) = 50(1.6)x+1"
+                },
+                {
+                  "letter": "B",
+                  "text": "f (x ) = 80(1.6)x"
+                },
+                {
+                  "letter": "C",
+                  "text": "f (x ) = 128(1.6)x−1"
+                },
+                {
+                  "letter": "D",
+                  "text": "f (x ) = 204.8(1.6)x−2"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q24",
+              "number": 24,
+              "prompt": "- 22 - - - - - - –5x + 13 = 73\n- 24 - - - - - - −9x 2 + 30x + c = 0\nIn the given equation, c is a constant. The equation\nhas exactly one solution. What is the value of c ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "3"
+                },
+                {
+                  "letter": "B",
+                  "text": "0"
+                },
+                {
+                  "letter": "C",
+                  "text": "−25"
+                },
+                {
+                  "letter": "D",
+                  "text": "−53"
+                }
+              ],
+              "correctAnswer": "C",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q25",
+              "number": 25,
+              "prompt": "25 - - - - - - Which of the following expressions has a factor of\nx + 2b , where b is a positive integer constant?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "3x 2 + 7x + 14b"
+                },
+                {
+                  "letter": "B",
+                  "text": "3x 2 + 28x + 14b"
+                },
+                {
+                  "letter": "C",
+                  "text": "3x 2 + 42x + 14b"
+                },
+                {
+                  "letter": "D",
+                  "text": "3x 2 + 49x + 14b"
+                }
+              ],
+              "correctAnswer": "D",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q26",
+              "number": 26,
+              "prompt": "Data Set B\nData Set A\n10-+------\ng. 6\nµ.\ng.\n6+---l\nµ.\n4-+-~--t\n10 20 30 40 50 60\n0-+--+---+---+---+---+\n10 20 30 40 50 60\nInteger\nInteger\nI\nTwo data sets of 23 integers each are summarized in\nthe histograms shown. For each of the histograms,\nthe first interval represents the frequency of integers\ngreater than or equal to 10, but less than 20. The\nsecond interval represents the frequency of integers\ngreater than or equal to 20, but less than 30, and so\non. What is the smallest possible difference between\nthe mean of data set A and the mean of data set B?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "0"
+                },
+                {
+                  "letter": "B",
+                  "text": "1"
+                },
+                {
+                  "letter": "C",
+                  "text": "10"
+                },
+                {
+                  "letter": "D",
+                  "text": "23"
+                }
+              ],
+              "correctAnswer": "B",
+              "isFreeResponse": false,
+              "confidenceFlag": "high"
+            },
+            {
+              "id": "s2-m2-q27",
+              "number": 27,
+              "prompt": "The perimeter of an equilateral triangle is\n624 centimeters. The height of this triangle is\nk 3 centimeters, where k is a constant. What is the\nvalue of k?",
+              "options": [],
+              "correctAnswer": "104",
+              "isFreeResponse": true,
+              "confidenceFlag": "medium",
+              "flagReason": "Free-response question - text extraction may be incomplete"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 120,
+  "hasAnswerKey": true,
+  "parsedAt": "2026-03-28T16:37:18.073Z"
+}

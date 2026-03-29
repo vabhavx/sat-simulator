@@ -1,0 +1,1423 @@
+{
+  "id": "2025-aug-v2",
+  "fileName": "2025 Aug V2 @EliteXSAT.pdf",
+  "year": 2025,
+  "month": "Aug",
+  "version": "V2",
+  "type": "Unknown",
+  "sections": [
+    {
+      "id": "s1",
+      "number": 1,
+      "name": "Reading and Writing",
+      "modules": [
+        {
+          "id": "s1-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 1920,
+          "questions": [
+            {
+              "id": "s1-m1-q1",
+              "number": 1,
+              "prompt": "-",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "low",
+              "flagReason": "Question text too short - may contain images or figures"
+            },
+            {
+              "id": "s1-m1-q2",
+              "number": 2,
+              "prompt": "The dates that archaeologists assign to most of the colossal sculptures of human heads produced by the Olmec civilization of Mesoamerica\nare necessarily _______. The majority of the sculptures have been moved from their original context, making precise dating impossible.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "approximate"
+                },
+                {
+                  "letter": "B",
+                  "text": "applicable"
+                },
+                {
+                  "letter": "C",
+                  "text": "uncontroversial"
+                },
+                {
+                  "letter": "D",
+                  "text": "irrelevant"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q3",
+              "number": 3,
+              "prompt": "_______ traditional descriptions of pollination syndromes (suites of floral traits, such as pistil length and flower size, hypothesized to have\nindependently evolved as a result of selection pressure exerted by pollinators) and recent empirical observations of floral-trait combinations\nhave led some ecologists to express reservations about the utility of those descriptions.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Affinities between"
+                },
+                {
+                  "letter": "B",
+                  "text": "Discrepancies between"
+                },
+                {
+                  "letter": "C",
+                  "text": "Proclamations of"
+                },
+                {
+                  "letter": "D",
+                  "text": "Recurrences of"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q4",
+              "number": 4,
+              "prompt": "Scientists discovered a 390-million-year-old fossilized forest of Calamophyton trees in modern-day England. The scientists believe the\nemergence of these Calamophyton forests changed the land significantly.For example, the tree roots would have greatly reduced soil\nerosion,and the accumulated twigs the trees shed likely created new habitats for animal life.\nWhich choice best describes the function of the underlined sentence in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It illustrates how Calamophyton forests likely changed conditions on the land."
+                },
+                {
+                  "letter": "B",
+                  "text": "It indicates how fast the Calamophyton forest spread."
+                },
+                {
+                  "letter": "C",
+                  "text": "It provides two competing views of when the Calamophyton forest likely merged."
+                },
+                {
+                  "letter": "D",
+                  "text": "It suggests that there are likely fossilized Calamophyton forests from before 390 million years ago."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q5",
+              "number": 5,
+              "prompt": "The following text is from Louise Erdrich's 1986 novel The Beet Queen. The narrator discusses her relationship with her young niece, Dot.\nCelestine, the narrator's sister-in-law, is Dot's mother.\nDot and I had a mental connection, I was sure of it. I understood things about the baby that her mother could not accept. For instance, she was\nnever meant to be a baby. Dot was as impatient with babyhood as I. She tried at once to grow out of it. Celestine never saw that, because she,\nand only she, took pleasure in Dot's helpless softness. Only Celestine was saddened by her daughter's fierce progress. Day by day, Dot grew\nstronger. In her shopping-cart stroller she exercised to exhaustion, bouncing for hours to develop her leg muscles.\nWhich choice best describes the main purpose of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "To list entertaining activities that the narrator and Celestine engage in with Dot"
+                },
+                {
+                  "letter": "B",
+                  "text": "To compare the narrator's physical appearance to the physical appearance of Celestine"
+                },
+                {
+                  "letter": "C",
+                  "text": "To express hope that Dot has inherited Celestine's personality"
+                },
+                {
+                  "letter": "D",
+                  "text": "To present the narrator's belief that she understands Dot better than Celestine does"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q6",
+              "number": 6,
+              "prompt": "Adelaide is one of many cities that have installed pontoons or other hardening structures to protect their shorelines against coastal hazards.\nTo assess how birds respond to shoreline hardening and other landscape alterations, Diann Prosser et al. used a tool known as the Index of\nWaterbird Community Integrity to survey bird communities consisting of sixty-four species, including the brown pelican and the red knot, in the\nChesapeake Bay on the US East Coast. The researchers concluded that shoreline hardening more negatively affects birds than does land\ndevelopment for uses such as housing.\nWhich choice best describes the overall structure of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It provides an example of a location that has adopted a particular approach, explains the methodology of a study into an ecological effect of\nthat approach, and describes a finding of that study."
+                },
+                {
+                  "letter": "B",
+                  "text": "It makes a claim about the use of a specific strategy, describes field observations of a consequence of that strategy in a particular\necosystem, and makes a supposition based on those observations."
+                },
+                {
+                  "letter": "C",
+                  "text": "It introduces a certain technique, mentions the hypothesis of a study into an ecological consequence of that technique, and presents\nevidence in support of that study's hypothesis."
+                },
+                {
+                  "letter": "D",
+                  "text": "It presents a solution to a commonly occurring problem, summarizes the procedures used by a group of researchers studying the\nenvironmental impact of that solution, and notes the significance of the researchers findings."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q7",
+              "number": 7,
+              "prompt": "The following text is adapted from Daniel Defoe's 1704 nonfiction book The Storm.\nIf I judge right, 'tis the duty of an historian to set everything in its own light, and to convey matter of fact upon its legitimate authority, and no\nother: I mean thus, (for I would be as explicit as I can) that where a story is vouched to him with sufficient authority, he ought to give the world\nthe special testimonial of its proper voucher, or else he is not just to the story: and where it comes without such sufficient authority, he ought to\nsay so; otherwise he is not just to himself\nWhich choice best states the main idea of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The only figures that a historian should quote are those who are widely viewed as credible."
+                },
+                {
+                  "letter": "B",
+                  "text": "Historians should clearly indicate the extent to which each of their sources is trustworthy."
+                },
+                {
+                  "letter": "C",
+                  "text": "Historians are unlikely to be completely accurate, and so they will eventually want to revise the work they have produced."
+                },
+                {
+                  "letter": "D",
+                  "text": "Because historians cannot tell whose memories they should trust, they should avoid relying on eyewitness accounts of events."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q8",
+              "number": 8,
+              "prompt": "Women like Grace Murray Hopper made important early contributions to the history of US cryptology,a field concerned with secure data\ncommunication and storage. Hopper was a US naval admiral and computer scientist who coined the term \"debugging\" and invented the first\ncompiler program for translating computer code. In this way, Hopper and others like her helped make it possible for more women-such as\nMaureen Baginski, who currently works in intelligence and supports the FBI-to enter the field of cryptology.\nWhich choice best states the main idea of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Cryptology should be taught more often in schools to encourage more women to enter the field."
+                },
+                {
+                  "letter": "B",
+                  "text": "Women such as Grace Murray Hopper and Maureen Baginski have contributed to the field of cryptology."
+                },
+                {
+                  "letter": "C",
+                  "text": "Cryptology is a field that focuses primarily on securely managing data."
+                },
+                {
+                  "letter": "D",
+                  "text": "Grace Murray Hopper and Maureen Baginski worked together on an important project in the field of cryptology."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q9",
+              "number": 9,
+              "prompt": "Researchers who examined data from radio-tagged southern sea otters (Enhydra lutris nereis) identified fitness benefits gained by otters that\nused tools. By using fixed stones as anvils, tool-using otters gained access to highquality, hard-shelled prey (e.g., mussels and clams) that they\ncould usually not access through biting alone. Non-toolusing otters foraged abundant, energy-poor, easily extractable prey instead (e.g., snails).\nEven when easily processed prey were depleted, tool-using otters that processed mussels and clams were thus able to obtain their needed\nenergy resources and to do so without incurring tooth damage.\nWhat does the text most strongly suggest about southern sea otters in environments where snails, mussels, and clams are present?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Those otters that do not use tools will likely have more robust health than those otters that do use tools."
+                },
+                {
+                  "letter": "B",
+                  "text": "Those otters that do not use tools will likely need to process larger amounts of prey to meet their energy requirements than will those otters\nthat use tools."
+                },
+                {
+                  "letter": "C",
+                  "text": "Those otters that consume mussels and clams without the use of tools will likely spend less time foraging than will those otters that use tools\nto access the same prey resources."
+                },
+                {
+                  "letter": "D",
+                  "text": "Those otters whose diet consists mainly of snails will likely exhibit less tooth damage than will those otters that use tools to consume\nmussels and clams."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q10",
+              "number": 10,
+              "prompt": "Over the course of the 1900s, more and more Native Hawaiians spoke English instead of the Hawaiian language. To preserve their\nlanguage, Native Hawaiian teachers founded the 'Aha Pūnana Leo preschool in 1984. They spoke Hawaiian while teaching, and their Native\nHawaiian students were soon able to understand and speak it themselves. The school was a huge success. Eventually it opened locations\naround Hawai'i and started teaching Hawaiian to elementary and high school students too.Thanks to 'Aha Pūnana Leo, the number of young\npeople who speak the language has increased.\nWhich statement, if true, would most directly support the underlined claim?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Hawaiian is very similar to other languages that are spoken on the Polynesian Islands of the Pacific Ocean, including Tahitian, Samoan, and\nMãori."
+                },
+                {
+                  "letter": "B",
+                  "text": "Besides Native Hawaiians, tens of thousands of people from other Pacific Islander communities live in Hawai'i today, including over 37,000\nSamoans."
+                },
+                {
+                  "letter": "C",
+                  "text": "Roughly 680,000 Native Hawaiian people lived in the United States in 2020, and a little less than half of them lived in Hawai'i."
+                },
+                {
+                  "letter": "D",
+                  "text": "Fewer than fifty children could speak Hawaiian when 'Aha Pünana Leo was founded, but now more than 2,000 students at Aha Pünana Leo\nspeak it."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q11",
+              "number": 11,
+              "prompt": "Lin-Tai Ho and colleagues tracked fish populations in three tide pool-monitoring stations in\nTaiwan from 1999 to 2018. Although a total of only 16 barred flagtails were observed at station\n3, that was not the lowest count at any station:_______\nWhich choice most effectively uses data from the table to complete the assertion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "there were 0 wavy-lined blennies observed at station 2."
+                },
+                {
+                  "letter": "B",
+                  "text": "there were 291 combtooth blennies observed at station 1."
+                },
+                {
+                  "letter": "C",
+                  "text": "there were 36 cheekscaled frillgobies observed at station 3."
+                },
+                {
+                  "letter": "D",
+                  "text": "there were 0 combtooth blennies observed at station 2."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q12",
+              "number": 12,
+              "prompt": "The Wonderful Wizard ofOz is a 1900 novel by L. Frank Baum. In the novel, Dorothy lives in Kansas with her aunt and uncle, but she later\nfinds herself in a land called Oz. The narrator indicates that her aunt and uncle's house in Kansas is remote and solitary, writing that______\nWhich quotation from The Wonderful Wizard of Oz most effectively illustrates the claim?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "in Oz, \"Dorothy fell asleep only once, and then she dreamed she was in Kansas, where Aunt Em was telling her how glad she was to have\nher little girl at home again.\""
+                },
+                {
+                  "letter": "B",
+                  "text": "in Kansas, \"Once the house had been painted, but the sun blistered the paint and the rains washed it away, and now the house was as dull\nand gray as everything else.\""
+                },
+                {
+                  "letter": "C",
+                  "text": "in Kansas, \"When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side. Not a\ntree nor a house broke the broad sweep of flat country.\""
+                },
+                {
+                  "letter": "D",
+                  "text": "in Oz, \"[Dorothy and her companions] walked along listening to the singing of the brightly colored birds and looking at the lovely flowers\nwhich now became so thick that the ground was carpeted with them.\""
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q13",
+              "number": 13,
+              "prompt": "Elisabeth Pötzelsberger and colleagues gathered data on 23 non-native tree species grown\nin Europe. They analyzed reports from Great Britain, Bulgaria, and Belgium about the number\nof these species grown in those countries as well as the numbers of insect and fungus species\nthat damage those trees. The researchers concluded that Great Britain had a greater number of\ndamaging fungus species than either of the other countries did.\nWhich choice best describes data from the table that support Pötzelsberger and colleagues'\nconclusion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Great Britain reported 290 damaging fungus species, which is more than either Bulgaria or\nBelgium reported."
+                },
+                {
+                  "letter": "B",
+                  "text": "Belgium reported 13 damaging fungus species but only 11 damaging insect species."
+                },
+                {
+                  "letter": "C",
+                  "text": "Great Britain reported 290 damaging fungus species, whereas Bulgaria reported 16\ndamaging insect species."
+                },
+                {
+                  "letter": "D",
+                  "text": "Bulgaria and Belgium reported 9 and 4 damaging fungus species, respectively, which is far\nfewer than Great Britain reported."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q14",
+              "number": 14,
+              "prompt": "Carcinization, or the evolution of a crablike body form, has taken place in crustaceans many times over the last 250 million years.\nDecarcinization has occurred several times as well, even though it involves the loss of traits such as sideways walking that seem to have\nhelped carcinized groups persist in avariety of ecosystems. In a 2021 paper, Joanna Wolfe and team note that many decarcinized groups are\nextinct and have very few living relatives-signs that decarcinization might be an \"evolutionary dead-end.\" But the team also discusses frog\ncrabs, a living decarcinized group with traits suited to dwelling in sediment; fossils show that the group had decarcinized members as far back\nas the Early Cretaceous. This example suggests that ______\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "sideways walking may have been less important to the survival of frog crabs than a protected abdomen and other traits associated with\ncarcinization."
+                },
+                {
+                  "letter": "B",
+                  "text": "the evolutionary benefits of a crablike body form are less certain than many studies of carcinization had previously implied."
+                },
+                {
+                  "letter": "C",
+                  "text": "despite having many living relatives, some decarcinized groups did not benefit from decarcinization."
+                },
+                {
+                  "letter": "D",
+                  "text": "a crablike body form may not be optimal in all cases, with ecological conditions sometimes favoring the persistence of decarcinization."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q15",
+              "number": 15,
+              "prompt": "Mountain goats were made to climb. In addition to having hard hooves that can dig into nearly any groove or ______ mountain goats have\nslender bodies ideal for scaling nearly ninety-degree cliffs.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "crack or"
+                },
+                {
+                  "letter": "B",
+                  "text": "crack"
+                },
+                {
+                  "letter": "C",
+                  "text": "crack,"
+                },
+                {
+                  "letter": "D",
+                  "text": "crack, or"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q16",
+              "number": 16,
+              "prompt": "Topographical prominence is a measure of a mountain's independence from other mountains. Having 11,486 feet of prominence, ______\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "geographers have ranked Mount Hayes,a peak in the United States, as the world's 51st most prominent mountain."
+                },
+                {
+                  "letter": "B",
+                  "text": "Mount Hayes, a peak located in the United States, is ranked by geographers as the world's 51st most prominent mountain."
+                },
+                {
+                  "letter": "C",
+                  "text": "the list of mountains geographers rank as the world's most prominent includes Mount Hayes, a peak located in the United States, at number\n51."
+                },
+                {
+                  "letter": "D",
+                  "text": "the ranking given by geographers to Mount Hayes, a peak located in the United States, is 51st most prominent mountain in the world."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q17",
+              "number": 17,
+              "prompt": "As an object-oriented computer programming language, PHP is used by coders like Black Girls Code founder Kimberly Bryant to create\ncomputer programs by manipulating \"objects\" (that is, specifically defined variables or combinations of variables) into interacting with each\nother. Conversely, languages like S-Lang, used in software development, ______ object oriented.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "has not been"
+                },
+                {
+                  "letter": "B",
+                  "text": "are not"
+                },
+                {
+                  "letter": "C",
+                  "text": "is not"
+                },
+                {
+                  "letter": "D",
+                  "text": "was not"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q18",
+              "number": 18,
+              "prompt": "In premodern Europe, one could sail from the east coast of England to the Netherlands or France faster than one could travel by land to\nEngland's capital, London. In that era, historian Michael Pye argues in his 2015 book The Edge of the World: A Cultural History of the North\nSea and the Transformation of Europe, the North Sea did more to link the various peoples, cultures, and economies on ______ shores than to\ndivide them.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "its"
+                },
+                {
+                  "letter": "B",
+                  "text": "their"
+                },
+                {
+                  "letter": "C",
+                  "text": "they're"
+                },
+                {
+                  "letter": "D",
+                  "text": "it's"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q19",
+              "number": 19,
+              "prompt": "Creating personas–brief profiles of imaginary characters that represent key segments of a customer base-can help user experience (UX)\ndesigners think like and empathize with those using their products. Fictional yet realistic, ______\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "specific details that UX designers draw from actual users (demographics, browsing habits, etc.) are included in these personas."
+                },
+                {
+                  "letter": "B",
+                  "text": "UX designers include specific details (demographics, browsing habits, etc.) drawn from actual users in these personas."
+                },
+                {
+                  "letter": "C",
+                  "text": "these personas include specific details (demographics, browsing habits, etc.) that UX designers draw from actual users."
+                },
+                {
+                  "letter": "D",
+                  "text": "actual users are the source of the specific details (demographics, browsing habits, etc.) that UX designers include in these personas."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q20",
+              "number": 20,
+              "prompt": "As the exoplanet 7 Canis Majoris c orbits a star 65 light-years from Earth, the gas giant's gravity causes the star to wobble. In 2019,\nastronomers observing the wobble–indicated by redshifts and blueshifts in the star's spectral wavelengths–eventually attributed _______ to the\ngravitational influence of the previously undetected exoplanet.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "it"
+                },
+                {
+                  "letter": "B",
+                  "text": "each"
+                },
+                {
+                  "letter": "C",
+                  "text": "these"
+                },
+                {
+                  "letter": "D",
+                  "text": "them"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q21",
+              "number": 21,
+              "prompt": "Although the term \"balloonomania\"–referring to the hot-air balloon fad in England and France in the late 1700s–might suggest that the\npublic as a whole was captivated by the technology, it was not universally ______ whereas many flocked to balloon launches and purchased\nballoon-themed items ranging from dinnerware to accessories, others dismissed the hot-air balloon as an impractical and dangerous\nextravagance.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "embraced"
+                },
+                {
+                  "letter": "B",
+                  "text": "embraced:"
+                },
+                {
+                  "letter": "C",
+                  "text": "embraced,"
+                },
+                {
+                  "letter": "D",
+                  "text": "embraced and"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q22",
+              "number": 22,
+              "prompt": "In August 1864, Joseph Daily joined the US Navy. He went on to serve aboard the USS Mohican during the US Civil War and, ______\nearned a place in US history as one of the war's few Chinese-born American soldiers.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "for instance,"
+                },
+                {
+                  "letter": "B",
+                  "text": "in doing so,"
+                },
+                {
+                  "letter": "C",
+                  "text": "usually,"
+                },
+                {
+                  "letter": "D",
+                  "text": "in any case,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q23",
+              "number": 23,
+              "prompt": "The lack of accessible written sources is a common challenge faced by biographers of pre-nineteenth-century subjects. ______ when\nwriting his biography of Alexander Hamilton (1755-1804), historian Ron Chernow had at his disposal Harold Syrett's 26-volume,\n19,000-document Papers of Alexander Hamilton.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "In accordance with this premise,"
+                },
+                {
+                  "letter": "B",
+                  "text": "To take one well-known example,"
+                },
+                {
+                  "letter": "C",
+                  "text": "On the other end of the spectrum,"
+                },
+                {
+                  "letter": "D",
+                  "text": "It thus came as no surprise that,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q24",
+              "number": 24,
+              "prompt": "India Arie is an African American singer and songwriter.\nThe media outlet All Music has described her music as having \"glistening acoustic guitar, churchy organ, and smooth, supple beats.\"\nHer acclaimed albums feature many talented musicians.\nAndrew Ramsey played guitar on her second studio album, Voyage to India (2002).\nTony Harrell played keyboard on her first studio album, Acoustic Soul (2001).\nThe student wants to emphasize a difference between Andrew Ramsey and Tony Harrell. Which choice most effectively uses relevant\ninformation from the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Acoustic Souland Voyage to India, released in 2001 and 2002, respectively, are albums by singer and songwriter India Arie."
+                },
+                {
+                  "letter": "B",
+                  "text": "Both musicians have played on India Arie albums, but Andrew Ramsey played guitar, whereas Tony Harrell played keyboard."
+                },
+                {
+                  "letter": "C",
+                  "text": "Andrew Ramsey and Tony Harrell have both lent their musical talents to albums by India Arie."
+                },
+                {
+                  "letter": "D",
+                  "text": "Andrew Ramsey played on India Arie's second studio album, Voyage to India, which was released one year after her album Acoustic Soul."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q25",
+              "number": 25,
+              "prompt": "Grimanesa Amoros is a Peruvian American artist well known for her LED light sculptures.\nUros House (2013) is from her Uros series of works.\nIt is made of smooth multicolored LED domes.\nGolden Connection (2013) is from her Huanchaco series of works.\nIt is made of entangled blue and white LED tubes.\nThe student wants to emphasize a difference between Uros House and Golden Connection. Which choice most effectively uses relevant\ninformation from the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "In 2013, Grimanesa Amoros debuted Uros House, a part of her Uros series."
+                },
+                {
+                  "letter": "B",
+                  "text": "Many of Grimanesa Amoros's sculptures, like Uros House and Golden Connection, incorporate LED lights in the form of domes or tubes."
+                },
+                {
+                  "letter": "C",
+                  "text": "Uros House and Golden Connection are two LED light sculptures by well-known artist Grimanesa Amoros."
+                },
+                {
+                  "letter": "D",
+                  "text": "Grimanesa Amoros often employs LED lights in her work, but the smooth LED domes of Uros House stand in contrast to the tangled LED\ntubes of Golden Connection."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q26",
+              "number": 26,
+              "prompt": "Refrigerants are chemical compounds used in cooling technologies, such as freezers.\nFreezers can use refrigerants to absorb heat and release cold air.\nThe refrigerant dichloromethane is a hydrochlorocarbon (HCC).\nHCCs are composed of the elements hydrogen, chlorine, and carbon.\nThe refrigerant tetrafluoroethylene is a perfluoroolefin (PFO).\nPFOs are composed of fluorine and carbon.\nThe student wants to contrast dichloromethane and tetrafluoroethylene. Which choice most effectively uses relevant information from the notes\nto accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Dichloromethane and tetrafluoroethylene are chemical compounds used in cooling technologies; the compounds are known as refrigerants."
+                },
+                {
+                  "letter": "B",
+                  "text": "Tetrafluoroethylene, a refrigerant, can be used in cooling technologies to absorb heat and release cold air."
+                },
+                {
+                  "letter": "C",
+                  "text": "Dichloromethane, a hydrochlorocarbon, is composed of hydrogen, chlorine, and carbon; tetrafluoroethylene, a perfluoroolefin, is composed\nof fluorine and carbon."
+                },
+                {
+                  "letter": "D",
+                  "text": "The hydrochlorocarbon dichloromethane and the perfluoroolefin tetrafluoroethylene are both refrigerants that can be used in cooling\ntechnologies like freezers."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q27",
+              "number": 27,
+              "prompt": "The A.M. Turing Award is a prestigious award given by the Association for Computing Machinery (ACM).\nThe ACM gives the award for \"major contributions of lasting importance to computing.\"\nIt is named after groundbreaking British mathematician Alan Turing.\nAmir Pnueli won the award in 1996 for seminal work introducing temporal logic into computing science.\nThe student wants to explain whom the award is named for. Which choice most effectively uses relevant information from the notes to\naccomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The A.M. Turing Award is given for \"major contributions of lasting importance to computing.\""
+                },
+                {
+                  "letter": "B",
+                  "text": "In 1996, Amir Pnueli won the A.M. Turing Award for seminal work introducing temporal logic into computing science."
+                },
+                {
+                  "letter": "C",
+                  "text": "It was in 1996 that Amir Pnueli won the A.M. Turing Award."
+                },
+                {
+                  "letter": "D",
+                  "text": "The A.M. Turing Award is named for groundbreaking British mathematician Alan Turing."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            }
+          ]
+        },
+        {
+          "id": "s1-m2",
+          "number": 2,
+          "label": "Module 2",
+          "timeLimitSeconds": 1920,
+          "questions": [
+            {
+              "id": "s1-m2-q1",
+              "number": 1,
+              "prompt": "The following text is from Jacqueline Woodson's 2018 novel Harbor Me. In the novel, the narrator and Esteban are classmates.\nAn hour after class started on that Friday, Esteban came in, his head down, his hair slicked wet against his forehead, his Yankees cap dripping\nwith rain.\nAs used in the text, what does the word \"started\" most nearly mean?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Thought"
+                },
+                {
+                  "letter": "B",
+                  "text": "Jumped"
+                },
+                {
+                  "letter": "C",
+                  "text": "Enlarged"
+                },
+                {
+                  "letter": "D",
+                  "text": "Began"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q2",
+              "number": 2,
+              "prompt": "Examining samples from coral reefs in the Pacific Ocean, a team of microbiologists was able to ______ as many as 3 million different\nspecies of bacteria. The team classified the bacteria by looking at differences in their DNA. These results suggest that there are more bacteria\nspecies than scientists previously thought.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "repair"
+                },
+                {
+                  "letter": "B",
+                  "text": "build"
+                },
+                {
+                  "letter": "C",
+                  "text": "identify"
+                },
+                {
+                  "letter": "D",
+                  "text": "command"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q3",
+              "number": 3,
+              "prompt": "Japanese artist Asai Chü was greatly influenced by European painting styles. For this reason, he often painted with oil on canvas. Yokoyama\nTaikan chose traditional Japanese methods instead: he ______ his painting Seisei Ruten by applying ink to a silk surface.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "moved"
+                },
+                {
+                  "letter": "B",
+                  "text": "hired"
+                },
+                {
+                  "letter": "C",
+                  "text": "created"
+                },
+                {
+                  "letter": "D",
+                  "text": "remembered"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q4",
+              "number": 4,
+              "prompt": "Andrea Wang's book Watercress has earned a lot of praise. In fact, the book ______ the Asian/Pacific American Award for Literature.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "won"
+                },
+                {
+                  "letter": "B",
+                  "text": "guessed"
+                },
+                {
+                  "letter": "C",
+                  "text": "sent"
+                },
+                {
+                  "letter": "D",
+                  "text": "forgot"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q5",
+              "number": 5,
+              "prompt": "For many decades, US movie studios produced a slow trickle of franchise movies-sequels, spin-offs, and other movies featuring familiar\nstories and characters. But the flow seems to have increased significantly since the early 2010s, with franchise films like Minions and Jurassic\nWorld Dominion flooding movie screens. Instead of focusing on original stories, movie studios keep making franchise entries, reusing the same\nplots and characters.This excessive reliance on franchises has limited filmmakers' opportunities to bring fresh ideas to movie screens.\nWhich choice best describes the function of the underlined sentence in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It presentsa solution to a problem discussed earlier in the text."
+                },
+                {
+                  "letter": "B",
+                  "text": "It asks a question about a US film studio discussed earlier in the text."
+                },
+                {
+                  "letter": "C",
+                  "text": "It praises several movies referred to earlier in the text."
+                },
+                {
+                  "letter": "D",
+                  "text": "It describes a consequence of the development discussed earlier in the text."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q6",
+              "number": 6,
+              "prompt": "\"Tomato\" is an example of a loanword–that is,a word that originated in one language and was later adopted by another.The word came to\nEnglish indirectly from tomate, the Spanish word for the widely cultivated plant. Spanish had borrowed it from Nahuatl, an Indigenous language\nof Central Mexico, in which the word's original form is tomate. \"Iguana\" also has an Indigenous origin and entered English through Spanish. But\nin this case, the original source was Taíno, a language of the Caribbean islands, in which the word for the group of related lizard species is\niwana.\nWhich choice best describes the function of the underlined portion in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It cites a specific example of the phenomenon discussed in the text."
+                },
+                {
+                  "letter": "B",
+                  "text": "It clarifies the meaning of a term used earlier in the text."
+                },
+                {
+                  "letter": "C",
+                  "text": "It offers evidence for a claim made later in the text."
+                },
+                {
+                  "letter": "D",
+                  "text": "It addresses an objection to the argument advanced in the text."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q7",
+              "number": 7,
+              "prompt": "Text 1\nIn 1979 Daniel Kahneman and Amos Tversky presented college students and faculty from Israel, Sweden, and the United States with\nhypothetical questions involving financial decisions. The finding that a loss is felt more keenly than is a gain of the same value led the\nresearchers to formulate the concept of loss aversion, which has since informed research in fields ranging from behavioral economics to\nmedicine.\nText 2\nTo test the finding of Kahneman and Tversky's 1979 study, Kai Ruggeri et al. asked participants (some college educated, some not) from\nAustralia, Slovenia, and seventeen other countries the same questions as the ones used in the 1979 study. Ruggeri et al. concluded that\nalthough replication rates (how well research findings reproduce across contexts) varied somewhat between countries-the rate was 100% in\nAustralia and 85% in Slovenia–the average replication rate was an impressive 92%.\nBased on the texts, how would Ruggeri et al. (Text 2) most likely respond to Kahneman and Tversky's finding (Text 1)?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "By agreeing that experimental results support the idea that people tend to be more sensitive to financial losses than to gains"
+                },
+                {
+                  "letter": "B",
+                  "text": "By suggesting that, on average, people's expectations about the feasibility of achieving financial gains have changed little since 1979"
+                },
+                {
+                  "letter": "C",
+                  "text": "By arguing that the attitude toward financial losses and gains that Kahneman and Tversky observed varies widely within the populations of\nindividual countries"
+                },
+                {
+                  "letter": "D",
+                  "text": "By asserting that people in Australia and Slovenia are more concerned about financial losses than people in Israel, Sweden, and the United\nStates are"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q8",
+              "number": 8,
+              "prompt": "In the late 1880s, Ida B. Wells-Barnett began her journalism career and served as a newspaper editor and civil rights activist. Wells-Barnett's\naccomplishment is just one example of the rich history of Black journalism in the United States. That history is preserved by the National\nAssociation of Black Journalists, which was founded in Washington, DC, in 1975 to support Black media professionals and honor people like\nWells-Barnett.\nAccording to the text, where was the National Association of Black Journalists founded?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Detroit"
+                },
+                {
+                  "letter": "B",
+                  "text": "Philadelphia"
+                },
+                {
+                  "letter": "C",
+                  "text": "Washington, DC"
+                },
+                {
+                  "letter": "D",
+                  "text": "San Diego"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q9",
+              "number": 9,
+              "prompt": "The following text is adapted from Rupa Bajwa's 2004 novel The Sari Shop. Ramchand works as an assistant in a shop in Amritsar, India.\nEven at ten in the morning, the bazaar was throbbing with activity. The halwai [baker] was already installed in front of the Mishthaan Sweet\nShop, pressing jalebi batter into squiggly shapes that floated and simmered in the oil in a big iron cauldron. All the shops had opened for the\nday and, Ramchand noted guiltily, all the shop assistants were already in place, trying to sell things with fixed, attentive smiles on their shiny,\nbathed faces.\nBased on the text, what can most reasonably be inferred about Ramchand?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Ramchand is remorseful about arriving to work later than other shop assistants he sees."
+                },
+                {
+                  "letter": "B",
+                  "text": "Ramchand is fascinated by frying jalebi batter while wandering to work as a shop assistant."
+                },
+                {
+                  "letter": "C",
+                  "text": "Ramchand is overwhelmed by a bazaar after seeing the chaos of other shop assistants selling goods."
+                },
+                {
+                  "letter": "D",
+                  "text": "Ramchand is excited about being at work after seeing shop assistants who take pleasure in their jobs."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q10",
+              "number": 10,
+              "prompt": "In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Mexico City, Mexico, and Bogotá, Colombia, were surveyed\nabout parks in their cities. Of the 562 respondents from Mexico City, 77.6% indicated that they use the city's parks, and of the 1,121\nrespondents from Bogotá, 71.9% indicated using city parks. Given that the percentage of respondents who reported having access to desired\nnonpark amenities was much lower in Mexico City than in Bogotá, the difference in park use can't be explained by Mexico City residents having\nmore access to desired nonpark amenities near parks.\nThe text makes which point about the difference between the proportions of Mexico City residents and Bogotá residents using parks?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It is caused by something other than the parks' proximity to other desirable amenities."
+                },
+                {
+                  "letter": "B",
+                  "text": "It was greater than the researchers conducting the study expected."
+                },
+                {
+                  "letter": "C",
+                  "text": "It is the result of the difference in the number of respondents in each city."
+                },
+                {
+                  "letter": "D",
+                  "text": "It was calculated using sources that predate the survey."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q11",
+              "number": 11,
+              "prompt": "A student is writing an essay on the subject of cultured meat, which is grown in a laboratory and is intended to help reduce the number of\nlivestock harvested for food. The student wants to make the case that cultured meat production may be useful in responding to an expected\nwidespread change in the public's behavior.\nWhich quotation from a publication by a researcher would most effectively support the student's claim?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "\"A growing population that is including significantly more meat in its diet will contribute to an increasing demand for meat products in the 21st\ncentury.\""
+                },
+                {
+                  "letter": "B",
+                  "text": "\"Consumers tend to believe that using less packaging when selling meat products in stores would have a significant effect on the\nenvironment.\""
+                },
+                {
+                  "letter": "C",
+                  "text": "\"A difficulty in developing lab-grown meat that successfully imitates meat from livestock is in mimicking the way oxygen spreads through\ntissue in living animals.\""
+                },
+                {
+                  "letter": "D",
+                  "text": "\"Researchers who advocate for the development of lab-grown meat claim that it's safer than conventional meat because it doesn't come\nfrom animals raised in spaces that make them more vulnerable to illness.\""
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q12",
+              "number": 12,
+              "prompt": "Regulations called RSRs prevent insurance companies from raising prices by large amounts. Researchers Naoki\nAizawa and Ami Ko collected data about the years in which various US states implemented RSRs.\nAccording to the table, in what year did South Carolina implement RSRs?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "2001"
+                },
+                {
+                  "letter": "B",
+                  "text": "2010"
+                },
+                {
+                  "letter": "C",
+                  "text": "2021"
+                },
+                {
+                  "letter": "D",
+                  "text": "1999"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q13",
+              "number": 13,
+              "prompt": "Deposits of valuable objects, called hoards, have been unearthed in\nmany different parts of Ireland and Northern Ireland. Technological\nadvancements in the twenty-first century have made it easier to locate\nhoards, but plenty of hoards were found earlier. For example, _____\nWhich choice most effectively uses data from the table to complete the\nstatement?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "the Ardagh Hoard, Ballinesker Hoard, and Carrick-on-Suir Hoard have\nall been found since 1868."
+                },
+                {
+                  "letter": "B",
+                  "text": "the Ballinesker Hoard was found in 1868."
+                },
+                {
+                  "letter": "C",
+                  "text": "Ballinesker Hoard and Carrick-on-Suir Hoard were both discovered in\nthe 1900s."
+                },
+                {
+                  "letter": "D",
+                  "text": "the Ardagh Hoard and Ballinesker Hoard were both found before 2000."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q14",
+              "number": 14,
+              "prompt": "\"The Selfish Giant\" is an 1888 short story by Oscar Wilde. In the story, a group of children play in a local garden after school.The children\nappreciate the garden because it allows them to experience nature.\nWhich quotation from \"The Selfish Giant\" most effectively illustrates the underlined claim?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "\"The poor children had now nowhere to play. They tried to play on the road, but the road was very dusty and full of hard stones, and they did\nnot like it.\""
+                },
+                {
+                  "letter": "B",
+                  "text": "\"The birds sat on the trees and sang so sweetly that the children used to stop their games in order to listen to them. 'How happy we are\nhere!' they cried to each other.\""
+                },
+                {
+                  "letter": "C",
+                  "text": "\"Then the Spring came, and all over the country there were little blossoms and little birds. Only in the garden of the Selfish Giant it was still\nwinter.\""
+                },
+                {
+                  "letter": "D",
+                  "text": "\"My own garden is my own garden, said the Giant; 'any one can understand that, and I will allow nobody to play in it but myself' So he built a\nhigh wallall round it, and put up a notice-board.\""
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q15",
+              "number": 15,
+              "prompt": "British professional soccer team Sheffield United Football Club, whose home uniform color is mainly red, won more than half its home\nmatches between 1947 and 2003. This is a higher proportion of home matches than Cardiff City Football Club, whose home uniform color is not\nred, won during the same period. According to a study by Martin J. Attrill and colleagues, the color red can cause people to respond with fear\nand hesitation, which the researchers think helps explain Sheffield United's success. Nadav Goldschmied and colleagues reanalyzed the\npublished data from this study, however, and found no evidence that red-uniformed teams are more likely than other teams to win, suggesting\nthat Sheffield United's success at its home stadium is ____\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "influenced by its opponents' associations with the color red."
+                },
+                {
+                  "letter": "B",
+                  "text": "difficult to explain given the skill level of its players."
+                },
+                {
+                  "letter": "C",
+                  "text": "unusual for a team with red uniforms."
+                },
+                {
+                  "letter": "D",
+                  "text": "due to factors other than the color of its players' uniforms."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q16",
+              "number": 16,
+              "prompt": "Studies conducted in individual Western societies have demonstrated associations between personality traits and five musical factors\n(mellowness, unpretentiousness, sophistication, intensity, and contemporariness) underlying individual preferences for styles of Western music.\nTo investigate these associations across cultures, David M. Greenberg et al. collected music-preference assessments for Western genres and\nself-reported personality traits from participants in fifty-three countries across six continents. The study confirmed that the five-factor framework\naccurately captured participants' tastes in Western music, and, moreover, the study found similar correlations between patterns of these factors\nand of personality traits, suggesting that _____\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "across cultural contexts, people who share similar profiles of personality traits tend to prefer listening to similar types of Western music."
+                },
+                {
+                  "letter": "B",
+                  "text": "the five-factor framework can likely be used to predict preferences for non-Western music styles based on personality traits even if the\ncharacteristics of those styles substantially differ from characteristics of Western music styles."
+                },
+                {
+                  "letter": "C",
+                  "text": "people with a relatively high degree of familiarity with Western music styles are likely to express stronger preferences for those styles than\npeople with a relatively low degree of familiarity with those styles are."
+                },
+                {
+                  "letter": "D",
+                  "text": "the strength of the relationship between personality traits and musical preferences varies less across cultures than researchers had\npreviously assumed"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q17",
+              "number": 17,
+              "prompt": "From Belmopan, Belize, to Wiesbaden, Germany, the International Criminal Police Organization (Interpol) _____ offices in more than 200\ncities around the world.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "having overseen"
+                },
+                {
+                  "letter": "B",
+                  "text": "oversees"
+                },
+                {
+                  "letter": "C",
+                  "text": "to oversee"
+                },
+                {
+                  "letter": "D",
+                  "text": "overseeing"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q18",
+              "number": 18,
+              "prompt": "Welsh nurse Betsi Cadwaladr assisted soldiers during the Crimean War. Many nurses from that war, including Cadwaladr, ____ later\ncommended for their service.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "is"
+                },
+                {
+                  "letter": "B",
+                  "text": "has been"
+                },
+                {
+                  "letter": "C",
+                  "text": "was"
+                },
+                {
+                  "letter": "D",
+                  "text": "were"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q19",
+              "number": 19,
+              "prompt": "At the American Academy of Dramatic Arts in Los Angeles, California, students can learn the world-famous Meisner technique. This\ntechnique emphasizes reacting naturally to one's environment in a scene and ____ actors to focus less on their own movement and speech.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "are encouraging"
+                },
+                {
+                  "letter": "B",
+                  "text": "have encouraged"
+                },
+                {
+                  "letter": "C",
+                  "text": "encourage"
+                },
+                {
+                  "letter": "D",
+                  "text": "encourages"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q20",
+              "number": 20,
+              "prompt": "When the Greengate shopping mall, an indoor, temperature-controlled complex in Greensburg, Pennsylvania, was completed in 1965, the\nmall was just emerging as a new shopping concept. By the mid-1980s, American\"mall culture\" was at its peak, with hundreds of malls acting as\n____ commercial, and cultural hubs throughout the US.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "social and"
+                },
+                {
+                  "letter": "B",
+                  "text": "social;"
+                },
+                {
+                  "letter": "C",
+                  "text": "social"
+                },
+                {
+                  "letter": "D",
+                  "text": "social,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q21",
+              "number": 21,
+              "prompt": "When the electrons of a chemical element change energy states, they release certain wavelengths of light that are unique to that element.\nThis means that the emission of light with a wavelength of 430.5 nanometers (nm), which falls in the 380-450 nm range defining the violet\nportion of the visible spectrum, ____ the element titanium as the source of the light.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "having identified"
+                },
+                {
+                  "letter": "B",
+                  "text": "identifying"
+                },
+                {
+                  "letter": "C",
+                  "text": "to identify"
+                },
+                {
+                  "letter": "D",
+                  "text": "identifies"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q22",
+              "number": 22,
+              "prompt": "The composite volcano Midagahara in Japan has steep sides and a cone shape. _____ the cinder cone volcano Maungarei in New\nZealand also features steep sides and a cone shape.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Similarly,"
+                },
+                {
+                  "letter": "B",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "C",
+                  "text": "By contrast,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Thus,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q23",
+              "number": 23,
+              "prompt": "As part of a study, participants were asked to list animals they thought of as \"charismatic,\"which was defined as \"attractive, fascinating, or\nappealing.\" Researchers compiled the responses into a single list and found that the lion and the crocodile both landed in the top twenty. _____\nno animal outranked the tiger.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Therefore,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Nevertheless,"
+                },
+                {
+                  "letter": "D",
+                  "text": "In other words,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q24",
+              "number": 24,
+              "prompt": "The lava heron is a species of bird that can be found on the Galápagos Island of Rábida.\nIt has an average weight of 210 grams.\nThe green warbler finch is a species of bird that can be found on the Galápagos Island of Rábida.\nIt has an average weight of 8 grams.\nThe student wants to emphasize a similarity between the lava heron and the green warbler finch. Which choice most effectively uses relevant\ninformation from the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The Galápagos Island of Rábida is home to several bird species, one of which is the lava heron."
+                },
+                {
+                  "letter": "B",
+                  "text": "On average, the lava heron weighs 210 grams, while the green warbler finch weighs 8 grams."
+                },
+                {
+                  "letter": "C",
+                  "text": "The green warbler finch and the lava heron can both be found on the Galápagos Island of Rábida."
+                },
+                {
+                  "letter": "D",
+                  "text": "The green warbler finch, which weighs 8 grams on average, can be found on the Galápagos Island of Rábida."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q25",
+              "number": 25,
+              "prompt": "Elizabeth Catlett (1915-2012) was a celebrated African American artist.\nShe is best known for creating sculptures and prints that explore the Black experience.\nCatlett's sculpture Face is made of marble.\nShe created this sculpture in 1973.\nThe student wants to specify the year that Elizabeth Catlett created the sculpture Face. Which choice most effectively uses relevant information\nfrom the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Elizabeth Catlett, a celebrated artist, was born in 1915."
+                },
+                {
+                  "letter": "B",
+                  "text": "Elizabeth Catlett was a celebrated artist who created prints as well as sculptures."
+                },
+                {
+                  "letter": "C",
+                  "text": "Elizabeth Catlett created the marble sculpture Face in 1973."
+                },
+                {
+                  "letter": "D",
+                  "text": "Celebrated artist Elizabeth Catlett is best known for creating sculptures and prints that explore the Black experience."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q26",
+              "number": 26,
+              "prompt": "Modern Pueblo tribal nations were preceded by the Ancestral Puebloan civilization, which occupied parts of the southwestern US until\napproximately 1600 CE.\nYellow Jacket Pueblo in southwestern Colorado is a former Ancestral Puebloan settlement inhabited from approximately 1075-1250 CE.\nIt was constructed on relatively flat terrain and had multistory adobe and stone buildings.\nThese buildings had cube-shaped, contiguous rooms that surrounded kivas.\nKivas are round rooms typically used for ceremonial purposes and as gathering spaces.\nThe student wants to provide a detailed overview of the structures at Yellow Jacket Pueblo. Which choice most effectively uses relevant\ninformation from the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The Ancestral Puebloans used adobe and stone in the construction of Yellow Jacket Pueblo in southwestern Colorado."
+                },
+                {
+                  "letter": "B",
+                  "text": "Constructed on relatively flat terrain, Yellow Jacket Pueblo's multistory adobe and stone buildings featured round rooms called kivas\nsurrounded by cube-shaped, contiguous rooms."
+                },
+                {
+                  "letter": "C",
+                  "text": "Yellow Jacket Pueblo, whose structures were built by Ancestral Puebloans in southwestern Colorado, was inhabited from approximately\n1075-1250 CE."
+                },
+                {
+                  "letter": "D",
+                  "text": "Located in southwestern Colorado, Yellow Jacket Pueblo was desi"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q27",
+              "number": 27,
+              "prompt": "A true-to-scale model of the solar system shows the relative sizes and positions of the major objects in the solar system.\nThe Akaa Solar System Scale Model in Akaa, Finland, is a true-to-scale model solar system.\nThe Akaa Solar System Scale Model is built to a scale of roughly 1:3 billion.\nThe model Sun there is 0.46 meters in diameter.\nThe actual Sun is 1.39 billion meters in diameter.\nThe student wants to specify the size of the Sun in the model solar system. Which choice most effectively uses relevant information from the\nnotes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The model solar system in Akaa, Finland, is built to a scale of 1:3 billion."
+                },
+                {
+                  "letter": "B",
+                  "text": "The diameter of the model Sun in the Akaa Solar System Scale Model is 0.46 meters."
+                },
+                {
+                  "letter": "C",
+                  "text": "The size of the Sun in the model solar system is true to scale."
+                },
+                {
+                  "letter": "D",
+                  "text": "The Sun in the Akaa Solar System Scale Model is 1.39 billion meters in diameter."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 54,
+  "hasAnswerKey": true,
+  "parsedAt": "2026-03-28T17:36:17.614Z"
+}

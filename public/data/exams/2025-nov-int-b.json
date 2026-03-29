@@ -1,0 +1,1389 @@
+{
+  "id": "2025-nov-int-b",
+  "fileName": "2025 Nov Int-B @EliteXSAT.pdf",
+  "year": 2025,
+  "month": "Nov",
+  "version": "Int-B",
+  "type": "International",
+  "sections": [
+    {
+      "id": "s1",
+      "number": 1,
+      "name": "Reading and Writing",
+      "modules": [
+        {
+          "id": "s1-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 1920,
+          "questions": [
+            {
+              "id": "s1-m1-q1",
+              "number": 1,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\nScientists have used machine learning tools to study elephant sounds, uncovering a\nsophisticated communication system. The tools ______ unique patterns in the rumbling\nsounds elephants make. The scientists claim that these patterns are specific calls the\nelephants use for individuals, similar to names.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "created"
+                },
+                {
+                  "letter": "B",
+                  "text": "corrected"
+                },
+                {
+                  "letter": "C",
+                  "text": "detected"
+                },
+                {
+                  "letter": "D",
+                  "text": "scattered"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q2",
+              "number": 2,
+              "prompt": "As used in the text, what does the word “considered” most nearly mean?\nThe following text is from Chinua Achebe’s 1964 novel Arrow of God. The novel is set in\nNigeria in the 1920s. Ezeulu, who is the religious leader for several villages, announces when\nthe annual yam harvest can begin.\n\n\nWhenever Ezeulu considered the immensity of his power over the year and the\ncrops and, therefore, over the people he wondered if it was real. It was true he\nnamed the day for the feast of the Pumpkin Leaves and for the New Yam feast;\nbut he did not choose it. He was merely a watchman. His power was no more than\nthe power of a child over a goat that was said to be his.\n©1964 by Chinua Achebe",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Pondered"
+                },
+                {
+                  "letter": "B",
+                  "text": "Anticipated"
+                },
+                {
+                  "letter": "C",
+                  "text": "Allowed"
+                },
+                {
+                  "letter": "D",
+                  "text": "Respected"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q3",
+              "number": 3,
+              "prompt": "As used in the text, what does the word “traces” most nearly mean?\nThe following text is adapted from John Matheus’s 1925 short story “Fog.”\nThe fog extended its tentacles over city and river, gradually obliterating traces of\nfamiliar landscapes. At five-thirty the old Panhandle bridge, supported by\nmassive sandstone pillars, stalwart, as when erected fifty years before to serve a\ngeneration now passed behind the portals of life, had become a spectral outline\nagainst the sky.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Debris"
+                },
+                {
+                  "letter": "B",
+                  "text": "Copies"
+                },
+                {
+                  "letter": "C",
+                  "text": "Indications"
+                },
+                {
+                  "letter": "D",
+                  "text": "Remembrances"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q4",
+              "number": 4,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\n\n\nMicroplastics are a common pollutant in large masses of water like glaciers. High\nconcentrations and ______ among particles—variations in size, shape, and material—make it\nonerous to comprehensively classify the microplastics in a water sample, so Ojeda-Benítez\net al. are exploring a device to help quickly and accurately identify certain characteristics.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "restraints"
+                },
+                {
+                  "letter": "B",
+                  "text": "inconsistencies"
+                },
+                {
+                  "letter": "C",
+                  "text": "incompatibilities"
+                },
+                {
+                  "letter": "D",
+                  "text": "disruptions"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q5",
+              "number": 5,
+              "prompt": "As used in the text, what does the word “consideration” most nearly mean?\nThe following text is adapted from Henry James’s 1881 novel The Portrait of a Lady.\nEverything Osmond did was pose—pose so subtly considered that if one were not\non the lookout one mistook it for impulse. Ralph had never met a man who lived\nso much in the land of consideration. His tastes, his studies, his\naccomplishments, his collections, were all for a purpose.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Deference"
+                },
+                {
+                  "letter": "B",
+                  "text": "Calculation"
+                },
+                {
+                  "letter": "C",
+                  "text": "Indecision"
+                },
+                {
+                  "letter": "D",
+                  "text": "Courtesy"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q6",
+              "number": 6,
+              "prompt": "Which choice best describes the function of the underlined portion in the text as a whole?\nAdult glass eels can be found off the coast of Maine, but the eels begin their lives in the\nSargasso Sea, a biodiverse area in the North Atlantic Ocean where they are born and later\nreturn to breed. Though biologists believe they have identified the general area in the\nSargasso Sea that is crucial to the endangered eels’ survival, little is yet known about how\n\n\nthe animals spawn there. Scientists believe that solving the mystery will lead to better\nconservation of glass eels and their habitat, helping in turn to sustain several other species\nthat rely on them as a food source.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It presents a finding from a study that identifies the circumstances required to ensure the\nsurvival of glass eels."
+                },
+                {
+                  "letter": "B",
+                  "text": "It suggests that scientists are more concerned about other species than about glass eels’\nhabitat."
+                },
+                {
+                  "letter": "C",
+                  "text": "It indicates that the benefit of understanding glass eels’ spawning behavior extends\nbeyond the eels."
+                },
+                {
+                  "letter": "D",
+                  "text": "It discusses a role that glass eels and other species serve in supporting the ecosystem of\nthe Sargasso Sea."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q7",
+              "number": 7,
+              "prompt": "Which choice best describes the overall structure of the text?\nTomi Adeyemi’s first published work, the inventive West African–inspired fantasy novel\nChildren of Blood and Bone, has intriguing things to say about the relationship between\nidentity and power. Adeyemi works in a decades-long tradition going back to writers such as\nSamuel Delany and Octavia Butler, who wove cultural elements of the Black diaspora into\ntheir science fiction and fantasy in a movement known as Afrofuturism. At its core, the\nmovement is characterized by speculation, not just about distant futures or other planets but\nalso about alternate versions of our shared past. Afrofuturism’s meditations on authority\nreinvigorate the creative potential of fiction.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It notes the political stance of an author, compares that author’s book to other earlier\nworks, and then analyzes the influence of political events on the book."
+                },
+                {
+                  "letter": "B",
+                  "text": "It praises a newly published author, compares that author with others who might appear\nsuperficially similar, and then points out the features of that author’s work that make it\nunique."
+                },
+                {
+                  "letter": "C",
+                  "text": "It introduces an intriguing debut work, contextualizes that work as part of an ongoing\nliterary tradition, and then describes important themes of that tradition."
+                },
+                {
+                  "letter": "D",
+                  "text": "It summarizes a book, describes characteristics of the artistic movement of which the\nbook is a part, and then points out the features the book shares with more widely read\nworks."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q8",
+              "number": 8,
+              "prompt": "Which statement about the Hispanic Society of America is best supported by the text?\nFounded in 1904, the Hispanic Society of America showcases the arts and cultures of\nSpanish-speaking and Portuguese-speaking regions around the world, including Latin\nAmerica. It is located in New York City and has more than 18,000 objects in its museum\ncollection. Since 2000, a number of other institutions devoted to Latino cultures have\nopened in the United States. A notable example is LA Plaza de Cultura y Artes in Los\nAngeles. It focuses on Mexican American art and culture.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Its collection includes over 18,000 objects."
+                },
+                {
+                  "letter": "B",
+                  "text": "It is no longer located in New York City."
+                },
+                {
+                  "letter": "C",
+                  "text": "It was founded after 2000."
+                },
+                {
+                  "letter": "D",
+                  "text": "It is visited by more people than any other Latino cultural institution in the US."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q9",
+              "number": 9,
+              "prompt": "Based on the text, what is the most likely reason Walsh and colleagues chose to avoid the\nmethod used in the spinach study?\nIn a 2024 study, Corrine Walsh and colleagues examined whether the composition of soil\nmicrobial communities could affect plants’ flavor chemistry. Whereas Baslam et al. (2011)\nshowed that adding specific bacterial or fungal strains to soil can yield increased flavonoid\ncontent in spinach crops, Walsh and team applied intact microbial communities gathered\nfrom ecologically distinct settings across Colorado, including areas of ponderosa pine forest\nand irrigated pasture, to mustard plants and evaluated the flavor compounds in the plants’\nseeds. This ensured that the microbial conditions in their experiment would better reflect the\nvariation and complexity of naturally occurring communities.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The composition of microorganisms in the soil in the spinach study may not have been\nrepresentative of a naturally existing composition."
+                },
+                {
+                  "letter": "B",
+                  "text": "The microbial community in the soil from the spinach study affected plants’ nutrition, not\ntheir flavor chemistry."
+                },
+                {
+                  "letter": "C",
+                  "text": "The microbial community in the soil from the spinach study likely included similar species\nto those in wild soils."
+                },
+                {
+                  "letter": "D",
+                  "text": "The diversity of species of microorganisms in the soil from the spinach study was already\nabnormally high before the researchers added further microorganisms."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q10",
+              "number": 10,
+              "prompt": "Which choice most effectively uses data from the table to complete the statement?\nHome Console and Computer Games of the 1980s\nApproximate number of\nTitle\nunits sold worldwide Genre Developer\nSuper Mario Brothers 2\n7,460,000\nplatformer Nintendo\nEAD\nIce Hockey\n2,420,000\nsports Nintendo\nR&D2\nWhere in the World Is\n4,000,000\neducation Broderbund\nCarmen Sandiego?\nTetris\n43,000,000\npuzzle Nintendo\nR&D1\nA student is writing a paper on the global rise of the home video game industry during the\n1980s. The student is researching the relative popularity of various genres of console and\ncomputer games. Looking at the information in the table, the student finds that the games in\nthe genres of ______",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "puzzle and sports sold nearly the same number of units."
+                },
+                {
+                  "letter": "B",
+                  "text": "platformer and education sold nearly the same number of units."
+                },
+                {
+                  "letter": "C",
+                  "text": "puzzle and platformer outsold the games in the other genres."
+                },
+                {
+                  "letter": "D",
+                  "text": "platformer and sports outsold the games in the other genres."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q11",
+              "number": 11,
+              "prompt": "Which choice most effectively uses data from the graph to complete the statement?\n\n)aPk( htgnerts noisehdA\n\n45\n40\n35\n30\n25\n20\n15\n10\n5\n0\n\nMean Adhesion Strength of\nGraphite and Acrylamide Gel,\nat Varying Voltages\n\n0\n\n1\n2\n3\nVoltage (V)\ngraphite–AAm pair\n\nWenhao Xu and colleagues demonstrated that applying a low direct current electrical field to\ngraphite (a conductor) and an acrylamide (AAm) gel can increase how strongly materials\nadhere to each other. At some voltages, adhesion strength—as measured in kilopascals\n(kPa) of stress needed to pull the materials apart—was high (more than 30 kPa). But the\nmere application of a direct current electrical field with positive voltage is not sufficient to\ncause increased adhesion, as evidenced by the fact that ______",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "at 0 V, mean adhesion strength was equal to 0 kPa."
+                },
+                {
+                  "letter": "B",
+                  "text": "at 3 V, mean adhesion strength reached its highest observed level at approximately 30\nkPa."
+                },
+                {
+                  "letter": "C",
+                  "text": "at 2 V, mean adhesion strength was lower than it was at both 1 V and 3 V."
+                },
+                {
+                  "letter": "D",
+                  "text": "at 1 V, mean adhesion strength was approximately equal to adhesion strength at 0 V."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q12",
+              "number": 12,
+              "prompt": "Which choice most effectively uses data from the table to complete the text?\n\n\nEffect of Various Soil Treatments on Mean Pineapple Fruit Weight and Size\nWeight\nLength\nDiameter\nSoil treatment\n(grams) (centimeters)\n(centimeters)\nControl\n825.9\n6.14\n13.63\nBiochar\n915.7\n6.56\n13.63\nCompost\n864.8\n6.15\n13.22\nBiochar and\n979.3\n6.76\n13.68\ncompost\nBiochar and NPK\n1032.1\n6.78\n13.96\nfertilizer\nWorking in Ghana, Emmanuel Hanyabui and colleagues compared the impact on pineapple\ngrowth of different combinations of soil additives, including NPK fertilizer (an inorganic\nfertilizer containing nitrogen, phosphorus, and potassium), organic compost, and biochar (a\ncarbon-rich material produced from organic waste matter). Based on data in the table,\npineapple farmers with no access to inorganic soil additives would likely increase the weight\nand size of their fruits by the greatest amount by using ______\nA. compost alone.\nB. biochar alone.\nC. biochar and compost.\nD. biochar and NPK fertilizer.\n13.\nWhich choice most logically completes the text?\nNeuroscientist Artin Arshamian and his team sought to determine what affects a person’s\nperception of an odor as pleasant: is it culture, personal taste, or aspects of human\nanatomy? The team assessed odor preferences in ten groups of people with different modes\nof living (urban, agricultural, and hunter-gatherer) including urban dwellers from a large city\nin Thailand and the Seri people from a small community in Mexico. The team observed that\nacross cultures, people generally rated odors about the same: vanillin, which smells like\nvanilla, was typically rated more pleasant than galbazine, which smells like peanuts. The\nteam therefore concluded that ______\n\n\nA. culture likely plays more of a role in a person’s perception of how pleasant an odor is than\ndoes human anatomy.\nB. a person’s mode of living likely doesn’t have a large influence on that person’s perception\nof whether an odor is pleasant or unpleasant.\nC. a person who lives in an urban area is more likely to encounter the odor of vanillin than is\na person who lives in a small community.\nD. a person who perceives certain odors as pleasant will likely perceive the odors as roughly\nequal in pleasantness.\n14.\nWhich choice most logically completes the text?\nOuti Tervo and team studied the effect of human-caused noise on narwhals (Monodon\nmonoceros), arctic marine mammals that are sensitive to acoustic changes in their\nenvironment. Hypothesizing that elevated sound levels affect foraging among narwhals,\nTervo’s team compared narwhal diving behaviors in natural sound conditions with those\nbehaviors in two human-caused sound exposure conditions—ship sounds and ship sounds\ncoupled with sonic pulses. Both exposure conditions resulted in significant decreases in the\nnumber and target depth of deep dives (associated with foraging) relative to natural\nconditions. However, differences between diving behaviors in the two exposure types were\nnegligible, a finding that could be attributed to the fact that ______\nA. sonic pulses can be heard at significantly greater ocean depths than ship sounds can.\nB. ship sounds contribute so much to the overall sound level that the addition of sonic\npulses has little effect on the narwhals’ auditory environment.\nC. narwhals forage at shallower depths in the presence of ship sounds alone than in the\npresence of ship sounds coupled with sonic pulses.\nD. the narwhals weren’t as sensitive to human-caused sounds as the researchers had\npredicted.\n15.\n\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nJesse Treviño’s 1976 painting Mis Hermanos was featured in the Smithsonian’s 2013\nexhibition Our America: The Latino Presence in American Art. The piece ______ chosen for\nthe exhibition by curator E. Carmen Ramos.\nA. is\nB. had been\nC. will be\nD. is being\n16.\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nMia Heavener’s 2019 novel Under Nushagak Bluff, which takes place in a mid-twentiethcentury rural Alaskan fishing ______ the story of three Yup’ik women who grapple with the\nrise of commercial fisheries and other changes affecting their community.\nA. village: tells\nB. village. Tells\nC. village, tells\nD. village tells\n17.\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nMany works of the Greek historian Strabo (1st century BCE) are ______ his Geographica, a\ndescriptive history of the ancient world, is an extant work: it can still be read.\nA. lost. Conversely,\nB. lost and conversely,\n\n\nC. lost, conversely,\nD. lost, and conversely\n18.\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nEnacted in 1944, Iceland’s 4,089-word constitution, in contrast to Spain’s, which was\nenacted in 1978 and contains a far greater number (17,608) of words, ______ as the 2nd\nshortest in the world. Such data are studied by constitutional scholars like George Tsebelis,\nwho can use them to draw broader conclusions.\nA. have ranked\nB. rank\nC. are ranking\nD. ranks\n19.\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nWorking on an unimaginably small scale of billionths of a meter, nanoengineers have found\nways to leverage cerium oxide ______ to improve treatments for certain conditions related to\noxidative stress.\nA. nanoparticles’ properties’\nB. nanoparticles properties\nC. nanoparticles’ properties\nD. nanoparticle’s properties\n20.\n\n\nWhich choice completes the text so that it conforms to the conventions of Standard English?\nRecordings of electrical activity in the brain, ______ increased activity in brain areas\nassociated with suppressing motor functions.\nA. electrograms show that while responding to hypothetical match scenarios, the most\nhighly skilled soccer players have\nB. hypothetical match scenario responses show that the most highly skilled soccer players\ncaptured in electrograms have\nC. the most highly skilled soccer players responding to hypothetical match scenarios have\nelectrograms that show\nD. responses to hypothetical match scenarios show that the most highly skilled soccer\nplayers have electrograms with\n21.\nWhich choice completes the text with the most logical transition?\nA team led by Portuguese researcher Isabel C.F.R. Ferreira found that many species of\nmushrooms contain chemicals called phenolic compounds, such as cinnamic acid and\ncatechin. ______ Ferreira detected cinnamic acid in Agaricus blazei mushrooms and\ncatechin in Lentinus edodes mushrooms.\nA. For this reason,\nB. However,\nC. Nevertheless,\nD. For example,\n22.\nWhich choice completes the text with the most logical transition?\nResins play several important roles in maintaining the health of conifers and many other\nkinds of trees. ______ resins quickly seal wounds, which helps prevent harmful insects and\n\n\nfungi from entering trees. These sticky substances also help trees retain water that is\nneeded for them to survive.\nA. Regardless,\nB. Next,\nC. However,\nD. For example,\n23.\nWhich choice completes the text with the most logical transition?\nWhile some researchers have identified the planet Kepler-296e as potentially habitable, it’s\nunlikely that humanity will be able to take advantage of its favorable conditions anytime soon\n—it’s 737 light years away. ______ humanity must first focus on making planets within our\nsolar system more habitable.\nA. Likewise,\nB. Instead,\nC. For example,\nD. Next,\n24.\nWhich choice completes the text with the most logical transition?\nThe Tres Zapotes archaeological site is located in our home state of Veracruz, Mexico.\n______ an 8.5-ton stone statue of a human head was left behind by the ancient Olmec\ncivilization. In the nearby state of Tabasco was another stone statue that weighs 19.8 tons.\nA. In other words,\nB. Here,\nC. Similarly,\n\n\nD. Therefore,\n25.\nWhich choice completes the text with the most logical transition?\nIn a 1948 article titled “The Language of Lines,” Brazilian photographer José Yalenti argued\nthat black-and-white photography’s distinctive—and in his view, superior—use of lines is\nwhat elevates the medium to the status of fine art. ______ Yalenti insisted that conveying\nperspective through linear forms is photography’s “indisputable and exclusive domain,”\ncreating a visual language surpassing even celebrated painters’ works.\nA. Indeed,\nB. In any case,\nC. However,\nD. Even so,\n26.\nThe student wants to emphasize the combined deadweight tonnage of the Bahamas’\nmerchant ships in 2021. Which choice most effectively uses relevant information from the\nnotes to accomplish this goal?\nWhile researching a topic, a student has taken the following notes:\nA merchant ship is any ship hired to carry cargo or passengers.\nA ship’s carrying capacity is also known as its deadweight tonnage (DWT).\nIn 2021, there were a total of 1,323 merchant ships registered in the Bahamas.\nThe combined DWT of these ships was 74.3 million tons.\nA. The carrying capacity of a merchant ship is also known as deadweight tonnage.\nB. In 2021, the Bahamas had 1,323 merchant ships hired to carry cargo or passengers.\nC. Combined, the Bahamas’ merchant ships had a deadweight tonnage of 74.3 million tons\nin 2021.\n\n\nD. There were a total of 1,323 merchant ships—ships hired to carry cargo or passengers—\nregistered in the Bahamas in 2021.\n27.\nThe student wants to support Browner’s claim about Louis Ballard’s compositions. Which\nchoice most effectively uses relevant information from the notes to accomplish this goal?\nWhile researching a topic, a student has taken the following notes:\nLouis Ballard was a classical composer and citizen of the Quapaw Tribe.\nBallard’s composition Desert Trilogy was nominated for the Pulitzer Prize in music in\n1971.\nHis composition Devil’s Promenade incorporates a Seneca cow-horn rattle, a\ntraditional Native instrument.\nEthnomusicologist Tara Browner claims that Ballard’s compositions rely on elements\noriginating within Native musical traditions.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "According to Browner, composer Louis Ballard, who wrote Desert Trilogy, relies on\nelements with origins in Native musical traditions."
+                },
+                {
+                  "letter": "B",
+                  "text": "Classical composer Louis Ballard, who wrote Devil’s Promenade, was nominated for the\nPulitzer Prize in music in 1971."
+                },
+                {
+                  "letter": "C",
+                  "text": "Browner posits that Louis Ballard’s compositions rely on elements originating within\nNative musical traditions; Devil’s Promenade affirms this assertion, incorporating a Seneca\ncow-horn rattle."
+                },
+                {
+                  "letter": "D",
+                  "text": "Browner claims that Louis Ballard’s compositions, one of which was nominated for the\nPulitzer Prize, rely on elements originating within Native musical traditions."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            }
+          ]
+        },
+        {
+          "id": "s1-m2",
+          "number": 2,
+          "label": "Module 2",
+          "timeLimitSeconds": 1920,
+          "questions": [
+            {
+              "id": "s1-m2-q1",
+              "number": 1,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\nIn the search for new impact craters on Mars, the roles of seismic monitoring and orbital\nimaging as data sources are ______: when vibrations detected with seismic monitoring\nindicate roughly where an impact has occurred, researchers can use orbital images of that\nrelatively limited area of the rocky surface to precisely locate a new crater.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "redundant"
+                },
+                {
+                  "letter": "B",
+                  "text": "exhaustive"
+                },
+                {
+                  "letter": "C",
+                  "text": "complementary"
+                },
+                {
+                  "letter": "D",
+                  "text": "interchangeable"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q2",
+              "number": 2,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\nThough copies of The Adventures of Indiana Jones in Wenceslas Square in Prague on\nJanuary 16, 1989—an underground computer game that was created anonymously in 1989\nas an act of political protest against the authoritarian regime of what was then\nCzechoslovakia—were originally distributed ______, the game is now readily available online\nfor anyone to play.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "succinctly"
+                },
+                {
+                  "letter": "B",
+                  "text": "dispassionately"
+                },
+                {
+                  "letter": "C",
+                  "text": "surreptitiously"
+                },
+                {
+                  "letter": "D",
+                  "text": "disingenuously"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q3",
+              "number": 3,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\nIf some specific predictions in Alvin Toffler’s 1970 book Future Shock seem ludicrous now—\npeople do not wear paper clothing while living in underwater cities—Toffler’s fundamental\nclaim that rapid technological and social change will leave people feeling disoriented and\natomized seems, in our age of disequilibrium and fragmentation, remarkably ______.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "prescient"
+                },
+                {
+                  "letter": "B",
+                  "text": "articulate"
+                },
+                {
+                  "letter": "C",
+                  "text": "iconoclastic"
+                },
+                {
+                  "letter": "D",
+                  "text": "equivocal"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q4",
+              "number": 4,
+              "prompt": "Which choice completes the text with the most logical and precise word or phrase?\nA conclusive demonstration of the logical certainty of the honeycomb conjecture, posed in\nthe first century BCE, ______ mathematicians’ efforts until Thomas C. Hales presented the\nfirst valid proof of the conjecture in 1999.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "defied"
+                },
+                {
+                  "letter": "B",
+                  "text": "prefigured"
+                },
+                {
+                  "letter": "C",
+                  "text": "epitomized"
+                },
+                {
+                  "letter": "D",
+                  "text": "displaced"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q5",
+              "number": 5,
+              "prompt": "Which choice best describes the overall structure of the text?\nEstablishing protected areas (PAs), such as Abrolhos Marine Park in Brazil, is a common\nconservation strategy, but because PAs restrict some kinds of economic activity, it’s widely\nthought that they hinder economic development. This perception is driven in part by the fact\nthat economic assessments often don’t capture the indirect effects of tourism linked to PAs.\nBut Heng Zhu et al. found that tourism associated with Abrolhos boosts local demand for\ngoods and services in other economic sectors, resulting in, for instance, increased income\nfrom fishing in nearby areas.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It states a hypothesis that accounts for why PAs generally negatively impact local\neconomies, outlines how a research team’s findings support that hypothesis, and then\nsuggests how a novel methodology led a separate team of researchers to a different\nconclusion."
+                },
+                {
+                  "letter": "B",
+                  "text": "It makes a generalization about the difficulty of using PAs to reconcile economic and\nconservation priorities, demonstrates why most PAs fall short of achieving that goal, and\nthen holds up a particular PA as an example of how that goal can be achieved."
+                },
+                {
+                  "letter": "C",
+                  "text": "It introduces a widely held belief about the effect PAs have on the economy, proposes a\nreason for that belief’s prevalence, and then details a study whose findings seemingly\nconflict with that belief."
+                },
+                {
+                  "letter": "D",
+                  "text": "It explains how PAs typically affect economic development in the regions where they are\nestablished, summarizes the findings of several economic studies that support this\nexplanation, and then concedes that a particular PA is an exception to the general trend."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q6",
+              "number": 6,
+              "prompt": "Which choice best describes the function of the underlined sentence in the text as a whole?\nMost Native languages belong to language families, or groups of languages whose structural\nand lexical correspondence likely derives from their descent from a single language spoken\nlong ago. A minority—such as Washoe, which is spoken in California and Nevada, and\nChitimacha, which is spoken in Louisiana—are isolates, having no demonstrable genealogical\nrelationship to other languages. Yet Washoe and Chitimacha, like all isolates, are potentially\n\n\nremnants of families whose other members vanished before the historical record could\nattest to them, perhaps through the geographical expansion of extant families.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It implies that a nonisolate language may have influenced both Washoe and Chitimacha to\nsuch a degree that their relationship to their former families is no longer discernible."
+                },
+                {
+                  "letter": "B",
+                  "text": "It suggests that the ancestral languages of both Washoe and Chitimacha were likely\nisolates that replaced nonisolate languages through geographic expansion in the distant\npast."
+                },
+                {
+                  "letter": "C",
+                  "text": "It asserts that the historical record tends to overrepresent nonisolate languages relative to\nisolates, such that the origins of Washoe and Chitimacha are obscure to scholars in the\npresent day."
+                },
+                {
+                  "letter": "D",
+                  "text": "It proposes that the distinction made between present-day nonisolate languages and\nisolates like Washoe and Chitimacha may not have been applicable in the distant past."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q7",
+              "number": 7,
+              "prompt": "Based on the texts, how would the critics mentioned in Text 2 most likely respond to the\nunderlined claim in Text 1?\nText 1\nGood art often challenges and disrupts social and aesthetic norms, but the creation of public\nart—paintings, sculptures, and performance pieces displayed in nonmuseum or\nnontheatrical public settings—typically requires broad agreement among artists, civic\nofficials, and community members about the works’ message and artistic goals. Public art\nthat fails to appease everyone by being sufficiently aesthetically and conceptually bland\nalmost inevitably provokes backlash.\nText 2\nPublic art is commonly displayed in spaces intended for purposes other than meaningful\naesthetic engagement. Some critics of public art therefore note that norm-defying pieces\nthat aren’t effectively integrated within their surroundings in a manner that primes passersby\nto appreciate the pieces’ merits (as is often the case) tend to be regarded more unfavorably\nthan similarly provocative art encountered in museums is.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "By disputing the notion that civic leaders and community members are easily placated by\nart that is intended mainly to reinforce social norms"
+                },
+                {
+                  "letter": "B",
+                  "text": "By agreeing with the idea that only works of art that are universally appealing are suitable\nfor displaying in public spaces"
+                },
+                {
+                  "letter": "C",
+                  "text": "By arguing that the reason members of the general public might disagree about a public\nartwork’s merits is unrelated to the unconventionality of its appearance and ideas"
+                },
+                {
+                  "letter": "D",
+                  "text": "By contending that the kinds of reactions controversial public artworks often receive\naren’t exclusively the result of attributes inherent in the works themselves"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q8",
+              "number": 8,
+              "prompt": "Which choice best describes how Aunt Polly is presented in the text?\nThe following text is adapted from Mark Twain’s 1876 novel The Adventures of Tom Sawyer.\nAunt Polly is having dinner with Tom, her mischievous young nephew.\nAunt Polly asked [Tom] questions that were full of guile, and very deep—for she\nwanted to trap him into damaging revealments. Like many other simple-hearted\nsouls, it was her pet vanity to believe she was endowed with a talent for dark and\nmysterious diplomacy, and she loved to contemplate her most transparent\ndevices as marvels of low cunning.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The narrator gently makes fun of Aunt Polly’s mistaken confidence in her subtlety."
+                },
+                {
+                  "letter": "B",
+                  "text": "The narrator humorously exaggerates Aunt Polly’s view of herself as an intellectual."
+                },
+                {
+                  "letter": "C",
+                  "text": "The narrator characterizes Aunt Polly as being excessively nosy about other people’s\nprivate lives."
+                },
+                {
+                  "letter": "D",
+                  "text": "The narrator emphasizes that Aunt Polly’s intentions are good even when she behaves\nimpolitely."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q9",
+              "number": 9,
+              "prompt": "Which statement about the use of hydrogen in the petroleum and heating industries is most\nstrongly supported by the text?\n\n\nFrom petroleum refining to fuel for residential heating, hydrogen has many applications.\nCurrently, producing hydrogen is carbon intensive, but Alexandra M. Oliveira is one of many\nscholars investigating the feasibility of large-scale production of hydrogen through\nelectrolysis, a process that emits no carbon when renewable energy is used. Oliveira\nsuggests that although some obstacles may prevent electrolytic hydrogen from dominating\nenergy systems, there is utility in its ability to decarbonize the petroleum and heating\nindustries, where reducing carbon emissions is especially challenging.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The adoption of electrolytic hydrogen by these industries has been impeded by concerns\nabout how carbon intensive its production is."
+                },
+                {
+                  "letter": "B",
+                  "text": "Development of applications for electrolytic hydrogen is less advanced in these industries\nthan it is in most other carbon-intensive industries."
+                },
+                {
+                  "letter": "C",
+                  "text": "At least some of electrolytic hydrogen’s potential to lessen these industries’ carbon\nemissions is as yet unrealized."
+                },
+                {
+                  "letter": "D",
+                  "text": "The fact that large-scale electrolytic hydrogen production is not yet available has limited\nthese industries’ interest in pursuing hydrogen-based applications."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q10",
+              "number": 10,
+              "prompt": "Which finding, if true, would most directly support the researchers’ conclusion?\nIn subtropical Asia, Apis dorsata (giant honeybee) plays an essential role in pollinating a wide\nvariety of crops and wild plants. To study how different agricultural land covers affect the\nspecies, Rika Raffiudin and colleagues monitored the foraging activity of the bees as well as\nthe pollen content of the honey from A. dorsata colonies at two sites in Indonesia: Kampar,\ncharacterized by its surrounding monoculture farms (growing a single crop), and Kerinci, a\nforest-agriculture site where multiple crops, including hot peppers and coffee, are grown\nnearby. The researchers concluded that a lack of crop variety may reduce total pollen\ncollection by A. dorsata.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Significantly fewer bees were observed engaging in foraging activities with the crops\nsurrounding Kerinci than with the crops surrounding Kampar."
+                },
+                {
+                  "letter": "B",
+                  "text": "Honey samples from Kerinci bee colonies contained significantly higher concentrations of\npollen than honey samples from Kampar bee colonies did."
+                },
+                {
+                  "letter": "C",
+                  "text": "Pollen in honey samples from Kampar bee colonies was predominantly sourced from a\nsingle plant species, whereas pollen in honey samples from Kerinci bee colonies was\n\n\nsourced from multiple different plant species."
+                },
+                {
+                  "letter": "D",
+                  "text": "In one Kerinci bee colony, a greater proportion of bees returned to their nests with pollen\nthan returned without pollen, whereas the inverse was observed in a second Kerinci bee\ncolony."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q11",
+              "number": 11,
+              "prompt": "Based on the text, what would be the most reasonable next step for the students to take to\naccomplish their goal?\nIn 2009, the US state of Montana enacted rate stability regulations (RSRs), constraining\ninsurance companies’ latitude to raise premiums (the recurring fees policyholders pay to\nmaintain insurance policies) once policies are in effect. Although RSRs are intended to\nbenefit consumers, Naoki Aizawa and Ami Ko note that RSRs could curtail insurers’ profits to\nsuch a degree that insurers abandon the market, thereby reducing the competitive pressure\nthat typically restrains premium prices for newly issued policies. To determine whether this\noccurred in Montana, students first collect data on the number of insurers in the state for a\nfew years leading up to and following 2009 and the premium prices for new policies offered\nby those insurers.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Compare changes over time in the premium price data the students have collected with\nchanges over time in premium prices for policies that were already in effect during the same\nperiod in an otherwise similar state that had not enacted RSRs"
+                },
+                {
+                  "letter": "B",
+                  "text": "Compare changes over time within each of the two types of data the students have\ncollected with changes over time in analogous data for the same period from an otherwise\nsimilar state that had not enacted RSRs"
+                },
+                {
+                  "letter": "C",
+                  "text": "Compare changes over time within each of the two types of data the students have\ncollected with changes over time in the same types of data from Montana for a period\nbeginning several years after 2009"
+                },
+                {
+                  "letter": "D",
+                  "text": "Compare changes over time in the insurer-number data the students have collected with\nchanges over time in insurer-number data from another state that enacted RSRs but not\nduring the same period"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q12",
+              "number": 12,
+              "prompt": "Which finding, if true, would most directly weaken Carter and Kilikoglou’s argument?\nVariously, researchers have closely examined obsidian artifacts to understand ancient social\nand economic structures, as in Raymond V. Sidrys’s 1976 study, or to glean aspects of\ncultural identity, as in Dennis Ogburn and colleagues’ 2009 study. Studies of the Malia\narchaeological site on the Mediterranean island of Crete have shown that significant\nchanges to building styles—changes consistent with an influx of people from another culture\nelsewhere in the Mediterranean—occurred from the Middle Bronze Age to the Late Bronze\nAge. In a 2022 study, however, Tristan Carter and Vassilis Kilikoglou found that obsidianobject production methods at Malia stayed remarkably consistent during this architectural\ntransition, which they interpret as indicative of local cultural continuity in the Middle and Late\nBronze Ages.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The obsidian used to produce objects at Malia was transported to Crete from the same\nsource elsewhere in the Mediterranean throughout the Middle and Late Bronze Ages."
+                },
+                {
+                  "letter": "B",
+                  "text": "The methods used to produce obsidian objects at Malia during the Middle and Late\nBronze Ages were also used by some other Mediterranean cultures in the period."
+                },
+                {
+                  "letter": "C",
+                  "text": "The obsidian-object production method that was most common among other\nMediterranean cultures during the Middle and Late Bronze Ages was more efficient than the\nmethod used at Malia."
+                },
+                {
+                  "letter": "D",
+                  "text": "Changes to buildings like those that occurred at Malia have not been linked to changes in\nobsidian-object production methods in other Mediterranean cultures during the Middle and\nLate Bronze Ages."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q13",
+              "number": 13,
+              "prompt": "Which finding, if true, would most directly support the idea that social buffering occurs\namong C. helleri?\nThe presence of other individuals of the same species has been observed to mitigate stress\nin highly social mammals. To investigate whether this phenomenon, known as social\nbuffering, also occurs in reptiles, researchers led by Chelsea E. Martin monitored stress\nresponses in wild southern Pacific rattlesnakes (Crotalus helleri) in three experimental\ntreatments: when alone, with a rope, and with a companion C. helleri. The researchers\ncompared the percent change between baseline and peak heart rate in response to a\n(harmless) disturbance, with higher values indicating higher stress levels.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Average peak heart rates were highest among solitary C. helleri, but no differences were\nobserved in average peak heart rates between C. helleri with a companion and C. helleri with\na rope."
+                },
+                {
+                  "letter": "B",
+                  "text": "C. helleri with a companion displayed a lower average baseline heart rate and lower\naverage peak heart rate than did solitary C. helleri or C. helleri with a rope."
+                },
+                {
+                  "letter": "C",
+                  "text": "The average percent change in heart rate was lower among C. helleri with a companion\nthan among solitary C. helleri and C. helleri with a rope."
+                },
+                {
+                  "letter": "D",
+                  "text": "Solitary C. helleri had higher average baseline heart rates than did C. helleri in the other\ntreatments, but the average percent change in heart rate was smaller among solitary C.\nhelleri than among C. helleri with a companion."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q14",
+              "number": 14,
+              "prompt": "Which choice most effectively uses data from the table to complete the example?\nHighest Major Summits in India\nSummit Elevation (meters) Mountain range Prominence (meters)\nKangto\n7,060\nAssam Himalaya\n2,195\nSaser Kangri III\n7,495\nSaser Karakoram\n850\nLangpo\n6,965\nSikkim Himalaya\n560\nSri Kailash\n6,932\nGarhwal Himalaya\n1,092\nMount Lakshmi\n6,983\nRimo Karakoram\n800\nMountain summits are often described in terms of their elevation, or height above sea level.\nBut a summit’s elevation may not be as good an indication of how high the mountain appears\nto observers as is the summit’s prominence, or its height above its surroundings, and these\nvalues can differ significantly. For example, the Indian mountain of ______",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Saser Kangri III has an elevation of 7,495 meters but a considerably lower prominence of\n850 meters."
+                },
+                {
+                  "letter": "B",
+                  "text": "Kangto has a much higher prominence than does Langpo."
+                },
+                {
+                  "letter": "C",
+                  "text": "Kangto has a high prominence but is from a different mountain range than Mount\nLakshmi, which has a lower prominence."
+                },
+                {
+                  "letter": "D",
+                  "text": "Sri Kailash has an elevation of 6,932 meters and is considered the highest mountain from\nthe Garhwal Himalaya range."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q15",
+              "number": 15,
+              "prompt": "Which choice most logically completes the text?\nWhereas Joan Lockard’s 1984 study of captive gorillas reported more right-handedness\nthan left-handedness, Jane Goodall’s 1963 study of wild chimpanzees did not. According to\na meta-analysis of studies of nonhuman primates, captive populations are more likely to be\ndescribed as right-handed than wild populations are. Statistical analysis indicates a\nhandedness study would need a minimum of 176 individuals to show a representative result;\nhowever, the study by Lockard included a total population of 8, and the study by Goodall\nincluded a total population of 8. This suggests that ______",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "neither the study by Lockard nor the study by Goodall provides sufficient evidence to\nmake a meaningful comparison about handedness in primates."
+                },
+                {
+                  "letter": "B",
+                  "text": "the study by Lockard reliably represents handedness in captive primates, but the study by\nGoodall likely does not reliably represent handedness in wild primates."
+                },
+                {
+                  "letter": "C",
+                  "text": "Goodall likely underestimated the prevalence of right-handedness among the wild\nchimpanzees in the study."
+                },
+                {
+                  "letter": "D",
+                  "text": "the study by Lockard reliably represents handedness in captive primates but not in wild\nprimates."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q16",
+              "number": 16,
+              "prompt": "Which choice most logically completes the text?\nInterested in how the color of dogs’ irises affects human responses to dogs, Akitsugu Konno\net al. showed images of 12 dogs’ faces to human participants and asked them to rate the\ndogs’ kindness and trustworthiness as well as the likelihood that they would interact with or\nkeep the dogs. The researchers had previously adjusted the images so that each dog was\npresented in two versions, one with light irises and one with dark irises. They distributed the\nimages such that no participant saw both the light and dark versions of the same dog. Konno\net al. found that participants responded more positively to the latter. The study’s design\nallowed the researchers to exclude the possibility that the results ______",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "may have been different if participants had been able to see the dogs’ irises in person\ninstead of only seeing images that included the dogs’ irises."
+                },
+                {
+                  "letter": "B",
+                  "text": "reflected a preference on the part of participants for facial features that happened to\ncoincide with dark irises in the dogs depicted in the images."
+                },
+                {
+                  "letter": "C",
+                  "text": "were a function of participants emphasizing the colors of the dogs’ irises over the dogs’\nkindness and trustworthiness when reacting to the images."
+                },
+                {
+                  "letter": "D",
+                  "text": "could be explained by participants having preexisting positive feelings about dogs with\ndark irises or preexisting negative feelings about dogs with light irises."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q17",
+              "number": 17,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nGrowing as large as three meters in diameter, the leaves of the giant Amazonian waterlily\nfeature a complex network of radiating veins that provide structural ______ in thickness from\nthe center to the edges, these veins allow the leaves to maintain their large size and\nbuoyancy with minimal material, optimizing light capture and photosynthesis.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "support. Decreasing"
+                },
+                {
+                  "letter": "B",
+                  "text": "support, decreasing"
+                },
+                {
+                  "letter": "C",
+                  "text": "support, while decreasing"
+                },
+                {
+                  "letter": "D",
+                  "text": "support decreasing"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q18",
+              "number": 18,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nCharles Dickens’s classic 1850 novel about a young man named David Copperfield has a title\nthat is instantly recognizable to many readers: David Copperfield. Dickens’s novel originally\nhad a different ______ while writing and editing, Dickens had planned to call the novel Mag’s\nDiversions.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "title, though;"
+                },
+                {
+                  "letter": "B",
+                  "text": "title, though,"
+                },
+                {
+                  "letter": "C",
+                  "text": "title; though"
+                },
+                {
+                  "letter": "D",
+                  "text": "title, though"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q19",
+              "number": 19,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nOn Guard is a 1997 photograph by Iranian artist Shirin Neshat. Like many of Neshat’s photos,\nthe work features a pair of hands. Clasping a microphone, one hand ______ covered in\nPersian script, the hands imply an out-of-frame figure on the edge of speaking.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "is bare and the other is"
+                },
+                {
+                  "letter": "B",
+                  "text": "bare, the other is"
+                },
+                {
+                  "letter": "C",
+                  "text": "bare and the other"
+                },
+                {
+                  "letter": "D",
+                  "text": "is bare, the other"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q20",
+              "number": 20,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nThe exoplanet Pi Mensae d was discovered using an indirect approach to planetary\ndetection, the radial velocity method. Compared to that of the direct imaging method,\n______ the effect these exoplanets have on nearby stars.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "the detection of distant exoplanets, too dim to be observed in the radial velocity method’s\nvast zone of discovery, is based on"
+                },
+                {
+                  "letter": "B",
+                  "text": "the radial velocity method’s zone of discovery is vast, as distant exoplanets too dim to be\nobserved are detected by"
+                },
+                {
+                  "letter": "C",
+                  "text": "the radial velocity method, with its vast zone of discovery, detects exoplanets that are too\ndim to be observed by"
+                },
+                {
+                  "letter": "D",
+                  "text": "distant exoplanets too dim to be observed are detected within the radial velocity method’s\nvast zone of discovery through"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q21",
+              "number": 21,
+              "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?\nIn the eastern Chinese city of Suzhou, known as a hub for silk manufacturing, a unique\ntradition of embroidery ______ back over two thousand years—one that includes iconic\ndouble-sided stitching with different images on each side—remains popular with modern\naudiences, preserving the city’s cultural heritage.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "dates"
+                },
+                {
+                  "letter": "B",
+                  "text": "date"
+                },
+                {
+                  "letter": "C",
+                  "text": "has dated"
+                },
+                {
+                  "letter": "D",
+                  "text": "dating"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q22",
+              "number": 22,
+              "prompt": "Which choice completes the text with the most logical transition?\nGiant dust plumes from the Sahara Desert that blow across the Atlantic Ocean can have\ncomplex and opposing effects on tropical cyclones. On one hand, the dust can enhance the\nformation of ice clouds in the cyclone’s core, increasing precipitation. ______ the dust can\nlower sea surface temperatures around the cyclone’s core, weakening the storm.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "In other words,"
+                },
+                {
+                  "letter": "B",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "C",
+                  "text": "On the other hand,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Previously,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q23",
+              "number": 23,
+              "prompt": "Which choice completes the text with the most logical transition?\n\n\nIn 1908, some 298 years after Galileo Galilei and Simon Marius independently discovered\nJupiter’s four largest moons (Io, Europa, Ganymede, and Callisto), scientists discovered the\nmoon Pasiphae in orbit around Jupiter. ______ researchers have discovered eighty moons\norbiting Jupiter.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "To date,"
+                },
+                {
+                  "letter": "B",
+                  "text": "In other words,"
+                },
+                {
+                  "letter": "C",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Rather,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q24",
+              "number": 24,
+              "prompt": "Which choice completes the text with the most logical transition?\nWhen ordering the branches of the Colville River system, cartographers tend to begin with\nthe riverway’s lowest point, the Colville River. ______ hydrologists begin at the top of the\nriver system, with the Siksikpuk River and other tributaries fed by the riverway’s source,\nAlaska’s De Long Mountains.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "In a similar way,"
+                },
+                {
+                  "letter": "B",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "C",
+                  "text": "By contrast,"
+                },
+                {
+                  "letter": "D",
+                  "text": "In other words,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q25",
+              "number": 25,
+              "prompt": "Which choice completes the text with the most logical transition?\nThe Sultanate of Brunei, a Malay sea power based on the northern coast of Borneo that\nreached its height around 1600 CE, is considered a thalassocracy—a geopolitical entity\nwhose hegemony resulted from control of the sea rather than of land. Historians classify\nthalassocracies as distinct from tellurocracies, or land-based powers. ______ the Ottoman\nEmpire (1300s–1900s CE) is known for both land and sea supremacy.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "For example, tellurocracies have long overpowered their rivals:"
+                },
+                {
+                  "letter": "B",
+                  "text": "Likewise, thalassocracies are sea-based powers:"
+                },
+                {
+                  "letter": "C",
+                  "text": "In other words, empires are classified according to their source of power:"
+                },
+                {
+                  "letter": "D",
+                  "text": "Of course, the distinction is not always so neat:"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q26",
+              "number": 26,
+              "prompt": "The student wants to make and support a claim regarding the applicability of the farm-size\ntransition hypothesis to Thailand. Which choice most effectively uses relevant information\nfrom the notes to accomplish this goal?\nWhile researching a topic, a student has taken the following notes:\nThe farm-size transition hypothesis predicts that economic pressures associated with\nmodernization result in smaller farms amalgamating into larger-scale commercial\nfarms.\nMasters et al. (2013): The average farm size in Asia “already has or will soon begin to\nrise.”\nPromkhambut et al. (2023) argue that small rice farms in Thailand have adopted\nmodern farming methods without a significant scaling-up of farm size.\nPromkhambut et al.: “The persistence of [small] rice farms [in Thailand] does not\nrepresent a ‘failure’ to modernize...or a ‘truncated’ transition—it is a response to\nmodernization.”",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Taken together, the studies by Masters et al. and Promkhambut et al. suggest that rice\nfarms in Thailand have responded to the economic pressures associated with modernization\nby expanding in size."
+                },
+                {
+                  "letter": "B",
+                  "text": "The predicted shift to large-scale commercial farming may not hold true for rice farms in\nThailand, where, according to Promkhambut et al., rice farms have remained small as they’ve\nmodernized."
+                },
+                {
+                  "letter": "C",
+                  "text": "Masters et al. report that the average farm size “already has or will soon begin to rise” in\nAsia, a finding that is consistent with the farm-size transition hypothesis."
+                },
+                {
+                  "letter": "D",
+                  "text": "Although the farm-size transition hypothesis may be applicable to some countries in Asia,\nit is inconsistent with the development of rice farming in Thailand."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q27",
+              "number": 27,
+              "prompt": "The student wants to connect a quotation to a particular nontraditional design element in\nCody’s work. Which choice most effectively uses relevant information from the notes to\naccomplish this goal?\nWhile researching a topic, a student has taken the following notes:\nMelissa Cody is a Diné (Navajo) textile artist known for blending traditional\nDiné designs (stripes, zigzags, and diamond patterns) with nontraditional elements.\nCody’s work incorporates arrangements of shapes or text inspired by video game\ngraphics and pop culture references.\nCody: “I’m a child of ’80s video game culture...I grew up with this world of pixelization.”\nCody: “The things we consider tradition now weren’t considered tradition when they\nfirst came about.”\nHer tapestry Only Love Can Break Your Heart features pop song lyrics in a blocky\ndigital font over a jagged diamond pattern.\nHer tapestry Walking Off No Water Mesa features rectangular panes revealing a\nstylized landscape patterned by contrasting colored diamonds.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Cody’s tapestry Only Love Can Break Your Heart features a jagged diamond pattern, a\ntraditional design element that “we consider tradition now.”"
+                },
+                {
+                  "letter": "B",
+                  "text": "The pop song lyrics in a blocky digital font in Only Love Can Break Your Heart reflect\nCody’s childhood familiarity with blocky video game graphics—what she calls “this world of\npixelization.”"
+                },
+                {
+                  "letter": "C",
+                  "text": "According to Cody, some elements of Walking Off No Water Mesa, such as contrasting\ncolored diamonds, “weren’t considered tradition when they first came about.”"
+                },
+                {
+                  "letter": "D",
+                  "text": "Cody’s background as “a child of ’80s video game culture” factored into her decision to\nblend traditional and nontraditional design elements in Walking Off No Water Mesa."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "number": 2,
+      "name": "Math",
+      "modules": [
+        {
+          "id": "s2-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 2100,
+          "questions": [
+            {
+              "id": "s2-m1-q1",
+              "number": 1,
+              "prompt": "y = 9x + 19\n\n\nOne of the two equations in a system of linear equations is given. The system has infinitely\nmany solutions. If the second equation in this system is\n, where and are\nconstants, what is the value of ?\ny = mx + b\n\nm\n\nb\n\nb",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "19"
+            },
+            {
+              "id": "s2-m1-q2",
+              "number": 2,
+              "prompt": "If",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": ", what is the value of\n\n5x + 2 = 32\n\n?\n\n50x + 20\n\n6\n\n60\n\n70\n\n320"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "low",
+              "flagReason": "Question text too short - may contain images or figures",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m1-q3",
+              "number": 3,
+              "prompt": "In each of the following data sets of values, is a constant. Which of these data sets has\nthe largest standard deviation?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ", , , ,"
+                },
+                {
+                  "letter": "B",
+                  "text": ", , , ,"
+                },
+                {
+                  "letter": "C",
+                  "text": ", , , ,"
+                },
+                {
+                  "letter": "D",
+                  "text": ", , , ,\n5\n\np − 4 p p p p + 4\n\np − 1 p − 1 p p + 1 p + 1\n\np p p p p\n\np − 5 p − 4 p p + 4 p + 5"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s2-m1-q4",
+              "number": 4,
+              "prompt": "p\n\n\nA jar has\nblue?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "430\n\nmarbles, and\n\n20%\n\nof these marbles are blue. How many marbles in the jar are\n\n86\n\n172\n\n215\n\n410"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m1-q5",
+              "number": 5,
+              "prompt": "r + g < 56\n\nFor which of the following tables are all the values of and their corresponding values of\nsolutions to the given inequality?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "r\n\nr\n\ng\n\n0\n\n55\n\n2\n\n53\n\n4\n\n51\n\nr\n\ng\n\n0\n\n53\n\n2\n\n55\n\n4\n\n51\n\nr\n\ng\n\n0\n\n51\n\n2\n\n55\n\n4\n\n53"
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": "g"
+                },
+                {
+                  "letter": "D",
+                  "text": "r\n\ng\n\n0\n\n51\n\n2\n\n53\n\n4\n\n55"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m1-q6",
+              "number": 6,
+              "prompt": "The scatterplot shows the relationship between the square footage of clothing stores and\ntheir annual sales, in millions of dollars. According to the trend shown by the data, which of\nthe following is the best prediction for the annual sales, in millions of dollars, of a clothing\nstore that is thousand square feet?\nA.\nB.\nC.\nD.\n12\n\n4\n\n4.1\n\n5.4\n\n7.5\n\n10.2\n\n\n7.\nx + y = 165\n\nx + y + y = 185\n\nThe solution to the given system of equations is\n8.\nThe function is defined by\nin the xy-plane?\nA.\nB.\nC.\nD.\nf\n\nf (x) = 6x −\n\n1\n7\n\n(x, y)\n\n. What is the value of ?\ny\n\n. What is the y-intercept of the graph of\n\ny = f (x)\n\n(0, −\n\n1\n7\n\n)\n\n(0, −6)\n\n(0, 6)\n\n(0, 7)\n\n9.\nA total of people attended a conference and were offered a choice of types of entrees.\nThe table shows the number of people who chose each type of entree.\nType of entree Number of people\nBeef\nChicken\nFish\nVegetarian\nTotal\nIf one of these people is selected at random, what is the probability of selecting a person\nwho chose a vegetarian entree? (Express your answer as a decimal or fraction, not as a\npercent.)\n50\n\n4\n\n13\n20\n8\n9\n\n50\n\n\n10.\n\nIn the figure shown, lines 𝓁 and are parallel and line intersects both lines. If\nwhich of the following must be true?\nA.\nB.\nC.\nD.\nk\n\nt\n\n,\n\nx > 116\n\ny < 64\n\ny > 64\n\nx + y < 180\n\nx + y > 180\n\n11.\nIn the xy-plane, the graph of\nintersects the graph of\nat two points.\nWhat is the sum of the x-coordinates of the two points of intersection?\nA.\nB.\nC.\nD.\ny = 2x\n\n−35\n\n−5\n\n2\n\n7\n\n12.\n\ny = x\n\n2\n\n− 35\n\n\nThe function f is defined by\n\nf (x) = 3(\n\n1\n4\n\n2\n\n− x)\n\n+\n\n13\n4\n\n. What is the value of\n\nf(\n\n1\n4\n\n)\n\n?\n\n13.\n\nA marine biologist is studying a habitat that contains shoal bass, a species of freshwater fish.\nThe box plot shown summarizes the lengths, in centimeters (cm), of a sample of shoal\nbass from this habitat. What is the range, in cm, of the lengths of the shoal bass in the\nsample?\nA.\nB.\nC.\nD.\n70\n\n10\n\n15\n\n29\n\n41\n\n14.\n\nThe area of triangle\nthis triangle?\nA.\nB.\n10\n\n15\n\nABC\n\nis\n\n150\n\nsquare centimeters. What is the height , in centimeters, of\nh\n\n\nC.\nD.\n\n30\n\n60\n\n15.\nx\n\n2\n\n− 2x = 29\n\nWhat is one of the solutions to the given equation?\nA.\nB.\nC.\nD.\n√ 29\n\n1 + √ 30\n\n30\n\n29 + √ 2\n\n16.\nCircle A in the xy-plane has the equation\n. Circle B has the same\ncenter as circle A. The radius of circle B is two times the radius of circle A. The equation\ndefining circle B in the xy-plane is\n, where is a constant. What is\nthe value of ?\n2\n\n(x + 8)\n\n2\n\n(x + 8)\n\nk\n\n17.\n\n2\n\n+ (y − 8)\n\n2\n\n+ (y − 8)\n\n= k\n\n= 25\n\nk\n\n\nThe graph of\nA.\nB.\nC.\nD.\n\ny = f (x)\n\nis shown in the xy-plane. For what value of does\nx\n\n−4\n\n0\n\n1\n\n4\n\n18.\n|3x−30|+3\n6\n\n= 5\n\nWhat is the sum of the solutions to the given equation?\nA.\nB.\nC.\nD.\n1\n\n19\n\n20\n\n30\n\n?\n\nf (x) = 0\n\n\n19.\nLine is defined by\nWhat is the slope of line ?\nA.\nB.\nC.\nD.\n1\n\nh\n\n2\n\n1\n\nx +\n\n5\n\n. Line is perpendicular to line in the xy-plane.\n\ny − 40 = 0\n\nj\n\nh\n\nj\n\n5\n\n−\n\n−\n\n2\n\n2\n5\n\n5\n2\n\n2\n5\n\n20.\nThe width of a rectangle is inches less than times its length, in inches. The area of the\nrectangle is square inches. What is the width, in inches, of the rectangle?\nA.\nB.\nC.\nD.\n16\n\n2\n\n130\n\n5\n\n10\n\n13\n\n18\n\n21.\nA machine makes -inch, -inch, and -inch parts. During a certain day, the number of inch parts that the machine makes is times the number of -inch parts, and the number\nof -inch parts is . During this day, the machine makes parts total. Which equation\nrepresents this situation?\nA.\nB.\nC.\nD.\n8\n\n9\n\n3\n\n5\n\n3\n\n4\n\n8(5n) + 9n + 3(4) = 100\n\n8n + 9n + 3n = 100\n\n5n + 4 = 100\n\n6n + 4 = 100\n\n8\n\nn\n\n100\n\n9\n\n\n22.\nAn exponential model for the number of squirrels in a certain area estimates that there were\nsquirrels in the area in the year , and that at the end of each -year period for the\nnext years, the number of squirrels in the area was\nmore than the number at the\nend of the previous -year period. Which of the following equations represents this model,\nwhere is the estimated number of squirrels in this area years after , and\n?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "200\n\n2003\n\n20\n\n4\n\n120%\n\n4\n\nN\n\nt\n\n2003\n\n0 ≤ t ≤ 20\n\nN = 200(2.20)\n\nN = 200(1.20)\n\n4t\n\n4t\n\nt\n\nN = 200(1.20)\n\n4\n\nt\n\nN = 200(2.20) 4"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            }
+          ],
+          "difficulty": "unknown"
+        },
+        {
+          "id": "s2-m2",
+          "number": 2,
+          "label": "Module 2",
+          "timeLimitSeconds": 2100,
+          "questions": [
+            {
+              "id": "s2-m2-q1",
+              "number": 1,
+              "prompt": "In the figure shown, line intersects lines and . If\n, which additional piece of\ninformation is sufficient to prove that lines and are parallel?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "k\n\nx = 39"
+                },
+                {
+                  "letter": "B",
+                  "text": "y = 141"
+                },
+                {
+                  "letter": "C",
+                  "text": "r\n\ns\n\nr\n\ns\n\nw = 141\n\n\nw + y = 180"
+                },
+                {
+                  "letter": "D",
+                  "text": "y + z = 180"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s2-m2-q2",
+              "number": 2,
+              "prompt": "A line passes through the points\nline?\n\n(4, 7)\n\nand\n\n(18, 28)\n\nin the xy-plane. What is the slope of the",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "1.5"
+            },
+            {
+              "id": "s2-m2-q3",
+              "number": 3,
+              "prompt": "The length of a rectangle's diagonal is\n, and the length of one of the rectangle's sides\nis . What is the perimeter of the rectangle?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "√ 106\n\n9\n\n106"
+                },
+                {
+                  "letter": "B",
+                  "text": "45"
+                },
+                {
+                  "letter": "C",
+                  "text": "28"
+                },
+                {
+                  "letter": "D",
+                  "text": "14"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s2-m2-q4",
+              "number": 4,
+              "prompt": "(5x + 6)(8x − 5) = 0\n\nWhich of the following is a solution to the given equation?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "−\n\n8\n5"
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "−\n\n−\n\n−\n\n6\n5\n\n5\n6\n\n5\n8"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s2-m2-q5",
+              "number": 5,
+              "prompt": "The graph of\n\n9x + y = 16\n\nin the xy-plane is a line. What is the slope of the line?",
+              "options": [],
+              "isFreeResponse": true,
+              "confidenceFlag": "high",
+              "correctAnswer": "-9"
+            },
+            {
+              "id": "s2-m2-q6",
+              "number": 6,
+              "prompt": "2\n\n2\n\nx\n\n+ y\n\n= 3,185\n\ny − 8x = 0\n\nA solution to the given system of equations is",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": ", where\n\n(x, y)\n\n. What is the value of ?\n\nx < 0\n\ny\n\n−392\n\n−56\n\n−8\n\n−7"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s2-m2-q7",
+              "number": 7,
+              "prompt": "The function is defined by\nthe value of ?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "f\n\na\n\n−86\n\n−64\n\n−\n\n−\n\n64\n5\n\n4\n5\n\nf (x) =\n\nx+11\n5\n\n, and\n\n, where is a constant. What is\n\nf (a) = −15\n\na"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s2-m2-q8",
+              "number": 8,
+              "prompt": "The equation\ngives the estimated height above ground, , in\nmeters, of a plane, where is the number of seconds since it started a parabolic maneuver.\nIf this equation is graphed in the xy-plane, which of the following is the best interpretation of\nthe vertex of the graph?\nA.\nThe plane reached an estimated maximum height of\nmeters seconds after it\nstarted the parabolic maneuver.\nB.\nThe plane reached an estimated maximum height of\nmeters seconds after it\nstarted the parabolic maneuver.\nC.\nThe plane reached an estimated maximum height of meters\nseconds after it\nstarted the parabolic maneuver.\nD.\nThe plane reached an estimated maximum height of meters\nseconds after it\nstarted the parabolic maneuver.\n2\n\ny = −4.9(x − 8.9)\n\n+ 12,400\n\ny\n\nx\n\n12,400\n\n4.9\n\n12,400\n\n8.9\n\n4.9\n\n12,400\n\n8.9\n\n12,400\n\n9.\na(4 − x) = 28 − 7x\n\nIn the given equation, is a constant. The equation has exactly one solution. Which of the\nfollowing CANNOT be the value of ?\nA.\nB.\nC.\nD.\na\n\na\n\n1\n\n4\n\n7\n\n28\n\n\n10.\nThe function is defined by\nthe graph of\npasses through the point\ng\n\n, where is a constant. In the xy-plane,\n. What is the value of ?\n\ng(x) = (x + 13)(t − x)\n\ny = g(x)\n\n(24, 0)\n\nt\n\ng(0)\n\n11.\n\nIn triangle\nA.\nB.\nC.\nD.\n\nshown,\n\n. Which expression represents the length of ?\n\n¯\nQRS\nQR < RS\nQS\n\n23 cos Q\n\n23 sin Q\n23\n\ncos Q\n\n23\n\nsin Q\n\n12.\n\n\nThe graph of the equation\n?\nA.\nB.\nC.\nD.\n\nx\n\ny = 5\n\n+ k\n\nis shown, where is a constant. What is the value of\nk\n\nk\n\n−8\n\n−7\n\n7\n\n8\n\n13.\nA beekeeper’s initial observation of the population of a certain bee colony was\nbees.\nThe beekeeper set a goal to increase the population to\nbees. The beekeeper uses a\nmodel that predicts the population of this bee colony begins at\nand increases by\nbees per week in the first two weeks after the initial observation, and then increases by\nbees per week until the beekeeper’s goal is reached. According to this model, at the end of\nweek after the initial observation, where\n, which of the following functions gives the\npredicted number of bees still needed to reach the beekeeper’s goal?\nA.\nB.\nC.\n1,800\n\n3,300\n\n1,800\n\n120\n\n180\n\nw\n\np(w) = 3,300 − 180w\n\np(w) = 3,180 + 180w\n\np(w) = 1,620 − 180w\n\nw > 2\n\n\nD.\n\np(w) = −120 + 180w\n\n14.\nThe function is defined by\nis less than the value of\nA.\nB.\nC.\nD.\nf\n\nf (n)\n\n. For any positive integer , the value of\n. What is the value of ?\n\nf (x) = 55(0.19)\n\np%\n\nx\n\nn\n\nf (n − 1)\n\np\n\n19\n\n45\n\n55\n\n81\n\n15.\nr(x) = 13(x − 2)\n\n3\n\ns(x) = x\n\n2\n\n+ nx\n\nFor the given functions and , is a constant. If\nvalue of ?\nr\n\ns n\n\n+ 2nx + 8\n\n4\n\nr(x) ⋅ s(x) = 13(x\n\n, what is the\n\n− 16)\n\nn\n\n16.\nThe triangle inequality theorem states that the sum of any two sides of a triangle must be\ngreater than the length of the third side. If a triangle has side lengths of and , which\ninequality represents the possible lengths, , of the third side of the triangle?\nA.\nB.\nC.\nD.\nor\n10\n\nx\n\nx < 21\n\nx > 21\n\n1 < x < 21\n\nx < 1\n\nx > 21\n\n11\n\n\n17.\nAn area of\nsquare nautical miles is equivalent to square kilometers. To the nearest\ntenth, what is the value of ?\n58.00\n\nk\n\nk\n\n(1 nautical mile = 1.852 kilometers)\n\n18.\nA line in the xy-plane passes through the points\nof ?\n\n,\n\n(9, 1) (0, 8)\n\n, and\n\n. What is the value\n\n(c, 0)\n\nc\n\n19.\nx\n7\n\n+\n\ny\n9\n\n=\n\n41\n63\n\nAn engineer connects resistors in series, where the resistors in the series have a total\nresistance of ohms. In this series, there are resistors of type A, which each have a\nresistance of ohms, and resistors of type B, which each have a resistance of ohms. The\ngiven equation represents this situation. According to this equation, what is the positive\ndifference between the value of and the value of ?\nA.\nB.\nC.\nD.\n41\n\nx\n\n63\n\na\n\ny\n\nb\n\na\n\nb\n\n41\n\n2\n\n41\n63\n\n2\n\n63\n\n20.\nThe table gives the areas and perimeters of two similar rectangles, where is a constant.\nn\n\n\nRectangle A\nRectangle B\nWhat is the value of ?\nA.\nB.\nC.\nD.\n\nArea (square inches) Perimeter (inches)\n660\n\n220\n\n2,640\n\nn\n\nn\n\n2,200\n\n1,760\n\n880\n\n440\n\n21.\nIn\n\n, Aster earned more than in\n. If Aster earned times as much in\nto the value of ?\nA.\nB.\nC.\nD.\n2005\n\n2005\n\n, and in Aster earned more than in\nas in , which of the following is closest\n\n12%\n\n2004\n\ny\n\n2004\n\n2006\n\n2006\n\ny\n\n0.5000\n\n0.7200\n\n0.8423\n\n1.1872\n\n22.\nWhich expression is a factor of",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": ""
+                },
+                {
+                  "letter": "B",
+                  "text": ""
+                },
+                {
+                  "letter": "C",
+                  "text": ""
+                },
+                {
+                  "letter": "D",
+                  "text": "y(x − 9)\n\n(x − 9)(x − 6)\n\ny + x − 9\n\ny + 6x − 54\n\n2\n\ny (x − 9) − 36(x − 9)\n\n?\n\n3\n\n6%"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            }
+          ],
+          "difficulty": "hard"
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 53,
+  "hasAnswerKey": true,
+  "parsedAt": "2026-03-28T16:37:16.946Z"
+}

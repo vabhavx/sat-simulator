@@ -1,0 +1,1440 @@
+{
+  "id": "2025-aug-v3",
+  "fileName": "2025 Aug V3 @EliteXSAT.pdf",
+  "year": 2025,
+  "month": "Aug",
+  "version": "V3",
+  "type": "Unknown",
+  "sections": [
+    {
+      "id": "s1",
+      "number": 1,
+      "name": "Reading and Writing",
+      "modules": [
+        {
+          "id": "s1-m1",
+          "number": 1,
+          "label": "Module 1",
+          "timeLimitSeconds": 1920,
+          "questions": [
+            {
+              "id": "s1-m1-q1",
+              "number": 1,
+              "prompt": "The following text is from Lilliam Rivera's 2020 novel Never Look Back. The text describes the narrator's friend Pheus, a young musician,\nafter finishing a performance during a church service.\nPheus pulls a handkerchief from his back pocket and wipes his forehead. I mime a quiet clap for him. He does a slight bow and flashes his\ndimples. This is where Pheus truly shines. When Pheus is in front of an audience, it's as if he becomes another person, a more heightened\nversion of himself.\nAs used in the text, what does the word \"truly\" most nearly mean?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Obediently"
+                },
+                {
+                  "letter": "B",
+                  "text": "Scarcely"
+                },
+                {
+                  "letter": "C",
+                  "text": "Impolitely"
+                },
+                {
+                  "letter": "D",
+                  "text": "Really"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q2",
+              "number": 2,
+              "prompt": "The discoveries of natural satellites by Scott S. Sheppard's team of astronomers have been ____: Carpo, which the group of researchers\nfound orbiting Jupiter in 2003, is just one of over one hundred that they have spotted, while many astronomers have been happy to discover\nonly one or two.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "inferior"
+                },
+                {
+                  "letter": "B",
+                  "text": "random"
+                },
+                {
+                  "letter": "C",
+                  "text": "plentiful"
+                },
+                {
+                  "letter": "D",
+                  "text": "likely"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q3",
+              "number": 3,
+              "prompt": "Certain features are almost always included in the designs of mosques, like the ablution (ritual cleansing) area, which is considered to be\n____ a of mosque architecture. Even mosques that exhibit elements of multiple architectural styles, such as the Al-Fattah Al-Aleem Mosque,\nwhich incorporates elements from the Islamic and Fatimid styles,will also include several of these standard features.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "duplicate"
+                },
+                {
+                  "letter": "B",
+                  "text": "motivation"
+                },
+                {
+                  "letter": "C",
+                  "text": "rejection"
+                },
+                {
+                  "letter": "D",
+                  "text": "hallmark"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q4",
+              "number": 4,
+              "prompt": "____ traditional descriptions of pollination syndromes (suites of floral traits, such as nectar composition and scent bouquet, hypothesized to\nhave independently evolved as a result of selection pressure exerted by pollinators) and recent empirical observations of floral-trait\ncombinations have led some ecologists to express reservations about the utility of those descriptions.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Proclamations of"
+                },
+                {
+                  "letter": "B",
+                  "text": "Affinities between"
+                },
+                {
+                  "letter": "C",
+                  "text": "Recurrences of"
+                },
+                {
+                  "letter": "D",
+                  "text": "Discrepancies between"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q5",
+              "number": 5,
+              "prompt": "Vertical gene transfer involves the transmission of genetic material from a parent to offspring: horizontal gene transfer, on the other hand,\ninvolves the exchange of genetic material between organisms not in a parent-offspring relationship. While horizontal gene transfer is common\namong prokaryotes–single-celled organisms, such as the bacteria Brevundimonas diminuta and Lactobacillus curvatus–it has rarely been\nobserved among eukaryotes (multicellular organisms). However, new studies suggest that horizontal gene transfer is more common in\neukaryotes than originally thought.\nWhich choice best states the function of the underlined sentence in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It proposes a direction for future research into a biological phenomenon."
+                },
+                {
+                  "letter": "B",
+                  "text": "It explains a biological process by contrasting it with a somewhat similar process."
+                },
+                {
+                  "letter": "C",
+                  "text": "It argues that two biological phenomena are more similar than they may initially appear to be."
+                },
+                {
+                  "letter": "D",
+                  "text": "It explains why a common perception of a biological process is flawed."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q6",
+              "number": 6,
+              "prompt": "In a study by Mika R. Moran, Daniel A. Rodriguez, and colleagues, residents of Bogotá, Colombia, and Fortaleza, Brazil, were surveyed\nabout parks in their cities. Of the 1,121 respondents from Bogotá, 71.9% indicated that they use the city's parks, and of the 938 respondents\nfrom Fortaleza, 35.7% indicated using city parks. Given that the percentage of Bogotá respondents who reported having access to desired\nnonpark amenities near parks was much lower than that reported by Fortaleza respondents, the difference in park use can't be explained by\nBogotá residents having more access to desired nonpark amenities near parks.\nWhich choice best describes the overall structure of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "A study of park use in Bogotá is described, and then a similar study of park use in Fortaleza is analyzed to corroborate the findings of the\nBogotá study."
+                },
+                {
+                  "letter": "B",
+                  "text": "A study involving surveys in Bogotá and Fortaleza is introduced, and then a possible explanation for some of the results is considered and\nrejected."
+                },
+                {
+                  "letter": "C",
+                  "text": "An unexpected finding is described, and then that finding is attributed to the method used to collect survey data in Bogotá and Fortaleza."
+                },
+                {
+                  "letter": "D",
+                  "text": "An unresolved question about park planning is described, and then examples from a study of Bogotá and Fortaleza are used to answer that\nquestion."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q7",
+              "number": 7,
+              "prompt": "Tracks is a 1988 novel by Ojibwe writer Louise Erdrich. It explores how historical events affect families on a reservation in rural North\nDakota. Tracks is typical of Erdrich's work. Her writing usually focuses on portrayals of everyday life in Ojibwe communities. Yet some of her\nnovels have fantastical plots and take place outside Ojibwe communities. For example, her 1991 novel The Crown of Columbus is essentially\nadventure fiction, and the thrilling events in its plot are set largely on a Caribbean island.\nAccording to the text, what is one way that The Crown of Columbus differs from most of Erdrich's work?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It has been adapted into a movie."
+                },
+                {
+                  "letter": "B",
+                  "text": "It isn't set in a rural Ojibwe community."
+                },
+                {
+                  "letter": "C",
+                  "text": "It contains very little dialogue."
+                },
+                {
+                  "letter": "D",
+                  "text": "Its main characters are Ojibwe."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q8",
+              "number": 8,
+              "prompt": "The following text is adapted from Rupa Bajwa's 2004 novel The Sari Shop. Ramchand works as an assistant in a shop in Amritsar, India.\nEven at ten in the morning, the bazaar was throbbing with activity. The halwai [baker] was already installed in front of the Mishthaan Sweet\nShop, pressing jalebi batter into squiggly shapes that floated and simmered in the oil in a big iron cauldron. All the shops had opened for the\nday and, Ramchand noted guiltily, all the shop assistants were already in place, trying to sell things with fixed, attentive smiles on their shiny,\nbathed faces.\nBased on the text, what can most reasonably be inferred about Ramchand?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Ramchand is remorseful about arriving to work later than other shop assistants he sees."
+                },
+                {
+                  "letter": "B",
+                  "text": "Ramchand is mesmerized by frying jalebi batter while walking to work as a shop assistant."
+                },
+                {
+                  "letter": "C",
+                  "text": "Ramchand is overwhelmed by a bazaar after seeing the chaos of other shop assistants selling goods."
+                },
+                {
+                  "letter": "D",
+                  "text": "Ramchand is happy about being at work after seeing shop assistants who are satisfied with their jobs.."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q9",
+              "number": 9,
+              "prompt": "Lin-Tai Ho and colleagues tracked fish populations in three tide pool-monitoring stations in\nTaiwan from 1999 to 2018. Although a total of only 36 cheekscaled frillgobies were observed\nat station 3, that was not the lowest count at any station:____\nWhich choice most effectively uses data from the table to complete the assertion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "there were 338 blackspot sergeants observed at station 1."
+                },
+                {
+                  "letter": "B",
+                  "text": "there were 9 blackspot sergeants observed at station 3."
+                },
+                {
+                  "letter": "C",
+                  "text": "there were 9 spotted frillgobies observed at station 3."
+                },
+                {
+                  "letter": "D",
+                  "text": "there were 65 triplefin blennies observed at station 2."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q10",
+              "number": 10,
+              "prompt": "Psychologists Gregory Bryant, Dorsa Amir, and colleagues investigated crosscultural perceptions of spontaneous (real) laughter and\nvolitional (fake or forced) laughter. Study participants from 21 societies, including those in Austria and Samoa, listened to randomized\nrecordings of 18 spontaneous laughs taken from natural conversations between pairs of women and 18 volitional laughs produced separately\nby 18 different women in response to an instruction to laugh. Analysis of the participants' evaluations of the laughs prompted the team to\nconclude that the ability to distinguish between spontaneous and volitional laughter appears to be universal across cultures.\nWhich potential finding from the team's study, if true, would most directly support the team's conclusion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "An assessment of the effect of demographic variables on judgments of laughter type in Austria, Samoa, and the other societies in the study\nrevealed that participants' evaluations were correlated with the economic conditions of the societies in which participants live."
+                },
+                {
+                  "letter": "B",
+                  "text": "The overall rate of correct judgments by participants was 64%, substantially better than chance, and spontaneous and volitional laughs were\nrecognized at similar rates in Austria, Samoa, and the other societies in the study."
+                },
+                {
+                  "letter": "C",
+                  "text": "Acoustic features of spontaneous laughter, such as pitch and intensity, have measurable variations both within and across societies."
+                },
+                {
+                  "letter": "D",
+                  "text": "A variety of people from Austria and Samoa evaluated the recordings in the study, and no significant differences in listeners' judgments of\nlaughter types were found."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q11",
+              "number": 11,
+              "prompt": "Water flowing around an obstruction creates vortices (swirls) that vary in size with the obstruction's size and position, and fish sense these\nvortices to navigate around the obstructions. Using models of three fish-head shapes-narrow (low ratio of width to length), intermediate, and\nwide (high ratio of width to length)- Yuzo R. Yanagisuru, Otar Akanyeti, and James C. Liao showed that as vortex size increases, pressure\nfluctuations at the snout increase for narrow-headed fish but remain low for wide-headed fish. A second research team has therefore\nhypothesized that in low visibility, a fish will be more likely to avoid an obstruction when the associated pressure fluctuations at the fish's snout\nare greater.\nWhich finding, if true, would most directly support the second research team's hypothesis?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "A study using obstructions that created large vortices in low-visibility conditions found that some specimens of the narrow-headed flat\nneedlefish (Ablennes hians) bumped into the obstructions more often than other specimens of the same fish did."
+                },
+                {
+                  "letter": "B",
+                  "text": "A study using obstructions that created large vortices in low-visibility conditions found that the narrow-headed flat needlefish (Ablennes\nhians) bumped into the obstructions just as often as the wide-headed devil catfish (Bagarius bagarius) did."
+                },
+                {
+                  "letter": "C",
+                  "text": "A study using obstructions that created large vortices in low-visibility conditions found that the wide-headed devil catfish (Bagarius bagarius)\nbumped into obstructions more often than the narrow-headed flat needlefish (Ablennes hians) did."
+                },
+                {
+                  "letter": "D",
+                  "text": "A study using obstructions that created large vortices in low-visibility conditions found that the devil catfish (Bagarius bagarius), which has a\nrelatively wide head, bumped into more than half of the obstructions."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q12",
+              "number": 12,
+              "prompt": "Myoglobin (Mb) is a protein that primarily aids in oxygen storage and diffusion\nacross the mitochondrial membrane in cardiac muscle cells; these are necessary\nfunctions in aerobic organisms, including teleost fish. Carrying out these functions\ntypically requires Mb to be expressed at high levels, evidenced by red heart tissue.\nThe table shows the average Mb levels and their standard deviations (indicating\nhow dispersed the Mb levels of individual fish are in relation to the average) of three\nteleost fish species, as calculated by Daniel J. Macqueen et al. Based on the data,\nthe researchers concluded that for some teleost species, oxygen storage and\ndiffusion may occur with negligible assistance from Mb.\nWhich choice most effectively uses data from the table to support Macqueen et al's conclusion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "On average, A. anguilla had higher Mb levels in their cardiac tissue than B. coracoideus and P. buchholzi had."
+                },
+                {
+                  "letter": "B",
+                  "text": "Less variation in Mb levels was observed among P. buchholzi individuals than among A. anguilla and B. coracoideus individuals."
+                },
+                {
+                  "letter": "C",
+                  "text": "P. buchholzi had very low Mb levels in their cardiac tissue."
+                },
+                {
+                  "letter": "D",
+                  "text": "Greater average Mb levels in a certain species were associated with greater variance in Mb levels among individuals of that species."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q13",
+              "number": 13,
+              "prompt": "Elisabeth Pötzelsberger and colleagues gathered data on 23 non-native tree species grown in Europe. They analyzed reports from Great\nBritain, Bulgaria, and Belgium about the number of these species grown in those countries as well as the numbers of insect and fungus species\nthat damage those trees. The researchers concluded that Great Britain had a greater number of damaging fungus species than either of the\nother countries did.\nWhich choice best describes data from the table that support Pötzelsberger and colleagues' conclusion?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Great Britain reported 290 damaging fungus species, which is more than either Bulgaria or Belgium reported."
+                },
+                {
+                  "letter": "B",
+                  "text": "Belgium reported 13 damaging fungus species but only 11 damaging insect species."
+                },
+                {
+                  "letter": "C",
+                  "text": "Great Britain reported 290 damaging fungus species, whereas Bulgaria reported 16 damaging insect species."
+                },
+                {
+                  "letter": "D",
+                  "text": "Bulgaria and Belgium reported 9 and 4 damaging fungus species, respectively, which is far fewer than Great Britain reported."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q14",
+              "number": 14,
+              "prompt": "Before the 1858 publication of On the Origin of Species, Charles Darwin developed his theory of natural selection in five notebooks. In them\nhe first expressed one of natural selection's principles: that species produce more offspring than available resources can sustain. He also listed\nbooks he read, such as Charles Lyell's Elements of Geology. A fall 1838 entry in one of Darwin's notebooks mentions species struggle for\nsurvival in a world of insufficient resources \"as inference from Malthus,\" referring to a 1798 essay by economist Thomas Malthus asserting that\npopulation growth will outpace agricultural production. A later notebook, begun in October 1838, mentions \"the grand crush of population.\" This\nsuggests that ____\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "though some of Darwin's notebook entries relating to his theory of natural selection date from 1838, others must have been written as late as\n1858."
+                },
+                {
+                  "letter": "B",
+                  "text": "in early fall 1838, Darwin realized that Malthus's ideas regarding human populations derived from observations of animal behavior in nature."
+                },
+                {
+                  "letter": "C",
+                  "text": "sometime in or before October 1838, Darwin determined that a postulate rooted in economics might also be applicable to biology."
+                },
+                {
+                  "letter": "D",
+                  "text": "a key concept in Darwin's theory of natural selection had been previously articulated in the same terms by economists sometime between\n1798 and 1838.."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q15",
+              "number": 15,
+              "prompt": "When we arrived in Venice, Utah, we ____ a large hillside geoglyph of the letter V. Later that day, our hosts remarked that such geoglyphs\nare quite common in the state.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "notice"
+                },
+                {
+                  "letter": "B",
+                  "text": "are noticing"
+                },
+                {
+                  "letter": "C",
+                  "text": "will notice"
+                },
+                {
+                  "letter": "D",
+                  "text": "noticed"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q16",
+              "number": 16,
+              "prompt": "On February 1, 2018, a Florida-based research team-Martha A. Scholl, Maoya Bassiouni, and Angel J. Torres-Sánchez-compiled climate\ndata from several sites in Puerto Rico's Luquillo Mountains. At site CC1, the site with the highest elevation, the air temperature fluctuated\nslightly throughout the day, registering _____ and 16°C at 5:00 p.m.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "15.4°C at 1:00 a.m. 18.6°C at 11:30 a.m."
+                },
+                {
+                  "letter": "B",
+                  "text": "15.4°C at 1:00 a.m. 18.6°C at 11:30 a.m.,"
+                },
+                {
+                  "letter": "C",
+                  "text": "15.4°C, at 1:00 a.m. 18.6°C, at 11:30 a.m."
+                },
+                {
+                  "letter": "D",
+                  "text": "15.4°C at 1:00 a.m., 18.6°C at 11:30 a.m.,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q17",
+              "number": 17,
+              "prompt": "An emulsifier is a type of compound that serves to stabilize an emulsion-a mixture of two or more liquids that otherwise would not easily\nblend together, like oil and water. Though modern chemists commonly use emulsifiers like myristic acid in their formulations, emulsifiers that\nhave been employed for millennia, such as beeswax and egg yolk, _____ used to this day by chemists as well.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "would have been"
+                },
+                {
+                  "letter": "B",
+                  "text": "were"
+                },
+                {
+                  "letter": "C",
+                  "text": "were being"
+                },
+                {
+                  "letter": "D",
+                  "text": "are"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m1-q18",
+              "number": 18,
+              "prompt": "Koumanthio Zeinab Diallo, born in 1956, is a poet and novelist from Labé, Guinea. In recent years more writers from Guinea, including\nDiallo, ____ to reach audiences beyond the African nation's borders.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "is beginning"
+                },
+                {
+                  "letter": "B",
+                  "text": "has begun"
+                },
+                {
+                  "letter": "C",
+                  "text": "have begun"
+                },
+                {
+                  "letter": "D",
+                  "text": "begins"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q19",
+              "number": 19,
+              "prompt": "Among the world's largest deserts are the Syrian Desert, ranked ____ and the Chalbi Desert, ranked twenty-ninth.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "ninth in size, the Kyzylkum Desert; ranked sixteenth,"
+                },
+                {
+                  "letter": "B",
+                  "text": "ninth in size; the Kyzylkum Desert, ranked sixteenth;"
+                },
+                {
+                  "letter": "C",
+                  "text": "ninth in size the Kyzylkum Desert, ranked sixteenth"
+                },
+                {
+                  "letter": "D",
+                  "text": "ninth in size; the Kyzylkum Desert; ranked sixteenth;"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q20",
+              "number": 20,
+              "prompt": "Was the Greek mythological figure Dionysus, god of wine and the theater, based on a real person? That was the question posed by the\nwriter Euhemerus (fourth century BCE). Euhemerus claimed that Dionysus and the other Greek deities were based on real–life heroes or\nleaders, tales of whose exploits, told and retold over time, ____ myths–a position later known as euhemerism.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "having eventually become"
+                },
+                {
+                  "letter": "B",
+                  "text": "eventually became"
+                },
+                {
+                  "letter": "C",
+                  "text": "to eventually become"
+                },
+                {
+                  "letter": "D",
+                  "text": "eventually becoming"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q21",
+              "number": 21,
+              "prompt": "In 1929, scientists first isolated a sample of the steroid hormone progesterone, which they knew existed in animals–and, they assumed,\nonly in animals. ______ researchers would find progesterone in corn plants (Zea mays), but this discovery wouldn't come until decades later.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "In other words,"
+                },
+                {
+                  "letter": "B",
+                  "text": "For example,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Eventually,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Earlier,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q22",
+              "number": 22,
+              "prompt": "Many past Olympic Games featured demonstration sports-nonmedal events-to showcase sports related to the host country. These events\nincluded korfball, a handball sport popular in the Netherlands, and kyudõ, a Japanese form of archery. ____ they were chosen as\ndemonstration sports at the Olympic Games in Amsterdam, the Netherlands, and Tokyo, Japan, respectively.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Additionally,"
+                },
+                {
+                  "letter": "B",
+                  "text": "By contrast,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Fittingly,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Nevertheless,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q23",
+              "number": 23,
+              "prompt": "Decentralized space, in which no points in the performance space are privileged over others, was one of the central principles of Merce\nCunningham's choreographic philosophy. The approach marked a radical departure from the dance philosophies of Cunningham's\nmid-twentieth-century contemporaries. _____ resulting in his dance pieces, like Interscape Mirage, being received not merely as experimental\nspectacles but as groundbreaking artworks.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Moreover, Cunningham incorporated his principles with great skill and artistry."
+                },
+                {
+                  "letter": "B",
+                  "text": "Specifically, Cunningham was an accomplished dancer as well as choreographer, a"
+                },
+                {
+                  "letter": "C",
+                  "text": "Accordingly, Cunningham founded his namesake dance company in 1953,"
+                },
+                {
+                  "letter": "D",
+                  "text": "In contrast, Cunningham gained a reputation as an unpredictable iconoclast,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m1-q24",
+              "number": 24,
+              "prompt": "India Arie is an African American singer and songwriter.\nThe media outlet All Music has described her music as having \"glistening acoustic guitar, churchy organ, and smooth, supple beats.\"\nHer acclaimed albums feature many talented musicians.\nAndrew Ramsey played guitar on her second studio album, Voyage to India (2002).\nTony Harrell played keyboard on her first studio album, Acoustic Soul (2001).\nThe student wants to emphasize a difference between Andrew Ramsey and Tony Harrell. Which choice most effectively uses relevant\ninformation from the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Acoustic Souland Voyage to India, released in 2001 and 2002, respectively, are albums by singer and songwriter India Arie."
+                },
+                {
+                  "letter": "B",
+                  "text": "Both musicians have played on India Arie albums, but Andrew Ramsey played guitar, whereas Tony Harrell played keyboard."
+                },
+                {
+                  "letter": "C",
+                  "text": "Andrew Ramsey and Tony Harrell have both lent their musical talents to albums by India Arie."
+                },
+                {
+                  "letter": "D",
+                  "text": "Andrew Ramsey played on India Arie's second studio album, Voyage to India, which was released one year after her album Acoustic Soul."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m1-q25",
+              "number": 25,
+              "prompt": "An isthmus is a strip of land that connects two larger pieces of land across an expanse of water.\nIt is also known as a land bridge.\nThe Isthmus of Suez is located in North Africa.\nIt connects the Mediterranean Sea to the Red Sea.\nThe Auckland Isthmus is located in New Zealand.\nIt connects the North Island to Auckland.\nThe student wants to emphasize a similarity between the Isthmus of Suez and the Auckland Isthmus. Which choice most effectively uses\nrelevant information from the notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "An isthmus, or land bridge, is a strip of land that connects two larger pieces of land across an expanse of water."
+                },
+                {
+                  "letter": "B",
+                  "text": "The Auckland Isthmus connects the North Island to Auckland."
+                },
+                {
+                  "letter": "C",
+                  "text": "The Isthmus of Suez and the Auckland Isthmus both connect two larger pieces of land across an expanse of water."
+                },
+                {
+                  "letter": "D",
+                  "text": "The Isthmus of Suez is a land bridge, located in North Africa."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q26",
+              "number": 26,
+              "prompt": "Body positions are an important part of dance.\nIn Cecchetti method ballet, there is a position called third position.\nIt is one of several positions for the dancer's arms.\nThe student wants to provide an example of a position in Cecchetti method ballet. Which choice most effectively uses relevant information from\nthe notes to accomplish this goal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "In dance, some positions are for the dancer's arms."
+                },
+                {
+                  "letter": "B",
+                  "text": "Cecchetti method ballet includes several dance positions for the dancer's arms."
+                },
+                {
+                  "letter": "C",
+                  "text": "Third position is an example of a position in Cecchetti method ballet."
+                },
+                {
+                  "letter": "D",
+                  "text": "Body positions are an important part of dance, including Cecchetti method ballet."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m1-q27",
+              "number": 27,
+              "prompt": "Receptors in the human tongue can detect sweetness, saltiness, sourness, bitterness, and umami.\nUmami is a rich, savory flavor.\nUmami is triggered by the compounds in a variety of foods, including ham and mushrooms.\nParticipants in a research study tasted samples of ma-konbu (a type of brown seaweed) collected from Hokkaido, Japan.\nOn average, they rated its umami intensity as high.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The student wants to emphasize the umami intensity of ma-konbu. Which choice most effectively uses relevant information from the notes to\naccomplish this goal? A. Umami is a rich, savory flavor triggered by compounds in foods such as ham and mushrooms."
+                },
+                {
+                  "letter": "B",
+                  "text": "Samples of ma-konbu, a brown seaweed, have been collected in Hokkaido, Japan."
+                },
+                {
+                  "letter": "C",
+                  "text": "Umami is triggered by compounds in ma-konbu, ham, and mushrooms."
+                },
+                {
+                  "letter": "D",
+                  "text": "Participants in a research study found the umami intensity of ma-konbu, a brown seaweed, to be high."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            }
+          ]
+        },
+        {
+          "id": "s1-m2",
+          "number": 2,
+          "label": "Module 2",
+          "timeLimitSeconds": 1920,
+          "questions": [
+            {
+              "id": "s1-m2-q1",
+              "number": 1,
+              "prompt": "The following text is from Alice Wong's 2022 memoir Year of the Tiger: An Activist's Life. Wong has just described her tendency to\nprocrastinate when she has a writing deadline.\nIn the middle of these distractions, a vibe will emerge, a point I want to make, a phrase, a hook, a title for a story, an image. A connection or\nepiphany can happen while watching or reading something brilliant. By doing \"nothing\" and daydreaming, I am actuallycomposing, even if\nwords don't immediately materialize.\nBased on the text, what does Wong most likely mean when she states that she is \"composing\"?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "She is deceiving herself about her true feelings about a subject."
+                },
+                {
+                  "letter": "B",
+                  "text": "She is engaging in an important part of her writing process."
+                },
+                {
+                  "letter": "C",
+                  "text": "She is gathering sources of information to use in her writing."
+                },
+                {
+                  "letter": "D",
+                  "text": "She is being soothed by immersing herself in creative works by other people."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q2",
+              "number": 2,
+              "prompt": "The metal displayed in the structure of House in Kamiaraya by Kazuto Nishi Architects and the metal hardware in UE House by GENETO\nare representative aspects of a juxtaposition common in contemporary Japanese architecture: the ____ of sleek, contemporary elements and\ntraditional organic materials in a single design is a trend with both aesthetic and highly practical purposes.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "designation"
+                },
+                {
+                  "letter": "B",
+                  "text": "analysis"
+                },
+                {
+                  "letter": "C",
+                  "text": "diffusion"
+                },
+                {
+                  "letter": "D",
+                  "text": "synthesis"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q3",
+              "number": 3,
+              "prompt": "A rising author of children's books spoke at a recent publishing conference about what motivated her to pursue a career in children's\nliterature. The presenter credited much of her inspiration to ____ Ellease Southerland's work in Let the Lion Eat Straw, which was among the\npresenter's favorite books as a child.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "an affinity for"
+                },
+                {
+                  "letter": "B",
+                  "text": "a stipulation about"
+                },
+                {
+                  "letter": "C",
+                  "text": "an ambivalence toward"
+                },
+                {
+                  "letter": "D",
+                  "text": "a complacency about"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q4",
+              "number": 4,
+              "prompt": "The Art Institute of Chicago houses nearly 300,000 works from around the world. Museum visitors looking to _____ their art-viewing\nexperience should turn to Chicago's streets, where they can find works ranging from Magdalena Abakanowicz's sculpture Agora at Grant Park\nto Justus Roe's mural Standing Wave on South State Street.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "mitigate"
+                },
+                {
+                  "letter": "B",
+                  "text": "satisfy"
+                },
+                {
+                  "letter": "C",
+                  "text": "provoke"
+                },
+                {
+                  "letter": "D",
+                  "text": "supplement"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q5",
+              "number": 5,
+              "prompt": "The people inhabiting the Ice Age sites now known as Shuidonggou 2 and Potočka Cave likely began wearing clothing as a defense against\nthe cold, but lan Gilligan et al. argue that as clothing became, ____ its purpose shifted from the purely practical. Once wearing clothing turned\ninto a widespread, familiar practice, differences in clothes could take on social and cultural significance.\nWhich choice completes the text with the most logical and precise word or phrase?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "divisive"
+                },
+                {
+                  "letter": "B",
+                  "text": "provisional"
+                },
+                {
+                  "letter": "C",
+                  "text": "ubiquitous"
+                },
+                {
+                  "letter": "D",
+                  "text": "feasible"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q6",
+              "number": 6,
+              "prompt": "Some researchers posit that the species inhabiting the South Pacific island of Grande Terre belong to clades that predate the island's split\nfrom remnants of the former supercontinent Gondwana around 80 million years ago. A study conducted by Michael A. Sundue et al. found,\nhowever, that the crown age (the age of the most recent common ancestor of all living and extinct species in the clade) of the clade of\nGrammitis ferns on Grande Terre is 8.5 million years; Sundue et al. further found that the crown age of the clade of Grammitis ferns in the\nSouth Pacific generally is approximately 10.0 million years.\nWhich choice best describes the overall structure of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It presents a possibility that some researchers have raised, then describes a study that clarifies their reasons for doing so."
+                },
+                {
+                  "letter": "B",
+                  "text": "It explains a view some researchers have advanced, then discusses study results that led them to reconsider that view."
+                },
+                {
+                  "letter": "C",
+                  "text": "It identifies a discrepancy between a hypothesis some researchers have proposed and related research findings, then explains that\ndiscrepancy."
+                },
+                {
+                  "letter": "D",
+                  "text": "It describes an idea that some researchers have put forward, then presents study results that are incompatible with that idea."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q7",
+              "number": 7,
+              "prompt": "Which choice best describes the function of the reference to \"anvil and strife\" in the text as a\nwhole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It symbolizes the speaker's friend's view that meaningful work and social engagement are\ncore components of a fulfilling life."
+                },
+                {
+                  "letter": "B",
+                  "text": "It illustrates how the speaker and her friend can feel a close connection even though they do\nnot talk about their feelings."
+                },
+                {
+                  "letter": "C",
+                  "text": "It emphasizes an opposition between nature and the relationship of the speaker and her\nfriend."
+                },
+                {
+                  "letter": "D",
+                  "text": "It represents a strong contrast to the speaker's friend's current experience of tranquility."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "D"
+            },
+            {
+              "id": "s1-m2-q8",
+              "number": 8,
+              "prompt": "The scenario of a dwarf mongoose engaging in territorial conflict with an outgroup dwarf mongoose illustrates a major dimension of social life\nacross animal species, from the solitary to those with complex sociality:intraspecific contact with perceived outsiders. Though one prominent\nhypothesis posits that sophisticated cognitive adaptations are primarily driven by the demands of various behaviors within established social\ngroups (e.g., cooperative response to predation), interactions with same-species outsiders arguably contribute comparably by favoring nuanced\nanalysis (e.g., evaluation of relative physical status).\nWhich choice best describes the function of the underlined portion in the text as a whole?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "It establishes that perceiving an individual of the same species as an outsider exemplifies the kind of analysis mentioned later in the text."
+                },
+                {
+                  "letter": "B",
+                  "text": "It identifies a particular type of social interaction whose relevance to higher cognition in animals is the overall focus of the text."
+                },
+                {
+                  "letter": "C",
+                  "text": "It narrows the text's focus from the full complement of social life dimensions across species to one applicable to only a subset of species."
+                },
+                {
+                  "letter": "D",
+                  "text": "It defines a scientific term central to the text's discussion of the role of complex sociality in driving cognitive adaptations in animals"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q9",
+              "number": 9,
+              "prompt": "Text 1\nFor decades, ornithologists assumed that if they saw a singing white-eyed vireo-а bird species found in temperate North America-they must be\nobserving a male. That's because birdsong has long been considered a male trait; researchers have argued that singing enables males to\nattract mates and claim territory.\nText 2\nRecent evidence shows that a female white-eyed vireo is as capable of song as a male is. In fact, Karan J. Odom and colleagues found\nevidence of female song in 71% of the 323 species they examined. They claim that the historical mischaracterization of birdsong as a male trait\nis largely the result of bias: much of the research ornithologists have carried out has been near universities in the temperate northern\nhemisphere, where female birdsong is less common than it is in the tropics.\nBased on the texts, how would Odom and colleagues (Text 2) most likely respond to the view of birdsong presented in Text 1?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "They would claim that other factors than mate attraction and territorial defense have driven the evolution of singing in male birds."
+                },
+                {
+                  "letter": "B",
+                  "text": "They would underscore that male songbirds in temperate zones are likely using their songs for different purposes than are male songbirds in\nthe tropics."
+                },
+                {
+                  "letter": "C",
+                  "text": "They would argue that it was influenced by the kinds of study sites researchers tended to select."
+                },
+                {
+                  "letter": "D",
+                  "text": "They would suggest that it reflects a tendency to study male birds rather than female birds."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q10",
+              "number": 10,
+              "prompt": "Although notorious for its strict formal requirements, the sonnet is nevertheless represented by such wide-ranging examples as Maggie\nAnderson's \"Sonnet for Her Labor\" and Tyehimba Jess's \"Millie and Christine McCoy\"-poems that differ remarkably in subject, rhythm, and\nstructure. It may seem counterintuitive that the sonnet-ostensibly rigid and timeworn-could accommodate such variety, but poet Carl Phillips\ncontends that the form invites experimentation: when a genre's conventions are as recognizable as those of the sonnet, the opportunity to\nsubvert them is especially irresistible.\nWhich choice best states the main idea of the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Although Anderson's and Jess's sonnets are both widely celebrated for their striking originality, most modern examples of the form are\ngenerally regarded as conventional."
+                },
+                {
+                  "letter": "B",
+                  "text": "As a form, the sonnet encourages a surprising amount of variety, even though certain characteristics associated with it suggest this would be\nunlikely."
+                },
+                {
+                  "letter": "C",
+                  "text": "That the sonnet remains as popular as it is today is unexpected, given that many of the features associated with the form have long since\nseemed antiquated to readers."
+                },
+                {
+                  "letter": "D",
+                  "text": "Although the sonnet is now recognized for the way it facilitates experimentation, there was a long period in its history in which very little\ninnovation occurred."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q11",
+              "number": 11,
+              "prompt": "Economist Gabriel Zucman finds that 8% of worldwide household wealth is held in tax havens (territories such as Singapore with low tax\nrates for investors who reside outside those territories). Zucman also finds that use of tax havens differs between countries-they are rarely used\nby investors living in Japan, while many investors who utilize tax havens reside in Saudi Arabia or Greece. Philosopher Ingrid Robeyns\ndisapproves of the use of tax havens as a method of tax avoidance that, though legally permissible, nonetheless helps investors to sidestep\npayment toward government upkeep.\nBased on the text, what does Zucman's research suggest about investors residing in Japan?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "They are engaging in investment practices that Robeyns would acknowledge as beneficial because they are legally permissible."
+                },
+                {
+                  "letter": "B",
+                  "text": "They are less likely than investors residing in Saudi Arabia to store wealth in Singapore."
+                },
+                {
+                  "letter": "C",
+                  "text": "They are more likely than residents of Singapore to utilize investment strategies that might yield greater returns but that might also result in\ngreater losses."
+                },
+                {
+                  "letter": "D",
+                  "text": "They are more likely than residents of Greece to engage in tax avoidance."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q12",
+              "number": 12,
+              "prompt": "Terrestrial plants typically carry a negative electrical charge, while hummingbirds and other pollinators\ntend to accumulate a positive charge. A team of researchers therefore hypothesized that electrostatic\nattraction (mutual attraction between objects with opposite charges) might enhance pollen transmission\nbetween plants and their pollinator species. The team's experiments showed that the maximum positive\ncharge of foraging honeybees is sufficiently high to facilitate electrostatic pollen transfer, a finding that\nsuggests that ____\nWhich choice most effectively uses data from the graph to complete the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "houseflies should demonstrate the opposite tendency."
+                },
+                {
+                  "letter": "B",
+                  "text": "Anna's hummingbirds should also demonstrate this capacity."
+                },
+                {
+                  "letter": "C",
+                  "text": "the minimum positive charge necessary for a pollinator to induce electrostatic attraction must be greater\nthan 100 pC."
+                },
+                {
+                  "letter": "D",
+                  "text": "Anna's hummingbirds and houseflies, having greater maximum charges than foraging honeybees have,\nshould not demonstrate this capacity."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q13",
+              "number": 13,
+              "prompt": "In medieval England, jugglers and minstrels made livings as traveling performers, but the pieces they performed have been a mystery,\nthought to be lost or never committed to paper at all. Recently, however, James Wade has argued that a manuscript collection compiled in the\nfifteenth century by Richard Heege contains three pieces likely copied from a repertoire book belonging to a minstrel working in the area around\nHeege's home. Wade cites features of the texts indicative of live performance, such as politely addressing the audience, extensive use of\nsimple rhyming (allowing for easy memorization), and requests for tips (payment) from listeners.\nWhich statement, if true, would most strongly support Wade's argument?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The three pieces in question contain references that presume that the audience is familiar with Brackonwet and other small villages near\nwhere Heege lived."
+                },
+                {
+                  "letter": "B",
+                  "text": "Features like simple rhyming also occur in other texts from the period that were widely read but are not known to have been performed for\nlive audiences."
+                },
+                {
+                  "letter": "C",
+                  "text": "Heege's collection contains the earliest examples of the three pieces in question, but each of those pieces occurs in other manuscript\ncollections compiled after Heege's."
+                },
+                {
+                  "letter": "D",
+                  "text": "Traveling minstrels are thought to have performed mainly for elite audiences, and other parts of Heege's collection reflect his interest in\nworks with popular appeal."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q14",
+              "number": 14,
+              "prompt": "The advent of online streaming has led many music listeners to drift away from ownership of music (through downloads or through physical\nmedia such as compact discs) in favor of the streaming services YouTube Music and AccuRadio, among others. Luis Aguiar studied the effect\nof the 2011 implementation of a restriction on the free version of the French streaming service Deezer: its unlimited usage was reduced to five\nhours a month, while the paid premium version's usage remained unlimited. Aguiar found that listeners who used the free service visited\nlicensed online music sellers (e.g., the iTunes store) and sites that make unlicensed music available to download about 2% less after the\nrestriction was implemented, suggesting that _____\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "the implementation of the restriction reduced the overall number of users of the streaming service."
+                },
+                {
+                  "letter": "B",
+                  "text": "restrictions on the amount of music that can be streamed may actually suppress users' interest in owning music."
+                },
+                {
+                  "letter": "C",
+                  "text": "most users of the free streaming service were probably encouraged by the restriction to move to a paid version of the service with unlimited,\nad-free listening."
+                },
+                {
+                  "letter": "D",
+                  "text": "consumers are unlikely to purchase physical copies of music that is readily available through streaming."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q15",
+              "number": 15,
+              "prompt": "Exclusively inhabiting tropical countries such as Senegal, wild chimpanzees lack adaptations to seasonal variations in ultraviolet B (UVB)\nirradiance from sunlight; since UVB exposure enables vertebrates to synthesize vitamin D, Sophie Moittié and colleagues studied zoo\nchimpanzees in Italy and other mid-latitude countries to see how vitamin D levels are affected by the seasonal variations in UVB irradiance that\noccur in those locations. They found that chimpanzees' vitamin D levels were significantly lower in winter than in summer and appeared\nunaffected by oral supplementation of vitamin D administered by zookeepers. Moittié and colleagues point out, however, that supplementation\nwas rare, highly varied, and poorly tracked, and therefore they caution against concluding that ____\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "vitamin D levels among zoo chimpanzees in Italy and other mid-latitude countries likely show different seasonal patterns than do vitamin D\nlevels among wild chimpanzees in Senegal and other tropical countries."
+                },
+                {
+                  "letter": "B",
+                  "text": "the lack of an observed effect of supplemental vitamin D on zoo chimpanzees in Italy and other mid-latitude countries may reflect\nshortcomings in the data rather than actual ineffectiveness."
+                },
+                {
+                  "letter": "C",
+                  "text": "providing zoo chimpanzees in Italy and other mid-latitude countries with supplemental vitamin D has no promise as a strategy for offsetting\nwinter reductions in their vitamin D levels."
+                },
+                {
+                  "letter": "D",
+                  "text": "winter reductions in UVB irradiance in Italy and other mid-latitude countries can contribute to variations in zoo chimpanzees' vitamin D levels."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q16",
+              "number": 16,
+              "prompt": "In an analysis of medieval urbanization in Pisa, Greifswald, and other European settlements, researchers drew on modern urban scaling\ntheory, which posits that population density in core urban areas increases as a city grows larger. Hypothesizing that this typical relationship\nwould have differed in medieval settlements because of the constraining influence of strong hierarchical social structures (which are much less\npronounced in modern cities) on social networking and economic integration-drivers of urban agglomeration-the team created a model that\naccounted for the presence of restrictive institutions. They found that the typically expected density-size relationship held for each of the 173\nmedieval settlements whose growth they analyzed, suggesting that ____\nWhich choice most logically completes the text?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "although there tends to be a positive relationship between population size and development of core urban areas for both medieval\nsettlements and modern cities, social institutions likely limited the rate at which population density increased in medieval settlements."
+                },
+                {
+                  "letter": "B",
+                  "text": "despite a change in the role of social structures over time, there is likely a notable consistency between medieval settlements and modern\ncities in underlying elements of the social and economic interactions among individuals that shape the development of core urban areas."
+                },
+                {
+                  "letter": "C",
+                  "text": "the social and economic dynamics that affect urban agglomeration were likely much different in medieval settlements than in modern cities,\ndespite the similarity across time in population density patterns."
+                },
+                {
+                  "letter": "D",
+                  "text": "the constraining influence of hierarchical medieval institutions likely had a significant effect on individuals in some social groupings but little\nto no effect on members of other social groupings."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q17",
+              "number": 17,
+              "prompt": "In a chemical equation, converting between the mass of the reactants and the mass of the product requires knowing each component's\nmolar mass, a quantification of the average mass of the atoms in a compound. The gaseous _____ has a molar mass of 162.15 g/mol.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "compound, quindoxin (CgH&N2O2),"
+                },
+                {
+                  "letter": "B",
+                  "text": "compound quindoxin (C8H6N2O2)"
+                },
+                {
+                  "letter": "C",
+                  "text": "compound quindoxin (C8H6N2O2)."
+                },
+                {
+                  "letter": "D",
+                  "text": "compound, quindoxin (C8H6N2O2)"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q18",
+              "number": 18,
+              "prompt": "In 19th-century Bengal, cowry shells were used as a commodity currency. By using specific goods like cowry shells as common units of\nexchange, commodity currency economies streamline trade, which is why they often replaced barter economies. Barter economies eschew that\nrequires what economist W.S. Jevons deems a \"double coincidence of wants\"–in other words, each trading party must want precisely what the\nother has.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "currency, in favor of a direct trade system"
+                },
+                {
+                  "letter": "B",
+                  "text": "currency-in favor of a direct trade system"
+                },
+                {
+                  "letter": "C",
+                  "text": "currency in favor of a direct trade system"
+                },
+                {
+                  "letter": "D",
+                  "text": "currency, in favor of a direct trade system,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q19",
+              "number": 19,
+              "prompt": "In economics, soybeans are considered a commodity because they are essentially interchangeable, \"essentially\" being a word that admits\na degree of latitude. In 2021, researchers J. Shorish, M. Stephenson, and M. Zargham devised a mathematical model of fungibility\n(interchangeability) that would account for such variation. Distinguishing \"exactly the same\" and \"nearly the same\" commodities–whether crops,\nlumber, or precious metals– ____ among their primary aims.",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "were"
+                },
+                {
+                  "letter": "B",
+                  "text": "was"
+                },
+                {
+                  "letter": "C",
+                  "text": "having been"
+                },
+                {
+                  "letter": "D",
+                  "text": "being"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q20",
+              "number": 20,
+              "prompt": "In recent years, the English writer Mary Ann Browne (1812-1845), whose poetry was widely read during her lifetime, has been rediscovered\nby contemporary audiences-a resurgence of interest that is largely due to literary scholars such as Adriana Craciun, whose work ____ the\nrichness of Browne's poems and the poet's historical importance to the Romantic literary movement encourages a broader rethinking of British\nRomanticism itself.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "highlights"
+                },
+                {
+                  "letter": "B",
+                  "text": "highlighting"
+                },
+                {
+                  "letter": "C",
+                  "text": "has highlighted"
+                },
+                {
+                  "letter": "D",
+                  "text": "is highlighting"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q21",
+              "number": 21,
+              "prompt": "The extensive impact that polymeric nanoparticles (PNPs) have had on medicine belies their minuscule size, the nanoparticles typically\n_____ from only 100 to 300 billionths of a meter.\nWhich choice completes the text so that it conforms to the conventions of Standard English?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "range"
+                },
+                {
+                  "letter": "B",
+                  "text": "can range"
+                },
+                {
+                  "letter": "C",
+                  "text": "ranging"
+                },
+                {
+                  "letter": "D",
+                  "text": "will range"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            },
+            {
+              "id": "s1-m2-q22",
+              "number": 22,
+              "prompt": "Since 1941, the South Side Community Art Center in Chicago, Illinois, has cultivated a multigenerational community of Black creatives-from\nwriter Gwendolyn Brooks, to musician Nat King Cole, to visual artists like Allen Stringfellow and Frank Hayden. ____ it has garnered a\nreputation as a hub of Black art and culture in Chicago.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Accordingly,"
+                },
+                {
+                  "letter": "B",
+                  "text": "On the other hand,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Nevertheless,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Periodically,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q23",
+              "number": 23,
+              "prompt": "For several centuries after the birth of opera in sixteenth-century Florence, Italian remained the default language in which most opera\nscores were written. ____ opera singers today, such as the soprano Pretty Yende, encounter a wide range of Italian terms–from furioso\n(furiously) to affrettando (at a hurried tempo)–when following many eighteenth-century opera scores.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "However,"
+                },
+                {
+                  "letter": "B",
+                  "text": "Thus,"
+                },
+                {
+                  "letter": "C",
+                  "text": "Lastly,"
+                },
+                {
+                  "letter": "D",
+                  "text": "Granted,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q24",
+              "number": 24,
+              "prompt": "At Storm King Art Center, an outdoor sculpture park in New York, Herbert Ferber's Konkapot Ilis exposed to rain, snow, heat, and humidity.\n____ it remains in good condition due to its material: Ferber's sculpture is made of corrosion-resistant steel.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "As a result,"
+                },
+                {
+                  "letter": "B",
+                  "text": "That said,"
+                },
+                {
+                  "letter": "C",
+                  "text": "In addition,"
+                },
+                {
+                  "letter": "D",
+                  "text": "On the contrary,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "B"
+            },
+            {
+              "id": "s1-m2-q25",
+              "number": 25,
+              "prompt": "Known as an \"empire on which the sun never sets,\" the Spanish Empire once controlled portions of five continents. Its legacy can still be\nseen, and heard, in the Spanish-speaking nation of Cuba, which gained its independence from Spain in the nineteenth century. ____ a former\ncolony's tie to the Spanish Empire is so tenuous that Spanish is seldom spoken there; an example is Sardinia, which ceased to be part of the\nempire in 1720.\nWhich choice completes the text with the most logical transition?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "Sometimes,"
+                },
+                {
+                  "letter": "B",
+                  "text": "On the other hand,"
+                },
+                {
+                  "letter": "C",
+                  "text": "At the same time,"
+                },
+                {
+                  "letter": "D",
+                  "text": "In addition,"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q26",
+              "number": 26,
+              "prompt": "A U-shaped curve in a river channel is called a meander.\nA meander forms when water erodes sediment from one side of the riverbank and redeposits that sediment on the opposite side.\nMeanders will gradually change shape and migrate downstream over time.\nA river with high sinuosity has many meanders, and a river with low sinuosity has few.\nThe Willapa River in the United States has high sinuosity.\nThe student wants to identify what causes meanders. Which choice most effectively uses relevant information from the notes to accomplish this\ngoal?",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "The erosion and redepositing of sediment from one side of a riverbank to the other forms meanders, or curves, over time."
+                },
+                {
+                  "letter": "B",
+                  "text": "High sinuosity is caused by the formation of many meanders, or curves, in a riverbank over time."
+                },
+                {
+                  "letter": "C",
+                  "text": "Over time, many meanders have formed in the Willapa River, a river in the United States with high sinuosity."
+                },
+                {
+                  "letter": "D",
+                  "text": "The meanders in the Willapa River will change shape and shift downstream over time."
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "A"
+            },
+            {
+              "id": "s1-m2-q27",
+              "number": 27,
+              "prompt": "Modern Pueblo tribal nations were preceded by the Ancestral Puebloan civilization, which occupied parts of the southwestern US until\napproximately 1600 CE.\nKeet Seel in northeastern Arizona is a former Ancestral Puebloan settlement inhabited from approximately 1250-1300 CE.\nIt was constructed in a natural cliff alcove and had multistory adobe and stone buildings.\nThese buildings had cube-shaped, contiguous rooms that surrounded kivas.\nKivas are round rooms typically used for ceremonial purposes and as gathering spaces.\nThe student wants to provide a detailed overview of the structures at Keet Seel. Which choice most effectively uses relevant information from\nthe notes to accomplish this goal?\nA. Located in northeastern Arizona, Keet Seel was designed with kivas, round rooms that were typically used for ceremonial purposes and as\ngathering spaces.\nB. Keet Seel, whose structures were built by Ancestral Puebloans in northeastern Arizona, was inhabited from approximately 1250-1300 СЕ.\nC. Constructed in a natural cliff alcove, Keet Seel's multistory adobe and stone buildings featured round rooms called kivas surrounded by\ncube-shaped, contiguous rooms.\nD. The Ancestral Puebloans used adobe and stone in the construction of Keet Seel in northeastern Arizona.\n\n\nNina is selling coins from her coin collection. When she started selling the coins, there were 2,600 coins in\n\n356\n\nthe collection. At the end of each week for 3 weeks after Nina started selling the coins, the number of coins\nin the collection had decreased by\n\nof the coins in the collection at the end of the previous week. Which\n\nequation gives the number of coins, c, in the collection w weeks after Nina started selling the coins, where\n\n0≤w≤3?\n\nA.\n\nВ.\n\nc\n\nพ\n\nс =\n\n2,600\n\n=\n\nC. c\n\n=\n\n1,300()\n\nD. c = 2,600()\n\n\n√w+33=39\n\n357\nWhat is the solution to the given equation?\nA. 2\n\nВ. 3\n\nC. 12\n\nD. 36\n\n\n358\n\n79\n\nThe function f is defined by f(x) =9x³ +7. What is the value of f(2)?\n\n\n359 The function f(x) = -40x + 330 gives the predicted height above the ground f(2), in feet, of a model\n\nairplane\n\nminutes after it begins to descend. What is the predicted height above the ground, in feet, of the\n\nmodel airplane 2 minutes after it begins to descend?\nA. 80\n\nB. 250\n\nC.\n\n290\n\nD. 410\n\n\n60\n\ny\n\nBank account balance (dollars)\n\n80\n\n70\n60\n\n50\n\n40\n30\n20\n10σ\n\n2\n\n4\n\n6\n\n8\n\n10\n\nx\n\nTime since initial deposit (months)\nA bank account was opened with an initial deposit. Over the next several months, regular deposits were\n\nmade into this account, and there were no withdrawals made during this time. The graph of the function f\n\nshown, where y = f(x), estimates the account balance, in dollars, in this bank account\n\nmonths since the\n\ninitial deposit. To the nearest whole dollar, what is the amount of the initial deposit estimated by the graph?\n\n35\n\n\ny=-17x +26\n\n36\n\ny=-23x +32\nWhat is the solution (x, y) to the given system of equations?\nA. (1,9)\n\nB.\n\n(26,32)\n\nc.\n\n(32,26)\n\nD.\n\n(9,1)\n\n\n(19w)(w) represents this situation,\nlength that is 19 times its width. The function y\nwhere y is the area, in square feet, of the rectangle and y > 0. Which of the following is the best\n\n361 A rectangle has a\n\n=\n\ninterpretation of 19w in this context?\n\nA. The length of the rectangle, in feet\n\nB. The area of the rectangle, in square feet\n\nC. The difference between the length and the width of the rectangle, in feet\nD. The width of the rectangle, in feet\n\n\n363 An entomologist placed an initial population of 60 Tenebrio molitor, a type of beetle, into a habitat and\n\nmonitored the population over time. When the number of Tenebrio molitor in the habitat reached 160% of\nthe initial population, the entomologist moved 75% of the Tenebrio molitorto a second habitat. How many\nTenebrio molitor did the entomologist move to the second habitat at this time?\n\n72\n\n\nf(x) in the xy-plane passes through the points (-5,0),\n(4,0), and (9,0).Which of the following must be a factor of f(x)?\n\n364 For the polynomial function f, the graph of y\n\nA. x+4\n\nB. x+9\n\nC. x-4\n\nD. x-5\n\n=\n\n\n36\n\nIf z-18\n36\n\nA. 0\n\nB. 4\n\nC. 18\n\nD. 36\n\n2-18\n\nwhat is the value of x +18?\n\n\n366\n36\n\nFor what value of a is\n\n42 equivalent to r, where r > 1?\n\n\n367\n\nIn the xy-plane, line s passes through the point (0,0) and is parallel to the line represented by the equation\n\ny = 28x +4. If line s also passes through the point (6, d), what is the value of d?\n\n168\n\n\n368 Circles A and B are graphed in the xy-plane. Circle A is represented by the equation\n\n(x-9)2+(y+9)2\n\n=\n\n81 and intersects the x-axis at the point (r, s). Circle B has its center at\n\nhas a radius of the same length as circle A. Which equation represents circle B?\n\nA. z²+ (y-9)²= 81\nB. x+ (y+9)2 = 81\nC. (x-9)2+y² = 81\nD.\n\n(x+9)²+=81\n\n(r, s) and\n\n\n369 The scatterplot shows the relationship between two variables,x and y.\n\n800\n700\n\n600\n\n500\n400\n\n300\n\n200\n100\n\n100 200 300 400 500 600 700 800\n\nWhich of the following equations is the most appropriate linear model for the data shown?\nA. y=-0.80x\nВ. у = 89.87x\n\nC. y = 0.80+89.87x\n\nD. y =89.87+0.80x\n\n\n370 The dot plots represent the distributions of values in data sets A and В.\nData Set B\n\nData Set A\n\n+\n\n+\n\n+\n\n4\n\n5\n\n6\n\n7\n\n+\n\n8\n\n9\n\n10\n\n+\n\n4\n\n5\n\n6\n\n+\n\n7\n\n8\n\n9\n\n10\n\nValue\nWhich of the following statements must be true?\nValue\n\nI. The median of data set A is equal to the median of data set B.\nII. The standard deviation of data set A is equal to the standard deviation of data set B.\n\nA. I and I\n\nB. I only\n\nC. II only\n\nD. Neither I nor I|\n\n\nRS =792\n\n37\n\nST= 160\nTR = 808\nThe side lengths of right triangle RST are given. Triangle RST is similar to triangle UVW, where S\ncorresponds to V and T corresponds to W.What is the value of tan W?\n20\nA. 101\n\nВ.\n\n20\n\ngg\n\n99\n\nC. 101\n99\n\nD. 20\n\n\n37\n\nf(x) =26(2)*+4(2)*\nThe function f is defined by the given equation. Which of the following equivalent forms of f displays, as a\ncoefficient or a base, the y-coordinate of the y-intercept of the graph of y f(x) in the xy-plane?\n=\n\nA. f(r) =104(2)2+16(2)2-2\nB. f(x) =2(13(2)*+2(2)\")\n\nC. f(x)\n\n=\n\n26(4) +4(4)\n\nD. f(x) =30(2)*\n\n\n373 In a set of three consecutive integers, where the integers are ordered from least to greatest, the first integer\n\nis represented by\n\n.\n\nThe sum of 4 and the second integer is less than the product of 17 and the third\n\ninteger.Which inequality represents this situation?\n\nA. 4+ (x+1) > 17(x+2)\nB. 4+ (x+1)\n\n<17(x+2)\n\nC. 4+ (x+2) > 17(x +3)\n\nD. 4+ (x+2) <17(x+3)\n\n\n374\n10-\n\n6\n42-\n\n-4\n\n-2\n\nΟ\n\n4\n\nx\n\n24+\n\nThe shaded region shown represents the solutions to which inequality?\n\nA. y<-4x+6\n\nB.\n\ny<6x-4\n\nC.\n\ny>-4x+6\n\nD. y > 6x -4\n\n\nx²+44x + y²\n\n379\n\n=\n\n0\n\nIn the xy-plane, the graph of the given equation is a circle.What are the coordinates (x,\n\nthe circle?\n\nA. (-22, 0)\n\nB. (22,0)\nc.\n\n(0,-22)\n\nD. (0,22)\n\ny) of the center of\n\n\n370 The ratio a to b is equivalent to the ratio 48 to 23. What is the value of a when b\nA. 6\n\nB. 88\n\nC. 384\n\nD. 4,232\n\n=\n\n184?\n\n\ny=5x-6\n\n377\n\ny = 14\n\nWhat is the solution (x, y) to the given system of equations?\nA.\n\n(4,14)\n\nB.\n\n(5, 14)\n\nC.\n\n(14,4)\n\nD. (14,5)\n\n\n400 Circle N has a radius of 7 millimeters (mm). Circle M has an area of 167 mm².What is the total area, in\n\nmm², of circles N and M?\nA. 65元\n\nВ. 44π\n\nС.\n\n30п\n\nD. 11\n\n\n401\n\nA\n\n40\n\n27\n\nB\n\nC\n\nNote: Figure not drawn to scale.\nIn the right triangle shown, what is the value of cos A?\n\nA.\nB.\n\nC.\n\n27\n\nD. 40\n27\n\n\ny=3x+14\n\n402\n\ny=3x-14\n\nHow many solutions does the given system of equations have?\n\nA. Zero\n\nB. Exactly one\n\nC. Exactly two\n\nD. Infinitely many\n\n\nC\n\n403 A\nB\n\nGF\n\nE\n\nD\n\nNote: Figure not drawn to scale.\n\nIn the figure, triangle AEG is congruent to triangle CFD, where E corresponds to F. The measure of\n\nangle ABF is 46°. What is the measure, in degrees, of angle DCF?\n\nA. 23\n\nB.\n\n44\n\nC. 46\n\nD. 67\n\n\n404 An ice cube is floating in water. The portion of the ice cube below the water's surface has a volume of 12.28\n\ncubic centimeters and makes up 91.67% of the total volume of the ice cube.What is the volume, in cubic\n\ncentimeters, of the portion of the ice cube above the water's surface?\n1.115\n\n\n409\n\n48\n\n25\n\nΓ\n\nC\n\nB\n\nNote: Figure not drawn to scale.\n\nIn the right triangle shown, what is the value of cos A?\nA.\n\nB.\n\n25\n25\n\nC. 2\n48\n\nD.\n\n\n406 What is the slope of the graph of 120x\n\nA. -8\n\n15\n\nB.- 4\nC.\n\n15\n\nD. 8\n\n\n15y =-32 in the xy-plane?\n\n\n407 Which expression is equivalent to 10x²y?\n\nA. (2)(5)(x)(z)(y)\nB.\n\n2+5+x+x+y\n\nc. 2x2+ 5y\n\nD. 10+x2y\n\n\n408\n\nD\n\nB\n\nC\n\nA\n\nG\n\nF\n\nE\n\nNote: Figure not drawn to scale.\n\nIn the figure, triangle ABF is congruent to triangle EDG, where B corresponds to D. The measure of\n\nangle DCF is 58\". What is the measure, in degrees, of angle ABF?\nA. 29\n\nB. 32\n\nC. 58\n\nD. 61\n\n\n409 The length of each side of triangle A is 490 millimeters. The length of each side of triangle B is double the\n\nlength of each side of triangle A.What is the length, in millimeters, of each side of triangle B?\n\nA. 490\n\nB.\n\n492\n\nC. 980\n\nD. 1,960\n\n\n4x+7y=20\nrx+21y= 60\n\n410\n\nIn the given system of equations, r is a constant. The system has infinitely many solutions.What is the value\n\nof r?\n\nA. 3\n\nB. 4\n\nC. 7\n\nD. 12\n\n\n41'\n\n-30x +390 gives the predicted height above the ground f(x),in feet, of a model\nThe function f(x)\nairplane minutes after it begins to descend. What is the predicted height above the ground, in feet, of the\nmodel airplane 3 minutes after it begins to descend?\n=\n\nA. 90\n\nB. 300\n\nC. 360\n\nD. 480\n\n\n412 For the linear function f, f(-6) =-9, and the slope of the graph of y\nequation defines f?\n\nA. f(x) =2x+3\nB. f(x) =2x-6\n\nC.\n\nf(x) =2x-9\n\nD. f(x) =2x-15\n\n=\n\nf(x) in the xy-plane is 2. Which\n\n\n41:\n\nRS =360\nST =224\n\nTR=424\nThe side lengths of right triangle RST are given. Triangle RST is similar to triangle UVW, where S\n\ncorresponds to V and T corresponds to W. What is the value of tan W?\n28\n\nA. 53\nB.\n\nC.\n\n28\n\n45\n\n45\n53\n\nD. 45\n\n28\n\n\n414 The ratio a to b is equivalent to the ratio 72 to 17.What is the value of a when b\nA. 9\n\nВ. 32\n\nC. 576\n\nD. 2,312\n\n=\n\n136?\n\n\ny=6x-5\n\n419\n\ny =13\n\nWhat is the solution (, y) to the given system of equations?\nA.\n\n(3, 13)\n\nB. (6, 13)\n\nс. (13,3)\nD. (13,6)\n\n\n410\n\n57\n\n47\n\nNote: Figure not drawn to scale.\nIn the right triangle shown, what is the value of sin x\"?\n\nA. 104\n57\n\n47\n\nB. 57\n\n.C\n\nD.\n\n10\n57\n\n\nIf 32+7(x +4) =6(x+4) -32, what is the value of x +4?\n\n41\n\nA.-64\n\nB.\n\n0\n\nC. 32\n\nD. 64\n\n\n418 A rectangle has a length of 10 centimeters andawidth of 8,000 centimeters. What is the area, in square\n\ncentimeters, of the rectangle?\nA.\n\n10\n\nB. 8,010\n\nC. 80,000\nD. 88,000\n\n\n419 Σ\nS\n\not\n\n‫ח‬\n\nR\n\nP\n\nT\nNote: Figure not drawn to scale.\n\nAQPR is similar to ASTR. The lengths represented by ST, QP, PR, and QR in the figure are 17, 21, 28\n,and 35, respectively. What is the length of SR?\nA.\nB.\n\n595\n21\n\n595\n\n28\n\nC. 357\n28\n\nD.\n\n357\n\n35\n\n\noutside\n\n42\n\ndiameter\nwall thickness\n\nT\n\nheight\n\nNote: Figure not drawn to scale.\n\nIn the figure, a hollow steel pipe is in the shape of a right circular cylinder. The steel pipe has an outside\n\ndiameter of 48 inches, a wall thickness of\ninches, and a height of 144 inches. Which of the following is\nclosest to the volume, in cubic inches, of the wall of this steel pipe?\nA. 177\n\nB. 565\n\nC. 2,160\n\nD.\n\n13,395\n\n\nThe function f is a quadratic function. In the xy-plane, the graph of y = f(x) has a vertex at (1,8) and\n\n42\n\npasses through the points (2,47) and (-1, 164). What is the value of f(-2) -",
+              "options": [
+                {
+                  "letter": "A",
+                  "text": "125"
+                },
+                {
+                  "letter": "B",
+                  "text": "203"
+                },
+                {
+                  "letter": "C",
+                  "text": "312"
+                },
+                {
+                  "letter": "D",
+                  "text": "359\n\nf(0)?"
+                }
+              ],
+              "isFreeResponse": false,
+              "confidenceFlag": "high",
+              "correctAnswer": "C"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 54,
+  "hasAnswerKey": true,
+  "parsedAt": "2026-03-28T17:36:17.718Z"
+}
