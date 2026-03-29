@@ -100,7 +100,7 @@ export default function ModuleReviewScreen({
                 className="h-full bg-gradient-to-r from-[var(--accent)] to-[var(--accent-hover)] rounded-full"
                 initial={{ width: 0 }}
                 animate={{ width: `${progressPercent}%` }}
-                transition={{ duration: 0.8, ease: [0.25, 0.1, 0.25, 1], delay: 0.3 }}
+                transition={{ duration: 0.8, ease: [0.25, 0.1, 0.25, 1] as const, delay: 0.3 }}
               />
             </div>
           </motion.div>

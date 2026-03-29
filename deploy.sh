@@ -1,0 +1,23 @@
+#!/bin/bash
+# Deploy script for SAT Simulator
+
+echo "======================================"
+echo "SAT Simulator Deployment Guide"
+echo "======================================"
+echo ""
+echo "Repository created at: https://github.com/vabhavx/sat-simulator"
+echo ""
+echo "To deploy to Vercel with jonlick.com domain, follow these steps:"
+echo ""
+echo "1. Go to https://vercel.com/signup and create an account (or login)"
+echo "2. Click 'Add New Project'"
+echo "3. Import from GitHub: vabhavx/sat-simulator"
+echo "4. Configure Environment Variables:"
+echo "   - NEXT_PUBLIC_SUPABASE_URL=https://ionvtznvhgljrnimhayz.supabase.co"
+echo "   - NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlvbnZ0em52aGdsanJuaW1oYXl6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ3MTE1NzQsImV4cCI6MjA5MDI4NzU3NH0.i1Q-Oea1bF1Tz1miWcjhkSXhANPlWBh8tRqsDKpzzEA"
+echo "5. Deploy the project"
+echo "6. Go to Project Settings > Domains"
+echo "7. Add custom domain: jonlick.com"
+echo "8. Configure DNS at your domain registrar with the records Vercel provides"
+echo ""
+echo "======================================"

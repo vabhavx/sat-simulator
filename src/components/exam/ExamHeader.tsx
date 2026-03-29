@@ -251,7 +251,7 @@ export default function ExamHeader({
             animate={{ height: "auto", opacity: 1 }}
             exit={{ height: 0, opacity: 0 }}
             transition={{
-              height: { duration: 0.28, ease: [0.25, 0.1, 0.25, 1] },
+              height: { duration: 0.28, ease: [0.25, 0.1, 0.25, 1] as const },
               opacity: { duration: 0.2, ease: "easeInOut" },
             }}
             className="overflow-hidden relative z-20"

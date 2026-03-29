@@ -253,7 +253,8 @@ export default function DashboardPage() {
                   <YAxis domain={[400, 1600]} fontSize={11} tickLine={false} tick={{ fill: "var(--text-secondary)" }} width={40} />
                   <Tooltip
                     contentStyle={{ fontSize: 12, borderRadius: 10, border: "1px solid var(--border)", background: "var(--surface)", color: "var(--text)", boxShadow: "0 4px 20px rgba(0,0,0,0.15)" }}
-                    formatter={(value: number, name: string) => [String(value), name === "score" ? "Total" : name === "rw" ? "R&W" : "Math"]}
+                    formatter={(value) => [String(value ?? ""), ""]}
+                    labelFormatter={(label) => label}
                   />
                   <Area type="monotone" dataKey="score" stroke="#6366f1" strokeWidth={2.5} fill="url(#scoreGrad)" dot={{ r: 3, fill: "#6366f1", strokeWidth: 0 }} activeDot={{ r: 5, fill: "#6366f1" }} />
                   <Line type="monotone" dataKey="rw" stroke="#3b82f6" strokeWidth={1.5} strokeDasharray="4 4" dot={false} />
@@ -285,7 +286,7 @@ export default function DashboardPage() {
                     <YAxis type="category" dataKey="domain" fontSize={10} tickLine={false} width={100} tick={{ fill: "var(--text-secondary)" }} />
                     <Tooltip
                       contentStyle={{ fontSize: 12, borderRadius: 10, border: "1px solid var(--border)", background: "var(--surface)", color: "var(--text)" }}
-                      formatter={(value: number) => [`${value}%`, "Accuracy"]}
+                      formatter={(value) => [`${value ?? 0}%`, "Accuracy"]}
                     />
                     <Bar dataKey="pct" radius={[0, 4, 4, 0]} barSize={14}>
                       {domainChartData.map((entry, idx) => (
