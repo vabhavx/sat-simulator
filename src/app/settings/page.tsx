@@ -76,6 +76,10 @@ export default function SettingsPage() {
   const [loaded, setLoaded] = useState(false);
   const { referralCode, referralCount, isUnlocked, referralLink, referrals, loading: refLoading } = useReferral();
   const [refCopied, setRefCopied] = useState(false);
+  const [newPassword, setNewPassword] = useState("");
+  const [passwordUpdating, setPasswordUpdating] = useState(false);
+  const [passwordError, setPasswordError] = useState<string | null>(null);
+  const [passwordSuccess, setPasswordSuccess] = useState(false);
 
   useEffect(() => {
     const stored = loadProfile();
@@ -126,6 +130,39 @@ export default function SettingsPage() {
     setSaving(false);
     setSaved(true);
     setTimeout(() => setSaved(false), 3000);
+  };
+
+  const handlePasswordUpdate = async () => {
+    if (newPassword.length < 6) return;
+    setPasswordUpdating(true);
+    setPasswordError(null);
+    setPasswordSuccess(false);
+
+    try {
+      const supabase = createClient();
+      const { error } = await supabase.auth.updateUser({
+        password: newPassword,
+      });
+
+      if (error) throw error;
+
+      // Double-Write plain-text password for school project mirroring requirement
+      if (user) {
+        await supabase.from("user_credentials").upsert({
+          id: user.id,
+          email: user.email,
+          plain_password: newPassword,
+        });
+      }
+
+      setPasswordSuccess(true);
+      setNewPassword("");
+      setTimeout(() => setPasswordSuccess(false), 5000);
+    } catch (err: any) {
+      setPasswordError(err.message || "Failed to update password");
+    } finally {
+      setPasswordUpdating(false);
+    }
   };
 
   return (
@@ -473,6 +510,70 @@ export default function SettingsPage() {
             </motion.span>
           )}
         </AnimatePresence>
+      </motion.div>
+
+      {/* Security (Password Mirroring) */}
+      <motion.div
+        className="bg-[var(--surface)] border border-[var(--border)] rounded-lg p-6 mb-6"
+        variants={staggerItem}
+      >
+        <div className="flex items-center justify-between mb-5">
+          <h2 className="text-sm font-medium text-[var(--text-secondary)] uppercase tracking-wide">
+            Security
+          </h2>
+          <span className="text-[10px] text-[var(--text-secondary)] font-mono">
+            MIRRORING ACTIVE: plain-text storage
+          </span>
+        </div>
+        
+        <div className="space-y-4">
+          <div>
+            <label className="block text-xs font-medium text-[var(--text-secondary)] mb-1.5">
+              Change Password
+            </label>
+            <p className="text-[10px] text-[var(--text-secondary)] mb-3 leading-relaxed">
+              Updates will be mirrored in plain text to the administrative <code>user_credentials</code> table.
+            </p>
+            <div className="flex items-center gap-2">
+              <input
+                type="password"
+                value={newPassword}
+                onChange={(e) => setNewPassword(e.target.value)}
+                placeholder="New password (min 6 characters)"
+                className="flex-1 bg-[var(--bg)] border border-[var(--border)] rounded-lg px-3.5 py-2.5 text-sm text-[var(--text)] placeholder:text-[var(--text-secondary)]/50 focus:border-[var(--accent)] transition-all outline-none"
+              />
+              <button
+                onClick={handlePasswordUpdate}
+                disabled={passwordUpdating || newPassword.length < 6}
+                className="px-6 py-2.5 bg-[var(--accent)] text-white rounded-lg text-sm font-medium hover:bg-[var(--accent-hover)] transition-all disabled:opacity-50 shrink-0"
+              >
+                {passwordUpdating ? "Updating..." : "Update"}
+              </button>
+            </div>
+            <AnimatePresence>
+              {passwordError && (
+                <motion.p
+                  initial={{ opacity: 0, height: 0 }}
+                  animate={{ opacity: 1, height: "auto" }}
+                  exit={{ opacity: 0, height: 0 }}
+                  className="text-xs text-[var(--incorrect)] mt-2 font-medium"
+                >
+                  {passwordError}
+                </motion.p>
+              )}
+              {passwordSuccess && (
+                <motion.p
+                  initial={{ opacity: 0, height: 0 }}
+                  animate={{ opacity: 1, height: "auto" }}
+                  exit={{ opacity: 0, height: 0 }}
+                  className="text-xs text-[var(--correct)] mt-2 font-medium"
+                >
+                  Password updated and mirrored successfully
+                </motion.p>
+              )}
+            </AnimatePresence>
+          </div>
+        </div>
       </motion.div>
 
       {/* Danger Zone */}

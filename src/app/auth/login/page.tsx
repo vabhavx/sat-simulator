@@ -1,9 +1,10 @@
 "use client";
 
 import { useState } from "react";
-import { useRouter } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
 import { motion } from "framer-motion";
+import { Suspense } from "react";
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -18,8 +19,10 @@ const itemVariants = {
   visible: { opacity: 1, y: 0, transition: { duration: 0.5 } },
 };
 
-export default function LoginPage() {
+function LoginForm() {
   const router = useRouter();
+  const searchParams = useSearchParams();
+  const justRegistered = searchParams.get("registered") === "true";
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState<string | null>(null);
@@ -69,6 +72,19 @@ export default function LoginPage() {
           className="bg-[var(--surface)] rounded-xl border border-[var(--border)] p-8"
           variants={itemVariants}
         >
+          {justRegistered && (
+            <motion.div
+              initial={{ opacity: 0, y: -10 }}
+              animate={{ opacity: 1, y: 0 }}
+              className="flex items-center gap-2 justify-center mb-4 px-3 py-2.5 rounded-lg bg-emerald-50 border border-emerald-200"
+            >
+              <svg className="w-4 h-4 text-emerald-500 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+              </svg>
+              <span className="text-sm font-medium text-emerald-700">Account created successfully. Sign in to continue.</span>
+            </motion.div>
+          )}
+
           <motion.div variants={itemVariants}>
             <h1 className="text-xl font-semibold text-center mb-1 text-[var(--text)]">Fudsat</h1>
             <p className="text-sm text-[var(--text-secondary)] text-center mb-8">
@@ -175,5 +191,17 @@ export default function LoginPage() {
         </motion.div>
       </motion.div>
     </div>
+  );
+}
+
+export default function LoginPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen flex items-center justify-center bg-[var(--bg)]">
+        <div className="w-6 h-6 border-2 border-[var(--accent)]/30 border-t-[var(--accent)] rounded-full animate-spin" />
+      </div>
+    }>
+      <LoginForm />
+    </Suspense>
   );
 }
