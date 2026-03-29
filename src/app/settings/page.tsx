@@ -5,6 +5,7 @@ import { useAuth } from "@/components/AuthProvider";
 import { createClient } from "@/lib/supabase/client";
 import { motion, AnimatePresence } from "framer-motion";
 import { LoadingSpinner } from "@/components/ui/animations";
+import { useReferral, REQUIRED_REFERRALS } from "@/hooks/useReferral";
 
 interface ProfileData {
   fullName: string;
@@ -73,6 +74,8 @@ export default function SettingsPage() {
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
   const [loaded, setLoaded] = useState(false);
+  const { referralCode, referralCount, isUnlocked, referralLink, referrals, loading: refLoading } = useReferral();
+  const [refCopied, setRefCopied] = useState(false);
 
   useEffect(() => {
     const stored = loadProfile();
@@ -196,6 +199,138 @@ export default function SettingsPage() {
             </p>
           </div>
         </div>
+      </motion.div>
+
+      {/* ── Referral Program ──────────────────────────── */}
+      <motion.div
+        className="bg-[var(--surface)] border border-[var(--border)] rounded-lg p-6 mb-6"
+        variants={staggerItem}
+      >
+        <div className="flex items-center justify-between mb-5">
+          <h2 className="text-sm font-medium text-[var(--text-secondary)] uppercase tracking-wide">
+            Referral Program
+          </h2>
+          {isUnlocked && (
+            <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-emerald-50 dark:bg-emerald-950/40 text-emerald-600 dark:text-emerald-400 text-[10px] font-semibold border border-emerald-200 dark:border-emerald-800">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M5 13l4 4L19 7" />
+              </svg>
+              ALL CONTENT UNLOCKED
+            </span>
+          )}
+        </div>
+
+        {/* Referral link */}
+        {referralCode && (
+          <div className="mb-4">
+            <label className="block text-xs font-medium text-[var(--text-secondary)] mb-1.5">
+              Your Referral Link
+            </label>
+            <div className="flex items-center gap-2">
+              <div className="flex-1 bg-[var(--bg)] border border-[var(--border)] rounded-lg px-3.5 py-2.5 text-sm text-[var(--text)] font-mono truncate">
+                {referralLink}
+              </div>
+              <button
+                onClick={async () => {
+                  try {
+                    await navigator.clipboard.writeText(referralLink);
+                  } catch {
+                    const input = document.createElement("input");
+                    input.value = referralLink;
+                    document.body.appendChild(input);
+                    input.select();
+                    document.execCommand("copy");
+                    document.body.removeChild(input);
+                  }
+                  setRefCopied(true);
+                  setTimeout(() => setRefCopied(false), 2000);
+                }}
+                className={`flex-shrink-0 px-4 py-2.5 rounded-lg text-sm font-semibold transition-all duration-200 ${
+                  refCopied
+                    ? "bg-emerald-500/10 text-emerald-600 border border-emerald-500/20"
+                    : "bg-[var(--accent)] text-white hover:bg-[var(--accent-hover)]"
+                }`}
+              >
+                {refCopied ? "Copied!" : "Copy"}
+              </button>
+              {typeof navigator !== "undefined" && navigator.share && (
+                <button
+                  onClick={() => {
+                    navigator.share({
+                      title: "Join Fudsat — Free SAT Practice",
+                      text: "Get free SAT practice exams, question banks, and premium materials!",
+                      url: referralLink,
+                    }).catch(() => {});
+                  }}
+                  className="flex-shrink-0 px-3 py-2.5 rounded-lg text-sm bg-[var(--surface-2)] border border-[var(--border)] hover:bg-[var(--surface-3)] transition-colors"
+                >
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-[var(--text-secondary)]">
+                    <circle cx="18" cy="5" r="3" /><circle cx="6" cy="12" r="3" /><circle cx="18" cy="19" r="3" />
+                    <line x1="8.59" y1="13.51" x2="15.42" y2="17.49" /><line x1="15.41" y1="6.51" x2="8.59" y2="10.49" />
+                  </svg>
+                </button>
+              )}
+            </div>
+          </div>
+        )}
+
+        {/* Progress bar */}
+        <div className="mb-4">
+          <div className="flex items-center justify-between text-sm mb-2">
+            <span className="text-[var(--text-secondary)] font-medium">Referral Progress</span>
+            <span className="font-bold text-[var(--accent)] tabular-nums">
+              {referralCount}/{REQUIRED_REFERRALS}
+            </span>
+          </div>
+          <div className="h-2.5 rounded-full bg-[var(--bg)] border border-[var(--border)]/50 overflow-hidden">
+            <motion.div
+              className="h-full rounded-full"
+              style={{ background: isUnlocked
+                ? "linear-gradient(90deg, #059669, #10b981)"
+                : "linear-gradient(90deg, var(--accent), #8b5cf6)"
+              }}
+              initial={{ width: 0 }}
+              animate={{ width: `${(referralCount / REQUIRED_REFERRALS) * 100}%` }}
+              transition={{ duration: 0.6, ease: "easeOut" }}
+            />
+          </div>
+          <p className="text-xs text-[var(--text-secondary)] mt-1.5">
+            {isUnlocked
+              ? "All exams and premium materials are unlocked."
+              : `Invite ${REQUIRED_REFERRALS - referralCount} more friend${REQUIRED_REFERRALS - referralCount === 1 ? "" : "s"} to unlock all content.`}
+          </p>
+        </div>
+
+        {/* Referred friends list */}
+        {referrals.length > 0 && (
+          <div>
+            <p className="text-xs font-medium text-[var(--text-secondary)] mb-2 uppercase tracking-wide">
+              Friends who signed up
+            </p>
+            <div className="space-y-1.5">
+              {referrals.map((ref, i) => (
+                <div
+                  key={ref.id}
+                  className="flex items-center justify-between py-2 px-3 rounded-lg bg-[var(--bg)] border border-[var(--border)]/50"
+                >
+                  <div className="flex items-center gap-2.5 min-w-0">
+                    <div className="w-7 h-7 rounded-full bg-[var(--accent)]/10 flex items-center justify-center text-[var(--accent)] text-xs font-bold flex-shrink-0">
+                      {i + 1}
+                    </div>
+                    <span className="text-sm text-[var(--text)] truncate">
+                      {ref.email.includes("@")
+                        ? ref.email.split("@")[0].slice(0, 3) + "***@" + ref.email.split("@")[1]
+                        : ref.email}
+                    </span>
+                  </div>
+                  <span className="text-[10px] text-[var(--text-secondary)] flex-shrink-0">
+                    {new Date(ref.created_at).toLocaleDateString("en-US", { month: "short", day: "numeric" })}
+                  </span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
       </motion.div>
 
       {/* Personal Information */}

@@ -3,6 +3,9 @@
 import { useState } from "react";
 import { useAuth } from "@/components/AuthProvider";
 import { motion, AnimatePresence } from "framer-motion";
+import { useReferral } from "@/hooks/useReferral";
+import { PremiumGateOverlay, ReferralProgressBar } from "@/components/ReferralGate";
+import Navbar from "@/components/Navbar";
 
 /* ───────────────────────────────────────────────────────────
    Taxonomy — precise classification, zero ambiguity
@@ -123,8 +126,10 @@ const TOTAL_FILES = CATEGORIES.reduce((s, c) => s + c.items.length, 0);
 export default function PremiumMaterialPage() {
   const { user, signOut } = useAuth();
   const [downloaded, setDownloaded] = useState<Set<string>>(new Set());
+  const { referralCount, isUnlocked, referralLink, loading: refLoading } = useReferral();
 
   function handleDownload(fileName: string) {
+    if (!isUnlocked) return; // Guard: no download if locked
     const link = document.createElement("a");
     link.href = `/pdfs/premium/${encodeURIComponent(fileName)}`;
     link.download = fileName;
@@ -136,44 +141,7 @@ export default function PremiumMaterialPage() {
 
   return (
     <div className="min-h-screen bg-[var(--bg)]">
-      {/* ── Navbar ──────────────────────────────────────── */}
-      <motion.nav
-        className="sticky top-0 z-30 bg-[var(--surface)]/80 backdrop-blur-xl border-b border-[var(--border)]/60"
-        initial={{ opacity: 0, y: -8 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.4 }}
-      >
-        <div className="max-w-6xl mx-auto px-6 h-14 flex items-center justify-between">
-          <a href="/" className="text-base font-bold tracking-tight text-[var(--text)] hover:opacity-70 transition-opacity">
-            Fudsat
-          </a>
-          <div className="flex items-center gap-2 sm:gap-3">
-            {user ? (
-              <>
-                <a href="/exams" className="text-xs sm:text-sm text-[var(--text-secondary)] hover:text-[var(--text)] transition-colors font-medium">
-                  Exams
-                </a>
-                <span className="w-px h-4 bg-[var(--border)]" />
-                <a href="/premium" className="text-xs sm:text-sm text-[var(--text)] font-semibold">
-                  Premium Material
-                </a>
-                <span className="w-px h-4 bg-[var(--border)]" />
-                <a href="/dashboard" className="text-xs sm:text-sm text-[var(--text-secondary)] hover:text-[var(--text)] transition-colors font-medium">
-                  Analytics
-                </a>
-                <span className="w-px h-4 bg-[var(--border)]" />
-                <button onClick={signOut} className="text-xs sm:text-sm text-[var(--text-secondary)] hover:text-[var(--text)] transition-colors">
-                  Sign out
-                </button>
-              </>
-            ) : (
-              <a href="/auth/login" className="text-sm bg-[var(--accent)] text-white px-4 py-1.5 rounded-lg hover:bg-[var(--accent-hover)] transition-colors font-medium">
-                Sign in
-              </a>
-            )}
-          </div>
-        </div>
-      </motion.nav>
+      <Navbar />
 
       <div className="max-w-5xl mx-auto px-6 pb-24">
         {/* ── Hero header ─────────────────────────────── */}
@@ -196,53 +164,69 @@ export default function PremiumMaterialPage() {
             Premium Material
           </h1>
           <p className="text-base text-[var(--text-secondary)] mt-2 max-w-md mx-auto">
-            The only prep files you need. Download, study, dominate.
+            {isUnlocked
+              ? "The only prep files you need. Download, study, dominate."
+              : "Preview all resources below. Share your referral link to unlock downloads."}
           </p>
 
-          {/* Progress bar — gamified */}
-          <motion.div
-            className="mt-6 max-w-xs mx-auto"
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ delay: 0.5 }}
-          >
-            <div className="flex items-center justify-between text-xs mb-1.5">
-              <span className="font-medium text-[var(--text-secondary)]">
-                Downloaded
-              </span>
-              <AnimatePresence mode="wait">
-                <motion.span
-                  key={downloaded.size}
-                  className="font-bold text-[var(--accent)]"
-                  initial={{ opacity: 0, y: -6 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0, y: 6 }}
-                  transition={{ duration: 0.2 }}
+          {/* Referral Progress (shown when locked) */}
+          {!isUnlocked && !refLoading && (
+            <motion.div
+              className="mt-6 max-w-md mx-auto"
+              initial={{ opacity: 0, y: 8 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.3 }}
+            >
+              <ReferralProgressBar referralCount={referralCount} referralLink={referralLink} />
+            </motion.div>
+          )}
+
+          {/* Progress bar (only when unlocked) */}
+          {isUnlocked && (
+            <motion.div
+              className="mt-6 max-w-xs mx-auto"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 0.5 }}
+            >
+              <div className="flex items-center justify-between text-xs mb-1.5">
+                <span className="font-medium text-[var(--text-secondary)]">
+                  Downloaded
+                </span>
+                <AnimatePresence mode="wait">
+                  <motion.span
+                    key={downloaded.size}
+                    className="font-bold text-[var(--accent)]"
+                    initial={{ opacity: 0, y: -6 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    exit={{ opacity: 0, y: 6 }}
+                    transition={{ duration: 0.2 }}
+                  >
+                    {downloaded.size}/{TOTAL_FILES}
+                  </motion.span>
+                </AnimatePresence>
+              </div>
+              <div className="h-2 rounded-full bg-[var(--border)] overflow-hidden">
+                <motion.div
+                  className="h-full rounded-full"
+                  style={{ background: "linear-gradient(90deg, var(--accent), #a855f7)" }}
+                  initial={{ width: 0 }}
+                  animate={{ width: `${(downloaded.size / TOTAL_FILES) * 100}%` }}
+                  transition={{ duration: 0.5, ease: "easeOut" }}
+                />
+              </div>
+              {downloaded.size === TOTAL_FILES && downloaded.size > 0 && (
+                <motion.p
+                  className="text-xs font-semibold text-[#059669] mt-2"
+                  initial={{ opacity: 0, scale: 0.8 }}
+                  animate={{ opacity: 1, scale: 1 }}
+                  transition={{ type: "spring", stiffness: 300 }}
                 >
-                  {downloaded.size}/{TOTAL_FILES}
-                </motion.span>
-              </AnimatePresence>
-            </div>
-            <div className="h-2 rounded-full bg-[var(--border)] overflow-hidden">
-              <motion.div
-                className="h-full rounded-full"
-                style={{ background: "linear-gradient(90deg, var(--accent), #a855f7)" }}
-                initial={{ width: 0 }}
-                animate={{ width: `${(downloaded.size / TOTAL_FILES) * 100}%` }}
-                transition={{ duration: 0.5, ease: "easeOut" }}
-              />
-            </div>
-            {downloaded.size === TOTAL_FILES && downloaded.size > 0 && (
-              <motion.p
-                className="text-xs font-semibold text-[#059669] mt-2"
-                initial={{ opacity: 0, scale: 0.8 }}
-                animate={{ opacity: 1, scale: 1 }}
-                transition={{ type: "spring", stiffness: 300 }}
-              >
-                All resources downloaded. You&apos;re locked in.
-              </motion.p>
-            )}
-          </motion.div>
+                  All resources downloaded. You&apos;re locked in.
+                </motion.p>
+              )}
+            </motion.div>
+          )}
         </motion.div>
 
         {/* ── Category sections ───────────────────────── */}
@@ -278,6 +262,54 @@ export default function PremiumMaterialPage() {
               <div className="grid gap-2.5 sm:grid-cols-2 lg:grid-cols-3">
                 {cat.items.map((pdf, i) => {
                   const isDone = downloaded.has(pdf.fileName);
+
+                  // ── LOCKED STATE ──
+                  if (!isUnlocked) {
+                    return (
+                      <motion.div
+                        key={pdf.fileName}
+                        initial={{ opacity: 0, y: 12 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ duration: 0.3, delay: 0.2 + catIdx * 0.07 + i * 0.04 }}
+                      >
+                        <PremiumGateOverlay
+                          referralCount={referralCount}
+                          referralLink={referralLink}
+                        >
+                          <div className="text-left w-full rounded-xl border border-[var(--border)] bg-[var(--surface)] p-4">
+                            <div className="flex items-start justify-between gap-3">
+                              <div className="min-w-0 flex-1">
+                                <div className="flex items-center gap-2 mb-1.5">
+                                  <span
+                                    className="inline-block text-[10px] font-bold tracking-wider px-1.5 py-0.5 rounded"
+                                    style={{
+                                      color: pdf.tagColor,
+                                      backgroundColor: pdf.tagColor + "20",
+                                    }}
+                                  >
+                                    {pdf.tag}
+                                  </span>
+                                </div>
+                                <h3 className="text-sm font-semibold text-[var(--text)] leading-snug">
+                                  {pdf.title}
+                                </h3>
+                                <p className="text-[11px] text-[var(--text-secondary)] mt-1">
+                                  PDF
+                                </p>
+                              </div>
+                              <div className="flex-shrink-0 w-9 h-9 rounded-lg flex items-center justify-center bg-[var(--surface-2)]">
+                                <svg className="w-4 h-4 text-[var(--text-secondary)]" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                                  <path strokeLinecap="round" strokeLinejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3" />
+                                </svg>
+                              </div>
+                            </div>
+                          </div>
+                        </PremiumGateOverlay>
+                      </motion.div>
+                    );
+                  }
+
+                  // ── UNLOCKED STATE ──
                   return (
                     <motion.button
                       key={pdf.fileName}

@@ -7,6 +7,12 @@ import { getActiveAttemptForExam, getAllResults } from "@/lib/storage";
 import { motion, AnimatePresence } from "framer-motion";
 import { LoadingSpinner } from "@/components/ui/animations";
 import Navbar from "@/components/Navbar";
+import { useReferral } from "@/hooks/useReferral";
+import { ReferralGateOverlay, ReferralProgressBar } from "@/components/ReferralGate";
+
+// ── Constants ───────────────────────────────────────────────
+
+const FREE_EXAM_COUNT = 2;
 
 // ── Variants (snappy) ──────────────────────────────────────
 
@@ -50,7 +56,7 @@ function StatBlock({ value, label }: { value: string | number; label: string }) 
   );
 }
 
-// ── Exam Card ───────────────────────────────────────────────
+// ── Exam Card (unlocked) ────────────────────────────────────
 
 function ExamCard({
   exam,
@@ -62,65 +68,111 @@ function ExamCard({
   featured?: boolean;
 }) {
   return (
-    <motion.div variants={fadeUp}>
-      <Link
-        href={`/exam/${exam.id}`}
-        className={`group relative flex flex-col justify-between rounded-xl border border-[var(--border)] bg-[var(--surface)] overflow-hidden transition-all duration-200 hover:border-[var(--accent)]/25 hover:shadow-[0_2px_16px_rgba(99,102,241,0.08)] active:scale-[0.98] ${
-          featured ? "row-span-2 min-h-[220px]" : "min-h-[140px] sm:min-h-[160px]"
-        }`}
-      >
-        {/* Accent bar */}
-        <div className={`absolute top-0 inset-x-0 h-[3px] ${
-          exam.hasAnswerKey
-            ? "bg-gradient-to-r from-[var(--accent)] to-purple-500"
-            : "bg-gradient-to-r from-[var(--surface-3)] to-[var(--border)]"
-        } opacity-0 group-hover:opacity-100 transition-opacity duration-200`} />
+    <Link
+      href={`/exam/${exam.id}`}
+      className={`group relative flex flex-col justify-between rounded-xl border border-[var(--border)] bg-[var(--surface)] overflow-hidden transition-all duration-200 hover:border-[var(--accent)]/25 hover:shadow-[0_2px_16px_rgba(99,102,241,0.08)] active:scale-[0.98] ${
+        featured ? "row-span-2 min-h-[220px]" : "min-h-[140px] sm:min-h-[160px]"
+      }`}
+    >
+      {/* Accent bar */}
+      <div className={`absolute top-0 inset-x-0 h-[3px] ${
+        exam.hasAnswerKey
+          ? "bg-gradient-to-r from-[var(--accent)] to-purple-500"
+          : "bg-gradient-to-r from-[var(--surface-3)] to-[var(--border)]"
+      } opacity-0 group-hover:opacity-100 transition-opacity duration-200`} />
 
-        {/* Content */}
-        <div className="p-4 sm:p-5 flex-1 flex flex-col">
-          {/* Top row: badges */}
-          <div className="flex items-center justify-between mb-2.5 sm:mb-3">
-            <span className={`inline-flex items-center text-[10px] font-semibold tracking-wider uppercase px-2 py-0.5 rounded border ${regionColor(exam.type)}`}>
-              {regionLabel(exam.type)}
-            </span>
-            <div className="flex items-center gap-1.5">
-              {exam.hasAnswerKey && (
-                <span className="inline-flex items-center text-[10px] font-medium text-emerald-600 bg-emerald-50 border border-emerald-200 dark:bg-emerald-950/50 dark:text-emerald-400 dark:border-emerald-800 px-1.5 py-0.5 rounded">
-                  Key
-                </span>
-              )}
-              {isActive && (
-                <span className="inline-flex items-center text-[10px] font-medium text-amber-700 bg-amber-50 border border-amber-200 dark:bg-amber-950/50 dark:text-amber-400 dark:border-amber-800 px-1.5 py-0.5 rounded animate-pulse">
-                  Active
-                </span>
-              )}
-            </div>
-          </div>
-
-          {/* Title */}
-          <h3 className={`font-semibold text-[var(--text)] group-hover:text-[var(--accent)] transition-colors duration-150 leading-snug ${
-            featured ? "text-lg" : "text-[15px]"
-          }`}>
-            {monthLabel(exam.month)} {exam.year}
-          </h3>
-          <p className="text-xs text-[var(--text-secondary)] mt-0.5">{exam.version}</p>
-
-          <div className="flex-1" />
-
-          {/* Footer meta */}
-          <div className="flex items-center justify-between mt-3 sm:mt-4 pt-2.5 sm:pt-3 border-t border-[var(--border)]/60">
-            <div className="flex items-center gap-2 sm:gap-3 text-xs text-[var(--text-secondary)]">
-              <span className="tabular-nums">{exam.totalQuestions} Q</span>
-              <span className="w-px h-3 bg-[var(--border)]" />
-              <span>{exam.type === "Unknown" ? "Practice" : exam.type}</span>
-            </div>
-            <span className="text-xs text-[var(--text-secondary)] group-hover:text-[var(--accent)] group-hover:translate-x-0.5 transition-all duration-150 font-medium">
-              Start →
-            </span>
+      {/* Content */}
+      <div className="p-4 sm:p-5 flex-1 flex flex-col">
+        {/* Top row: badges */}
+        <div className="flex items-center justify-between mb-2.5 sm:mb-3">
+          <span className={`inline-flex items-center text-[10px] font-semibold tracking-wider uppercase px-2 py-0.5 rounded border ${regionColor(exam.type)}`}>
+            {regionLabel(exam.type)}
+          </span>
+          <div className="flex items-center gap-1.5">
+            {exam.hasAnswerKey && (
+              <span className="inline-flex items-center text-[10px] font-medium text-emerald-600 bg-emerald-50 border border-emerald-200 dark:bg-emerald-950/50 dark:text-emerald-400 dark:border-emerald-800 px-1.5 py-0.5 rounded">
+                Key
+              </span>
+            )}
+            {isActive && (
+              <span className="inline-flex items-center text-[10px] font-medium text-amber-700 bg-amber-50 border border-amber-200 dark:bg-amber-950/50 dark:text-amber-400 dark:border-amber-800 px-1.5 py-0.5 rounded animate-pulse">
+                Active
+              </span>
+            )}
           </div>
         </div>
-      </Link>
-    </motion.div>
+
+        {/* Title */}
+        <h3 className={`font-semibold text-[var(--text)] group-hover:text-[var(--accent)] transition-colors duration-150 leading-snug ${
+          featured ? "text-lg" : "text-[15px]"
+        }`}>
+          {monthLabel(exam.month)} {exam.year}
+        </h3>
+        <p className="text-xs text-[var(--text-secondary)] mt-0.5">{exam.version}</p>
+
+        <div className="flex-1" />
+
+        {/* Footer meta */}
+        <div className="flex items-center justify-between mt-3 sm:mt-4 pt-2.5 sm:pt-3 border-t border-[var(--border)]/60">
+          <div className="flex items-center gap-2 sm:gap-3 text-xs text-[var(--text-secondary)]">
+            <span className="tabular-nums">{exam.totalQuestions} Q</span>
+            <span className="w-px h-3 bg-[var(--border)]" />
+            <span>{exam.type === "Unknown" ? "Practice" : exam.type}</span>
+          </div>
+          <span className="text-xs text-[var(--text-secondary)] group-hover:text-[var(--accent)] group-hover:translate-x-0.5 transition-all duration-150 font-medium">
+            Start →
+          </span>
+        </div>
+      </div>
+    </Link>
+  );
+}
+
+// ── Exam Card Content (for locked blur overlay) ─────────────
+
+function ExamCardContent({
+  exam,
+  featured = false,
+}: {
+  exam: ExamEntry;
+  featured?: boolean;
+}) {
+  return (
+    <div
+      className={`group relative flex flex-col justify-between rounded-xl border border-[var(--border)] bg-[var(--surface)] overflow-hidden ${
+        featured ? "row-span-2 min-h-[220px]" : "min-h-[140px] sm:min-h-[160px]"
+      }`}
+    >
+      <div className="p-4 sm:p-5 flex-1 flex flex-col">
+        <div className="flex items-center justify-between mb-2.5 sm:mb-3">
+          <span className={`inline-flex items-center text-[10px] font-semibold tracking-wider uppercase px-2 py-0.5 rounded border ${regionColor(exam.type)}`}>
+            {regionLabel(exam.type)}
+          </span>
+          <div className="flex items-center gap-1.5">
+            {exam.hasAnswerKey && (
+              <span className="inline-flex items-center text-[10px] font-medium text-emerald-600 bg-emerald-50 border border-emerald-200 dark:bg-emerald-950/50 dark:text-emerald-400 dark:border-emerald-800 px-1.5 py-0.5 rounded">
+                Key
+              </span>
+            )}
+          </div>
+        </div>
+        <h3 className={`font-semibold text-[var(--text)] leading-snug ${featured ? "text-lg" : "text-[15px]"}`}>
+          {monthLabel(exam.month)} {exam.year}
+        </h3>
+        <p className="text-xs text-[var(--text-secondary)] mt-0.5">{exam.version}</p>
+        <div className="flex-1" />
+        <div className="flex items-center justify-between mt-3 sm:mt-4 pt-2.5 sm:pt-3 border-t border-[var(--border)]/60">
+          <div className="flex items-center gap-2 sm:gap-3 text-xs text-[var(--text-secondary)]">
+            <span className="tabular-nums">{exam.totalQuestions} Q</span>
+            <span className="w-px h-3 bg-[var(--border)]" />
+            <span>{exam.type === "Unknown" ? "Practice" : exam.type}</span>
+          </div>
+          <span className="text-xs text-[var(--text-secondary)] font-medium">
+            Start →
+          </span>
+        </div>
+      </div>
+    </div>
   );
 }
 
@@ -134,6 +186,7 @@ export default function ExamsPage() {
   const [error, setError] = useState<string | null>(null);
   const [filter, setFilter] = useState<FilterType>("all");
   const [activeAttempts, setActiveAttempts] = useState<Record<string, boolean>>({});
+  const { referralCount, isUnlocked, referralLink, loading: refLoading } = useReferral();
 
   useEffect(() => {
     fetch("/data/catalog.json")
@@ -176,6 +229,22 @@ export default function ExamsPage() {
     () => Object.keys(grouped).map(Number).sort((a, b) => b - a),
     [grouped]
   );
+
+  // Build a flat ordered list of all exams to determine which are free
+  const allExamsOrdered = useMemo(() => {
+    const sorted = [...exams];
+    // Already sorted by year desc, month in catalog order
+    return sorted;
+  }, [exams]);
+
+  // First FREE_EXAM_COUNT exams (by index in the overall flat list) are free
+  const freeExamIds = useMemo(() => {
+    const ids = new Set<string>();
+    for (let i = 0; i < Math.min(FREE_EXAM_COUNT, allExamsOrdered.length); i++) {
+      ids.add(allExamsOrdered[i].id);
+    }
+    return ids;
+  }, [allExamsOrdered]);
 
   const intCount = exams.filter((e) => e.type === "International").length;
   const usCount = exams.filter((e) => e.type === "US").length;
@@ -242,6 +311,18 @@ export default function ExamsPage() {
           </p>
         </motion.div>
 
+        {/* ── Referral Progress (only if not unlocked) ── */}
+        {!isUnlocked && !refLoading && (
+          <motion.div
+            className="mb-5 sm:mb-6"
+            initial={{ opacity: 0, y: 8 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.3, delay: 0.06 }}
+          >
+            <ReferralProgressBar referralCount={referralCount} referralLink={referralLink} />
+          </motion.div>
+        )}
+
         {/* ── Question Bank CTA ────────────────────────── */}
         <motion.div
           initial={{ opacity: 0, y: 8 }}
@@ -258,7 +339,7 @@ export default function ExamsPage() {
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="opacity-80 flex-shrink-0">
                   <rect x="2" y="3" width="20" height="14" rx="2" /><line x1="8" y1="21" x2="16" y2="21" /><line x1="12" y1="17" x2="12" y2="21" />
                 </svg>
-                <span className="text-[10px] sm:text-xs font-semibold text-white/70 uppercase tracking-wider">Question Bank</span>
+                <span className="text-[10px] sm:text-xs font-semibold text-white/70 uppercase tracking-wider">Question Bank — Free</span>
               </div>
               <p className="text-base sm:text-xl font-bold text-white">938 R&W Questions</p>
               <p className="text-xs sm:text-sm text-white/60 mt-0.5 hidden sm:block">Categorized by domain, skill, and difficulty</p>
@@ -346,13 +427,29 @@ export default function ExamsPage() {
                   </motion.div>
 
                   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-                    {yearExams.map((exam) => (
-                      <ExamCard
-                        key={exam.id}
-                        exam={exam}
-                        isActive={!!activeAttempts[exam.id]}
-                      />
-                    ))}
+                    {yearExams.map((exam) => {
+                      const isFree = freeExamIds.has(exam.id);
+                      const canAccess = isFree || isUnlocked;
+
+                      return (
+                        <motion.div key={exam.id} variants={fadeUp}>
+                          {canAccess ? (
+                            <ExamCard
+                              exam={exam}
+                              isActive={!!activeAttempts[exam.id]}
+                            />
+                          ) : (
+                            <ReferralGateOverlay
+                              referralCount={referralCount}
+                              referralLink={referralLink}
+                              isUnlocked={isUnlocked}
+                            >
+                              <ExamCardContent exam={exam} />
+                            </ReferralGateOverlay>
+                          )}
+                        </motion.div>
+                      );
+                    })}
                   </div>
                 </section>
               );

@@ -1,9 +1,10 @@
 "use client";
 
-import { useState } from "react";
-import { useRouter } from "next/navigation";
+import { useState, useEffect } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
 import { motion } from "framer-motion";
+import { Suspense } from "react";
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -18,8 +19,11 @@ const itemVariants = {
   visible: { opacity: 1, y: 0, transition: { duration: 0.5 } },
 };
 
-export default function SignupPage() {
+function SignupForm() {
   const router = useRouter();
+  const searchParams = useSearchParams();
+  const refCode = searchParams.get("ref") || "";
+
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -33,12 +37,18 @@ export default function SignupPage() {
     setLoading(true);
 
     const supabase = createClient();
+
+    // Build redirect URL with referral code if present
+    const redirectUrl = refCode
+      ? `${window.location.origin}/auth/callback?ref=${encodeURIComponent(refCode)}`
+      : `${window.location.origin}/auth/callback`;
+
     const { error } = await supabase.auth.signUp({
       email,
       password,
       options: {
-        data: { full_name: name },
-        emailRedirectTo: `${window.location.origin}/auth/callback`,
+        data: { full_name: name, referred_by_code: refCode || undefined },
+        emailRedirectTo: redirectUrl,
       },
     });
 
@@ -112,6 +122,25 @@ export default function SignupPage() {
           className="bg-[var(--surface)] rounded-xl border border-[var(--border)] p-8"
           variants={itemVariants}
         >
+          {/* Referral badge */}
+          {refCode && (
+            <motion.div
+              initial={{ opacity: 0, y: -8 }}
+              animate={{ opacity: 1, y: 0 }}
+              className="flex items-center gap-2 justify-center mb-4 px-3 py-2 rounded-lg bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-800"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-emerald-600 dark:text-emerald-400">
+                <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" />
+                <circle cx="9" cy="7" r="4" />
+                <path d="M22 21v-2a4 4 0 0 0-3-3.87" />
+                <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+              </svg>
+              <span className="text-xs font-semibold text-emerald-700 dark:text-emerald-400">
+                Invited by a friend
+              </span>
+            </motion.div>
+          )}
+
           <motion.div variants={itemVariants}>
             <h1 className="text-xl font-semibold text-center mb-1 text-[var(--text)]">Create Account</h1>
             <p className="text-sm text-[var(--text-secondary)] text-center mb-8">
@@ -201,5 +230,17 @@ export default function SignupPage() {
         </motion.div>
       </motion.div>
     </div>
+  );
+}
+
+export default function SignupPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen flex items-center justify-center bg-[var(--bg)]">
+        <div className="w-6 h-6 border-2 border-[var(--accent)]/30 border-t-[var(--accent)] rounded-full animate-spin" />
+      </div>
+    }>
+      <SignupForm />
+    </Suspense>
   );
 }
